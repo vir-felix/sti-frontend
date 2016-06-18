@@ -109,6 +109,7 @@ En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et
 
 {{ BEGIN HOME BEREC-3 }}
 ## Feuille de route de la neutralité du net en Europe
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

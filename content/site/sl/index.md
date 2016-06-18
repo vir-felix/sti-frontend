@@ -109,6 +109,7 @@ V juniju 2016, BEREC načrtuje objavo svojih osnutkov smernic in sproža javno p
 
 {{ BEGIN HOME BEREC-3 }}
 ## Internetna Nevtralnost načrt EU
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

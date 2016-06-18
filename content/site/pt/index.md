@@ -110,6 +110,7 @@ Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará
 
 {{ BEGIN HOME BEREC-3 }}
 ## Guia para a Neutralidade da Rede na UE
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

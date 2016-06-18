@@ -110,6 +110,8 @@ In June 2016, BEREC plans to publish its draft guidelines and launch a public co
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU Net Neutrality Roadmap
+{{ IMG ROADMAP }}
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

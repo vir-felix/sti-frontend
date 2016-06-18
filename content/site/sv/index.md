@@ -107,6 +107,7 @@ I juni 2016 kommer BEREC att publicera sitt förslag till riktlinjer och genomf�
 
 {{ BEGIN HOME BEREC-3 }}
 ## Körschema för EU:s nätneutralitet
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

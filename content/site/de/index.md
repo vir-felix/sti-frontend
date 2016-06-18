@@ -108,6 +108,7 @@ Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU-Netzneutralitätsfahrplan
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

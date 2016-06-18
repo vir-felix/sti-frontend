@@ -4,6 +4,7 @@ require 'pp'
 require 'erb'
 require 'yaml'
 require 'kramdown'
+require 'fileutils'
 
 def read_file(relative_path)
   File.read(File.join(Dir.pwd, relative_path))
@@ -121,6 +122,11 @@ def transform(site_config, language, html)
       end
     when 'ANCHOR'
       html.sub! block_pattern, "\n<span id=\"#{id_part}\"></span>\n"
+    when 'IMG'
+      case id_part
+      when 'roadmap'
+        html.sub! block_pattern, "\n{::nomarkdown}\n<img src=\"./images/net_neutrality_roadmap.svg\" alt=\"Roadmap\">\n{:/}\n"
+      end
     when 'LOGOS'
       case id_part
       when 'made-by'
@@ -139,6 +145,10 @@ def build_site(language, description)
   build_path   = render_path "build",   description, language
   content_path = render_path "content", description, language
   site_config  = YAML.load read_file("#{content_path}/config.yml")
+  if Dir.exists?("#{content_path}images/")
+    create_dir "#{build_path}images/"
+    FileUtils.copy_entry("#{content_path}images/", "#{build_path}images/")
+  end
 
   walk(content_path) do |path, content_file_name|
     relative_path = render_path path.split('/')[3..-1].join('/')

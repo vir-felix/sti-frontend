@@ -502,11 +502,6 @@
   @include span(24);
   color: $sti-blue-light-new;
   background-color: $sti-white;
-  background-image:    url(../images/net_neutrality_roadmap.png);
-  background-image:    url(../images/net_neutrality_roadmap.svg);
-  background-size:     contain;
-  background-repeat:   no-repeat;
-  background-position: right bottom;
   padding-top: 1em;
   padding-bottom: 2em;
   @include susy-breakpoint($mobile, $tablet-small) {
@@ -515,7 +510,10 @@
   @include susy-breakpoint($tablet-small, $desktop-large) {
     min-height: 512px !important;
   }
-
+  
+  img {
+    width: 100%;
+  }
 }
 
 .home__berec-4__outer {
