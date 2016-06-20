@@ -9,7 +9,7 @@
 # Save the Internet
 
 {: .title-subtext}
-Les régulateurs européens sont sur le point de décider de donner aux grandes entreprises de télécommunications le pouvoir d'influencer ce que nous pouvons (et ne pouvons pas) faire en ligne. L'Europe a besoin de toute urgence de directives claires sur la neutralité du net
+Les régulateurs européens sont sur le point de décider de donner aux grandes entreprises de télécommunications le pouvoir d'influencer ce que nous pouvons (et ne pouvons pas) faire en ligne. L'Europe a besoin de toute urgence de directives claires sur la Neutralité du net
 afin de protéger nos libertés et nos droits en ligne. Nous avons jusqu'à __Juillet__ pour aider l'Europe à protéger l'Internet ouvert.
 <br><br>
 Rejoignez le mouvement, agissons maintenant !
@@ -63,9 +63,9 @@ Vous avez l'impression que c'est gratuit, mais c'est votre opérateur mobile qui
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Dites à vos régulateurs nationaux et <br> au ORECE de protéger la neutralité du net
+# Dites à vos régulateurs nationaux et <br> au ORECE de protéger la Neutralité du net
 
-Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
+Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la Neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -93,14 +93,14 @@ __[Questionnaire Avancé](https://consultation.savetheinternet.eu/advanced/){: t
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## En 2015, l'Union européenne a adopté une loi sur la neutralité du net ...
+## En 2015, l'Union européenne a adopté une loi sur la Neutralité du net ...
 
-[Le règlement de l'UE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120){: target = "_ blank"} contient des bons principes qui protègent votre droit à vous connecter à un autre point sur le net sans discrimination.Toutefois, certaines parties du règlement pourrait être utilisées pour saper la neutralité du net. Les législateurs ont décidé de laisser la responsabilité de clarification des incertitudes du texte aux régulateurs nationaux des télécommunications.
+[Le règlement de l'UE](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120){: target = "_ blank"} contient des bons principes qui protègent votre droit à vous connecter à un autre point sur le net sans discrimination.Toutefois, certaines parties du règlement pourrait être utilisées pour saper la Neutralité du net. Les législateurs ont décidé de laisser la responsabilité de clarification des incertitudes du texte aux régulateurs nationaux des télécommunications.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-L'Organe des régulateurs européens des communications électroniques (ORECE) doit élaborer des lignes directrices de mise en œuvre pour l'interprétation des ambiguïtés de la loi d'ici la fin août 2016. Ces lignes directrices permettra de déterminer si l'Europe bénéficiera la neutralité du net ou non.
+L'Organe des régulateurs européens des communications électroniques (ORECE) doit élaborer des lignes directrices de mise en œuvre pour l'interprétation des ambiguïtés de la loi d'ici la fin août 2016. Ces lignes directrices permettra de déterminer si l'Europe bénéficiera la Neutralité du net ou non.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
@@ -108,20 +108,20 @@ En juin 2016, l'ORECE prévoit de publier le brouillon des lignes directrices et
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
-## Feuille de route de la neutralité du net en Europe
+## Feuille de route de la Neutralité du net en Europe
 {{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Ceci est un moment crucial: C'est l'étape où les grands succès ont été obtenus aux États-Unis et en Inde. Par conséquent, nous devons continuer à se battre pour une neutralité du net réelle en convaincant les organismes de réglementation de la valeur d'un Internet libre et ouvert.__
+### __Ceci est un moment crucial: C'est l'étape où les grands succès ont été obtenus aux États-Unis et en Inde. Par conséquent, nous devons continuer à se battre pour une Neutralité du net réelle en convaincant les organismes de réglementation de la valeur d'un Internet libre et ouvert.__
 
-Les régulateurs doivent se doter des outils nécessaires pour faire respecter la neutralité du net. Notre coalition (Save The Internet) pense que l'ORECE n'aura pas assez de temps pour traiter et tenir dûment compte des dizaines de milliers de réponses (le régulateur des télécoms américain a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons rétablir l'équilibre en permettant à chacun de contribuer de manière adéquate aux lignes directrices.
+Les régulateurs doivent se doter des outils nécessaires pour faire respecter la Neutralité du net. Notre coalition (Save The Internet) pense que l'ORECE n'aura pas assez de temps pour traiter et tenir dûment compte des dizaines de milliers de réponses (le régulateur des télécoms américain a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons rétablir l'équilibre en permettant à chacun de contribuer de manière adéquate aux lignes directrices.
 
 Récemment, l'ORECE a organisé des réunions avec des groupes d'intervenants. Nous avons traduit les questions que l'ORECE a demandé aux participants ([voir ici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) et [ici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) en anglais simple et nous en avons ajouté quelques autres quand nous avons senti que cela était nécessaire.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## L'ORECE [a besoin de votre avis](#send-a-message){: data-scroll="true"} avant qu'ils décident du futur de la neutralité du net en Europe.
+## L'ORECE [a besoin de votre avis](#send-a-message){: data-scroll="true"} avant qu'ils décident du futur de la Neutralité du net en Europe.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
