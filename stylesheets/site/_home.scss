@@ -285,6 +285,7 @@
 
 .home__spread-the-word__content {
   @include span(12 of 24);
+  margin-top: 2.25rem;
   margin-left: span(6 of 24);
   margin-right: span(6 of 24);
   color: $sti-white;
