@@ -67,8 +67,6 @@ Brzmi jakbyś coś dostawał za darmo, ale zmienia twojego operatora komórkoweg
 
 # Powiedz swoim krajowym organom regulacyjnych i<br> BEREC, aby chronili neutralność sieci
 
-Przekaż swojemu urzędowi regulacyjnemu swoją opinię na temat nowych zasad neutralności sieci za pomocą poniższego kwestionariusza. Jeśli odpowiesz na dowolną liczbę pytań w części wielokrotnego wyboru i pytań otwartych, wygenerowany zostanie dla ciebie e-mail. Twój e-mail zostanie przedstawiony przez nas organom regulacyjnym UE (BEREC), gdy w czerwcu 2016 r. rozpoczną się oficjalne konsultacje.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -77,8 +75,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Spread the word!
 
 [Udostępnij na Facebooku] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

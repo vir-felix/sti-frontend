@@ -64,8 +64,6 @@
 
 # Кажете на Комисията за регулиране на съобщенията и на европейската служба ОЕРЕС <br> да защитят мрежовата неутралност
 
-Кажете на регулаторите какво мислите за мрежовата неутралност, използвайки въпросника по-долу. След като отговорите на някои или всички въпроси системата ще генерира съобщение за вас. Това съобщение представлява вашите отговори в обществената консултация и ще бъде внесено от нас в Службата на Органа на европейските регулатори в областта на електронните съобщения (ОЕРЕС) в началото на м. юни 2016 г., когато официално започва консултацията.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -74,8 +72,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Сподели!
 
 [Сподели във Фейсбук](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

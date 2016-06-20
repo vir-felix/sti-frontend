@@ -66,8 +66,6 @@ Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater post
 
 # Povejte svojim nacionalnim regulatorjem in <br> BEREC naj ščitijo internetno nevtralnost
 
-Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -76,8 +74,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Spread the word!
 
 [Delite na Facebooku](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

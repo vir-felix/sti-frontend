@@ -66,8 +66,6 @@ Může to znít, jako kdybyste dostávali něco zadarmo, ale ve skutečnosti se 
 
 # Žádejte národní regulační úřady a Evropský telekomunikační úřad <br> (BEREC), aby chránily síťovou neutralitu
 
-Sdělte regulačním úřadům svůj názor na nejnovější pravidla vztahující se na síťovou neutralitu tím, že použijete níže uvedený dotazníkový nástroj. Po zadání odpovědí na otázky, kde lze vybírat ze dvou možných odpovědí, a na otevřené otázky, kde můžete zadat libovolný text odpovědi, pro vás bude vygenerována e-mailová zpráva. E-mail předáme Evropskému telekomunikačnímu úřadu (BEREC) při zahájení oficiálních jednání v červnu 2016.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -76,8 +74,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Spread the word!
 
 [Sdílet na Facebooku] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

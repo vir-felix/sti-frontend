@@ -67,8 +67,6 @@ Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel 
 
 # Diz aos reguladores nacionais e ao BEREC para protegerem a neutralidade da rede
 
-Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responderes às questões será gerado um email para ti próprio. O email será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -77,8 +75,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Difunde!
 
 [Partilha no Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

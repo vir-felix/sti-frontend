@@ -64,8 +64,6 @@ Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitinga
 
 # Paragink savo nacionalinę reguliavimo instituciją ir <br> BEREC užtikrinti tinklo neutralumą.
 
-Išdėstyk reguliavimo institucijoms savo nuomonę dėl naujų tinklo neutralumo taisyklių. Pasinaudok šio puslapio apačioje pateiktu anketos įrankiu. Jei tu atsakysi į bet kokį skaičių klausimų pirmuose trijuose menių languose, tai įrankis paskutiniame lange generuos tau el. laišką. Šį el. laišką mes įteiksime ES elektroninių ryšių reguliuotojų institucijai (BEREC), kai 2016 m. birželio mėnesį prasidės oficialios konsultacijos.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -74,8 +72,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Perduok informaciją ir kitiems!
 
 [Feisbuke](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

@@ -65,8 +65,6 @@ Vous avez l'impression que c'est gratuit, mais c'est votre opérateur mobile qui
 
 # Dites à vos régulateurs nationaux et <br> au ORECE de protéger la Neutralité du net
 
-Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la Neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -76,8 +74,6 @@ __[Questionnaire Avancé](https://consultation.savetheinternet.eu/advanced/){: t
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Faites passer le mot !
 
 [Partagez sur Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 

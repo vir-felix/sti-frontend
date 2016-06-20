@@ -64,8 +64,6 @@ Het lijkt of u iets gratis krijgt, maar uw mobiele operator wordt hierdoor een p
 
 # Vraag uw nationale regelgevende instanties en <br> BEREC om netneutraliteit te beschermen
 
-Vertel uw regelgevende instanties met behulp van de onderstaande vragenlijsttool wat u vindt van de nieuwe regels voor netneutraliteit. Als u een aantal meerkeuze- en open vragen beantwoordt, wordt een e-mail voor u gegenereerd. Uw e-mail wordt door ons naar het Orgaan van de Europese regelgevende instanties voor elektronische communicatie (BEREC) verzonden wanneer de officiële raadpleging in juni 2016 van start gaat.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
@@ -74,8 +72,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
-
-## Delen op social media!
 
 [Delen op Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
