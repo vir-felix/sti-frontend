@@ -100,7 +100,7 @@ function registerAndSetupCounter() {
   var $daysLeft     = $counter.find('tr:nth-child(1)').find('td:nth-child(3)');
 
   $.get('/counter/count.json', function(counter) {
-    $sentMessages.html(counter.count + addCount);
+    $sentMessages.html((counter.count + addCount).toLocaleString());
     $daysLeft.html(daysUntil(deadline));
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   }).fail(function() {
