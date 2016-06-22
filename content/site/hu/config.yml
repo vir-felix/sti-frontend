@@ -1,9 +1,9 @@
 language: "hu"
-questionnaire_language: "en"
+questionnaire_language: "hu"
 title: SAVE THE INTERNET IN EUROPE
 action: Csatlakozzon hozzánk és cselekedjen! Küldjön üzenetet az Ön országában működő szabályozó hatóságnak
 keywords:
-  - hálózati semlegesség 
+  - hálózati semlegesség
   - nyílt internet
   - specializált szolgáltatások
   - forgalomszabályozás
