@@ -108,10 +108,11 @@ A BEREC a tervek szerint 2016 júniusában hozza nyilvánosságra az iránymutat
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU Hálózatsemlegességi Útiterv
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Ez egy döntő pillanat: Ez az a lépés, amellyel az Egyesült Államokban és Indiában hatalmas sikereket értek el. Ezért tovább kell küzdenünk a valódi hálózatsemlegességért úgy, hogy meggyőzzük az internetszabályozókat arról, hogy a szabad és nyílt internet érték.___
+### __Ez egy döntő pillanat: Ez az a lépés, amellyel az Egyesült Államokban és Indiában hatalmas sikereket értek el. Ezért tovább kell küzdenünk a valódi hálózatsemlegességért úgy, hogy meggyőzzük az internetszabályozókat arról, hogy a szabad és nyílt internet érték.__
 
 A szabályozóknak fel kell vértezniük magukat azokkal az eszközökkel, amelyekkel megvalósítható a hálózatsemlegesség. Mi, a Save The Internet szervezetei azon a véleményen vagyunk, hogy a BEREC-nek nem lesz elég ideje arra, hogy az esetleg több tízezer észrevételt feldolgozza, és megfelelő mértékben figyelembe vegye (az USA hírközlési szabályozó hatóságához 3,7 millió válasz érkezett a nyilvános konzultáció során!) Helyre billenthetjük ezt az egyensúlyt, ha mindenki számára lehetővé tesszük, hogy megfelelően és hatékonyabban járuljon hozzá az iránymutatásokhoz.
 
@@ -119,7 +120,7 @@ A BEREC nemrégiben személyes találkozókat szervezett az érintett csoportok 
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## A BEREC-nek [szüksége van az Ön véleményére](#küldjön üzenetet) {: data-scroll="true"} mielőtt dönt az európai hálózatsemlegesség jövőjéről.
+## A BEREC-nek [szüksége van az Ön véleményére](#küldjön üzenetet){: data-scroll="true"} mielőtt dönt az európai hálózatsemlegesség jövőjéről.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
@@ -133,12 +134,12 @@ Amire mindig szükségünk van, az a fordításban való közreműködés, ezér
 
 ### Adatvédelmi politika
 
-A BEREC konzultációhoz való hozzászólását egy Ausztriában hosztolt e-mail cím bejövő levelek postafiókjában tároljuk addig, amíg tovább nem küldjük az e-mailben érkezett észrevételeket a hivatalos BEREC konzultáció címére. A BEREC konzultációk esetében követett Adatvédelmi Politikáját [itt] találhatja (http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) Az Arbeitskreis Vorratsdaten Österreich és a Bits of Freedom a BEREC-nek az ezen a weboldalon keresztül küldött észrevételekhez és elektronikus címekhez technikai célból hozzáférhet, feldolgozhatja és megtarthatja azokat. A BEREC minden olyan választ nyilvánosságra hoz, amelyet nem jelölnek meg bizalmasként. A kampány mögött felsorakozó szervezetek listája a weboldal alján található. A hivatalos konzultációs időszak lezárultát követő egy hónap elteltével minden észrevételt és az észrevételekkel kapcsolatba hozható e-mail címet törlünk.
+A BEREC konzultációhoz való hozzászólását egy Ausztriában hosztolt e-mail cím bejövő levelek postafiókjában tároljuk addig, amíg tovább nem küldjük az e-mailben érkezett észrevételeket a hivatalos BEREC konzultáció címére. A BEREC konzultációk esetében követett Adatvédelmi Politikáját [itt](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) találhatja Az Arbeitskreis Vorratsdaten Österreich és a Bits of Freedom a BEREC-nek az ezen a weboldalon keresztül küldött észrevételekhez és elektronikus címekhez technikai célból hozzáférhet, feldolgozhatja és megtarthatja azokat. A BEREC minden olyan választ nyilvánosságra hoz, amelyet nem jelölnek meg bizalmasként. A kampány mögött felsorakozó szervezetek listája a weboldal alján található. A hivatalos konzultációs időszak lezárultát követő egy hónap elteltével minden észrevételt és az észrevételekkel kapcsolatba hozható e-mail címet törlünk.
 
-Ezen a weboldalon a nem személyes információk gyűjtése [Piwik]-kel történik,(https://piwik.org/), amely egy adatvédelmi szempontból megfelelő analitikai szoftver.
+Ezen a weboldalon a nem személyes információk gyűjtése [Piwik](https://piwik.org/)-kel történik,, amely egy adatvédelmi szempontból megfelelő analitikai szoftver.
 
 Ha Ön [feliratkozik a hírlevélre](#subscribe-to-newsletter){: data-scroll="true"} e-mail címét tároljuk egy levelező listában és adatbázisban, melyet a European Digital Rights adminisztrál és hosztol. Ez az egyetlen szervezet, amely jogosult az Ön számára üzeneteket küldeni, amennyiben Ön feliratkozik a hírlevélre. A hírlevélről bármikor leiratkozhat, ebben az esetben nem kap több üzenetet.
- {{ END HOME CONTACT-US }}
+{{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
 Európai civil szervezetek tagjai, aggódó polgárok vagyunk, akik számára fontosak a polgári szabadságjogok a digitális univerzumban is.

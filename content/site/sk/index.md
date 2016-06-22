@@ -104,11 +104,12 @@ Orgán európskych regulačných úradov pre elektronickú komunikáciu (BEREC) 
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-V júni 2016 plánuje BEREC zverejniť svoje návrhy usmernení a spustí verejné konzultácie. Procesné pravidlá BEREC však hovoria, že verejnosť má len __od 6. júna do 18. júla __ na odpoveď a Nariadenie hovorí, že BEREC musí zverejniť svoje konečné usmernenia do 30.08.2016. To znamená, že občania budú mať iba __zopár týždňov__ na to, aby reagovali na konzultácie a BEREC bude mať len __o niečo viac než jeden mesiac __ na spracovanie (pravdepodobne tisícok) pripomienok, návrhov aktualizácií svojich usmernení a na prejdenie administratívnych procesov pre formálny súhlas so zmenami, ktoré v návrhu spraví.
+V júni 2016 plánuje BEREC zverejniť svoje návrhy usmernení a spustí verejné konzultácie. Procesné pravidlá BEREC však hovoria, že verejnosť má len __od 6. júna do 18. júla__ na odpoveď a Nariadenie hovorí, že BEREC musí zverejniť svoje konečné usmernenia do 30.08.2016. To znamená, že občania budú mať iba __zopár týždňov__ na to, aby reagovali na konzultácie a BEREC bude mať len __o niečo viac než jeden mesiac__ na spracovanie (pravdepodobne tisícok) pripomienok, návrhov aktualizácií svojich usmernení a na prejdenie administratívnych procesov pre formálny súhlas so zmenami, ktoré v návrhu spraví.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
 ## Plán neutrality siete EÚ
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
@@ -120,7 +121,7 @@ BEREC nedávno zorganizoval stretnutia tvárou v tvár so zainteresovanými skup
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [potrebuje poznať Váš názor](#poslať správu) {: data-scroll="true"} skôr, než sa rozhodne o budúcnosti neutrality siete v Európe.
+## BEREC [potrebuje poznať Váš názor](#poslať správu){: data-scroll="true"} skôr, než sa rozhodne o budúcnosti neutrality siete v Európe.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}

@@ -8,45 +8,45 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# GYAKRAN ISMÉTELT KÉRDÉSEK
+# Gyakran Ismételt Kérdések
 
-## Hálózatsemlegesség
-
+## [Hálózatsemlegesség](#net-neutrality){: data-scroll="true"}
 - [Mit jelent a hálózatsemlegesség?](#what-is-net-neutrality){: data-scroll="true"}
 - [Milyen befolyással van a hálózatsemlegesség rám és az életemre?](#how-does-net-neutrality-influence-me-and-my-life){: data-scroll="true"}
 - [Hogyan jutottunk el idáig? Mi történt az EU-ban?](#how-did-we-end-up-here-what-happened-in-the-eu){: data-scroll="true"}
 - [Európában ki vesz részt ebben a vitában?](#who-is-involved-in-the-debate-in-europe){: data-scroll="true"}
 - [Ki áll a SaveTheInternet.eu mögött?](#who-is-behind-savetheinterneteu){: data-scroll="true"}
 
-## Specializált Szolgáltatások
+## [Specializált Szolgáltatások](#specialised-services){: data-scroll="true"}
 - [Mik azok a specializált szolgáltatások?](#what-are-specialised-services){: data-scroll="true"}
 - [Mely szolgáltatások nem minősülnek specializált szolgáltatásoknak?](#what-are-examples-of-services-that-are-not-specialised-services){: data-scroll="true"}
 - [Milyen garanciákat nyújt az EU jogszabály a specializált szolgáltatásokkal kapcsolatban?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services){: data-scroll="true"}
 - [Mire van szükség a specializált szolgáltatásokkal kapcsolatos garanciák megerősítéséhez és miért fontos ez?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important){: data-scroll="true"}
 
-## Forgalomszabályozás
+## [Forgalomszabályozás](#traffic-management){: data-scroll="true"}
 - [Mit jelent a forgalomszabályozás?](#what-is-traffic-management){: data-scroll="true"}
 - [Miért lehet fontos számomra a forgalomszabályozás?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
 - [Az internet-hozzáférés szolgáltatók számára nem szabad megengedni hálózataik szabályozását?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
 - [Mi a SaveTheInternet.eu célja a forgalomszabályozás terén?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
 - [Mikor kezdheti el egy szolgáltató a hálózat szabályozását?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
-## Zero Rating
+## [Zero Rating](#zero-rating){: data-scroll="true"}
 - [Mi a zero rating?](#what-is-zero-rating){: data-scroll="true"}
 - [Miért probléma a zero rating?](#why-is-zero-rating-a-problem){: data-scroll="true"}
 - [Tényleg ingyenesen jutok hozzá valamihez, amikor egy zero rated programot használok?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
 - [Hogyan érinti a zero rating az online szolgáltatásokat nyújtókat és az internetes ökoszisztéma sokféleségét?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
 - [Mi a SaveTheInternet.eu célja a zero rating terén?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
-## Átláthatóság
+## [Átláthatóság](#transparency){: data-scroll="true"}
 - [Milyen előnyöket várhatunk a hálózatsemlegesség új szabályaitól?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
 - [Milyen típusú átláthatóságot várhatunk az új szabályoktól?](#what-type-of-transparency-can-be-expected-with-the-new-rules){: data-scroll="true"}
 
-## Egyéb
+## [Egyéb](#other){: data-scroll="true"}
 - [Hogyan kezelik a hálózati semlegességet a világ más részein?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
 - [Hogyan segíthetek?](#how-can-i-help-you){: data-scroll="true"}
 
-# Hálózatsemlegesség
+
+# Hálózatsemlegesség {#net-neutrality}
 
 ## Mit jelent a hálózatsemlegesség? {#what-is-net-neutrality}
 
@@ -71,7 +71,6 @@ Hálózatsemlegesség nélkül...
 
 [Költségmentesség (zero rating) Szlovéniában](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
-
 ## Hogyan jutottunk el idáig? Mi történt az EU-ban? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
 A kampány mögött álló civil szervezetek közül sokan már 2008-ban küzdöttek a hálózatsemlegességért. A vita kibontakozásával párhuzamosan egyre többször láttunk példát az interneten a hálózatsemlegesség elvének megsértésére. A hálózatsemlegesség szempontjából nagy sikernek lehetett elkönyvelni az USA távközlési szabályzója, az FCC által kiadott Internet-rendeletet a vezetékes internetnek a hálózati diszkrimináció bizonyos formáival szembeni védelme érdekében. Ezt követően,[ más országok is elfogadtak a hálózatsemlegességet védő jogszabályokat és szabályozói döntéseket](https://www.thisisnetneutrality.org/#map).  Ez történt például Chilében, Hollandiában, Szlovéniában, Indiában és Kanadában.
@@ -86,7 +85,6 @@ A győzelmet követően az EU tagállamai a Tanácsban igen lassan, több mint e
 
 A tárgyalások előmozdítása és a Parlament álláspontjának aláaknázása érdekében a három intézmény „informális” tárgyalásokat kezdett az ún. [„trialógus" folyamat keretében](https://edri.org/files/NN_process_infographics.pdf). Egy késő éjjeli ülés alkalmával, hajnali 2 óra tájban a három intézmény megállapodott egymással. Ez a szöveg stabil alapelveket tartalmaz annak érdekében, hogy biztosítsa Európában a hálózatsemlegességet. A Rendelet bizonyos rendelkezései azonban nem egyértelműek, és visszaélésre adnak lehetőséget (jobb mint a Bizottság eredeti javaslata, de rosszabb mint a Parlament eredeti álláspontja). Ez olyan joghézagokhoz vezethet, amelyek lehetővé teszik az interneten a diszkriminációt. Az Európai Parlamentben a második olvasatról szóló szavazás során benyújtott módosító indítványok célja az egyértelműség biztosítása. A Rendelet azonban a roaming díjak megszüntetésével is foglalkozik, ez a tény, továbbá az, hogy a kialakított szöveg módosításához az összes parlamenti képviselő abszolút többségének szavazataira lett volna szükség, együtt oda vezetett, hogy egyetlen módosító indítványt sem fogadtak el. Azaz, az Európai Parlament úgy döntött, hogy a szöveg bizonytalan részeiről a szabályozóknak kell dönteniük.
 
-
 ## Európában ki vesz részt ebben a vitában? {#who-is-involved-in-the-debate-in-europe}
 
 Jelenleg, a szabályozókra jelentős nyomást gyakorol a távközlési lobbi, akik szeretnék megtartani, sőt tovább bővíteni diszkriminatív üzleti modelljeiket; valamint a gyártók lobbija, akiknek az a célja, hogy növeljék azon hálózati eszközök, berendezések eladását, amelyek ellenőrzik az adatforgalmat, és így lehetővé teszik a fenti üzleti gyakorlatot.
@@ -95,26 +93,24 @@ A hálózatsemlegesség pártján főleg a civil társadalom, a fogyasztói szer
 
 A legtöbb hálózatsemlegességről folyó vitában azonban a közvéleménynek, más szóval **Önöknek van döntő szava**. Ha elég sokan kapcsolódnak be a vitába, többségbe kerülhetünk a hálózatsemlegességet ellenző lobbistákkal szemben, és a jó érveket mások is meghallhatják, és azok győzhetnek is.
 
-
 ## Ki áll a SaveTheInternet.eu mögött? {#who-is-behind-savetheinterneteu}
 
 A SaveTheInternet 12 európai civil szervezet közös kampánya, a szervezetek célja a szabadságjogok érvényesítésének védelme az interneten. A kampány azért jött létre, hogy hidat teremtsen az emberek és a döntéshozók között a hálózatsemlegességről szóló EU Rendelet előkészítése során. A kampány a 2012 decemberében megrendezett 30c3 konferencián indult útjára, azóta is tart, és nyomon követi a jogszabályalkotási és szabályozói folyamatot.
 
 Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-# Specialized Services {#what-are-specialised-services}
 
-## Mik azok a specializált szolgáltatások?
+# Specialized Services {#specialised-services}
 
-Specializált szolgáltatásnak minősül minden olyan, az internetes hozzáféréssel biztosított szolgáltatás, amelynek megfelelő minőségét az internetes szolgáltató biztosítja. A [Rendelet]értelmében (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) bármely ilyen optimalizációnak objektív szempontok alapján szükségesnek kell minősülnie az elektronikus szolgáltatáshoz való hozzáférés biztosítása céljából, nem egyszerűen a szolgáltatás priorizálását kell garantálnia. A hozzáférést biztosító szolgáltatónak biztosítania kell azt is, hogy a hálózati kapacitás elengendő legyen arra, hogy az internethozzáférés minősége ne romoljon. Ezt a szükségességet a nemzeti távközlési szabályozói hatóságnak kell igazolnia. Röviden, egy „specializált szolgáltatás” nem lehet diszkriminatív „gyorssáv”.
+## Mik azok a specializált szolgáltatások? {#what-are-specialised-services}
+
+Specializált szolgáltatásnak minősül minden olyan, az internetes hozzáféréssel biztosított szolgáltatás, amelynek megfelelő minőségét az internetes szolgáltató biztosítja. A [Rendelet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)értelmében bármely ilyen optimalizációnak objektív szempontok alapján szükségesnek kell minősülnie az elektronikus szolgáltatáshoz való hozzáférés biztosítása céljából, nem egyszerűen a szolgáltatás priorizálását kell garantálnia. A hozzáférést biztosító szolgáltatónak biztosítania kell azt is, hogy a hálózati kapacitás elengendő legyen arra, hogy az internethozzáférés minősége ne romoljon. Ezt a szükségességet a nemzeti távközlési szabályozói hatóságnak kell igazolnia. Röviden, egy „specializált szolgáltatás” nem lehet diszkriminatív „gyorssáv”.
 
 A valódi specializált szolgáltatásoknak semmi köze az internethez. Ezek olyan szolgáltatások, amelyek használhatják ugyanazt a technológiát és időnként még ugyanazt a fizikai architektúrát is, de nem részei a globális internetnek, mivel olyan minőségi színvonalat igényelnek, amelyet az Internet nem tud biztosítani.
-
 
 ## Mely szolgáltatások nem minősülnek specializált szolgáltatásoknak? {#what-are-examples-of-services-that-are-not-specialised-services}
 
 A specializált szolgáltatások nem az interneten nyújtható szolgáltatások. Amit feltétlenül el kell kerülni, az a meglévő online szolgáltatások specializált szolgáltatásként való újradefiniálása. Egy ilyen forgatókönyv szerint egy tőkeerős vállalat prioritást vásárolhat szolgáltatásai számára, ami tisztességtelen versenyelőnyhöz juttatná a versenytársakkal szemben, csökkentené a versenyt, innovációt és a választási lehetőséget.
-
 
 ## Milyen garanciákat nyújt az EU jogszabály a specializált szolgáltatásokkal kapcsolatban? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
@@ -126,28 +122,26 @@ A [Rendelet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120
 4.        Specializált szolgáltatások csak akkor nyújthatók, ha bármely Internet-hozzáférési szolgáltatás mellett erre elegendő hálózati kapacitás van;
 5.        Specializált szolgáltatások nem nyújthatók internet-hozzáférési szolgáltatáshoz való hozzáférés vagy a hozzáférés általános minőségének romlása terhére.
 
-
 ## Mire van szükség a specializált szolgáltatásokkal kapcsolatos garanciák megerősítéséhez és miért fontos ez? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
 Az új specializált szolgáltatásokat piaci megjelenésük előtt a szabályozónak tesztelnie kell mind az öt garanciának való megfelelés szempontjából. Ha a tesztelés csak utólag, panasz benyújtása esetén történik meg, néha évekbe telhet, mire az utólag jogszerűtlennek talált, diszkriminatív termékeket el lehet távolítani a piacról. A versenyellenes távközlési szolgáltatók gyakran alkalmazott stratégiája, hogy az innovatív versenytársak elsorvasztására a bíróságok és szabályozók lassúságát és költségességét használják ki.
 
 Egy specializált szolgáltatás optimalizációjának objektív szempontból szükségesnek kell lennie a szolgáltatás működése szempontjából, nem elég, ha csak a versenytársakkal szemben hasznos előny. Amennyiben hasonló szolgáltatás létezik a nyílt interneten, a specializált szolgáltatást nem kellene nyújtani.
 
-# Forgalomszabályozás {#what-is-traffic-management}
 
-## Mit jelent a forgalomszabályozás?
+# Forgalomszabályozás {#traffic-management}
+
+## Mit jelent a forgalomszabályozás? {#what-is-traffic-management}
 
 A forgalomszabályozás lehetővé teszi az internetszolgáltatók számára, hogy hálózataikon szabályozzák az adatforgalmat. Ennek érdekében a szolgáltatók prioritásként kezelhetnek bizonyos kommunikációkat, míg másokat lassíthatnak. A Rendelet értelmében ez a gyakorlat akkor megengedett, ha ésszerű, átlátható, nem diszkriminatív és arányos. A forgalomszabályozásnak ideiglenesnek kell lennie, ezért nem lehet állandó része a hálózati konfigurációnak. Továbbá, általános szabályként, a forgalomszabályozásnak minden alkalmazást egyformán kell kezelnie, a forgalom különböző kategóriái között kizárólag nagyon korlátozott körülmények között tehet különbséget.
 
-
-## Miért lehet fontos számomra a forgalomszabályozás?
+## Miért lehet fontos számomra a forgalomszabályozás? {#why-should-i-care-about-traffic-management}
 
 A forgalomszabályozás befolyásolja a mindennapi internethasználattal kapcsolatos tapasztalatokat, élményeket. Ha a Netflix videó vég nélkül pufferel, az internetes telefonbeszélgetés folyton megszakad, vagy az online játék lejátszhatatlan, annak valószínűleg az internetszolgáltató által végzett forgalomszabályozás az oka.
 
 Ha megsértik az EU szabályokat, az Ön által használni kívánt online szolgáltatások annyira lelassulhatnak, hogy használhatatlanná válnak, míg az Ön internetszolgáltatója által promotált egyéb, versenyző szolgáltatások továbbra is megfelelően működhetnek.
 
 A forgalomszabályozásnak soha nem lenne szabad a végfelhasználó vagy online szolgáltató szabadságát korlátoznia. Egy internetszolgáltató szerepe, hogy legjobb tudása szerint szabályozza a hálózatot minden szolgáltatás érdekében, nem pedig az, hogy az Ön által elérni kívánt internetes tartalom, szolgáltatások vagy alkalmazások fontosságát, integritását és jogszerűségét megítélje.
-
 
 ## Az internet-hozzáférés szolgáltatók számára nem szabad megengedni hálózataik szabályozását? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
@@ -173,9 +167,9 @@ A [Rendelet értelmében](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CEL
 
 Véleményünk szerint a második lehetőséget csak olyan esetekben szabadna megengedni, amikor egy adott hálózati elosztóközponton (hub) keresztül áramló adatforgalom mellett egyéb indikátorok is vannak (mint pl. az egy hálózati cellához kapcsolódott előfizetők száma). Forgalomszabályozást mindig konkrét és aktuális indok alapján kell végezni.
 
-# Zero Rating {#what-is-zero-rating}
+# Zero Rating {#zero-rating}
 
-## Mi a zero rating?
+## Mi a zero rating? {#what-is-zero-rating}
 
 A zero rating egy kereskedelmi gyakorlat, amelynek lényege, hogy bizonyos applikációk vagy szolgáltatások keretében letöltött adatmennyiség nem számít bele az előfizető számára biztosított havi maximális adatletöltési mennyiségbe. A zero rating különböző típusú adatforgalmakat különböző módon kezel, más-más díjszabás mellett kínálja ezt vagy azt a szolgáltatást. Bár technikailag különbözik a hálózati semlegesség megsértésének klasszikus módjaitól, mégis gyakorlatilag azonos velük, mivel az internet-hozzáférés szolgáltató számára lehetővé teszi, hogy befolyásolni tudja, mely alkalamazásokat és szolgáltatásokat használnak, és melyeket nem.
 
@@ -189,7 +183,6 @@ A zero rating az egyik fő oka annak, hogy a megengedett maximális le-és felt�
 
 Első ránézésre úgy tűnhet, mintha valamit ingyen kapna. A látszattal ellentétben azonban az interneten korlátozottak az Ön választási lehetőségei, és az Ön internet szolgáltatója kapuőri szerepet játszik. A Facebook Free Basics programja esetében például, miért a Facebooknak kellene eldöntenie, hogy Ön milyen appokat és szolgáltatásokat használhat? Milyen gazdasági ösztönző motiválja erre a Facebookot? Ez tényleg ingyenes? A válasz: nem. Semmi nincs ingyen. A zero rating befolyásolja az Ön biztonságát, az adatai védelmét és a versenyző piacot.
 
-
 ## Hogyan érinti a zero rating az online szolgáltatásokat nyújtókat és az internetes ökoszisztéma sokféleségét? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
 Európában a zero rating megállapodásokat majdnem mindig az olyan nagy internetes vállalatokkal kötik, mint pl. a Facebook és a Spotify. Ezek a megállapodások gyakran kölcsönösen kizárólagosak, ami azt jelenti, hogy a tartalomszolgáltató egy szolgáltató felé kötelezi el magát az adott országban, és viszont.
@@ -200,12 +193,12 @@ Az internetszolgáltatók, ahelyett, hogy egyszerűen csak internethozzáférés
 
 ## Mi a SaveTheInternet.eu célja a zero rating terén? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-A zero rating a hálózatsemlegesség szabályainak egyértelmű megsértése, ezért meg kell tiltani. Ez a gyakorlat versenyellenes, és korlátozza Önt abban, hogy az Ön által választott alkalmazásokat, szolgáltatásokat és tartalmat használja, ahhoz férjen hozzá, és korlátozza a tartalom-és alkalmazásszolgáltatókat abban, hogy korlátozás nélkül kínálhassák szolgáltatásaikat minden hálózaton (az [EU Rendelet] 3(1) cikkének megfelelően(http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). Az EU Rendelet azt is megtiltja az internet- és tartalomszolgáltatóknak, hogy olyan szolgáltatásokat kínáljanak, amelyek az Ön mint végfelhasználó jogait, illetve a tartalomszolgáltatók jogait korlátozza [(lásd a Rendelet 3(2) cikke)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+A zero rating a hálózatsemlegesség szabályainak egyértelmű megsértése, ezért meg kell tiltani. Ez a gyakorlat versenyellenes, és korlátozza Önt abban, hogy az Ön által választott alkalmazásokat, szolgáltatásokat és tartalmat használja, ahhoz férjen hozzá, és korlátozza a tartalom-és alkalmazásszolgáltatókat abban, hogy korlátozás nélkül kínálhassák szolgáltatásaikat minden hálózaton (az [EU Rendelet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) 3(1) cikkének megfelelően). Az EU Rendelet azt is megtiltja az internet- és tartalomszolgáltatóknak, hogy olyan szolgáltatásokat kínáljanak, amelyek az Ön mint végfelhasználó jogait, illetve a tartalomszolgáltatók jogait korlátozza [(lásd a Rendelet 3(2) cikke)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
 Amennyiben az adatforgalom felső határát túllépik és bizonyos ingyenes szolgáltatások továbbra is elérhetőek, míg az internet többi része le van tiltva vagy lassabb, az egyértelműen a hálózati semlegességet biztosító Rendelet egyéb rendelkezéseinek megsértése.
 
 
-# Átláthatóság
+# Átláthatóság {#transparency}
 
 ## Milyen előnyöket várhatunk a hálózatsemlegesség új szabályaitól? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 -       
@@ -216,14 +209,13 @@ Számos előnye van [a hálózatsemlegességről szóló EU Rendeletnek](http://
 A [Rendelet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) előírja az internetszolgáltatók számára, hogy adjanak tájékoztatást minden olyan forgalomszabályozási intézedésről, amely érinti a felhasználók internethozzáférését. A szabályozók most tapasztalatot gyűjtenek arról, hogy mit jelent ez a gyakorlatban.
 
 
-# Egyéb
+# Egyéb {#other}
 
 ## Hogyan kezelik a hálózati semlegességet a világ más részein? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
 Az USA-ban, Kanadában és Chilében szigorú hálózati semlegességi szabályozás van érvényben. A legfrissebb példa India, ahol nemrégiben fogadtak el szigorú szabályokat az ingyenességről (zero rating). A további részleteket lásd [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map)
 
 Más országok is csatlakoztak a SaveTheInternet kampányhoz.
-
 Néhány példa:
 
 -        [USA](http://www.savetheinternet.com/sti-home)
@@ -236,7 +228,7 @@ You can help SaveTheInternet.eu in many ways:
 
 <i class="fa fa-long-arrow-right"></i>        Mondja el mindenkinek! Beszéljen barátaival erről a kampányról, a hálózatsemlegességről, és arról, miért fontos, hogy most cselekedjünk. Online jogainkat és szabadságjogainkat csak akkor tudjuk megvédeni, ha minnél többen hallatjuk a hangunkat.
 
-<i class="fa fa-long-arrow-right"></i>        Fordítsa le a weboldalt saját nyelvére! Ezt a [Save The Internet on Github]-on keresztül teheti meg(https://github.com/netzfreiheit/STI-UI)
+<i class="fa fa-long-arrow-right"></i>        Fordítsa le a weboldalt saját nyelvére! Ezt a [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)-on keresztül teheti meg
 
 <i class="fa fa-long-arrow-right"></i>        Csatlakozzon hozzánk! Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken: [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
