@@ -64,6 +64,8 @@ Det låter som om du får något gratis, men istället gör det din mobiloperat�
 
 # Säg till regleringsmyndigheterna i ditt land och <br> BEREC att nätneutraliteten måste skyddas
 
+Använd frågeformuläret nedan och tala om för regleringsmyndigheterna vad du anser om de nya bestämmelserna om nätneutralitet. När du har svarat på ett valfritt antal en frågor i multiple choice-delen och i delen med de öppna frågorna genereras ett e-postmeddelande . När det kommer fram till oss skickar vi det vidare till EU:s regleringsmyndighet för telekommunikationer (BEREC) när det offentliga samrådet börjar i juni 2016.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
