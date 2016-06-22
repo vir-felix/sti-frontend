@@ -66,6 +66,8 @@ Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater post
 
 # Povejte svojim nacionalnim regulatorjem in <br> BEREC naj ščitijo internetno nevtralnost
 
+Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 

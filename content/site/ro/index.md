@@ -64,6 +64,8 @@ Pare că primești ceva gratis, dar îți transformă operatorul de telefonie mo
 
 # Spune ANCOM și BEREC să apere neutralitatea Internetului
 
+Spune ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comuncații) opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, în Iunie 2016.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 

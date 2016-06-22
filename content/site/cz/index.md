@@ -66,6 +66,8 @@ Může to znít, jako kdybyste dostávali něco zadarmo, ale ve skutečnosti se 
 
 # Žádejte národní regulační úřady a Evropský telekomunikační úřad <br> (BEREC), aby chránily síťovou neutralitu
 
+Sdělte regulačním úřadům svůj názor na nejnovější pravidla vztahující se na síťovou neutralitu tím, že použijete níže uvedený dotazníkový nástroj. Po zadání odpovědí na otázky, kde lze vybírat ze dvou možných odpovědí, a na otevřené otázky, kde můžete zadat libovolný text odpovědi, pro vás bude vygenerována e-mailová zpráva. E-mail předáme Evropskému telekomunikačnímu úřadu (BEREC) při zahájení oficiálních jednání v červnu 2016.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
