@@ -9,7 +9,7 @@
 
 # Sauvez Internet
 
-{: .title-subtext} Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la Neutralité du net afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __Juillet__ pour aider l'Europe à protéger un Internet ouvert.
+{: .title-subtext} Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la Neutralité du net afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __juillet__ pour aider l'Europe à protéger un Internet ouvert.
 <br><br> 
 Rejoignez notre mouvement et agissez dès maintenant !
 
@@ -30,7 +30,7 @@ Rejoignez notre mouvement et agissez dès maintenant !
 
 ### Les services spécialisés
 
-Les services spécialisés risquent de devenir l'autoroute express pour les grandes entreprises de l'Internet, en poussant toutes les autres sites, idées et start-ups dans des connexions plus lentes.
+Les services spécialisés risquent de devenir l'autoroute express pour les grandes entreprises de l'Internet, en poussant tous les autres sites, idées et start-ups dans des connexions plus lentes.
 
 [EN SAVOIR PLUS](faq/#what-are-specialised-services)
 
@@ -40,7 +40,7 @@ Les services spécialisés risquent de devenir l'autoroute express pour les gran
 
 ### La gestion de trafic
 
-Ne laissez pas votre fournisseur d'accès Internet décider de son propre chef quel est le trafic important et quels services en ligne peuvent être ralentis.
+Ne laissez pas votre fournisseur d'accès à Internet décider de son propre chef quel est le trafic important et quels services en ligne peuvent être ralentis.
 
 [EN SAVOIR PLUS](faq/#what-is-traffic-management)
 
