@@ -19,7 +19,7 @@ Autoritățile europene de reglementare în telecomunicații sunt pe cale de a d
 
 {{ BEGIN COUNTER }}
 
-| X | AU FOST TRIMISE <br> MESSAJE | Y | <br> ZILE RĂMASE |
+| X | MESAJE TRIMISE | Y | <br> ZILE RĂMASE |
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
