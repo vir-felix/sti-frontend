@@ -7,6 +7,7 @@
 
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Sauvez Internet
 
 {: .title-subtext}
@@ -15,14 +16,15 @@ du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons 
 faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la neutralité du Net
 afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __Juillet__
 pour aider l'Europe à protéger un Internet ouvert.  
-<br><br>
-Rejoignez notre mouvement et agissez dès maintenant ! 
+<br>
+<strong>Rejoignez notre mouvement et agissez dès maintenant ! </strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | PERSONNES ONT ENVOYÉS <br> DES MESSAGES | Y | JOURS <br> RESTANT |
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -65,12 +67,10 @@ Vous avez peut-être l'impression d'obtenir quelque chose gratuitement, mais vot
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Contactez votre régulateur national et le <br> BEREC afin qu'ils protègent la neutralité du Net 
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

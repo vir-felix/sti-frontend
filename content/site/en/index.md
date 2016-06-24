@@ -7,20 +7,22 @@
 
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 European Regulators are about to decide whether to give big telecoms corporations the power
 to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
 to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
-<br><br>
-Join the movement, take action now!
+<br>
+<strong>Join the movement, take action now!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -63,14 +65,12 @@ It sounds like you get something for free, but it makes your mobile operator bec
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Tell your national regulators and <br> BEREC to protect net neutrality
 
 Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecoms Regulators (BEREC).
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

@@ -6,20 +6,22 @@
 - [PREGUNTAS FRECUENTES](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 Los Reguladores Europeos están a punto de decidir si darle a las grandes corporaciones de telecomunicaciones el poder
 de influir en lo que puedes (y no puedes) hacer online. Europa necesita urgentemente directrices claras de neutralidad de la red
 para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ para ayudar a proteger el Internet abierto en Europa.
-<br><br>
-¡Movilízate, actúa ahora!
+<br>
+<strong>¡Movilízate, actúa ahora!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
-
-[ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -63,14 +65,12 @@ Aunque parezca que te dan algo gratis, tu operador móvil se convierte en guarda
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Dile a tus reguladores nacionales y al BEREC que protejan la neutralidad de la red
 
 Da tu opinión sobre la nueva ley de neutralidad de la red a los reguladores usando el cuestionario a continuación. Generaremos un email a partir de las cuestiones de múltiple opción y abiertas que contestes. Enviaremos tu email a la consulta oficial de los Reguladores de Telecomunicaciones de la UE (BEREC) cuando se abra en junio de 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

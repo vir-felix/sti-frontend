@@ -6,18 +6,20 @@
 - [D.U.K.](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Gelbėkit internetą
 
 {: .title-subtext}
 Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikti didžiosioms telekomunikacijų bendrovėms teisę daryti įtaką dėl to, ką mes galime (ir ko negalime) daryti internete. Europai skubiai reikalingos aiškios tinklo neutralumo taisyklės, norint išsaugoti mūsų laisvę ir teises internete. Iki liepos mėnesio mes turime laiko padėti Europai apginti laisvą internetą.
-<br><br>
-Prisijunk prie mūsų, padėk dabar!
+<br>
+<strong>Prisijunk prie mūsų, padėk dabar!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
-
-[imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -60,14 +62,12 @@ Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitinga
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Paragink savo nacionalinę reguliavimo instituciją ir <br> BEREC užtikrinti tinklo neutralumą.
 
 Išdėstyk reguliavimo institucijoms savo nuomonę dėl naujų tinklo neutralumo taisyklių. Pasinaudok šio puslapio apačioje pateiktu anketos įrankiu. Jei tu atsakysi į bet kokį skaičių klausimų pirmuose trijuose menių languose, tai įrankis paskutiniame lange generuos tau el. laišką. Šį el. laišką mes įteiksime ES elektroninių ryšių reguliuotojų institucijai (BEREC), kai 2016 m. birželio mėnesį prasidės oficialios konsultacijos.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

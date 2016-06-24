@@ -7,20 +7,22 @@
 
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 Europejskie urzędy regulacyjne będą zdecydować, czy dać wielkim korporacjom telekomunikacyjnym możliwość
 wywierania wpływu na to, co możemy robić (a czego nie) w Internecie. Europa pilnie potrzebuje jasnych zasad neutralności sieci
 dla ochrony naszych praw i wolności w Internecie. Mamy czas aż do __lipca__, by pomóc Europie chronić otwarty Internet.
-<br><br>
-Przyłącz się do ruchu, działaj już teraz!
+<br>
+<strong>Przyłącz się do ruchu, działaj już teraz!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | LUDZIE <br> WYSŁANE WIADOMOŚCI | Y | DNI <br> POZOSTAŁO |
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -63,14 +65,12 @@ Brzmi jakbyś coś dostawał za darmo, ale zmienia twojego operatora komórkoweg
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Powiedz swoim krajowym organom regulacyjnych i<br> BEREC, aby chronili neutralność sieci
 
 Przekaż swojemu urzędowi regulacyjnemu swoją opinię na temat nowych zasad neutralności sieci za pomocą poniższego kwestionariusza. Jeśli odpowiesz na dowolną liczbę pytań w części wielokrotnego wyboru i pytań otwartych, wygenerowany zostanie dla ciebie e-mail. Twój e-mail zostanie przedstawiony przez nas organom regulacyjnym UE (BEREC), gdy w czerwcu 2016 r. rozpoczną się oficjalne konsultacje.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

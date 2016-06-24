@@ -7,18 +7,20 @@
 
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große Telekomkonzerne wollen darüber entscheiden, was wir online tun können und was nicht. Um __die Freiheit des Internets zu erhalten__ und unsere Rechte zu schützen, müssen wir alle aktiv werden. 
-<br><br>
-Hilf mit, werde jetzt aktiv!
+<br>
+<strong>Hilf mit, werde jetzt aktiv!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
-
-[JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -61,14 +63,12 @@ Es sieht aus wie ein Gratis-Angebot, aber in Wirklichkeit verlierst du deine Wah
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Das freie Internet ist in Gefahr! 
 
 Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet Dich nur 2 Minuten deiner Zeit, deiner Stimme Gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an das Gremium der Telekom-Regulierungsbehörden in der EU (BEREC).
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

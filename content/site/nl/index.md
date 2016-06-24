@@ -6,18 +6,20 @@
 - [VEELGESTELDE VRAGEN](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Red het internet
 
 {: .title-subtext}
 Europese regelgevende instanties staan op het punt om te beslissen of ze grote telecombedrijven de macht zullen geven om invloed uit te oefenen op wat we online kunnen doen (en niet kunnen doen). Europa heeft dringend duidelijke richtsnoeren voor netneutraliteit nodig om onze vrijheden en rechten online te beschermen. We hebben tot __juli__ om Europa te helpen het open internet te beschermen.
-<br><br>
-Doe mee, neem nu actie!
+<br>
+<strong>Doe mee, neem nu actie!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
-
-[ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -60,14 +62,12 @@ Het lijkt of u iets gratis krijgt, maar uw mobiele operator wordt hierdoor een p
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Vraag uw nationale regelgevende instanties en <br> BEREC om netneutraliteit te beschermen
 
 Vertel uw regelgevende instanties met behulp van de onderstaande vragenlijsttool wat u vindt van de nieuwe regels voor netneutraliteit. Als u een aantal meerkeuze- en open vragen beantwoordt, wordt een e-mail voor u gegenereerd. Uw e-mail wordt door ons naar het Orgaan van de Europese regelgevende instanties voor elektronische communicatie (BEREC) verzonden wanneer de officiële raadpleging in juni 2016 van start gaat.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

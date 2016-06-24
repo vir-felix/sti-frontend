@@ -6,20 +6,22 @@
 - [FAQ](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 Evropské regulační úřady se chystají rozhodnout, zda dát velkým telekomunikačním korporacím moc
 ovlivňovat, co můžeme (a nemůžeme) dělat online. Evropa naléhavě potřebuje jasná pravidla síťové neutrality,
 aby mohla chránit online svobody a práva. Do __. července __ musíme pomoci Evropě zachránit otevřený Internet.
-<br><br>
-Přidejte se k nám a jednejte! Okamžitě!
+<br>
+<strong>Přidejte se k nám a jednejte! Okamžitě!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | LIDÉ JIŽ ODESLALI <br> ZPRÁV | Y | DNŮ <br> ZBÝVÁ |
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -62,14 +64,12 @@ Může to znít, jako kdybyste dostávali něco zadarmo, ale ve skutečnosti se 
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Žádejte národní regulační úřady a Evropský telekomunikační úřad <br> (BEREC), aby chránily síťovou neutralitu
 
 Sdělte regulačním úřadům svůj názor na nejnovější pravidla vztahující se na síťovou neutralitu tím, že použijete níže uvedený dotazníkový nástroj. Po zadání odpovědí na otázky, kde lze vybírat ze dvou možných odpovědí, a na otevřené otázky, kde můžete zadat libovolný text odpovědi, pro vás bude vygenerována e-mailová zpráva. E-mail předáme Evropskému telekomunikačnímu úřadu (BEREC) při zahájení oficiálních jednání v červnu 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

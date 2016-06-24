@@ -6,18 +6,20 @@
 - [ÎNTREBĂRI FRECVENTE](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Salvează Internetul
 
 {: .title-subtext}
 Autoritățile europene de reglementare în telecomunicații sunt pe cale de a decide dacă vor acorda marilor corporații de telecomunicații puterea de a influența ce putem (și ce nu putem) face online. Europa are nevoie urgentă de un set clar de principii de implementare a neutralității Internetului pentru a proteja libertățile și drepturile noastre digitale. Avem până în __iulie__ să ajutăm Europa să protejeze libertatea Internetului.
-<br><br>
-Vino alături de noi, treci la acțiune!
+<br>
+<strong>Vino alături de noi, treci la acțiune!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | AU FOST TRIMISE <br> MESSAJE | Y | <br> ZILE RĂMASE |
-
-[ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -60,14 +62,12 @@ Pare că primești ceva gratis, dar îți transformă operatorul de telefonie mo
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Spune ANCOM și BEREC să apere neutralitatea Internetului
 
 Spune ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comuncații) opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, în Iunie 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Chestionarul Avansat](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

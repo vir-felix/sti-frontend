@@ -6,20 +6,24 @@
 - [Pogosta vprašanja](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Rešite Internet
 
 {: .title-subtext}
 Evropski regulatorj se odločajo, ali dati velikim telekomunikacijskim družbam moč
 vpliva na to kar lahko (in ne moremo) opraviti na spletu. Evropa nujno potrebuje jasne smernice nevtralnosti
 za zaščito naših svoboščin in pravic na spletu. Do __Julija moramo__ pomagati Evropi zaščititi odprt internet
-<br><br>
-Pridružite se gibanju, ukrepajmo zdaj!
+<br>
+<strong>Pridružite se gibanju, ukrepajmo zdaj!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
 
-[UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
+
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -62,14 +66,12 @@ Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater post
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Povejte svojim nacionalnim regulatorjem in <br> BEREC naj ščitijo internetno nevtralnost
 
 Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 

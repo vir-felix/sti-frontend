@@ -6,18 +6,22 @@
 - [FAQ](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Rädda internet
 
 {: .title-subtext}
 De europeiska regleringsmyndigheterna kommer snart att besluta om stora telekommunikationsföretag ska kunna påverka vad vi kan (och inte) kan göra på nätet. Europa är i brådskande behov av klara riktlinjer för nätneutralitet för att skydda vår frihet och våra rättigheter på nätet. Vi har tid ända till __juli__ att hjälpa Europa med att bevara ett öppet internet.
-<br><br>
-Gå med i vår kampanj och agera nu!
+<br>
+<strong>Gå med i vår kampanj och agera nu!</strong>
+
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ BEGIN COUNTER }}
 
 | X | FOLK HAR <br> SKICKAT MEDDELANDEN | Y | DAGAR <br> KVAR |
 
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
+
 
 {{ END COUNTER }}
 {{ END HOME INTRO }}
@@ -60,14 +64,12 @@ Det låter som om du får något gratis, men istället gör det din mobiloperat�
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Säg till regleringsmyndigheterna i ditt land och <br> BEREC att nätneutraliteten måste skyddas
 
 Använd frågeformuläret nedan och tala om för regleringsmyndigheterna vad du anser om de nya bestämmelserna om nätneutralitet. När du har svarat på ett valfritt antal en frågor i multiple choice-delen och i delen med de öppna frågorna genereras ett e-postmeddelande . När det kommer fram till oss skickar vi det vidare till EU:s regleringsmyndighet för telekommunikationer (BEREC) när det offentliga samrådet börjar i juni 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
