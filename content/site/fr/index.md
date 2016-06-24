@@ -9,8 +9,8 @@
 
 # Sauvez Internet
 
-{: .title-subtext} Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la Neutralité du net afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __Juillet__ pour aider l'Europe à protéger un Internet ouvert. <br><br> 
-
+{: .title-subtext} Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la Neutralité du net afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __Juillet__ pour aider l'Europe à protéger un Internet ouvert.
+<br><br> 
 Rejoignez notre mouvement et agissez dès maintenant !
 
 {{ BEGIN COUNTER }}
@@ -62,14 +62,12 @@ Vous avez peut-être l'impression d'obtenir quelque chose gratuitement, mais vot
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Contactez votre régulateur national et <br> l'ORECE afin qu'ils protègent 
-# la Neutralité du net
+# Contactez votre régulateur national et <br> l'ORECE afin qu'ils protègent la Neutralité du net
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
-__[Questionnaire avancé](https://consultation.savetheinternet.eu/advanced/){: 
-target="_blank"}__
+__[Questionnaire avancé](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
 {{ END HOME QUESTIONNAIRE }}
 
@@ -89,16 +87,18 @@ target="_blank"}__
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## En 2015, l'Union Européenne a adopté une législation sur la Neutralité du 
-## net ...
+## En 2015, l'Union Européenne a adopté une législation sur la Neutralité du net ...
 
 [La législation européenne](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2120){: target="_blank" } contenait de bons principes pour assurer que vous pouviez vous connecter à n'importe quel point de l'Internet sans aucune discrimination. Néanmoins, quelques articles peuvent être utilisés pour saper la Neutralité du net. Les législateurs ont décidé de laisser aux régulateurs des télécommunications le soin de clarifier certaines incertitudes du texte. 
 {{ END HOME INFO }}
 
 
-{{ BEGIN HOME BEREC-1 }} L'organisation des régulateurs européens des communications électroniques (ORECE) doit préparer des règles d'implémentation afin d'interpréter les ambiguïtés de la loi avant la fin du mois d'août 2016. Ces règles détermineront si l'Europe bénéficiera d'une véritable Neutralité du net ou non. {{ END HOME BEREC-1 }}
+{{ BEGIN HOME BEREC-1 }}
+L'organisation des régulateurs européens des communications électroniques (ORECE) doit préparer des règles d'implémentation afin d'interpréter les ambiguïtés de la loi avant la fin du mois d'août 2016. Ces règles détermineront si l'Europe bénéficiera d'une véritable Neutralité du net ou non. {{ END HOME BEREC-1 }}
 
-{{ BEGIN HOME BEREC-2 }} En juin 2016, l'ORECE publiera un premier jet des règles et lancera une consultation publique. Néanmoins, les règles de procédure de l'ORECE prévoient que le public n'aura que __du 6 Juin au 18 Juillet__ pour répondre et que l'ORECE devra publier ses règles le 30 août 2016. Ceci veut dire que les citoyens européens n'auront __que quelques semaines__ pour répondre à la consultation et l'ORECE, __un tout petit peu plus qu'un mois__ pour traiter des milliers de commentaires, mettre à jour son premier jet et passer par les procédures administratives afin d'approuver les changements apportés. {{ END HOME BEREC-2 }}
+{{ BEGIN HOME BEREC-2 }}
+En juin 2016, l'ORECE publiera un premier jet des règles et lancera une consultation publique. Néanmoins, les règles de procédure de l'ORECE prévoient que le public n'aura que __du 6 Juin au 18 Juillet__ pour répondre et que l'ORECE devra publier ses règles le 30 août 2016. Ceci veut dire que les citoyens européens n'auront __que quelques semaines__ pour répondre à la consultation et l'ORECE, __un tout petit peu plus qu'un mois__ pour traiter des milliers de commentaires, mettre à jour son premier jet et passer par les procédures administratives afin d'approuver les changements apportés. 
+{{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
 ## Planning de la consultation européenne sur la Neutralité du net 
@@ -120,7 +120,7 @@ Récemment, l'ORECE a organisé des rencontres avec les différentes parties pre
 {{ BEGIN HOME CONTACT-US }}
 ### Contactez-nous
 
-__Vous pouvez nous contacter à l'adresse suivante : [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Vous pouvez nous contacter à l'adresse suivante : [info@savetheinternet.eu (mailto:info@savetheinternet.eu)__
 
 Vous avez une idée pour améliorer ce site web ? Super, on a besoin de vous ! Le code source complet est disponible sur [GitHub](https://github.com/Netzfreiheit/STI-UI) et peut-être modifié, remixé et amélioré et ensuite ré-envoyé vers nous. 
 
