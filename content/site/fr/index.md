@@ -65,8 +65,10 @@ Vous avez peut-être l'impression d'obtenir quelque chose gratuitement, mais vot
 
 # Contactez votre régulateur national et <br> l'ORECE afin qu'ils protègent la neutralité du Net 
 
+Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME}}
 
 __[Questionnaire avancé](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
