@@ -1,5 +1,6 @@
 language: "sk"
 questionnaire_language: "sk"
+backend: "original"
 title: ZACHRÁŇME INTERNET V EURÓPE
 action: Pridajte sa k nám a zakročte! Pošlite Vášmu regulátorovi správu
 keywords:

@@ -1,5 +1,6 @@
 language: "sv"
 questionnaire_language: "sv"
+backend: "original"
 title: RÄDDA INTERNET I EUROPA
 action: Agera nu! Skicka ett meddelande till regleringsmyndigheten i ditt land
 keywords:
