@@ -93,7 +93,7 @@ $(function clickToActivate() {
 function registerAndSetupCounter() {
 
   var deadline = new Date('2016-07-18T13:00Z');
-  var addCount = 0;
+  var addCount = 4356;
 
   var $counter      = $('.home__intro__content').find('table').first();
   var $sentMessages = $counter.find('tr:nth-child(1)').find('td:nth-child(1)');
