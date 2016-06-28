@@ -89,7 +89,6 @@
   }
   
   position: relative;
-  bottom: -40px;
   
   table {
     margin-left: auto;
@@ -143,6 +142,8 @@
   background-color: #ff4c0d;
   border: none;
   border-radius: 8px;
+  max-width: 400px;
+  text-decoration: none;
   @include susy-breakpoint($mobile, $tablet-small) {
     width: span(22 of 24);
   }
@@ -191,7 +192,7 @@
 }
 
 .home__fix-net-neutrality__content {
-  margin-top: 80px;
+  margin-top: 40px;
 
   h2 {
     @include setFontToBaseline(46px, 1, 1);
