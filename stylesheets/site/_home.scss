@@ -62,8 +62,10 @@
 
 .home__intro__content {
   @include span(24);
+  position: relative;
   color: $sti-white;
   text-align: center;
+  padding-bottom: 1rem;
 
   h1 {
     @include setFontToBaseline(64px, 0, 0);
@@ -89,8 +91,8 @@
   }
   
   position: relative;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
   
   table {
     margin-left: auto;
@@ -165,6 +167,14 @@
   }
 }
 
+.home__intro__content > .counter + p {
+  position: absolute;
+  margin: 0;
+  padding: 0 !important;
+  bottom: -43px;
+  width: 100%;
+}
+
 .home__fix-net-neutrality__outer {
   background-color: $sti-white;
 }
@@ -193,7 +203,7 @@
 }
 
 .home__fix-net-neutrality__content {
-  margin-top: 40px;
+  padding-top: 1.5rem;
 
   h2 {
     @include setFontToBaseline(46px, 1, 1);
@@ -273,7 +283,6 @@
 
 #home__questionnaire__content__iframe {
   width: 100%;
-  margin: 1rem 0;
   border: none;
   border-radius: 0px;
   @include susy-breakpoint($tablet-small, $desktop-large) {

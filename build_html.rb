@@ -121,7 +121,7 @@ def transform(site_config, language, html)
         '
       end
     when 'ANCHOR'
-      html.sub! block_pattern, "\n<span id=\"#{id_part}\"></span>\n"
+      html.sub! block_pattern, "\n{::nomarkdown}\n<span id=\"#{id_part}\"></span>\n{:/}\n"
     when 'IMG'
       case id_part
       when 'roadmap'
