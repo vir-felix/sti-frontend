@@ -273,6 +273,7 @@
 
 #home__questionnaire__content__iframe {
   width: 100%;
+  margin: 1rem 0;
   border: none;
   border-radius: 0px;
   @include susy-breakpoint($tablet-small, $desktop-large) {
