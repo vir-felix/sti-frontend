@@ -19,9 +19,10 @@ Přidejte se k nám a jednejte! Okamžitě!
 
 | X | LIDÉ JIŽ ODESLALI <br> ZPRÁV | Y | DNŮ <br> ZBÝVÁ |
 
+{{ END COUNTER }}
+
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

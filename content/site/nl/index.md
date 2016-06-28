@@ -17,9 +17,10 @@ Doe mee, neem nu actie!
 
 | X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
 
+{{ END COUNTER }}
+
 [ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

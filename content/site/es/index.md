@@ -19,9 +19,10 @@ para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ par
 
 | X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
 
+{{ END COUNTER }}
+
 [ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

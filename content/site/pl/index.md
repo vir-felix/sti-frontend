@@ -20,9 +20,10 @@ Przyłącz się do ruchu, działaj już teraz!
 
 | X | LUDZIE <br> WYSŁANE WIADOMOŚCI | Y | DNI <br> POZOSTAŁO |
 
+{{ END COUNTER }}
+
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

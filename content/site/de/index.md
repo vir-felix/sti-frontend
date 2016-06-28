@@ -18,9 +18,10 @@ Hilf mit, werde jetzt aktiv!
 
 | X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
 
+{{ END COUNTER }}
+
 [JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

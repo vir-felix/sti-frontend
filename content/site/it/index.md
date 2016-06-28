@@ -17,9 +17,10 @@ Unisciti al movimento, agisci subito!
 
 | X | PERSONE HANNO <br> INVIATO MESSAGGI | Y | GIORNI <br> RIMASTI |
 
+{{ END COUNTER }}
+
 [AGIRE](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

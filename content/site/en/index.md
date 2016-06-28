@@ -20,9 +20,10 @@ Join the movement, take action now!
 
 | X | PEOPLE HAVE <br> SENT MESSAGES | Y | DAYS <br> LEFT |
 
+{{ END COUNTER }}
+
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

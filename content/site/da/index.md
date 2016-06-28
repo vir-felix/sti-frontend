@@ -17,9 +17,10 @@ Hjælp os — bliv aktiv, og gør noget nu!
 
 | X | E-MAILS <br> SENDT | Y | DAGE <br> TILBAGE |
 
+{{ END COUNTER }}
+
 [VÆR MED](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

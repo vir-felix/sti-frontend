@@ -19,9 +19,10 @@ Pridružite se gibanju, ukrepajmo zdaj!
 
 | X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
 
+{{ END COUNTER }}
+
 [UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
