@@ -126,39 +126,40 @@
       margin-left: 0px !important;
       margin-right: 0px !important;
     }
-    #take-action-button {
-    @include setFontToBaseline(27px, 1, 1);
-    @extend .btn;
-    @extend .btn-default;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-family: $montserrat;
-    color: $sti-white;
-    padding-top: 27px;
-    padding-bottom: 27px;
-    font-weight: 700;
-    background-color: #ff4c0d;
-    border: none;
-    border-radius: 8px;
-    @include susy-breakpoint($mobile, $tablet-small) {
-      width: span(22 of 24);
-    }
-    @include susy-breakpoint($tablet-small, $desktop-large) {
-      width: span(24 of 24);
-    }
-    &:hover {
-      background-color: #9f320b !important;
-      color: $sti-white !important;
-    }
-    &:active {
-      background-color: #9f320b !important;
-      color: $sti-white !important;
-    }
-    &:hover {
-      background-color: #9f320b !important;
-      color: $sti-white !important;
-    }
-    }
+  }
+}
+
+#take-action-button {
+  @include setFontToBaseline(27px, 1, 1);
+  @extend .btn;
+  @extend .btn-default;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: $montserrat;
+  color: $sti-white;
+  padding-top: 27px;
+  padding-bottom: 27px;
+  font-weight: 700;
+  background-color: #ff4c0d;
+  border: none;
+  border-radius: 8px;
+  @include susy-breakpoint($mobile, $tablet-small) {
+    width: span(22 of 24);
+  }
+  @include susy-breakpoint($tablet-small, $desktop-large) {
+    width: span(24 of 24);
+  }
+  &:hover {
+    background-color: #9f320b !important;
+    color: $sti-white !important;
+  }
+  &:active {
+    background-color: #9f320b !important;
+    color: $sti-white !important;
+  }
+  &:hover {
+    background-color: #9f320b !important;
+    color: $sti-white !important;
   }
 }
 
