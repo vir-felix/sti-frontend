@@ -92,7 +92,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## "In 2015, the European Union adopted  legislation on net neutrality ..."
+## "In 2015, the European Union adopted legislation on net neutrality ..."
 [EU-forordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } indeholder gode principper som skal sikre at du kan kommunikere med et hvilket som helst andet punkt på nettet uden diskrimination. Men dele af forordningen vil kunne misbruges til at underminere netneutraliteten. De lovgivende myndigheder har besluttet at overlade ansvaret for at klargøre uklarhederne i teksten til teletilsynsmyndighederne.
 {{ END HOME INFO }}
 
@@ -107,6 +107,7 @@ BEREC planlægger at offentliggøre sit udkast til retningslinjer og gennemføre
 
 {{ BEGIN HOME BEREC-3 }}
 ## Køreplanen for netneutralitet i EU
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
@@ -118,7 +119,7 @@ For ikke så længe siden arrangerede BEREC fysiske møder med forskellige inter
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC har [brug for dit bidrag](#send-a-message) {: data-scroll="true"} før de afgør netneutralitetens fremtid i Europa.
+## BEREC har [brug for dit bidrag](#send-a-message){: data-scroll="true"} før de afgør netneutralitetens fremtid i Europa.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
@@ -137,7 +138,7 @@ Vi gemmer dine kommentarer til BEREC's høring i indbakken for en e-mailadresse 
 Vi indsamler ikkepersonlige oplysninger på dette website ved hjælp af [Piwik](https://piwik.org/), et databeskyttelsesvenligt webanalyseprogram.
 
 Hvis du [abonnerer på nyhedsbrevet](#subscribe-to-newsletter){: data-scroll="true«}, gemmes din e-mailadresse på en postliste i en database som administreres og hostes af European Digital Rights. Dette er den eneste organisation som må skrive til dig hvis du tilmelder dig nyhedsbrevet. Du kan afmelde dette nyhedsbrev når som helst, hvorefter du ikke vil modtage flere henvendelser.
- {{ END HOME CONTACT-US }}
+{{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
 Vi er borgere og regeringsuafhængige organisationer fra hele Europa som er bekymrede for de borgerlige frihedsrettigheder i den digitale verden.
