@@ -17,9 +17,10 @@ Gå med i vår kampanj och agera nu!
 
 | X | FOLK HAR <br> SKICKAT MEDDELANDEN | Y | DAGAR <br> KVAR |
 
+{{ END COUNTER }}
+
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

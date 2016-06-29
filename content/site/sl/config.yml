@@ -1,5 +1,6 @@
 language: "sl"
 questionnaire_language: "sl"
+backend: "original"
 title: REŠITE INTERNET V EVROPI
 action: Pridružite se nam in ukrepajte! Pošljite sporočilo vašemu regulatorju
 keywords:

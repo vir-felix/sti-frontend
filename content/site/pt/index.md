@@ -20,9 +20,10 @@ Mobiliza-te, actua Já!
 
 | X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
 
+{{ END COUNTER }}
+
 [ACTUA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

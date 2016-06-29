@@ -18,9 +18,10 @@ Rejoignez notre mouvement et agissez dès maintenant !
 
 | X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES | Y | JOURS <br> RESTANT |
 
+{{ END COUNTER }}
+
 [Agissez !](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

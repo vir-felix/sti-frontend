@@ -17,9 +17,10 @@
 
 | X | БРОЙ ГРАЖДАНИ <br> ИЗПРАТИЛИ СЪОБЩЕНИЕ | Y | ОСТАВАЩИ <br> ДНИ |
 
+{{ END COUNTER }}
+
 [ПОДКРЕПЯМ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

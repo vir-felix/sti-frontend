@@ -1,5 +1,6 @@
 language: "lt"
 questionnaire_language: "lt"
+backend: "original"
 title: IŠGELBĖK INTERNETĄ EUROPOJE
 action: Prisijunk ir veik dabar! Nusiųsk žinutę savo nacionalinei reguliavimo institucijai
 keywords:

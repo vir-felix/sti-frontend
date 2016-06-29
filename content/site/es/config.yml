@@ -1,5 +1,6 @@
 language: "es"
 questionnaire_language: "es"
+backend: "simplified"
 title: SALVA INTERNET EN EUROPA
 action: ¡Únete a nosotros y actúa! Envía un mensaje a tu regulador
 keywords:

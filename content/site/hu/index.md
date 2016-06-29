@@ -17,9 +17,10 @@ Csatlakozzon a mozgalomhoz, cselekedjen most!
 
 | X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
 
+{{ END COUNTER }}
+
 [CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}

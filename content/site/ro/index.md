@@ -17,9 +17,10 @@ Vino alături de noi, treci la acțiune!
 
 | X | MESAJE TRIMISE | Y | <br> ZILE RĂMASE |
 
+{{ END COUNTER }}
+
 [ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
