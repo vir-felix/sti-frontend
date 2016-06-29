@@ -15,7 +15,7 @@ Vino alături de noi, treci la acțiune!
 
 {{ BEGIN COUNTER }}
 
-| X | AU FOST TRIMISE <br> MESSAJE | Y | <br> ZILE RĂMASE |
+| X | MESAJE TRIMISE | Y | <br> ZILE RĂMASE |
 
 [ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
