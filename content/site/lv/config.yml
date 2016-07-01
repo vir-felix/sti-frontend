@@ -1,19 +1,11 @@
-language: "en"
-questionnaire_language: "en"
+language: "lv"
+questionnaire_language: "lv"
 backend: "original"
-title: SAVE THE INTERNET IN EUROPE
-action: Join us and take action! Send a message to your regulator
+title: GLĀB INTERNETU EIROPĀ
+action: Piedalies un dari kaut ko! Nosūti ziņu regulatoriem
 keywords:
-  - net neutrality
-  - connected conntinent
-  - digital single market
-  - dsm
-  - neelie kroes
-  - Netzneutralität
-  - drosselkom
-  - specialised services
-  - echtesnetz
-  - BEREC
-  - Internetneutralität
-  - Plattformneutralität
-  - Neutralitätsdebatte
+  - tīkla neitralitāte
+  - speciālie pakalpojumi
+  - interneta neitralitāte
+  - platformu neitralitāte
+  - debates par neitralitāti
