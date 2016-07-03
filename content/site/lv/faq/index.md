@@ -45,6 +45,8 @@
 - [Kā tīkla neitralitāte tiek garantēta citās pasaules valstīs?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
 - [Kā es varu palīdzēt?](#how-can-i-help-you){: data-scroll="true"}
 
+
+
 # Tīkla neitralitāte {#net-neutrality}
 
 ## Kas ir tīkla neitralitāte? {#what-is-net-neutrality}
@@ -77,7 +79,7 @@ Daudzas nevalstiskas organizācijas šajā kampaņā jau kopš 2008. g. iestāja
 
 Eiropas Savienībā attiecīgās debates risinājušās ļoti lēni. Mums bija jāgaida līdz 2013. g. 11. septembrim, līdz bija gatavs Eiropas mēroga likuma projekts par tīkla neitralitāti. Šo projektu iesniedza Eiropas Komisija.
 
-2013. g. iesniegtajos priekšlikumos ir vairāki bīstami robi, ko interneta operatori varētu izmantot, lai apietu tīkla neitralitātes principus. Tā  interneta operatoriem noteikums „speciālie pakalpojumi“ būtu atļauts tīklā lietotājiem piedāvāt diskriminējošas īpašas pieejas. Turklāt šāds priekšlikums diskriminējošā veidā tīklā ļautu bloķēt tīmekļa lapas, lietotnes un saturu, kas apdraudētu domas brīvību un tiesiskas valsts principu.
+2013\. g. iesniegtajos priekšlikumos ir vairāki bīstami robi, ko interneta operatori varētu izmantot, lai apietu tīkla neitralitātes principus. Tā  interneta operatoriem noteikums „speciālie pakalpojumi“ būtu atļauts tīklā lietotājiem piedāvāt diskriminējošas īpašas pieejas. Turklāt šāds priekšlikums diskriminējošā veidā tīklā ļautu bloķēt tīmekļa lapas, lietotnes un saturu, kas apdraudētu domas brīvību un tiesiskas valsts principu.
 
 Par laimi Eiropas Parlamentā tika smagi strādāts, lai šīs nepilnības novērstu. 3. aprīlī Parlaments nobalsoja par tīkla neitralitātes skaidriem un saistošiem noteikumiem. Lai gan sākotnēji bija drūms skats, tomēr pateicoties jūsu un kampaņas SaveTheInternet centieniem Parlaments apstiprināja tekstu, kas satur drošas garantijas tīkla neitralitātei. Par šādu rezultātu priecājās miljoniem cilvēku visā pasaulē.
 
@@ -99,6 +101,7 @@ SaveTheInternet ir 12 Eiropas nevalstisko organizāciju kopīga kampaņa, kuras 
 
 Ja tu darbojies kādā organizācijā, kas vēlētos kļūt par šās kampaņas atbalstītāju, un ja tu vēlies palīdzēt izplatīt kampaņas informāciju, tad aicinām tevi sazināties ar mums: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
+
 # Speciālie pakalpojumi {#specialised-services}
 
 ## Kas ir speciālie pakalpojumi? {#what-are-specialised-services}
@@ -106,7 +109,6 @@ Ja tu darbojies kādā organizācijā, kas vēlētos kļūt par šās kampaņas 
 Speciālais pakalpojums ir katrs pakalpojums, kas tiek piedāvāts internetā, bet kuram interneta operators piešķīris augstāku kvalitāti. [Regula](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) nosaka, ka katrai šāda veida optimizācijai jābūt objektīvi nepieciešamai pakalpojumam, ko lietotājs vēlas saņemt, un tā vienkārši šim pakalpojumam nedrīkst ierīkot prioritāru piekļuvi. Turklāt operatoram ir jānodrošina tas, ka kopumā tīklā ir gana kapacitātes, lai neciestu piekļuves internetam kvalitāte. Šo prasību izpilde jāuzrauga attiecīgajam regulatoram valstī. Īsāk sakot, „speciālie pakalpojumi“ nedrīkst būt diskriminējoša „apdzīšanas josla“.
 
 Īstiem speciālajiem pakalpojumiem nav nekā kopīga ar internetu. Tie ir pakalpojumi, kas izmanto varbūt to pašu tehnoloģiju un dažkārt pat to pašu fizisko arhitektūru, tomēr tie nav daļa globālā interneta, jo tiem nepieciešams tāds kvalitātes līmenis, ko internetā nevar piedāvāt.
-
 
 ## Kuri pakalpojumi nav speciālie pakalpojumi? {#what-are-examples-of-services-that-are-not-specialised-services}
 
@@ -131,6 +133,7 @@ Speciālie pakalpojumi nav pakalpojumi, kurus var piedāvāt internetā. Pastāv
 Pirms jauni speciālie pakalpojumi tiek ieviesti tirgū, regulatoriem jāpārbauda, vai tie atbilst pieciem augšminētajiem noteikumiem. Ja šāda pārbaude tiek veikta tikai pēc kādu sūdzību saņemšanas, tas atsevišķos gadījumos varētu ilgt gadiem, līdz diskriminējoši piedāvājumi tiek atzīti par nelegāliem un tiek atsaukti. Tā ir ierasta konkurencei naidīgu telekomunikāciju uzņēmumu stratēģija, paļauties uz tiesu un regulatoru lēno darbu un augstajiem izmaksu šķēršļiem, lai žņaugtu inovatīvus konkurentus.
 
 Optimizēšanai ar speciālā pakalpojuma palīdzību jābūt objektīvi nepieciešamai, lai pakalpojums būtu funkcionāls un nevis tikai veids, kā ar līdzkonkurentu starpniecību ērti piekļūtu priekšrocībām. Ja līdzīgs pakalpojums internetā jau tiek piedāvāts, tad speciālu pakalpojumu nevajadzētu atļaut.
+
 
 # Komunikācijas menedžments {#traffic-management}
 
@@ -173,6 +176,7 @@ Pamatojoties [uz Regulu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELE
 
 Domājam, ka šī otrā iespēja būtu pieļaujama vien tad, ja ir papildu indikatori par datu apjomu kādā konkrētā tīkla mezglā, kā, piemēram, klientu skaits, kas ir saistīti ar tīkla šūnu. Allaž ir jābūt konkrētai un aktuālai nepieciešamībai pēc komunikācijas menedžmenta.
 
+
 # Nulles likme {#zero-rating}
 
 ## Kas ir nulles likme? {#what-is-zero-rating}
@@ -203,6 +207,7 @@ Nulles likme ir viennozīmīgs tīkla neitralitātes noteikumu pārkāpums, un t
 
 Ja, pārkāpjot apjomu robežas, nulles likmes piedāvājumi vēl jo projām ir pieejami, kamēr pārējais internets tiek bloķēts un grauts, tas ir viennozīmīgs regulas par tīkla neitralitāti citu noteikumu pārkāpums.
 
+
 # Transparence {#transparency}
 
 ## Kādus pozitīvus rezultātus varam gaidīt no jaunās tīkla neitralitātes regulas? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
@@ -212,6 +217,7 @@ Ir jau virkne pozitīvu rezultātu no [ES Regulas par tīkla neitralitāti](http
 ## Kāda veida transparenci var gaidīt no jaunajiem noteikumiem? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
 [Regula](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) uzliek interneta operatoriem par pienākumu sniegt informāciju par visiem komunikācijas menedžmenta pasākumiem, kas ietekmē lietotāja piekļuvi internetam. Regulatoriem tagad nepieciešamas norādes, kā tas realizējams praksē.
+
 
 # Citi jautājumi {#other}
 

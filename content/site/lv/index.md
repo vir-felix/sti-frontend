@@ -93,7 +93,7 @@ __[Paplašinātā aptauja](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## Kas līdz šim ir noticis…
 
-2015. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti  [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
+2015\. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti  [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
 {{ END HOME INFO }}
 
 
@@ -107,16 +107,10 @@ Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC līdz 2016. g. augu
 
 {{ BEGIN HOME BEREC-3 }}
 ## ES tīkla neitralitātes realizēšanas plāns
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-
-### __This is a crucial moment: This is the step where big successes were achieved in the United States and India. Therefore, we have to continue pushing for real net neutrality by convincing the regulators about the value of a free and open Internet.__
-
-Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
-
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
-{{ END HOME BEREC-4 }}
 
 ### __Tagad ir izšķirošs moments__: ASV un Indijā miljoniem cilvēku sarunās ir izteikuši viedokli. Tādēļ mums jāturpina izdarīt spiedienu un jācīnās par tīkla neitralitāti. Ja mūsu viedoklis sasniegs dzirdīgas ausis, tad varēsim pārliecināt regulatorus par brīva un atvērta interneta nozīmi.
 
@@ -131,7 +125,7 @@ Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tī
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakti
 
-Tu ar mums vari sazināties pa [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Tu ar mums vari sazināties pa [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
 Tev ir kāda ideja, kā uzlabot šo tīmekļa lapu? Ļoti labi – mums tevi vajag! Viss šās tīmekļa lapas avota teksts ir [pieejams GitHub](https://github.com/Netzfreiheit/STI-UI) un to var apstrādāt, uzlabot un nosūtīt mums atpakaļ.
 
@@ -139,9 +133,7 @@ Kas mums vienmēr nepieciešams, tā ir palīdzība ar tulkojumiem. Ja pārvaldi
 
 ### Privātuma politika
 
-Mēs saglabājam tavus komentārus par BEREC uzsākto apspriešanu e-pasta adreses Austrijā iesūtnē tik ilgi, līdz būsim pārsūtījuši šos e-pastus ar taviem komentāriem oficiālajiem BEREC padomdevējiem. BEREC apvienības datu aizsardzības noteikumus tu vari atrast [šeit](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf).
-
-„Darba grupai datu krātuve Austrijā“ (Arbeitskreis Vorratsdaten Österreich) un „Bits of Freedom“ ir piekļuve e-pasta adresei un komentāriem, kas tiek sūtīti BEREC apvienībai. Šie dati tiek apstrādāti un saglabāti tehnisku iemeslu dēļ. BEREC publiskos visus tos komentārus, kas nav marķēti kā neizpaužami. Organizācijas, kas piedalās šajā kampaņā, ir uzskaitītas tīmekļa lapas apakšā. Kad būs pagājis viens mēnesis pēc apspriežu perioda beigām, mēs dzēsīsim visus komentārus un ar tiem saistītās e-pastu adreses.
+Mēs saglabājam tavus komentārus par BEREC uzsākto apspriešanu e-pasta adreses Austrijā iesūtnē tik ilgi, līdz būsim pārsūtījuši šos e-pastus ar taviem komentāriem oficiālajiem BEREC padomdevējiem. BEREC apvienības datu aizsardzības noteikumus tu vari atrast [šeit](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). „Darba grupai datu krātuve Austrijā“ (Arbeitskreis Vorratsdaten Österreich) un „Bits of Freedom“ ir piekļuve e-pasta adresei un komentāriem, kas tiek sūtīti BEREC apvienībai. Šie dati tiek apstrādāti un saglabāti tehnisku iemeslu dēļ. BEREC publiskos visus tos komentārus, kas nav marķēti kā neizpaužami. Organizācijas, kas piedalās šajā kampaņā, ir uzskaitītas tīmekļa lapas apakšā. Kad būs pagājis viens mēnesis pēc apspriežu perioda beigām, mēs dzēsīsim visus komentārus un ar tiem saistītās e-pastu adreses.
 
 Mēs vācam nepersonalizētu informāciju šajā tīmekļa lapā ar [Piwik](https://piwik.org/), kas ir privātai sfērai draudzīga tīmekļa analīzes programmatūra.
 
