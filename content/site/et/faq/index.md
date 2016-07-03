@@ -8,7 +8,7 @@
 {{ END FAQ NAVIGATION }}
 
 {{ BEGIN FAQ }}
-# KORDUMA KIPPUVAD KÜSIMUSED
+# Korduma Kippuvad Küsimused
 
 ## [Võrguneutraalsus](#net-neutrality){: data-scroll="true"}
 - [Mis on võrguneutraalsus?](#what-is-net-neutrality){: data-scroll="true"}
@@ -55,7 +55,6 @@ Võrguneutraalsus on põhimõte, mille kohaselt kannavad Interneti-teenuse pakku
 
 Võrguneutraalsus tagab teile Internetis vabaduse saada juurdepääsu teabele ja seda levitada. See aluspõhimõte tagab Internetis avatuse, innovatsiooni, konkurentsi ja mitmekesisuse.
 
-
 ## Kuidas võrguneutraalsus mind ja minu elu mõjutab? {#how-does-net-neutrality-influence-me-and-my-life}
 
 Ilma võrguneutraalsuseta...
@@ -74,21 +73,19 @@ Ilma võrguneutraalsuseta...
 
 [Nullmäär Sloveenias](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
-
 ## Kuidas me sellisesse olukorda jõudsime? Mis ELis toimus? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
 Paljud seda kampaaniat toetavad valitsusvälised organisatsioonid on võidelnud võrguneutraalsuse eest juba alates 2008. aastast. Arutelu kasvades nägime aina rohkem Interneti võrguneutraalsuse põhimõtete rikkumisi. Kui USA elektroonilist sidet reguleeriv asutus FCC avaldas oma esimese Interneti-eeskirja, et kaitsta tavatelefoni-internetti mõnede diskrimineerimisvormide eest, siis see oli üks võrguneutraalsuse suuremaid võite. Seejärel [hakkasid ka teised riigid võtma vastu võrguneutraalsust reguleerivaid ja tagavaid seadusi ning otsuseid](https://www.thisisnetneutrality.org/#map). Nende riikide näideteks võib tuua Tšiili, Hollandi, Sloveenia, India ja Kanada.
 
 Euroopa Liidus on arutelu kulgenud väga aeglaselt. Tuli oodata 11. septembrini 2013, kui tehti ettepanek Euroopa võrguneutraalsuse seaduse kohta. Selle ettepaneku tegi Euroopa Komisjon.
 
-2013. aasta ettepanek sisaldas mitut problemaatilist lünka, mis oleks võimaldanud Interneti-teenuse pakkujatel võrguneutraalsusest kõrvale hiilida. Näiteks eriteenuste sätte kaudu oleks Interneti-ühenduse pakkuja saanud pakkuda diskrimineerivat prioriteetset juurdepääsu. Ettepanek oleks lubanud ka diskrimineerivate veebilehtede, rakenduste ja sisu blokeerimist – ohtu õigusriigile ja sõnavabadusele.
+2013\. aasta ettepanek sisaldas mitut problemaatilist lünka, mis oleks võimaldanud Interneti-teenuse pakkujatel võrguneutraalsusest kõrvale hiilida. Näiteks eriteenuste sätte kaudu oleks Interneti-ühenduse pakkuja saanud pakkuda diskrimineerivat prioriteetset juurdepääsu. Ettepanek oleks lubanud ka diskrimineerivate veebilehtede, rakenduste ja sisu blokeerimist – ohtu õigusriigile ja sõnavabadusele.
 
 Õnneks nägi Euroopa Parlament nende lünkade täitmisega palju vaeva ja hääletas 3. aprillil 2014 selge ja siduva võrguneutraalsuse poolt. Kuigi asjad tundusid algul süngena, siis Interneti päästmise kampaania SaveTheInternet toetamine aitas parlamendil võtta vastu tugevalt võrguneutraalsust toetava teksti. Toimunud hääletust tähistasid miljonid inimesed üle kogu maailma.
 
 Pärast võitu asutasid ELi liikmesriigid vastava nõukogu, mille aeglaselt edeneva töö tulemusena jõuti üle aasta hiljem ühisele seisukohale. Lepiti kokku uues tekstis, kus käsitleti nii vanu kui ka uusi lünki. Vastuvõetuna oleks nõukogu eeskirja kohaselt loodud makstud kiirliinid ja ELis oleks võimaldatud hinna diskrimineerimist ning seadusliku sisu volitatud ebaseaduslikku ja omavolilist blokeerimist.
 
 Kõneluste jätkamiseks ja parlamendi seisukoha muutmiseks hakkasid kolm institutsiooni pidama nn mitteametlikke läbirääkimisi ehk [kolmepoolset protsessi](https://edri.org/files/NN_process_infographics.pdf). Ühe hilisõhtuse koosoleku käigus jõudsid kolm institutsiooni öösel kell 2.00 poliitilisele kokkuleppele. Tekst sisaldab tugevaid põhimõtteid, et pakkuda Euroopas võrguneutraalsust. Mõned määruse sätted ei ole siiski selged ja neid on võimalik kuritarvitada (tulemus on siiski palju parem kui komisjoni esialgne ettepanek, kuid halvem kui parlamendi esialgne seisukoht). Määrus võib endaga kaasa tuua lünki, mis võimaldavad Interneti diskrimineerimist. Euroopa Parlamendis 2. lugemisel muudatustega seotud hääletus püüdis tuua selgust. Samas käsitleti ka rändlustasude kõrvaldamist ja see koos asjaoluga, et kokkulepitud teksti muutmiseks oli vajalik kõikide parlamendiliikmete absoluutne enamus, põhjustas selle, et vastu ei võetud ühtegi muudatust. Teisisõnu otsustas Euroopa Parlament, et ebaselge teksti üle peaksid otsustama reguleerivad asutused.
-
 
 ## Kes Euroopa arutelus osalevad? {#who-is-involved-in-the-debate-in-europe}
 
@@ -97,7 +94,6 @@ Praegu teevad elektroonilise side tööstusharud (mis tahavad hoida ja laiendada
 Võrguneutraalsuse poolt on enamasti kodanikuühiskonna ja tarbijate organisatsioonid, alles alustavad ettevõtted, avalik-õiguslik ringhääling, raamatukogud ning ülikoolid.
 
 Otsustavaks teguriks võrguneutraalsuse aruteludes on aga üldsus **ehk teisiti öeldes teie**. Kui arutelus osaleb piisaval hulgal inimesi, siis saavutame võrguneutraalsuse vastaste lobitöö üle ülekaaluka võidu, saame teha head põhjendused kuuldavaks ja võita.
-
 
 ## Kes on liikumise SaveTheInternet.eu taga? {#who-is-behind-savetheinterneteu}
 
@@ -108,18 +104,15 @@ Kui kuulute organisatsiooni ja tahate meid toetada või aidata meie ideel levida
 
 # Eriteenused {#specialised-services}
 
-
 ## Mis on eriteenused? {#what-are-specialised-services}
 
 Eriteenus on iga Interneti-ühenduse osutamise teenus, millele annab Interneti-ühenduse pakkuja lisakvaliteeti.  [Määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kohaselt peab iga selline optimeerimine olema elektroonilisele teenusele juurdepääsemiseks vajalik ja mitte lihtsalt võimaldama eelisjärjekorras teenuse saamist. Juurdepääsu pakkuja peab tagama, et võrgus oleks piisavalt võimsust, nii et Interneti kvaliteet ei halveneks. Seda vajadust peaks kontrollima riigi elektroonilist sidet reguleeriv asutus. Lühidalt, eriteenuseks ei saa olla diskrimineeriv „kiirliin”.
 
 Tõelistel eriteenustel ei ole Internetiga mingit pistmist. Need on teenused, mis võivad kasutada sama tehnoloogiat ja olla mõnikord isegi sama füüsilise ülesehitusega, kuid need ei ole osa ülemaailmsest Internetist, kuna nõuavad paremat kvaliteeti, mida Internet ei suuda pakkuda.
 
-
 ## Millised on näited teenustest, mis ei ole eriteenused? {#what-are-examples-of-services-that-are-not-specialised-services}
 
 Eriteenused ei ole teenused, mida saaks Interneti kaudu pakkuda. Probleemi üks lahendus on võimalus olemasolevaid veebipõhiseid teenuseid eriteenustena mitte liigitada. Muidu saaks firma, millel on piisavalt raha, osta oma teenustele prioriteedi, mis annaks neile kõikide teiste ees ebaõiglase eelise, vähendades konkurentsi, innovatsiooni ja valikuvõimalust.
-
 
 ## Milliseid kaitsemeetmeid saab seoses eriteenustega ELi seaduste alusel võtta? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
@@ -135,7 +128,6 @@ Eriteenused ei ole teenused, mida saaks Interneti kaudu pakkuda. Probleemi üks 
 
 5.        eriteenuseid ei saa pakkuda olemasolevat kättesaadavust või üldist Interneti-ühenduse teenust halvendades.
 
-
 ## Mida on vaja, et tugevdada kaitsemeetmeid eriteenuste vastu ja miks on see oluline? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
 Reguleeriv asutus katsetab kõiki uusi eriteenuseid kõigi viie kaitsemeetme vastu, enne kui need turule lubatakse. Kui neid katsetatakse alles pärast kellegi kaebust, siis võib mõnikord võtta aastaid, enne kui diskrimineerivad tooted, mis hiljem ebaseaduslikeks tunnistatakse, eemaldatakse. Sideoperaatorite üldine konkurentsivastane strateegia on kasutada kõikide uuenduslike konkurentide kõrvaldamiseks kohtu- ning reguleerivate asutuste aeglust ja nendega seotud kulusid.
@@ -143,13 +135,11 @@ Reguleeriv asutus katsetab kõiki uusi eriteenuseid kõigi viie kaitsemeetme vas
 Eriteenuste optimeerimine peab olema objektiivselt vajalik teenuse funktsionaalsuse jaoks, mitte lihtsalt olema mugav eelis konkurentide ees. Kui Internetis on saadaval võrreldav teenus, siis ei tohiks eriteenuseid pakkuda.
 
 
-# Liikluskorraldus {#what-is-traffic-management}
+# Liikluskorraldus {#traffic-management}
 
-
-## Mis on liikluskorraldus?
+## Mis on liikluskorraldus? {#what-is-traffic-management}
 
 Liikluskorraldus võimaldab Interneti-ühenduse pakkujal oma võrkudes andmeedastust hallata. Selleks võib Interneti-ühenduse pakkuja eelistada teatud sidekanalit ja aeglustada mõnda teist. Määruse kohaselt on see tava lubatud, kui see on mõistlik, läbipaistev, mittediskrimineeriv ja proportsionaalne. Liikluskorraldus peab olema ajutine ning seetõttu mittetavapärase võrgukonfiguratsiooni osa. Samuti peab liikluskorraldus kohtlema kõiki rakendusi võrdselt ja see võib erineda erinevate edastamisliikide vahel ainult väga piiratud juhtudel.
-
 
 ## Miks ma peaksin liikluskorraldusest hoolima? {#why-should-i-care-about-traffic-management}
 
@@ -158,7 +148,6 @@ Liikluskorraldus mõjutab teie igapäevast Interneti-kogemust. Kui teie Netflixi
 Kui ELi seaduseid kuritarvitatakse, siis võrguteenused, mida teie soovite kasutada, võivad muutuda nii aeglaseks, et neid on võimatu kasutada, samal ajal kui teised konkureerivad teenused, mida teie Interneti-teenuse pakkuja edendab, töötavad korralikult.
 
 Liikluskorraldus ei peaks kunagi segama teie kui lõppkasutaja või võrguteenuse pakkuja vabadust. Interneti-teenuse pakkuja roll on juhtida võrgu kõiki teenuseid parimate võimete kohaselt, kuid mitte teha otsuseid seoses Interneti sisu, teenuste või rakenduste tähtsuse, usaldusväärsuse ja seaduslikkuse kohta, millele te juurdepääsu soovite.
-
 
 ## Kas Interneti-teenuse pakkujatel ei peaks olema lubatud oma võrke juhtida? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
@@ -174,13 +163,11 @@ Seega võime öelda, et klassipõhised liikluskorralduse meetmed on:
 
 -        vähem proportsionaalsed kui rakenduse agnostilised meetmed, sest see on alati vähem sekkuv ja kasutajasäästlikum.
 
-
 ## Mis on SaveTheInternet.eu eesmärk seoses liikluskorraldusega? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-[Määrus](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120 annab selge kolmekordse hierarhiaga liikluskorralduse, mis on kirja pandud selgelt ja siduvalt [vt artikli 3 lõigu 3 punkte 1–3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Interneti-teenuse pakkuja peab alati proovima probleemi oma võrgus lahendada esmalt rakenduse agnostiliste meetmetega, st meetmetega, mis ei olene sisu, rakenduste, teenuste või seadmete eripärast. Kui rakenduse agnostilised meetmed on ammendatud ja probleemi ei saa sel viisil lahendada, siis on Interneti-teenuse pakkujatel lubatud kasutada klassifitseerimisel baseeruvaid meetmeid.
+[Määrus](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) annab selge kolmekordse hierarhiaga liikluskorralduse, mis on kirja pandud selgelt ja siduvalt [vt artikli 3 lõigu 3 punkte 1–3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Interneti-teenuse pakkuja peab alati proovima probleemi oma võrgus lahendada esmalt rakenduse agnostiliste meetmetega, st meetmetega, mis ei olene sisu, rakenduste, teenuste või seadmete eripärast. Kui rakenduse agnostilised meetmed on ammendatud ja probleemi ei saa sel viisil lahendada, siis on Interneti-teenuse pakkujatel lubatud kasutada klassifitseerimisel baseeruvaid meetmeid.
 
 Liikluskorraldus peab lahendama ummikud ning tagama võrgu terviklikkuse ja turvalisuse. Nagu on kohane valveorganitele, peaks liikluskorraldus kasutama ainult võimalikke vähem sekkuvaid meetmeid, seda ainult kindlal eesmärgil ja piiratud aja jooksul, kui seda on tegelikult vaja, et saavutada õigustatud eesmärk.
-
 
 ## Millal võib pakkuja hakata oma võrku haldama? {#when-can-a-provider-start-managing-its-network}
 
@@ -189,13 +176,11 @@ Liikluskorraldus peab lahendama ummikud ning tagama võrgu terviklikkuse ja turv
 Me väidame, et see teine variant peaks olema lubatud ainult juhul, kui on olemas muud näitajad peale liiklusmahu läbi iga konkreetse võrgu sõlmpunkti (nagu ühendatud abonentide summa, mis on ühe võrgurakuga seotud). Liikluskorralduseks peab alati olema konkreetne ja tegelik vajadus.
 
 
-# Nullmäär {#what-is-zero-rating}
+# Nullmäär {#zero-rating}
 
-
-## Mis on nullmäär?
+## Mis on nullmäär? {#what-is-zero-rating}
 
 Nullmäär on kaubandustava, mille puhul ei arvestata teatud rakenduste või teenuste allalaaditud andmeid tellija igakuise allalaadimise limiidi sisse. Nullmäär kohtleb erinevat liiklust erinevalt, nii et mõnda pakutakse ühe hinnaga ja teist pakutakse teise hinnaga. Kuigi on tehniliselt erinev klassikalisest võrguneutraalsuse rikkumisest, on praktilisest küljest tegemist identse olukorraga, sest see võimaldab Interneti-teenuse pakkujal mõjutada, milliseid rakendusi ja teenuseid kasutatakse ja milliseid mitte.
-
 
 ## Miks on nullmäär probleemiks? {#why-is-zero-rating-a-problem}
 
@@ -203,11 +188,9 @@ Selle tava korral saab Interneti-teenuse pakkuja kontrollida teenuseid, mida tei
 
 Nullmäär on andmete mahupiirangute peamine põhjus (andmete mahupiirangud on andmete üles-allalaadimise piirangud). Interneti-teenuse pakkujad tahavad, et kasutaksite kas nende või nende partnerite veebipõhiseid teenuseid. Kui pakkujatele võimaldatakse teatud andmeid andmete mahupiirangu sisse mitte arvestada, siis on neil põhjust hoida andmete mahupiirangud puutumata ja suhteliselt väiksed, et nende konkurentsieelis jääks tugevaks. Ilma nullmäärata saaks need ettevõtted teile rohkem andmeid pakkuda, mida saaksite vabalt ja oma äranägemise järgi kasutada.  On olemas hästi dokumenteeritud juhud [Holland](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) ja [Sloveenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), kus tänu tugevale võrguneutraalsust toetavatele seadustele on nullmäär keelatud ja mobiilsideoperaatorid kahekordistasid oma kasutajate andmete mahupiirangut.
 
-
 ## Kas ma ikka saan midagi tasuta, kui ma nullmäära programmi kasutan? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
 Esmapilgul tundub, et te tõesti saate midagi tasuta. Tegelikult on aga teie valikuvabadus Internetis piiratud ja teie Interneti-teenuse pakkuja on kontrollpositsioonil. Näiteks Facebooki tasuta põhiprogrammi korral, miks peaks Facebook otsustama, milliseid teenuseid ja rakendusi saate kasutada? Milline on Facebooki majanduslik stiimul selle pakkumiseks? Kas see on tõesti tasuta? Vastus on ei. Miski ei ole tasuta. Nullmäär mõjutab teie turvalisust, privaatsust ja konkurentsitihedat turgu.
-
 
 ## Kuidas saab nullmäär mõjutada võrguteenuste pakkujaid ja Interneti arengu mitmekesisust? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
@@ -224,34 +207,29 @@ Nullmäär on võrguneutraalsuse reeglite selge rikkumine ning seetõttu tuleb s
 Kui andmete mahupiirangut on ületatud ja teatud nullmääraga teenused on endiselt kättesaadavad, samas kui ülejäänud Internet on blokeeritud, siis see on selgelt vastuolus muu määruse sätetega, mis puudutavad võrguneutraalsuse pakkumist.
 
 
-
-# Läbipaistvus
+# Läbipaistvus {#transparency}
 
 ## Mis kasu toovad endaga uued võrguneutraalsuse reegleid? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
-[ELi võrguneutraalsuse määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) olemasolust on palju kasu. Seoses läbipaistvusega on üks nõue, mille kohaselt Interneti-teenuse pakkujad peavad panema oma lepingutesse kirja minimaalse, keskmise ja maksimaalse ribalaiuse kõikide Interneti-ühenduste jaoks, mitte ainult teoreetilise maksimumi. Euroopa Sideamet ehk BEREC peab selgitama, kuidas need väärtused arvutatakse ja mis juhtub, kui ühendust jagatakse mitme kasutaja vahel.
 
+[ELi võrguneutraalsuse määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) olemasolust on palju kasu. Seoses läbipaistvusega on üks nõue, mille kohaselt Interneti-teenuse pakkujad peavad panema oma lepingutesse kirja minimaalse, keskmise ja maksimaalse ribalaiuse kõikide Interneti-ühenduste jaoks, mitte ainult teoreetilise maksimumi. Euroopa Sideamet ehk BEREC peab selgitama, kuidas need väärtused arvutatakse ja mis juhtub, kui ühendust jagatakse mitme kasutaja vahel.
 
 ## Millist läbipaistvust võib uute eeskirjadega oodata? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
 [Määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kohaselt peavad Interneti-teenuse pakkujad andma teavet kõigi liikluskorralduse meetmete kohta, mis mõjutavad kasutaja Interneti-ühendust. Reguleerivad organid otsivad nüüd ideid selle kohta, mida see praktikas endaga kaasa tooks.
 
 
-
-# Muu
+# Muu {#other}
 
 ## Kuidas käsitletakse võrguneutraalsust mujal maailmas? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
 USAs, Kanadas ja Tšiilis kehtivad tugevad võrguneutraalsuse eeskirjad. Viimane näide on India, kus võeti hiljuti vastu tugevad nullmäära reguleerivad eeskirjad. Täpsema teabe saamiseks vaadake [See on võrguneutraalsus](https://www.thisisnetneutrality.org/#map)
 
 Teistes riikides käib Interneti päästmise kampaania SaveTheInternet.
-
 Need on mõned näited:
 
 -        [USA](http://www.savetheinternet.com/sti-home)
 
 -        [India](http://www.savetheinternet.in/)
-
 
 ## Kuidas ma teid aidata saan? {#how-can-i-help-you}
 
@@ -264,8 +242,6 @@ You can help SaveTheInternet.eu in many ways:
 <i class="fa fa-long-arrow-right"></i>        Liitu! Kui kuulute organisatsiooni ja sooviksite liituda Interneti päästmise kampaaniaga SaveTheInternet.eu, siis võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
 <i class="fa fa-long-arrow-right"></i>        Teavita võrguneutraalsuse rikkumistest [Austa minu võrku](https://respectmynet.eu/) kaudu
-
-<i class="fa fa-long-arrow-right"></i>        Kingi! Kui soovite annetada organisatsioonidele, mis seisavad Interneti päästmise kampaania SaveTheInternet taga, siis klõpsake [ siin ]
 
 Kas teil on veel ideid? Võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
