@@ -45,12 +45,15 @@
 - [Miten verkonneutraliteettia käsitellään muissa maailman maissa?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world){: data-scroll="true"}
 - [Kuinka voin auttaa?](#how-can-i-help-you){: data-scroll="true"}
 
+
+
+# Verkkoneutraliteetti {#net-neutrality}
+
 ## Mitä on verkkoneutraliteetti? {#what-is-net-neutrality}
 
 Verkkoneutraliteetilla tarkoitetaan periaatetta, jonka mukaan Internet-palveluntarjoajien on välitettävä kaikki tiedot tasa-arvoisesti tekemättä eroa niiden alkuperän, määränpään tai datatyypin välillä. Tämä merkitsee sitä, että verkkoneutraliteetti kieltää palveluntarjoajien estämästä sisältöjä tai käsittelemästä sisältöjä, sovellutuksia tai palveluita, joiden tärkeysjärjestys on alhaisempi.
 
 Verkkoneutraliteetti takaa vapauden saada tietoa internetistä tai levittää sitä. Tämä periaate on ollut voimassa jo internetin alkuajoista asti ja se takaa avoimuuden, innovaation, kilpailukyvyn ja moninaisuuden verkossa.
-
 
 ## Miten verkkoneutraliteetti vaikuttaa minuun ja elämääni? {#how-does-net-neutrality-influence-me-and-my-life}
 
@@ -64,13 +67,11 @@ Tältä näyttäisi internet ilman neutraliteettia …
 
 4.        Internet olisi hitaampi. Tutkielmat osat osoittaneet: jos internet-palvelujentarjoajat saavat luvan myydä kilpailuetuja muutamalle harvalle sivustolle, niillä on myös kannustin tehdä loput internetistä hitaammaksi kaikille muille. Vaikkakin tästä pitäisi näennäisesti seurata halvempia tariffeja, tulisi tämä todellisuudessa tarkoittamaan vähemmän valintamahdollisuuksia ja hitaampia latausrajoja „todelliselle“ internetille.
 
-[Näin volyymirajat vahingoittavat kuluttajia ja innovaatiota
-(englanti)](https://www.newamerica.org/oti/artificial-scarcity/)
+[Näin volyymirajat vahingoittavat kuluttajia ja innovaatiota (englanti)](https://www.newamerica.org/oti/artificial-scarcity/)
 
 [Näin Zero-Rating -käytäntö vahingoittaa Alankomaiden kuluttajia (englanti)](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
 [Zero-Rating -käytäntö Sloveniassa (englanti)](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
-
 
 ## Miten tähän on tultu? Mitä on tapahtunut EU:ssa? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
@@ -94,7 +95,6 @@ Verkkoneutraliteetin puolella kamppailevat ennen kaikkea järjestöt, jotka ovat
 
 Ratkaiseva tekijä useimmissa keskusteluissa verkkoneutraliteetista on kuitenkin julkisuus – **tai toisin sanoen sinä**. Jos keskusteluun osallistujia on tarpeeksi, voimme punnita verkkoneutraliteetin vastaista ryhmää, voimme tuoda hyviä perusteluja kuultaviksi ja voittaa tällä tavalla.
 
-
 ## Kuka on SaveTheInternet.eu takana? {#who-is-behind-savetheinterneteu}
 
 SaveTheInternet on 12 eurooppalaisen kansalaisjärjestön NGO yhteinen kampanja, joka on ottanut tehtäväkseen vapauden suojelemisen internetissä. Kampanja käynnistettiin yhdistämään toisiinsa päätöksentekijöitä valmisteltaessa verkkoneutraliteetin EU-asetusta. Tämä kampanja esiteltiin julkisuudessa 30c3-kongressissa joulukuussa 2012. Sitä on sittemmin päivitetty jatkuvasti, jotta voitaisiin seurata lainsäädännön prosessia ja järjestelyä.
@@ -104,7 +104,6 @@ Mikäli kuulut johonkin järjestöön, haluaisit tukea tätä kampanjaa ja halua
 
 # Erikoispalvelut {#specialised-services}
 
-
 ## Mitä erikoispalvelut ovat? {#what-are-specialised-services}
 
 Erikoispalvelu on jokainen internetissä tarjottava palvelu, mutta jonka laatu paranee internet palvelujentarjoajan ansiosta. [Asetus](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) määrää, että jokainen tämän tapainen optimointi on välttämätön palvelulle, johon halutaan päästä – tälle palvelulle ei ilman muuta saa järjestää etuoikeutta. Palvelujentarjoajien on sitä paitsi varmistettava, että verkossa on käytettävissä riittävästi kapasiteettia ja että ne eivät heikennä internet-liityntäpalveluiden saatavuutta tai laatua. Kansallisen sääntelyviranomaisen on tarkistettava tämä vaatimus. Lyhyesti: „Erikoispalvelu“ ei saa olla mikään syrjivä „ohituskaista“.
@@ -112,11 +111,9 @@ Erikoispalvelu on jokainen internetissä tarjottava palvelu, mutta jonka laatu p
 
 Aidoilla erikoispalveluilla ei ole mitään tekemistä internetin kanssa. Ne ovat palveluja, jotka ehkä käyttävät samaa teknologiaa ja joskus jopa samaa fyysistä arkkitehtuuria, mutta ne eivät ole osa globaalia internetiä, koska ne vaativat laadukasta tasoa, jota internet ei voi tarjota.
 
-
 ## Mitkä palvelut eivät ole erikoispalveluja? {#what-are-examples-of-services-that-are-not-specialised-services}
 
 Erikoispalvelut eivät ole palveluita, joita internet voi tarjota. Estettävä ongelma on, että olemassa olevat online-palvelut voitaisiin nyt luokitella erikoispalveluiksi. Näin rahakkaat yritykset voisivat ostaa etuoikeutetun käsittelyn palveluilleen ja saada epäreilun edun kaikkiin kilpailijoihinsa verrattuna. Kilpailu, innovaatio ja valintavapaus kärsisivät tästä.
-
 
 ## Miten kuuluvat erikoispalvelujen säännöt EU-lainsäädännässä? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
@@ -138,12 +135,12 @@ Sääntelyviranomaisten on tarkistettava uudet erikoispalvelut ennen markkinoill
 
 Erikoispalvelun suorittaman optimoinnin on oltava objektiivisesti välttämätön palvelujen toimivuudelle eikä ainoastaan helppo tapa saada etuisuuksia kilpailijoihin verrattuna. Mikäli verrattavissa oleva palvelu on avoimessa internetissä, erikoispalvelua ei tulisi sallia.
 
+
 # Liikenteenhallinta {#traffic-management}
 
 ## Mitä on liikenteenhallinta? {#what-is-traffic-management}
 
 Liikenteenhallinnalla internet-palvelujentarjoajat voivat ohjata tietoliikennettä verkossaan. Valittuja kommunikointeja voidaan näin nopeuttaa ja muita hidastaa. Uuden asetuksen mukaan nämä toimenpiteet ovat asianmukaisia, mikäli ne ovat läpinäkyviä, suhteellisia eivätkä ne ole syrjiviä. Liikenteenhallinta saa olla vain väliaikainen toimenpide, se ei saa olla pysyvä osa verkkokonfigurointia. Lisäksi pidetään yleisenä sääntönä, että liikenteenhallinnan on kohdeltava kaikkia sovellutuksia tasapuolisesti ja että se voi jakaa dataliikenteen eri kategorioihin ainoastaan erittäin rajoitetuissa tilanteissa ja kohdella niitä eri tavalla.
-
 
 ## Miksi minun pitäisi olla kiinnostunut liikenteenhallinnasta? {#why-should-i-care-about-traffic-management}
 
@@ -152,7 +149,6 @@ Liikenteenhallinta vaikuttaa jokapäiväisiin internet-elämyksiisi. Jos Netflix
 Jos EU-sääntöjä rikotaan, voisivat valitsemasi online-palvelut heikentyä niin, että niistä tulee käyttökelvottomia, kun taas muut kilpailevat palvelut, joita palvelujentarjoajasi mainostaa, saattavat toimia yhä edelleen.
 
 Liikenteenhallinnan ei koskaan tulisi puuttua vapauteesi loppukäyttäjänä tai online-palvelujen tarjoajana. Internet-palvelujen tehtävänä on hallita verkkoa kaikkien palvelujen parhaaksi niin hyvin, kuin se vain pystyy – eikä tehdä ratkaisuja välitettävien tietojen tärkeydestä, eheydestä ja sisältöjen, palvelujen tai sovellutusten laillisuudesta internetissä.
-
 
 ## Tulisiko internet-palvelujentarjoajille sallia verkkonsa hallinta? {#shouldnt-internet-providers-be-allowed-to-manage-their-networks}
 
@@ -168,7 +164,6 @@ Voimme tästä syystä todeta, että luokitukseen pohjautuva liikenteenhallinta
 
 -        on huonompi vaihtoehto kuin sovellutuksesta riippumattomat toimenpiteet , koska nämä aina tarkoittavat vähemmän häiriöitä ja ovat parempi vaihtoehto käyttäjän valintavapaudelle.
 
-
 ## Mikä on SaveTheInternet.eu päämäärä liikenteenhallinnassa? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
 [Asetus](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) sisältää selkeän, kolmiosaisen hierarkian liikenteenhallinnasta. Tämä on vahvistettava selkeillä, sitovilla säännöillä ([katso artikla 3(3), pykälät 1 - 3](http://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32015R2120#d1e453-1-1)). Internet-palvelujentarjoajien on yritettävä ratkaista ongelma verkossaan ensiksi aina sovellutuksista riippumattomilla toimenpiteillä, ts. toimenpiteillä, jotka eivät ole riippuvaisia sisältöjen, sovellutusten, palvelujen tai laitteiston spesifisistä ominaisuuksista. Vasta kun kaikki sovellutuksista riippumattomat toimenpiteet on loppuun käsitelty eikä ongelmia ei voitu niillä ratkaista, internet-palvelujentarjoajat saavat käyttää luokitukseen perustuvia toimenpiteitä.
@@ -181,8 +176,8 @@ Liikenteenhallintaa tarvitaan poistamaan verkon ruuhkautuminen ja takaamaan verk
 
 Oletamme tämän toisen vaihtoehdon olevan sallittu vain, jos muut indikaattorit datamäärästä määrätyllä verkkosolmulla ovat olemassa (ehkä verkkosoluun liitetty asiakasmäärä). Liikenteenhallinnalle on aina oltava konkreettinen ja aktuelli tarve.
 
-# Zero-Rating {#zero-rating}
 
+# Zero-Rating {#zero-rating}
 
 ## Mitä Zero-Rating on? {#what-is-zero-rating}
 
@@ -195,11 +190,9 @@ Tässä liiketoimintamallissa internet-palvelujentarjoajasi voi tarkistaa, mitä
 
 Zero-Rating on tärkeä perustelu pienille volyymirajoille (upload- tai download rajat). Internet-palvelujentarjoajat haluavat kannustaa sinua käyttämään sen omaa tai kumppaninsa online-palvelua. Jos palvelujentarjoajat saavat jättää nämä valitut palvelut pois volyymirajojesi laskennasta, on niillä parempi perustelu asettaa jatkossakin nämä mieluimmin vähän alhaisemmiksi, jotta ne hinnallisesti säilyttävät vahvan kilpailuasemansa. Ilman Zero-Ratingia nämä yritykset voivat tarjota suurempia datamääriä, joissa voidaan vapaasti päättää, kuinka niitä käytetään. On olemassa hyvin dokumentoituja tapauksia[Alankomaissa](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) ja [Sloveniassa](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), joissa tiukoilla Zero-Ratingenin kieltävillä verkkoneutraliteettilailla, mobiilit tarjoajat ovat kaksinkertaistaneet volyymirajansa.
 
-
 ## Saanko todella jotain ilmaiseksi, jos käytän Zero-Rating -tariffia? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
 Ensi silmäyksellä saattaisi todella näyttää siltä, että saisit jotain ilmaiseksi. Tämä vaikutelma on kuitenkin petollinen: todellisuudessa valintavapauttasi rajoitetaan internetissä ja palvelujentarjoajastasi tulee porttivahti. Ottakaamme esimerkiksi „Free Basics“-tarjous Facebookissa: Miksi Facebook voisi päättää, mitä palveluja ja sovellutuksia saisit käyttää? Mikä on Facebookin taloudellinen kannustin tarjota tällaista? Onko tämä todella ilmaista? Vastaus kuuluu Ei. Mikään ei ole ilmaista ja Zero-Rating voi vaikuttaa turvallisuuteesi, tietosuojaasi ja kilpailutilanteeseesi markkinoilla.
-
 
 ## Miten Zero-Rating voi vaikuttaa online-palvelujen tarjoajiin ja internetin monipuolisuuteen? {#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem}
 
@@ -216,18 +209,15 @@ Zero-Rating on selvästi verkkoneutraliteetin sääntöjen rikkomista ja se on s
 Mikäli volyymirajojen ylittämisen jälkeen Zero-Rating-tarjoukset ovat yhä vielä saavutettavissa, kun taas muu internet on lukittu tai estetty, tämä on selvä rikkomus määräyksiä vastaan verkkoneutraliteettia koskevan asetuksen turvaamisessa.
 
 
-
 # Läpinäkyvyys {#transparency}
 
 ## Mitä etuja meillä on odotettavissa uusista verkkoneutraliteettisäännöksistä? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
 
 Siitä on paljon etuja [EU-verkkoneutraliteettisäännös](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120). Läpinäkyvyydestä on se etu, että internet-palvelujentarjoajien on sopimuksissaan ilmoitettava, mikä on internet-yhteyden minimi, keskimääräinen ja maksimi kaistaleveys eikä ainoastaan teoreettista maksimia. Euroopan sääntelyviranomaisten yhteistyöelimen (BEREC) on selvitettävä, miten nämä arvot lasketaan ja mitä tulee tapahtumaan, jos yhteys useiden käyttäjien välillä jaetaan.
 
-
 ## Millaista läpinäkyvyyttä on odotettavissa uusista säännöksistä? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
 
  [Asetus](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) Tämä velvoittaa Internet-palvelujentarjoajat tiedottamaan liikenteenhallinnalle kaikista toimenpiteistä, joilla on vaikutus käyttäjän pääsyyn internettiin. Sääntelyviranomaiset tarvitsevat nyt selkeyttä siitä, mitä tämä tarkoittaa käytännössä.
-
 
 
 # Lisää kysymyksiä {#other}
@@ -241,7 +231,6 @@ Nettineutraliteetista on USA:ssa, Kanadassa ja Chilessä annettu ankaria säänn
 -        [USA](http://www.savetheinternet.com/sti-home)
 
 -        [Intia](http://www.savetheinternet.in/)
-
 
 ## Kuinka voin auttaa? {#how-can-i-help-you}
 

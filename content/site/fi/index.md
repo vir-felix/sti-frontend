@@ -18,9 +18,10 @@ Osallistu auttamiseen, ole aktiivinen!
 
 | X | ihmistä on <br> lähettänyt <br> viestin | Y | päivää on sinulla <br> vielä aikaa |
 
+{{ END COUNTER }}
+
 [TOIMI NYT](#send-a-message){: id="take-action-button" data-scroll="true" }
 
-{{ END COUNTER }}
 {{ END HOME INTRO }}
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
@@ -76,8 +77,6 @@ __[Laajempi kysely](https://consultation.savetheinternet.eu/advanced/){: target=
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-## Sag es weiter!
-
 [Jaa facebookissa](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Hilf%20mit%2C%20das%20Internet%20zu%20retten&p%5Bsummary%5D=Deine%20Freiheiten%20online%20werden%20durch%20eine%20EU-Verordnung%20bedroht.%20Der%20Kampf%20f%C3%BCr%20ein%20offenes%20Internet%20beginnt%20jetzt%20in%20Br%C3%BCssel.)
 
 [ Jaa twitterissä](https://twitter.com/intent/tweet?text=Hilf%20mit%2C%20das%20Internet%20zu%20retten.%20Fordere%20deine%20Regulierer%20auf%2C%20Netzneutralit%C3%A4t%20zu%20sch%C3%BCtzen.%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2Fde%20%23SaveTheInternet%20pls%20RT)
@@ -108,6 +107,7 @@ BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](htt
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU-verkkoneutraliteetin aikataulu
+{{ IMG ROADMAP }}
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
@@ -132,11 +132,9 @@ Tarvitsemme alituisesti käännösapua. Mikäli puhut kieltä, jota meillä ei v
 
 ### Yksityisyyden suoja
 
-Tallennamme kommenttisi BEREC sähköpostiosoitteeseen saapuneeseen postiin Itävallassa. Konsultointi säilyy sähköpostiosoitteeseen saapuneessa postissa Itävallassa, kunnes toimitamme tämän sähköpostin kommentteinesi viralliselle BERECille. BEREC tietosuojamääräykset löydät [tästä](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf).
+Tallennamme kommenttisi BEREC sähköpostiosoitteeseen saapuneeseen postiin Itävallassa. Konsultointi säilyy sähköpostiosoitteeseen saapuneessa postissa Itävallassa, kunnes toimitamme tämän sähköpostin kommentteinesi viralliselle BERECille. BEREC tietosuojamääräykset löydät [tästä](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). „Työryhmällä Teletunnistetietojen tallentaminen Itävalta“ ja „Bits of Freedom“ on pääsy sähköpostiosoitteeseen ja kommentteihin, jotka on tarkoitus lähettää BERECille. Nämä tiedot käsitellään ja säilytetään teknisistä syistä. BEREC haluaa julkaista kaikki ne kommentit, joita ei ole merkitty luottamuksellisiksi. Järjestöt tämän kampanjan takana on listattu sivuston alareunassa. Kuukauden kuluttua siitä, kun virallinen konsultointiaika on päättynyt, poistamme kaikki kommentit ja niihin liittyvät sähköpostiosoitteet.
 
-„Työryhmällä Teletunnistetietojen tallentaminen Itävalta“ ja „Bits of Freedom“ on pääsy sähköpostiosoitteeseen ja kommentteihin, jotka on tarkoitus lähettää BERECille. Nämä tiedot käsitellään ja säilytetään teknisistä syistä. BEREC haluaa julkaista kaikki ne kommentit, joita ei ole merkitty luottamuksellisiksi. Järjestöt tämän kampanjan takana on listattu sivuston alareunassa. Kuukauden kuluttua siitä, kun virallinen konsultointiaika on päättynyt, poistamme kaikki kommentit ja niihin liittyvät sähköpostiosoitteet.
-
-Emme kerää henkilökohtaisia tietoja tämän sivuston kanssa [Piwik](https://piwik.org/) , yksityisyyttä suojeleva web-analyysi software.
+Emme kerää henkilökohtaisia tietoja tämän sivuston kanssa [Piwik](https://piwik.org/), yksityisyyttä suojeleva web-analyysi software.
 
 Mikäli haluat [tilata newsletter uutiskirjeen](#subscribe-to-newsletter){: data-scroll="true"}, sähköpostiosoitteesi tallennetaan luetteloon ja datapankkiin, jota European Digital Rights hallinnoi ja isännöi. Se on ainoa järjestö, jolla on oikeus lähettää sinulle viestejä, jos tilaat Newsletter uutiskirjeen. Voit milloin tahansa peruuttaa uutiskirjeen tulon etkä saa enää uusia viestejä.
 {{ END HOME CONTACT-US }}
