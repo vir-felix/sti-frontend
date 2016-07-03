@@ -10,45 +10,46 @@
 {{ BEGIN FAQ }}
 # Preguntas frecuentes
 
-## Neutralidad de la red
+## [Neutralidad de la red](#net-neutrality){: data-scroll="true"}
 - [¿Qué es la neutralidad de la red?](#que-es-la-neutralidad-de-la-red){: data-scroll="true"}
 - [¿Cómo me afecta la neutralidad de la red en mi vida diaria?](#como-me-afecta-la-neutralidad-de-la-red){: data-scroll="true"}
 - [¿Como hemos llegada hasta aquí? ¿Qué ha pasado en la UE?](#como-hemos-llegado-hasta-aqui-que-ha-pasado-en-la-ue){: data-scroll="true"}
 - [¿Quién está debatiendo en Europa?](#quien-esta-debatiendo-en-europa){: data-scroll="true"}
 - [¿Quién está detrás de SaveTheInternet.eu?](#quien-esta-detras-de-savetheinterneteu){: data-scroll="true"}
 
-## Servicios Especializados
+## [Servicios Especializados](#specialised-services){: data-scroll="true"}
 - [¿Qué son los servicios especializados?](#que-son-los-servicios-especializados){: data-scroll="true"}
 - [¿Ejemplos de servicios que no son servicios especializados?](#ejemplos-de-servicios-no-especializados){: data-scroll="true"}
 - [¿Qué condiciones incluye la ley de la UE respecto a los servicios especializados?](#que-condidiones-contiene-la-ley-ue-respecto-a-los-servicios-especializados){: data-scroll="true"}
 - [¿Qué hace falta para reforzar las condiciones respecto a los servicios especializados y por qué es importante?](#que-hace-falta-para-reforzar-las-condiciones-respecto-a-los-servicios-especializados){: data-scroll="true"}
 
-## Gestión del Tráfico
+## [Gestión del Tráfico](#traffic-management){: data-scroll="true"}
 - [¿Qué es la gestión del tráfico?](#que-es-la-gestion-del-trafico){: data-scroll="true"}
 - [¿Por qué debería importarme la gestión del tráfico?](#por-que-deberia-importarme-la-gestion-del-trafico){: data-scroll="true"}
 - [¿No deberían los proveedores de Internet poder gestionar sus propias redes?](#no-deberian-los-proveedores-de-internet-gestionar-sus-propias-redes){: data-scroll="true"}
 - [¿Qué objetivo tiene SaveTheInternet.eu en cuanto la gestión del tráfico?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-a-la-gestion-del-trafico){: data-scroll="true"}
 - [¿Cuando puede un proveedor empezar a gestionar su red?](#cuando-puede-un-proveedor-empezar-a-gestionar-su-red){: data-scroll="true"}
 
-## "Zero Rating"
+## ["Zero Rating"](#zero-rating){: data-scroll="true"}
 - [¿Qué es el "zero rating"?](#que-es-el-zero-rating){: data-scroll="true"}
 - [¿Por qué el "zero rating" es un problema?](#por-que-el-zero-rating-es-un-problema){: data-scroll="true"}
 - [¿Realmente me dan algo gratis cuando uso un programa de "zero rating"?](#realmente-me-dan-algo-gratis-cuando-uso-un-programa-de-zero-rating){: data-scroll="true"}
 - [¿Cómo puede afectar el "zero rating" a los proveedores de servicios online y la diversidad del ecosistema en Internet?](#como-puede-afectar-el-zero-rating-a-los-proveedores-de-servicios-online-y-la-diversidad-del-ecosistema-en-internet){: data-scroll="true"}
 - [¿Qué objetivo tiene SaveTheInternet.eu en cuanto al zero-rating?](#que-objetivo-tiene-savetheinterneteu-en-cuanto-al-zero-rating){: data-scroll="true"}
 
-## Transparencia
+## [Transparencia](#transparency){: data-scroll="true"}
 - [¿Qué mejoras podemos esperar con la nuevas leyes de neutralidad de la red?](#que-mejoras-podemos-esperar-con-la-nuevas-leyes-de-neutralidad-de-la-red){: data-scroll="true"}
 - [¿Qué tipo de transparencia cabe esperar con las nuevas leyes de neutralidad de la red?](#que-tipo-de-transparencia-podemos-esperar-con-las-nuevas-leyes-de-neutralidad-de-la-red){: data-scroll="true"}
 
-## Otros
+## [Otros](#other){: data-scroll="true"}
 - [¿Cómo se gestiona la neutralidad en otras partes de mundo?](#como-se-gestiona-la-neutralidad-en-otras-partes-de-mundo){: data-scroll="true"}
 - [¿Cómo puedo ayudar?](#como-puedo-ayudar){: data-scroll="true"}
 
 
-# Neutralidad de la Red {#que-es-la-neutralidad-de-la-red}
 
-## ¿Qué es la neutralidad de la red?
+# Neutralidad de la Red {#net-neutrality}
+
+## ¿Qué es la neutralidad de la red? {#que-es-la-neutralidad-de-la-red}
 
 La neutralidad de la red es el principio por el cual los proveedores de acceso a Internet deben transferir los datos sin discriminación según su origen, destino o el tipo de datos. Esto significa que la neutralidad de la red es lo que prohíbe a los operadores de telecomunicaciones que bloqueen o degraden contenidos, aplicaciones o servicios.
 
@@ -101,9 +102,9 @@ SaveTheInternet es una campaña conjunta de 12 organizaciones europeas que traba
 Si formas parte de una organización que quiere apoyar la campaña y ayudarnos a dar difusión, por favor contacta con nosotros en [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Servicios especializados {#que-son-los-servicios-especializados}
+# Servicios especializados {#specialised-services}
 
-## ¿Qué son los servicios especializados?
+## ¿Qué son los servicios especializados? {#que-son-los-servicios-especializados}
 
 Un servicio específico es cualquier servicio proporcionado a través de la conexión de acceso a Internet al que el proveedor de Internet le otorga una calidad adicional. Bajo la [Regulación](http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32015R2120), cualquier optimización de este tipo debe ser objetivamente necesaria para el servicio electrónico al que se accede y no una simple priorización del servicio. El proveedor de acceso a Internet debe también asegurarse de que hay suficiente capacidad en la red para que la calidad del acceso normal a Internet no se vea degradada. Esta necesidad debe ser verificada por la autoridad reguladora de telecomunicaciones nacional. En corto, un "servicio específico" no pude ser una "vía rápida" discriminatoria.
 
@@ -134,9 +135,9 @@ Los reguladores deben comprobar que cualquier nuevo servicio específico cumpla 
 La optimización de un servicio específico debe ser objetivamente necesaria para la funcionalidad del servicio y no una mera ventaja competitiva frente a sus competidores. Si un servicio comparable existe en el Internet abierto, entonces la clasificación como servicio específico no debe ser concedida.
 
 
-# Gestión del Tráfico {#que-es-la-gestion-del-trafico}
+# Gestión del Tráfico {#traffic-management}
 
-## ¿Qué es la gestión del tráfico?
+## ¿Qué es la gestión del tráfico? {#que-es-la-gestion-del-trafico}
 
 La gestión del tráfico permite a los proveedores de Internet gestionar el tráfico en sus redes. Para hacerlo, los proveedores de Internet pueden dar prioridad a ciertas comunicaciones y ralentizar otras. Bajo la Regulación, esta práctica solo está permitida si es razonable, transparente, no discriminatoria y proporcionada. La gestión del tráfico debe ser temporal y, por consiguiente, no una parte ordinaria de la configuración de la red. También, como norma general, la gestión del tráfico debe tratar por igual a todas las aplicaciones y solo puede diferenciar entre diferentes categorías de tráfico bajo circunstancias muy limitadas.
 
@@ -175,9 +176,9 @@ De acuerdo con la [Regulación](http://eur-lex.europa.eu/legal-content/ES/TXT/?u
 Argumentamos que esta segunda opción debería estar solo permitida en el caso de que haya otros indicadores a parte del volumen de tráfico fluyendo a través de un determinado nodo de red (como el número de suscriptores conectados a una misma célula de red). Siempre tiene que haber una necesidad real y palpable para la gestión del tráfico.
 
 
-# Zero rating {#que-es-el-zero-rating}
+# Zero rating {#zero-rating}
 
-## ¿Qué es el "zero rating"?
+## ¿Qué es el "zero rating"? {#que-es-el-zero-rating}
 
 El "zero rating" es una práctica comercial por la que los datos descargados de ciertas aplicaciones o servicios no se contabilizan en el límite mensual de descarga del suscriptor. El "zero rating" trata diferentes tipos de tráfico de manera diferente para que algunos sean ofrecidos a un precio y otros u precio diferente. A pesar de ser técnicamente diferente de las violaciones de neutralidad de la red clásicas, es idéntico en la práctica, dado que permite a los proveedores de acceso a Internet influir en qué aplicaciones y servicios se usan y cuales no.
 
@@ -206,9 +207,9 @@ El "zero rating" es una clara violación de las reglas de la neutralidad de la r
 Si se supera el límite de datos y cierto contenido "zero rated" aún es accesible mientras que el resto de Internet queda bloqueado o ralentizado, se produce una clara violación de varias disposiciones de la Regulación de la neutralidad de la red.
 
 
-# Transparencia {#que-mejoras-podemos-esperar-con-la-nuevas-leyes-de-neutralidad-de-la-red}
+# Transparencia {#transparency}
 
-## ¿Qué mejoras podemos esperar con la nuevas leyes de neutralidad de la red?
+## ¿Qué mejoras podemos esperar con la nuevas leyes de neutralidad de la red? {#que-mejoras-podemos-esperar-con-la-nuevas-leyes-de-neutralidad-de-la-red}
 
 La [Regulación de neutralidad de la red UE](http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32015R2120) tiene muchos beneficios. En términos de transparencia, uno de ellos es el requerimiento a los proveedores de Internet de especificar claramente en sus contratos la velocidad de conexión mínima, media y máxima de tu conexión a Internet, en lugar de un mero máximo teórico. El Organismo de Reguladores Europeos de las Comunicaciones Electrónicas (BEREC, Body of European Regulators of the Electronic Communications) tendrá que aclarar cómo estos valores se calculan y qué pasa si una conexión se comparte entre más de un usuario.
 
@@ -217,7 +218,7 @@ La [Regulación de neutralidad de la red UE](http://eur-lex.europa.eu/legal-cont
 La [Regulación](http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32015R2120) requiere a los proveedores de Internet que proporcionen información sobre sus medidas de gestión del tráfico que afecten al acceso a Internet de los usuarios. Los reguladores están trabajando en lo que significa esto en la práctica.
 
 
-# Otros
+# Otros {#other}
 
 ## ¿Cómo se gestiona la neutralidad en otras partes de mundo? {#como-se-gestiona-la-neutralidad-en-otras-partes-de-mundo}
 
@@ -240,7 +241,7 @@ Puede ayudar a SaveTheInternet.eu de muchas maneras:
 
 <i class="fa fa-long-arrow-right"></i>        ¡Únete a nosotros! Si formas parte de una organización y quieres unirte a SaveTheInternet.eu, por favor contacta con nosotros en [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Denuncia violaciones de la neutralidad de la red a través de [Respect&nbsp;My&nbsp;Net](https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>        Denuncia violaciones de la neutralidad de la red a través de [Respect My Net](https://respectmynet.eu/)
 
 ¿Tienes alguna otra idea interesante o creativa? Por favor contacta con nosotros vía [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
