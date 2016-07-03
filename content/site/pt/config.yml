@@ -1,8 +1,8 @@
 language: "pt"
 questionnaire_language: "pt"
 backend: "original"
-title: SALVA A INTERNET NA EUROPA
-action: Junta-te a nós e actua! Envia uma mensagem ao regulador
+title: "SALVA A INTERNET NA EUROPA"
+action: "Junta-te a nós e actua! Envia uma mensagem ao regulador"
 keywords:
   - neutralidade da Internet
   - Internet aberta
@@ -11,9 +11,7 @@ keywords:
   - vias rápidas pagas
   - "taxa zero"
   - zero rating
-  - Europa
   - Mercado único de telecomunicações
-  - neutralidade da Internet
   - net neutrality
   - connected conntinent
   - digital single market
@@ -25,14 +23,9 @@ keywords:
   - Günther Oettinger
   - Internet
   - Open internet
-  - Specialized services
   - Traffic management
-  - BEREC
-  - vias rápidas pagas
-  - "taxa zero"
   - Europa
   - EU
-  - Mercado único de telecomunicações
   - Autoridade Nacional de Comunicações, ANACOM
   - National Authority for Management and Regulation in Communications, ANCOM
   - European Commission, EC

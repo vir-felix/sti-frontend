@@ -1,8 +1,8 @@
 language: "sl"
 questionnaire_language: "sl"
 backend: "original"
-title: REŠITE INTERNET V EVROPI
-action: Pridružite se nam in ukrepajte! Pošljite sporočilo vašemu regulatorju
+title: "REŠITE INTERNET V EVROPI"
+action: "Pridružite se nam in ukrepajte! Pošljite sporočilo vašemu regulatorju"
 keywords:
  - internetna nevtralnost
  - odprti internet
@@ -24,7 +24,6 @@ keywords:
  - paid fast lanes
  - Europe
  - EU
- - Telecom Single Market
  - Slovenia
  - Post and Electronic Communications Agency, APEK
  - Post and Electronic Communications Agency of the Republic of Slovenia

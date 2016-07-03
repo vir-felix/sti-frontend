@@ -1,8 +1,8 @@
 language: "ro"
 questionnaire_language: "ro"
 backend: "original"
-title: SALVEAZĂ INTERNETUL ÎN EUROPA
-action: Vino alături de noi și treci la acțiune! Trimite un mesaj autorității de reglementare în telecomunicații din țara ta
+title: "SALVEAZĂ INTERNETUL ÎN EUROPA"
+action: "Vino alături de noi și treci la acțiune! Trimite un mesaj autorității de reglementare în telecomunicații din țara ta"
 keywords:
   - neutralitatea Internetului
   - continent conectat

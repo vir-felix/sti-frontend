@@ -1,8 +1,8 @@
 language: "es"
 questionnaire_language: "es"
 backend: "original"
-title: SALVA INTERNET EN EUROPA
-action: ¡Únete a nosotros y actúa! Envía un mensaje a tu regulador
+title: "SALVA INTERNET EN EUROPA"
+action: "¡Únete a nosotros y actúa! Envía un mensaje a tu regulador"
 keywords:
   - net neutrality
   - connected conntinent
