@@ -79,9 +79,9 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-[Udostępnij na Facebooku] (http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Udostępnij na Facebooku](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
 
-[Udostępnij na Twitterze] (https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
+[Udostępnij na Twitterze](https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
 
 {{ END HOME SPREAD-THE-WORD }}
 
@@ -95,7 +95,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 {{ ANCHOR INFO }}
 ## In 2015, the European Union adopted  legislation on net neutrality ...
 
-[Rozporządzenie UE] (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } obejmuje dobre reguły mające na celu zapewnienie, że możliwe będzie połączenie się z dowolnym innym punktem w sieci bez dyskryminacji. Jednak niektóre jego elementy mogą być nadużywane w celu podważenia neutralności sieci. Ustawodawca postanowił przerzucić odpowiedzialność za klaryfikację tekstu na regulatorów rynku telekomunikacyjnego.
+[Rozporządzenie UE](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } obejmuje dobre reguły mające na celu zapewnienie, że możliwe będzie połączenie się z dowolnym innym punktem w sieci bez dyskryminacji. Jednak niektóre jego elementy mogą być nadużywane w celu podważenia neutralności sieci. Ustawodawca postanowił przerzucić odpowiedzialność za klaryfikację tekstu na regulatorów rynku telekomunikacyjnego.
 {{ END HOME INFO }}
 
 
@@ -117,19 +117,19 @@ BEREC planuje opublikować wstępną wersję swoich wytycznych i rozpocząć kon
 
 Urzędy regulacyjne muszą wyposażyć się w narzędzia niezbędne do egzekwowania neutralności sieci. W Save The Internet uważamy, że BEREC nie będzie miał wystarczająco dużo czasu na przetworzenie i należyte rozpatrzenie potencjalnie dziesiątków tysięcy opinii (regulator rynku telekomunikacyjnego w USA otrzymał 3,7 miliona odpowiedzi podczas tamtejszych konsultacji!). Możemy przywrócić równowagę, dając wszystkim możliwość wniesienia swojego wkładu w wytyczne w bardziej efektywny sposób.
 
-Niedawno BEREC zorganizował bezpośrednie spotkania z grupami interesariuszy. Przekuliśmy pytania zadawane interesariuszom podczas tych spotkań przez BEREC ([patrz tutaj] (https://edri.org/edris-first-input-on-net-neutrality-guidelines/) i [tutaj] (https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) na prosty język i dodaliśmy kilka innych tam, gdzie czuliśmy, że jest to konieczne.
+Niedawno BEREC zorganizował bezpośrednie spotkania z grupami interesariuszy. Przekuliśmy pytania zadawane interesariuszom podczas tych spotkań przez BEREC ([patrz tutaj](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) i [tutaj](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) na prosty język i dodaliśmy kilka innych tam, gdzie czuliśmy, że jest to konieczne.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [potrzebuje twojej opinii] (#prześlij wiadomość) {: data-scroll="true"} przed podjęciem decyzji o przyszłości neutralności sieci w Europie.
+## BEREC [potrzebuje twojej opinii](#send-a-message){: data-scroll="true"} przed podjęciem decyzji o przyszłości neutralności sieci w Europie.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Skontaktuj się z nami
 
-__Zapraszamy do kontaktu z nami pod adresem [info@savetheinternet.eu] (mailto:info@savetheinternet.eu)__
+__Zapraszamy do kontaktu z nami pod adresem [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Masz pomysł jak ulepszyć tę stronę? Świetnie, potrzebujemy twojej pomocy! Pełen kod źródłowy niniejszej strony jest dostępny na [GitHub] (https://github.com/Netzfreiheit/STI-UI) i może zostać podzielony, poprawiony, zmieniony i przesłany z powrotem do nas.
+Masz pomysł jak ulepszyć tę stronę? Świetnie, potrzebujemy twojej pomocy! Pełen kod źródłowy niniejszej strony jest dostępny na [GitHub](https://github.com/Netzfreiheit/STI-UI) i może zostać podzielony, poprawiony, zmieniony i przesłany z powrotem do nas.
 
 Zawsze potrzebujemy pomocy z tłumaczeniami, więc jeśli znasz język, którego do tej pory nie uwzględniliśmy, prosimy o kontakt.
 
