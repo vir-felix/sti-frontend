@@ -63,7 +63,7 @@ Ne engedje internetszolgáltatójának, hogy ő döntse el, milyen adatforgalom 
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Szólítsa fel a nemzeti szabályozó hatóságot és <br> a BEREC-et a hálózati semlegesség védelmére
+# Szólítsa fel a nemzeti szabályozó hatóságot és a BEREC-et a hálózati semlegesség védelmére
 
 Az alább található kérdőív segítségével mondja el véleményét az új hálózatsemlegességi szabályokról a nemzeti szabályozó hatóságnak! Ha a feleletválasztós és a nyitott kérdések közül bármelyiket megválaszolja, a rendszer egy elektronikus üzenetet generál az Ön számára. Az Ön elektronikus üzenetét továbbítjuk az Európai Elektronikus Hírközlési Szabályozó Testülethez (BEREC).
 

@@ -66,7 +66,7 @@ Tundub, nagu saaksite midagi tasuta, kuid tegelikult muutub võrguoperaator kont
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Rääkige oma reguleerivatele asutustele ja <br> BERECile, et võrguneutraalsust tuleb kaitsta
+# Rääkige oma reguleerivatele asutustele ja BERECile, et võrguneutraalsust tuleb kaitsta
 
 Esitage reguleerivatele asutustele oma arvamus seoses uute võrguneutraalsuse eeskirjadega, kasutades allpool toodud küsimustikku. Vastates kas mõnele või kõigile valikvastustega küsimustele, genereeritakse teile vastatud küsimustest e-kiri. Teie e-kiri esitatakse meie poolt ELi sideametile (BEREC).
 

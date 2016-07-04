@@ -65,7 +65,7 @@ Znie to, ako by ste dostali niečo zadarmo, no Váš mobilný operátor sa vďak
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Povedzte Vašim národným regulačným orgánom a <br> BEREC, že chcete chrániť neutralitu siete
+# Povedzte Vašim národným regulačným orgánom a BEREC, že chcete chrániť neutralitu siete
 
 Povedzte Vašim národným regulačným orgánom Váš názor na nové pravidlá o neutralite siete prostredníctvom dotazníka nižšie. Po zodpovedaní ľubovoľného počtu otázok s možnosťou výberu a otvorených otázok Vám bude vygenerovaný e-mail. Váš e-mail odošleme telekomunikačným regulačným orgánom EÚ (BEREC).
 

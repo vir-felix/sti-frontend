@@ -63,7 +63,7 @@ Det lyder som om du får noget gratis, men det gør dit mobilselskab til din dø
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Fortæl de nationale tilsynsmyndigheder i dit land og <br> BEREC at de skal passe på netneutraliteten
+# Fortæl de nationale tilsynsmyndigheder i dit land og BEREC at de skal passe på netneutraliteten
 
 Sig din mening om de nye netneutralitetsregler til tilsynsmyndighederne ved hjælp af spørgeskemaet nedenfor. Hvis du besvarer ét eller flere af multiple choice-spørgsmålene eller de åbne spørgsmål, bliver der oprettet en e-mail for dig. Din e-mail bliver sendt til EU's teletilsynsmyndigheder (BEREC) af os.
 

@@ -63,7 +63,7 @@ Ti dicono che ti stanno dando qualcosa gratis, ma invece si tratta di qualcosa c
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Parla con i tuoi enti normativi nazionali e con il <br> BEREC per tutelare la neutralità della rete
+# Parla con i tuoi enti normativi nazionali e con il BEREC per tutelare la neutralità della rete
 
 Comunica ai tuoi enti di regolamentazione la tua opinione sulle nuove regole sulla neutralità della rete utilizzando il questionario fornito qui sotto. Rispondendo a quante domande vuoi (tra quelle a scelta multipla e quelle aperte) verrà generata un’email che noi gireremo per te agli enti europei che regolamentano le telecomunicazioni (BEREC) non appena inizierà la consultazione ufficiale nel mese di giugno 2016.
 
