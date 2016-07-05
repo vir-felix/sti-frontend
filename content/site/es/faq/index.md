@@ -53,7 +53,7 @@
 
 La neutralidad de la red es el principio por el cual los proveedores de acceso a Internet deben transferir los datos sin discriminación según su origen, destino o el tipo de datos. Esto significa que la neutralidad de la red es lo que prohíbe a los operadores de telecomunicaciones que bloqueen o degraden contenidos, aplicaciones o servicios.
 
-La neutralidad de la red garantiza tu libertad de distribuir y acceder a la información que tú elijas online. Este principio fundador asegura que internet siga siendo abierto, innovador, cdiverso y competitivo.
+La neutralidad de la red garantiza tu libertad de distribuir y acceder a la información que tú elijas online. Este principio fundador asegura que Internet siga siendo abierto, innovador, diverso y competitivo.
 
 ## ¿Cómo me afecta la neutralidad de la red en mi vida diaria? {#como-me-afecta-la-neutralidad-de-la-red}
 
