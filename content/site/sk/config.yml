@@ -1,4 +1,5 @@
 language: "sk"
+language_name: "slovenčina"
 questionnaire_language: "sk"
 backend: "original"
 title: "ZACHRÁŇME INTERNET V EURÓPE"

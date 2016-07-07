@@ -1,4 +1,5 @@
 language: "et"
+language_name: "eesti"
 questionnaire_language: "et"
 backend: "original"
 title: "PÄÄSTA EUROOPA INTERNET"

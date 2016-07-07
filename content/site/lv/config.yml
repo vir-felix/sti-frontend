@@ -1,4 +1,5 @@
 language: "lv"
+language_name: "latviešu"
 questionnaire_language: "lv"
 backend: "original"
 title: "GLĀB INTERNETU EIROPĀ"

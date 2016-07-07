@@ -1,4 +1,5 @@
 language: "da"
+language_name: "dansk"
 questionnaire_language: "da"
 backend: "original"
 title: "RED INTERNETTET I EUROPA"

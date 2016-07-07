@@ -1,4 +1,5 @@
 language: "sv"
+language_name: "svenska"
 questionnaire_language: "sv"
 backend: "original"
 title: "RÄDDA INTERNET I EUROPA"

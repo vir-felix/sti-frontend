@@ -1,4 +1,5 @@
 language: "cs"
+language_name: "čeština"
 questionnaire_language: "en"
 backend: "original"
 title: "ZACHRAŇTE INTERNET V EVROPĚ"

@@ -1,4 +1,5 @@
 language: "sl"
+language_name: "slovenščina"
 questionnaire_language: "sl"
 backend: "original"
 title: "REŠITE INTERNET V EVROPI"

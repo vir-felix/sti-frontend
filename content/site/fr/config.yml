@@ -1,4 +1,5 @@
 language: "fr"
+language_name: "français"
 questionnaire_language: "fr"
 backend: "original"
 title: "SAUVONS L'INTERNET EN EUROPE"

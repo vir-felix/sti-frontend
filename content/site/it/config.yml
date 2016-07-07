@@ -1,4 +1,5 @@
 language: "it"
+language_name: "italiano"
 questionnaire_language: "it"
 backend: "original"
 title: "SAVE THE INTERNET IN EUROPA"

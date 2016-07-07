@@ -1,4 +1,5 @@
 language: "pl"
+language_name: "polski"
 questionnaire_language: "pl"
 backend: "original"
 title: "SAVE THE INTERNET W EUROPIE"

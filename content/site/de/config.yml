@@ -1,4 +1,5 @@
 language: "de"
+language_name: "Deutsch"
 questionnaire_language: "de"
 backend: "simplified"
 title: "RETTE DAS INTERNET IN EUROPA"

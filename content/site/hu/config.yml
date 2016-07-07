@@ -1,4 +1,5 @@
 language: "hu"
+language_name: "magyar"
 questionnaire_language: "hu"
 backend: "original"
 title: "SAVE THE INTERNET IN EUROPE"

@@ -1,4 +1,5 @@
 language: "fi"
+language_name: "suomi"
 questionnaire_language: "fi"
 backend: "original"
 title: "PELASTA INTERNET EUROOPASSA"

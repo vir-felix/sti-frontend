@@ -1,4 +1,5 @@
 language: "es"
+language_name: "español"
 questionnaire_language: "es"
 backend: "simplified"
 title: "SALVA INTERNET EN EUROPA"
