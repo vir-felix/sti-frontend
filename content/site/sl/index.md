@@ -9,9 +9,7 @@
 # Rešite Internet
 
 {: .title-subtext}
-Evropski regulatorj se odločajo, ali dati velikim telekomunikacijskim družbam moč
-vpliva na to kar lahko (in ne moremo) opraviti na spletu. Evropa nujno potrebuje jasne smernice nevtralnosti
-za zaščito naših svoboščin in pravic na spletu. Do __Julija moramo__ pomagati Evropi zaščititi odprt internet
+Evropski regulatorj se odločajo, ali dati velikim telekomunikacijskim družbam moč vpliva na to kar lahko (in ne moremo) opraviti na spletu. Evropa nujno potrebuje jasne smernice nevtralnosti za zaščito naših svoboščin in pravic na spletu.
 <br><br>
 Pridružite se gibanju, ukrepajmo zdaj!
 

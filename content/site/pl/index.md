@@ -10,9 +10,8 @@
 # Save the Internet
 
 {: .title-subtext}
-Europejskie urzędy regulacyjne będą zdecydować, czy dać wielkim korporacjom telekomunikacyjnym możliwość
-wywierania wpływu na to, co możemy robić (a czego nie) w Internecie. Europa pilnie potrzebuje jasnych zasad neutralności sieci
-dla ochrony naszych praw i wolności w Internecie. Mamy czas aż do __lipca__, by pomóc Europie chronić otwarty Internet.
+Europejskie urzędy regulacyjne będą zdecydować, czy dać wielkim korporacjom telekomunikacyjnym możliwość wywierania wpływu na to, co możemy robić (a czego nie) w Internecie. Europa pilnie potrzebuje jasnych zasad neutralności sieci
+dla ochrony naszych praw i wolności w Internecie.
 <br><br>
 Przyłącz się do ruchu, działaj już teraz!
 

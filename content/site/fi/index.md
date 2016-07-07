@@ -10,7 +10,7 @@
 # Pelasta internet
 
 {: .title-subtext}
-Tänä kesänä päätetään Euroopassa internetin tulevaisuudesta. Suuret telealan konsernit haluavat päättää, mitä voimme tehdä verkossa ja mitä emme. Jotta __voisimme säilyttää internetin vapauden__ ja suojata oikeuksiamme, meidän on oltava aktiivisia.
+Tänä kesänä päätetään Euroopassa internetin tulevaisuudesta. Suuret telealan konsernit haluavat päättää, mitä voimme tehdä verkossa ja mitä emme.
 <br><br>
 Osallistu auttamiseen, ole aktiivinen!
 

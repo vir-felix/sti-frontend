@@ -10,7 +10,7 @@
 # Glāb internetu
 
 {: .title-subtext}
-Šovasar Eiropā tiks izšķirta interneta nākotne. Lieli telekomunikāciju koncerni grib izlemt par to, ko mums tiešsaistē darīt un ko nē. Lai __saglabātu interneta brīvību__ un aizsargātu mūsu tiesības, mums visiem ir jākļūst aktīviem.
+Šovasar Eiropā tiks izšķirta interneta nākotne. Lieli telekomunikāciju koncerni grib izlemt par to, ko mums tiešsaistē darīt un ko nē.
 <br><br>
 Palīdzi, kļūsti aktīvs!
 

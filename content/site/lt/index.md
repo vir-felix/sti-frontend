@@ -9,7 +9,7 @@
 # Gelbėkit internetą
 
 {: .title-subtext}
-Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikti didžiosioms telekomunikacijų bendrovėms teisę daryti įtaką dėl to, ką mes galime (ir ko negalime) daryti internete. Europai skubiai reikalingos aiškios tinklo neutralumo taisyklės, norint išsaugoti mūsų laisvę ir teises internete. Iki liepos mėnesio mes turime laiko padėti Europai apginti laisvą internetą.
+Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikti didžiosioms telekomunikacijų bendrovėms teisę daryti įtaką dėl to, ką mes galime (ir ko negalime) daryti internete. Europai skubiai reikalingos aiškios tinklo neutralumo taisyklės, norint išsaugoti mūsų laisvę ir teises internete.
 <br><br>
 Prisijunk prie mūsų, padėk dabar!
 

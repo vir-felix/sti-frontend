@@ -9,9 +9,7 @@
 # Save the Internet
 
 {: .title-subtext}
-Evropské regulační úřady se chystají rozhodnout, zda dát velkým telekomunikačním korporacím moc
-ovlivňovat, co můžeme (a nemůžeme) dělat online. Evropa naléhavě potřebuje jasná pravidla síťové neutrality,
-aby mohla chránit online svobody a práva. Do __července__ musíme pomoci Evropě zachránit otevřený Internet.
+Evropské regulační úřady se chystají rozhodnout, zda dát velkým telekomunikačním korporacím moc ovlivňovat, co můžeme (a nemůžeme) dělat online. Evropa naléhavě potřebuje jasná pravidla síťové neutrality, aby mohla chránit online svobody a práva.
 <br><br>
 Přidejte se k nám a jednejte! Okamžitě!
 

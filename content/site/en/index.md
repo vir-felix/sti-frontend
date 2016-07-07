@@ -10,9 +10,7 @@
 # Save the Internet
 
 {: .title-subtext}
-European Regulators are about to decide whether to give big telecoms corporations the power
-to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines
-to protect our freedoms and rights online. We have until __July__ to help Europe protect the open Internet.
+European Regulators are about to decide whether to give big telecoms corporations the power to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines to protect our freedoms and rights online.
 <br><br>
 Join the movement, take action now!
 

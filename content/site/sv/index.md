@@ -9,7 +9,7 @@
 # Rädda internet
 
 {: .title-subtext}
-De europeiska regleringsmyndigheterna kommer snart att besluta om stora telekommunikationsföretag ska kunna påverka vad vi kan (och inte) kan göra på nätet. Europa är i brådskande behov av klara riktlinjer för nätneutralitet för att skydda vår frihet och våra rättigheter på nätet. Vi har tid ända till __juli__ att hjälpa Europa med att bevara ett öppet internet.
+De europeiska regleringsmyndigheterna kommer snart att besluta om stora telekommunikationsföretag ska kunna påverka vad vi kan (och inte) kan göra på nätet. Europa är i brådskande behov av klara riktlinjer för nätneutralitet för att skydda vår frihet och våra rättigheter på nätet.
 <br><br>
 Gå med i vår kampanj och agera nu!
 

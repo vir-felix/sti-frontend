@@ -9,7 +9,7 @@
 # Save the Internet
 
 {: .title-subtext}
-Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlési vállalatoknak arra, hogy befolyásolják mit tehetünk (és mit nem) online. Európának sürgősen szüksége van a hálózatsemlegességgel kapcsolatos világos iránymutatásokra hogy megvédhessük szabadságjogainkat és jogainkat online. ___Júliusig___ van időnk arra, hogy segítsünk Európának megvédeni a nyílt internetet.
+Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlési vállalatoknak arra, hogy befolyásolják mit tehetünk (és mit nem) online. Európának sürgősen szüksége van a hálózatsemlegességgel kapcsolatos világos iránymutatásokra hogy megvédhessük szabadságjogainkat és jogainkat online.
 <br><br>
 Csatlakozzon a mozgalomhoz, cselekedjen most!
 

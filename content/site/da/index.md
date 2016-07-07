@@ -9,7 +9,7 @@
 # Red internettet
 
 {: .title-subtext}
-I sommer skal de europæiske tilsynsmyndigheder beslutte om store teleselskaber skal have magt til at påvirke hvad vi kan (og ikke kan) på nettet. Europa har hårdt brug for klare retningslinjer for netneutralitet som beskytter vores rettigheder og frie brug af internettet. Vi har indtil __juli__ til at sikre et åbent internet i Europa.
+I sommer skal de europæiske tilsynsmyndigheder beslutte om store teleselskaber skal have magt til at påvirke hvad vi kan (og ikke kan) på nettet. Europa har hårdt brug for klare retningslinjer for netneutralitet som beskytter vores rettigheder og frie brug af internettet.
 <br><br>
 Hjælp os — bliv aktiv, og gør noget nu!
 

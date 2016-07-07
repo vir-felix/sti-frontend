@@ -9,9 +9,8 @@
 # Zachráňme internet
 
 {: .title-subtext}
-Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telekomunikačným korporáciám moc
-ovplyvňovať to, čo môžeme (a nemôžeme) robiť online. Európa naliehavo potrebuje jasné pravidlá v súvislosti s neutralitou siete
-na ochranu našich online práv a slobôd. Do __júla__ môžeme pomôcť Európe chrániť otvorený internet.
+Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telekomunikačným korporáciám moc ovplyvňovať to, čo môžeme (a nemôžeme) robiť online. Európa naliehavo potrebuje jasné pravidlá v súvislosti s neutralitou siete
+na ochranu našich online práv a slobôd.
 <br><br>
 Pripojiť sa k nášmu hnutiu, konajte teraz!
 

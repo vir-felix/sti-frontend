@@ -10,9 +10,8 @@
 # Salva a Internet
 
 {: .title-subtext}
-Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder
-de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede
-para proteger as nossas liberdades e direitos online.<br>Temos até __Julho__ para ajudar a proteger a Internet aberta na Europa.
+Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede
+para proteger as nossas liberdades e direitos online.
 <br><br>
 Mobiliza-te, actua Já!
 

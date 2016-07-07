@@ -9,7 +9,7 @@
 # Salva Internet
 
 {: .title-subtext}
-I regolatori europei stanno per decidere se dare alle grosse imprese di telecomunicazioni il potere di influenzare le nostre scelte online. L’Europa ha urgentemente bisogno di linee-guida chiare sulla neutralità della rete per proteggere le nostre libertà e diritti online. Abbiamo tempo fino al __luglio__ per aiutare l’Europa a proteggere la libertà di Internet.
+I regolatori europei stanno per decidere se dare alle grosse imprese di telecomunicazioni il potere di influenzare le nostre scelte online. L’Europa ha urgentemente bisogno di linee-guida chiare sulla neutralità della rete per proteggere le nostre libertà e diritti online.
 <br><br>
 Unisciti al movimento, agisci subito!
 

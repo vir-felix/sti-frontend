@@ -9,7 +9,7 @@
 # Red het internet
 
 {: .title-subtext}
-Europese regelgevende instanties staan op het punt om te beslissen of ze grote telecombedrijven de macht zullen geven om invloed uit te oefenen op wat we online kunnen doen (en niet kunnen doen). Europa heeft dringend duidelijke richtsnoeren voor netneutraliteit nodig om onze vrijheden en rechten online te beschermen. We hebben tot __juli__ om Europa te helpen het open internet te beschermen.
+Europese regelgevende instanties staan op het punt om te beslissen of ze grote telecombedrijven de macht zullen geven om invloed uit te oefenen op wat we online kunnen doen (en niet kunnen doen). Europa heeft dringend duidelijke richtsnoeren voor netneutraliteit nodig om onze vrijheden en rechten online te beschermen.
 <br><br>
 Doe mee, neem nu actie!
 

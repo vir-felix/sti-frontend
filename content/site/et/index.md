@@ -10,9 +10,7 @@
 # Päästke Internet
 
 {: .title-subtext}
-Euroopa reguleerivad asutused otsustavad, kas anda võim suurtele sideettevõtetele,
-mis mõjutaks kõike, mida me saame (ja ei saa) veebipõhiselt teha. Euroopa vajab selgeid võrguneutraalsuse eeskirju,
-et kaitsta meie veebipõhist vabadust ja õigusi. Meil on aega kuni __juulini__, et aidata Euroopal avatud Internetti kaitsta.
+Euroopa reguleerivad asutused otsustavad, kas anda võim suurtele sideettevõtetele, mis mõjutaks kõike, mida me saame (ja ei saa) veebipõhiselt teha. Euroopa vajab selgeid võrguneutraalsuse eeskirju, et kaitsta meie veebipõhist vabadust ja õigusi.
 <br><br>
 Liituge kampaaniaga ja asuge kohe tegutsema!
 

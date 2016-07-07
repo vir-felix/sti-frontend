@@ -9,7 +9,7 @@
 # Salvează Internetul
 
 {: .title-subtext}
-Autoritățile europene de reglementare în telecomunicații sunt pe cale de a decide dacă vor acorda marilor corporații de telecomunicații puterea de a influența ce putem (și ce nu putem) face online. Europa are nevoie urgentă de un set clar de principii de implementare a neutralității Internetului pentru a proteja libertățile și drepturile noastre digitale. Avem până în __iulie__ să ajutăm Europa să protejeze libertatea Internetului.
+Autoritățile europene de reglementare în telecomunicații sunt pe cale de a decide dacă vor acorda marilor corporații de telecomunicații puterea de a influența ce putem (și ce nu putem) face online. Europa are nevoie urgentă de un set clar de principii de implementare a neutralității Internetului pentru a proteja libertățile și drepturile noastre digitale.
 <br><br>
 Vino alături de noi, treci la acțiune!
 

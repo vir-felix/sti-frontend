@@ -10,7 +10,7 @@
 # Sauvez Internet
 
 {: .title-subtext}
-Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la neutralité du Net afin de protéger nos libertés et nos droits sur Internet. Nous n'avons que jusqu'à __juillet__ pour aider l'Europe à protéger un Internet ouvert.
+Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la neutralité du Net afin de protéger nos libertés et nos droits sur Internet.
 <br><br>
 Rejoignez notre mouvement et agissez dès maintenant ! 
 
