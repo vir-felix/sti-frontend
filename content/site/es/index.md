@@ -16,6 +16,8 @@ para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ par
 <br>
 <strong>¡Movilízate, actúa ahora!</strong>
 
+Modifica la carta, presentándote y explicando por qué la neutralidad de la red es importante para ti, para que sea más personal y efectiva.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 

@@ -15,6 +15,8 @@ Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große
 <br>
 <strong>Hilf mit, werde jetzt aktiv!</strong>
 
+Bitte personalisiere deine Nachricht an BEREC.
+
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
