@@ -114,7 +114,6 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 
 Autoritățile de reglementare trebuie să se înarmeze cu instrumentele necesare pentru aplicarea neutralității Internetului. Considerăm ca BEREC nu va avea suficient timp să proceseze și să ia în considerare în mod atent potențialele zeci de mii de răspunsuri (autoritatea de reglementare din Statele Unite a primit 3.7 milioane de răspunsuri la consultarea lor!). Putem îndrepta balanța facilitând contribuția cât mai eficientă la consultare pentru cât mai multe persoane.
 
-Recent, BEREC a organizat întâlniri față în față cu multiple grupuri ale părților interesate. Am tradus întrebările puse de BEREC părților interesate ([vezi aici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) și [aici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) la aceste întâlniri într-un limbaj ușor de înțeles și am adăugat câteva pe care le-am considerat ca fiind necesare.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

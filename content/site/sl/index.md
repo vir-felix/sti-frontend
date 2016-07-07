@@ -116,7 +116,6 @@ V juniju 2016, BEREC načrtuje objavo svojih osnutkov smernic in sproža javno p
 
 Regulatorji se morajo sami opremiti z orodji za uveljavljanje nevtralnosti. V Save The Internet, mislimo, da BEREC ne bo imel dovolj časa za obdelavo in ustrezno upoštevanje potencialno tisoč odgovorov (ameriški telekomunikacijski regulator je prejel 3,7 milijonov odzivov na posvetovanju!). Mi lahko ponovno vzpostavimo ravnotežje, ki omogoča vsem, da se ustrezno prispeva k smernicam na bolj učinkovit način.
 
-Nedavno je BEREC organiziral srečanje iz oči v oči z interesnimi skupinami. Prevedli smo vprašanja, ki jih je BEREC vprašal zainteresirane ([glej tukaj](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) in [tukaj](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) na teh sestankih v preprostem angleškem jeziku in dodali nekaj drugih, ko smo menili, da je to potrebno.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

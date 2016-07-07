@@ -116,7 +116,6 @@ Na červen 2016 naplánoval Evropský regulační úřad zveřejnění návrhu p
 
 Regulační úřady se musí vyzbrojit nástroji, které jim umožní prosazovat síťovou neutralitu. Jako aktivisté kampaně Save The Internet se domníváme, že Evropský telekomunikační úřad (BEREC) nebude mít dostatek času na zpracování a řádné zvážení potenciálně desítek tisíc reakcí (americký telekomunikační úřad během veřejného projednání obdržel 3,7 miliónů podnětů!). Rovnováhy můžeme opět dosáhnout tím, že umožníme každému řádně a efektivněji přispět k prováděcím pokynům.
 
-V nedávné době uspořádal Evropský telekomunikační úřad (BEREC) osobní setkání se zainteresovanými stranami. Otázky, které během těchto jednání Evropský telekomunikační úřad (BEREC) kladl zainteresovaným stranám ([viz zde](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) a [zde](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) , jsme přeložili do jednoduché angličtiny a v nutných případech jsme doplnili několik dalších.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

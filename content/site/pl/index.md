@@ -117,7 +117,6 @@ BEREC planuje opublikować wstępną wersję swoich wytycznych i rozpocząć kon
 
 Urzędy regulacyjne muszą wyposażyć się w narzędzia niezbędne do egzekwowania neutralności sieci. W Save The Internet uważamy, że BEREC nie będzie miał wystarczająco dużo czasu na przetworzenie i należyte rozpatrzenie potencjalnie dziesiątków tysięcy opinii (regulator rynku telekomunikacyjnego w USA otrzymał 3,7 miliona odpowiedzi podczas tamtejszych konsultacji!). Możemy przywrócić równowagę, dając wszystkim możliwość wniesienia swojego wkładu w wytyczne w bardziej efektywny sposób.
 
-Niedawno BEREC zorganizował bezpośrednie spotkania z grupami interesariuszy. Przekuliśmy pytania zadawane interesariuszom podczas tych spotkań przez BEREC ([patrz tutaj](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) i [tutaj](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) na prosty język i dodaliśmy kilka innych tam, gdzie czuliśmy, że jest to konieczne.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

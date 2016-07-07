@@ -114,7 +114,6 @@ Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija prival
 
 Reguliuotojams būtini tinkami įrankiai, kad jie galėtų skubinti tinklo neutralumą. Mes, atstovaujantys Save The Internet, manome, kad BEREC neturės pakankamai laiko apdoroti galimai dešimtis tūkstančių atsiliepimų ir tinkami į juos atsižvelgti (JAV elektroninių ryšių reguliuotojų institucija konsultuodamasi su visuomene gavo 3,7 milijono atsakymų !). Mes siūlome metodą, kuriuo pasinaudoję visi žmonės nesunkiai galės prasmingai prisidėti prie direktyvų. Taip mes galėsime vėl atkurti pusiausvyrą.
 
-Neseniai BEREC surengė asmeninius susitikimus su interesų grupėms. Klausimus, kuriuos uždavė BEREC interesų grupių atstovams ([žr. čia (anglų k. )](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) ir [čia (anglų k.)](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) mes apibendrinome suprantama kalba ir pridėjome šiek tiek klausimų, kur mums tai atrodė būtina.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

@@ -113,7 +113,6 @@ BEREC planlægger at offentliggøre sit udkast til retningslinjer og gennemføre
 
 Tilsynsmyndighederne behøver de rigtige værktøjer for at kunne sikre netneutraliteten. Hos Save The Internet tror vi ikke at BEREC får tid nok til at behandle og tage tilstrækkeligt hensyn til måske titusindvis af høringssvar (de amerikanske teletilsynsmyndigheder modtog 3,7 millioner svar på deres høring!). Vi kan råde bod på dette ved at sørge for at folk kan bidrage ordentligt til retningslinjerne på en mere effektiv måde.
 
-For ikke så længe siden arrangerede BEREC fysiske møder med forskellige interessentgrupper. Vi har oversat de spørgsmål BEREC stillede interessenterne på disse møder ([se her](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) og [her](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)), til almindeligt dansk og tilføjet enkelte supplerende spørgsmål hvor vi fandt det relevant.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

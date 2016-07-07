@@ -115,7 +115,6 @@ A BEREC a tervek szerint 2016 júniusában hozza nyilvánosságra az iránymutat
 
 A szabályozóknak fel kell vértezniük magukat azokkal az eszközökkel, amelyekkel megvalósítható a hálózatsemlegesség. Mi, a Save The Internet szervezetei azon a véleményen vagyunk, hogy a BEREC-nek nem lesz elég ideje arra, hogy az esetleg több tízezer észrevételt feldolgozza, és megfelelő mértékben figyelembe vegye (az USA hírközlési szabályozó hatóságához 3,7 millió válasz érkezett a nyilvános konzultáció során!) Helyre billenthetjük ezt az egyensúlyt, ha mindenki számára lehetővé tesszük, hogy megfelelően és hatékonyabban járuljon hozzá az iránymutatásokhoz.
 
-A BEREC nemrégiben személyes találkozókat szervezett az érintett csoportok részvételével. Lefordítottuk egyszerű angol nyelvre azokat a kérdéseket, amelyeket a BEREC tett fel az érintetteknek ([lásd itt](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) és [itt](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) ezeken az értekezleteken, és ahol szükségesnek éreztük, kiegészítettük azokat további kérdésekkel.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

@@ -6,22 +6,20 @@
 - [PREGUNTAS FRECUENTES](faq)
 {{ END NAVIGATION }}
 
+{{ ANCHOR SEND-A-MESSAGE }}
 # Save the Internet
 
 {: .title-subtext}
 Los Reguladores Europeos están a punto de decidir si darle a las grandes corporaciones de telecomunicaciones el poder
 de influir en lo que puedes (y no puedes) hacer online. Europa necesita urgentemente directrices claras de neutralidad de la red
 para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ para ayudar a proteger el Internet abierto en Europa.
-<br><br>
-¡Movilízate, actúa ahora!
+<br>
+<strong>¡Movilízate, actúa ahora!</strong>
 
-{{ BEGIN COUNTER }}
+Modifica la carta, presentándote y explicando por qué la neutralidad de la red es importante para ti, para que sea más personal y efectiva.
 
-| X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
-
-{{ END COUNTER }}
-
-[ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
+{{ BEGIN QUESTIONNAIRE-IFRAME }}
+{{ END QUESTIONNAIRE-IFRAME }}
 
 {{ END HOME INTRO }}
 
@@ -36,7 +34,6 @@ para proteger nuestras libertades y derechos online. Tenemos hasta __Julio__ par
 Los servicios especializados amenazan en convertirse la vía rápida de pago para las grandes compañías de Internet, empujando a todos los demás sitios web, ideas y "start-ups" a la línea lenta.
 
 [LEER MÁS](faq/#que-son-los-servicios-especializados)
-
 
 {{ END HOME SPECIALISED-SERVICES }}
 
@@ -64,14 +61,18 @@ Aunque parezca que te dan algo gratis, tu operador móvil se convierte en guarda
 
 
 {{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
 
 # Dile a tus reguladores nacionales y al BEREC que protejan la neutralidad de la red
 
 Da tu opinión sobre la nueva ley de neutralidad de la red a los reguladores usando el cuestionario a continuación. Generaremos un email a partir de las cuestiones de múltiple opción y abiertas que contestes. Enviaremos tu email a la consulta oficial de los Reguladores de Telecomunicaciones de la UE (BEREC) cuando se abra en junio de 2016.
 
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
+{{ BEGIN COUNTER }}
+
+| X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
+
+{{ END COUNTER }}
+
+[ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
 
@@ -117,7 +118,6 @@ En Junio de 2016, el BEREC publicará el borrador de sus directrices y lanzará 
 
 Los reguladores deben proveerse de las mejores herramientas para aplicar la neutralidad de la red. En Save The Internet pensamos que el BEREC no tendrá suficiente tiempo para procesar debidamente y tener en cuenta las miles de respuestas (¡los reguladores de telecomunicaciones de EEUU recibieron 3,7 millones de respuestas a su consulta!). Podemos re-equilibrar la balanza permitiendo que todo el mundo pueda contribuir en la elaboración de las directrices de manera apropiada.
 
-Recientemente, el BEREC organizó un encuentro cara a cara de partes interesadas. Hemos recopilado nuestras respuestas a las cuestiones que el BEREC nos realizó en el encuentro ([aquí](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) y [aquí](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)), en inglés sencillo y añadiendo algunas otras que, creemos, también son necesarias.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

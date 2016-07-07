@@ -116,7 +116,6 @@ V júni 2016 plánuje BEREC zverejniť svoje návrhy usmernení a spustí verejn
 
 Regulačné orgány by sa mali vybaviť nástrojmi, ktorými dokážu presadiť neutralitu siete. V Save The Internet si myslíme, že BEREC nebude mať dostatok času na spracovanie a riadne zohľadnenie potenciálnych desiatok tisíc odpovedí (telekomunikačný regulačný orgán US dostal počas svojich konzultácií 3,7 milióna odpovedí!). Môžeme obnoviť rovnováhu tým, že každému umožníme riadne prispieť k usmerneniam efektívnejším spôsobom.
 
-BEREC nedávno zorganizoval stretnutia tvárou v tvár so zainteresovanými skupinami. Otázky, ktoré sa BEREC pýtal zainteresovaných strán ([pozri vyššie](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) a [tu](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) počas týchto stretnutí sme preložili do angličtiny a pridali sme zopár ďalších otázok, ktoré sa nám zdali byť potrebné.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

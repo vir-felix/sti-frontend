@@ -117,7 +117,6 @@ In June 2016, BEREC plans to publish its draft guidelines and launch a public co
 
 Regulators need to equip themselves with the tools to enforce net neutrality. In Save The Internet, we think BEREC will not have enough time to process and duly take into account potentially tens of thousands of responses (the US telecoms regulator received 3.7 million responses to its consultation!). We can redress the balance by enabling everybody to properly contribute to the guidelines in a more efficient way.
 
-Recently, BEREC organised face-to-face meetings with stakeholder groups. We have translated the questions that BEREC asked stakeholders ([see here](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) and [here](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in those meetings into plain English and added few others when we felt this was necessary.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

@@ -114,7 +114,6 @@ I juni 2016 kommer BEREC att publicera sitt förslag till riktlinjer och genomf�
 
 Regleringsmyndigheterna behöver lämpliga verktyg för att kunna forcera nätneutralitet. Vi som jobbar med kampanjen Save The Internet tror inte att BEREC kommer att ha tillräckligt med tid på sig för att kunna behandla och ta hänsyn till potentiellt tiotusentals svar (de amerikanska regleringsmyndigheterna fick 3,7 miljoner svar efter sitt samråd!). Vi erbjuder ett förfarande där alla människor på ett meningsfullt sätt kan bidra till att riktlinjerna kommer till stånd och balansen återställs.
 
-Nyligen organiserade BEREC personliga möten med intressegrupper. Vi har översatt frågorna som BEREC ställde till intressegrupperna ([se här](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) och [här](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) på dessa möten till lätt engelska och lagt till några andra där vi tyckte att det var viktigt.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
