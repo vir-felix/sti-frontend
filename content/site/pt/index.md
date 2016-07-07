@@ -117,7 +117,6 @@ Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará
 
 Os reguladores devem prover-se das melhores ferramentas para impor a neutralidade da rede. Na "Save The Internet", pensamos que o BEREC não terá tempo suficiente para processar devidamente e ter em consideração as milhares de respostas (os reguladores de telecomunicações dos Estados Unidos receberam 3,7 milhões de respostas à sua consulta!). Podemos reequilibrar a balança permitindo que todos possam contribuir na elaboração das directrizes de forma mais eficiente.
 
-O BEREC organizou recentemente um encontro presencial para as partes interessadas. Compilámos as nossas respostas às questões que o BEREC nos colocou no encontro ([aqui](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [aqui](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) em inglês simples e adicionando algumas outras que cremos serem também necessárias.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

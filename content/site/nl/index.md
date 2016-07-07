@@ -114,7 +114,6 @@ BEREC is van plan om in juni 2016 zijn ontwerprichtsnoeren te publiceren en een 
 
 Regelgevende instanties moeten zorgen dat ze beschikken over de middelen waarmee ze netneutraliteit kunnen afdwingen. De ngo's achter Save The Internet denken dat BEREC niet genoeg tijd zal hebben om potentieel tienduizenden reacties te verwerken en goed in te calculeren (de Amerikaanse telecomregulator ontving 3,7 miljoen reacties op zijn raadpleging!). We kunnen het evenwicht herstellen door te zorgen dat iedereen op een efficiëntere manier een bijdrage aan de richtsnoeren kan leveren.
 
-BEREC heeft onlangs vergaderingen met groepen belanghebbenden georganiseerd. We hebben de vragen die BEREC tijdens deze vergaderingen aan de belanghebbenden heeft gesteld ([zie hier](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) en [hier](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)), in eenvoudig Engels omgezet en er enkele andere vragen aan toegevoegd waar wij dit nodig vonden.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

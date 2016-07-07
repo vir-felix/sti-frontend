@@ -114,7 +114,6 @@ Nel mese di giugno 2016, il BEREC pubblicherà la bozza delle linee-guida e lanc
 
 I regolatori hanno bisogno di dotarsi degli strumenti necessari per attuare i principi di neutralità della rete. Noi di “Save The Internet” pensiamo che il BEREC non avrà abbastanza tempo per elaborare e tenere debitamente conto delle potenziali decine di migliaia di risposte (negli USA i regolatori delle telecomunicazioni hanno ricevuto 3,7 milioni di risposte alla consultazione!). Possiamo ritrovare l’equilibrio dando a tutti la possibilità di contribuire adeguatamente alla stesura delle linee-guida in modo più efficiente.
 
-Recentemente il BEREC ha organizzato degli incontri a tu per tu con vari gruppi di interlocutori: abbiamo tradotto le domande che il BEREC ha posto loro ([leggi qui](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) e [qui](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) durante quegli incontri in un inglese semplice e ne abbiamo aggiunta qualcuna in più quando lo abbiamo ritenuto necessario.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

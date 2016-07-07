@@ -117,7 +117,6 @@ Juunis 2016 kavatseb BEREC avaldada oma suuniste kavandi ja algatada avaliku aru
 
 Reguleerivad asutused peavad end varustama vahenditega, et kehtestada võrguneutraalsus. Meie siin Interneti päästmise kampaanias Save The Internet arvame, et BERECil ei ole piisavalt aega, et töödelda ja võtta nõuetekohaselt arvesse kõiki võimalikke kümneid tuhandeid vastuseid (USA sideamet sai oma küsimustikule 3,7 miljonit vastust!). Meie saame olukorda tasakaalustada ja võimaldada kõigil aidata tõhusamalt kaasa suuniste loomisele.
 
-Hiljuti korraldas BEREC huvirühmadega näost-näkku kohtumisi. Tõlkisime küsimused, mis BEREC nendel kohtumistel huvirühmadele esitas ([vt siit](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) ja [siit](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/))  lihtsasse inglise keelde ja lisasime veel paar küsimust, mis tundusid meile vajalikud.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}

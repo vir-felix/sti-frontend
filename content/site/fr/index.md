@@ -115,7 +115,6 @@ En juin 2016, l'ORECE a publié un premier jet des lignes directrices et a lanc�
 
 Les régulateurs doivent s'équiper d'outils leur permettant d'imposer la neutralité du Net. La campagne Save The Internet considère que l'ORECE n'aura pas assez de temps pour traiter et prendre en compte les milliers de réponses potentielles (l'agence de régulation américaine a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons redresser cette balance en permettant à tout le monde de contribuer aux lignes directrices en cours d'élaboration d'une manière plus efficace. 
 
-Récemment, l'ORECE a organisé des rencontres avec les différentes parties prenantes. Nous avons traduit les questions que l'ORECE a posé aux organismes présents ([voir ici](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) et [également ici](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) lors de ces rencontres qui se sont déroulées en anglais et nous avons ajouté quelques questions lorsque nous le jugions nécessaire. 
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
