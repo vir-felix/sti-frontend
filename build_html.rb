@@ -122,7 +122,7 @@ def transform(site_config, locale, html)
       when 'questionnaire-iframe'
         html.sub! block_pattern, ''
       when 'navigation'
-        navigation_tail = "\n{::nomarkdown}\n<select name=\"locales\" class=\"select_locale\">"
+        navigation_tail = "\n{::nomarkdown}\n<select name=\"locale\" id=\"locale\" autocomplete=\"off\">"
         Language.locales.each do |lang|
           if lang == locale
             navigation_tail << "<option value=\"#{lang.language}\" selected=\"selected\">#{lang.language_name}</option>"

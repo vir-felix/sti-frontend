@@ -25,6 +25,15 @@ function daysUntil(deadline) {
   return Math.floor(((((millisecondsUntil / 1000) / 60) / 60) / 24));
 }
 
+// initialize language selection, redirect to site on select
+
+function initLanguageSelection() {
+  $("#locale").change(function () {
+    console.log("hit selection.");
+    window.location.href = "/" + this.value + "/";
+  });
+}
+
 // video related globals
 
 var videoPlayers  = [];
@@ -123,7 +132,7 @@ $(document).ready(function() {
   // questionnaire iframe specifics
 
   $('#home__questionnaire__content__iframe').iFrameResize({
-    log: true,
+    log: false,
     heightCalculationMethod: 'max',
     messageCallback: function(context) {
       if (context.message === 'loaded' ||
@@ -135,6 +144,9 @@ $(document).ready(function() {
 
   // berec counter
   registerAndSetupCounter();
+
+  // language selection
+  initLanguageSelection();
 
   // video
 
