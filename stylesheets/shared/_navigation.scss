@@ -41,8 +41,17 @@
   
   select {
     float: right;
-    margin-top: 10px;
     margin-right: 30px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    padding: 5px;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    color: #FFF;
+    background: #3CA8C4;
+    font-size: 0.8rem;
+    text-transform: uppercase;
   }
 
   .navigation__sections {
