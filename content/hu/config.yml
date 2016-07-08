@@ -1,0 +1,16 @@
+language: "hu"
+language_name: "magyar"
+questionnaire_language: "hu"
+backend: "original"
+title: "SAVE THE INTERNET IN EUROPE"
+action: "Csatlakozzon hozzánk és cselekedjen! Küldjön üzenetet az Ön országában működő szabályozó hatóságnak"
+keywords:
+  - hálózati semlegesség
+  - nyílt internet
+  - specializált szolgáltatások
+  - forgalomszabályozás
+  - fizetett gyorssávok
+  - zero rating
+  - Európa
+  - Távközlés egységes piac
+  - hálózatsemlegesség
