@@ -233,7 +233,7 @@ Príkladmi týchto krajín je:
 
 ## Ako vám môžem pomôcť? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+SaveTheInternet.eu môžete pomôcť viacerými spôsobmi:
 
 <i class="fa fa-long-arrow-right"></i>        Šírte naše slová! Povedzte svojim priateľom o tejto kampani, o neutralite siete a o tom, prečo je dôležité konať. Iba vtedy, keď sa začnú ozývať hlasy mnohých jednotlivcov, budeme schopní ochrániť naše online práva a slobody.
 

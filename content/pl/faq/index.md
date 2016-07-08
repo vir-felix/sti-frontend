@@ -235,7 +235,7 @@ Oto kilka przykładów:
 
 ## Jak mogę pomóc? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+Możesz pomóc SaveTheInternet.eu na wiele sposobów:
 
 <i class="fa fa-long-arrow-right"></i>        Powiedz innym! Poinformuj znajomych o tej kampanii, o neutralności sieci i dlaczego ważne jest, aby działać już teraz. Tylko wtedy, gdy wiele osób wyrazi swój głos, będziemy w stanie chronić nasze prawa i wolność w Internecie.
 

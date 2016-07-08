@@ -224,7 +224,7 @@ Néhány példa:
 
 ## Hogyan segíthetek? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+Sokféleképpen segíthet a SaveTheInternet.eu kampányban
 
 <i class="fa fa-long-arrow-right"></i>        Mondja el mindenkinek! Beszéljen barátaival erről a kampányról, a hálózatsemlegességről, és arról, miért fontos, hogy most cselekedjünk. Online jogainkat és szabadságjogainkat csak akkor tudjuk megvédeni, ha minnél többen hallatjuk a hangunkat.
 

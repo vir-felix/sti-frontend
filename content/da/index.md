@@ -90,7 +90,8 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## "In 2015, the European Union adopted legislation on net neutrality ..."
+
+## I oktober 2015 vedtog EU en lov om netneutralitet ...
 [EU-forordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } indeholder gode principper som skal sikre at du kan kommunikere med et hvilket som helst andet punkt på nettet uden diskrimination. Men dele af forordningen vil kunne misbruges til at underminere netneutraliteten. De lovgivende myndigheder har besluttet at overlade ansvaret for at klargøre uklarhederne i teksten til teletilsynsmyndighederne.
 {{ END HOME INFO }}
 

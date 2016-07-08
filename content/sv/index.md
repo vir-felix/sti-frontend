@@ -90,7 +90,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## År 2015 antog EU en ny lag om nätneutralitet …
 
 [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } innehåller bra grundprinciper som säkerställer att du kan koppla upp dig till vilken plats som helst på nätet utan bli diskriminerad. Tyvärr kan vissa delar av förordningen missbrukas och undergräva nätneutraliteten. Lagstiftarna har beslutat överlämna ansvaret när det gäller att klarlägga oklarheter i texten till regleringsmyndigheterna för telekommunikationer.
 {{ END HOME INFO }}

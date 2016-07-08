@@ -91,7 +91,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## 2015. aastal võttis Euroopa Liit vastu õigusakti võrguneutraalsuse kohta …
 
 [ELi määrus](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } sisaldab häid põhimõtteid, mis tagavad, et saaksite diskrimineerimiseta ühenduse mis tahes muu võrgupunktiga. Siiski võivad mõned määruse osad võrguneutraalsust kuritarvitada. Seadusandjad otsustasid jätta vastutuse ebaselge teksti selgitamisel elektroonilist sidet reguleerivatele asutustele.
 {{ END HOME INFO }}

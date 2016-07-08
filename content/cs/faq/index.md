@@ -232,7 +232,7 @@ Zde uvádíme několik příkladů:
 
 ## Jak vám mohu pomoci? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+Iniciativu SaveTheInternet.eu můžete podpořit mnoha způsoby:
 
 <i class="fa fa-long-arrow-right"></i>        Pomozte šířit tyto informace! Povězte o této kampani, síťové neutralitě a důvodech, proč je nutné okamžitě jednat, svým přátelům. Naše práva a svobody budeme schopni chránit pouze tehdy, promluvíme-li hlasem velkého množství osob.
 

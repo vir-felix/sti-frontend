@@ -91,7 +91,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## V roku 2015 prijala Európska únia právne predpisy o neutralite siete …
 
 [Nariadenie EÚ](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } obsahuje dobré zásady, ktoré môžu zabezpečiť, že sa budete môcť pripojiť k akémukoľvek inému bodu siete bez diskriminácie. Niektoré časti Nariadenia by však mohli byť zneužité na podkopanie neutrality siete. Zákonodarcovia sa rozhodli prenechať zodpovednosť za objasnenie nejasností textu telekomunikačným regulačným orgánov.
 {{ END HOME INFO }}

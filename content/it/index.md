@@ -90,7 +90,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted legislation on net neutrality ...
+## Nel 2015, l’Unione Europea ha adottato la legislazione sulla neutralità della rete …
 
 [Il Regolamento Europeo](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } contiene dei buoni principi che ti garantiscono di navigare come e dove vuoi su Internet senza discriminazioni. Tuttavia, alcune parti del Regolamento potrebbero prestarsi ad interpretazioni che possono condurre ad abusi e minare la neutralità della rete. Il legislatore ha deciso di lasciare la responsabilità di chiarire le incertezze del testo agli enti di regolamentazione delle telecomunicazioni.
 {{ END HOME INFO }}

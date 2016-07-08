@@ -232,7 +232,7 @@ Nekaj primerov:
 
 ## Kako vam lahko pomagam? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+SaveTheInternet.eu lahko pomagate na veliko načinov.
 
 <i class="fa fa-long-arrow-right"></i>        Širite besedo! Povejte svojim prijateljem o tej kampanji, o internetni nevtralnosti in o tem, zakaj je pomembno, da ukrepamo zdaj. Šele ko številni posamezniki povzdignejo glas, bomo lahko zaščitili naše spletne pravice in svoboščine.
 

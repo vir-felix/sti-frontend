@@ -90,7 +90,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## V roce 2015 přijala Evropská unie legislativu, týkající se síťové neutrality…
 
 [Směrnice EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } obsahuje prospěšné zásady, které zajistí, abyste e mohli připojit k jakémukoliv bodu na internetu, aniž by docházelo k diskriminaci. Avšak některé části směrnice lze využít pro narušení síťové neutrality. Zákonodárci se rozhodli ponechat zodpovědnost za objasnění nejasností textu na telekomunikačních úřadech.
 {{ END HOME INFO }}

@@ -235,7 +235,7 @@ Bijvoorbeeld:
 
 ## Hoe kan ik helpen? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+U kan SaveTheInternet.eu op verschillende manieren helpen:
 
 <i class="fa fa-long-arrow-right"></i>        Zeg het voort! Vertel uw vrienden over deze campagne, over netneutraliteit en waarom het belangrijk is om nu actie te ondernemen. Alleen als mensen in groten getale hun stem laten horen, kunnen we onze onlinerechten en -vrijheden beschermen.
 

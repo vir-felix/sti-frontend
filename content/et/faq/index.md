@@ -233,7 +233,7 @@ Need on mõned näited:
 
 ## Kuidas ma teid aidata saan? {#how-can-i-help-you}
 
-You can help SaveTheInternet.eu in many ways:
+Saate toetada liikumist SaveTheInternet.eu paljudel viisidel:
 
 <i class="fa fa-long-arrow-right"></i>        Levitage sõnumit! Räägi oma sõpradele sellest kampaaniast, võrguneutraalsusest ja sellest, miks on oluline kohe tegutseda. Alles siis, kui paljud inimesed võtavad sel teemal sõna, saame kaitsta oma veebipõhiseid õigusi ja vabadusi.
 

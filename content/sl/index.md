@@ -90,7 +90,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted legislation on net neutrality ...
+## Leta 2015 je Evropska unija sprejela zakonodajo o internetni nevtralnosti ...
 
 [Uredba EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } vsebuje dobra načela, da se zagotovi, da se lahko povežete s katero koli drugo točko na internetu brez diskriminacije. Vendar pa bi lahko nekateri deli uredbe zlorabljali in ogrožali internetno nevtralnost. Zakonodajalci so se odločili, da zapustijo odgovornost za razjasnitev negotovosti besedila za regulatorje telekomunikacije.
 {{ END HOME INFO }}
