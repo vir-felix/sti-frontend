@@ -10,7 +10,46 @@ def read_file(relative_path)
   File.read(File.join(Dir.pwd, relative_path))
 end
 
+def render_path(*path_parts)
+  path = path_parts.map do |part|
+    if part.length <= 1
+      nil
+    elsif part[-1] == '/'
+      part
+    else
+      "#{part}/"
+    end
+  end
+  path.join
+end
+
+@locales_path = "content"
+@export_path = "build/site"
 @translations_ready = YAML.load(read_file('translations-ready.yml')).uniq.sort
+
+class Language
+  @@locales = Array.new
+  attr_reader :language, :language_name, :questionnaire_language, :backend
+
+  def initialize(language, language_name, questionnaire_language, backend)
+    @language, @language_name, @questionnaire_language, @backend = language, language_name, questionnaire_language, backend
+    @@locales.push self
+  end
+
+  def self.locales
+    @@locales
+  end
+end
+
+def locales_init
+  Dir.foreach(@locales_path) do |language|
+    locale_path = File.join(@locales_path, language)
+    next if language == '.' or language == '..' or not File.directory?(locale_path) or not @translations_ready.include?(language)
+    config_path = File.join(render_path(@locales_path, language), "config.yml")
+    locale_raw = YAML.load_file(config_path)
+    new_locale = Language.new locale_raw["language"], locale_raw["language_name"], locale_raw["questionnaire_language"], locale_raw["backend"]
+  end
+end
 
 def walk(path, &process_file)
   Dir.foreach(path) do |file|
@@ -33,28 +72,14 @@ def create_dir(path)
   end
 end
 
-def render_path(*path_parts)
-  path = path_parts.map do |part|
-    if part.length <= 1
-      nil
-    elsif part[-1] == '/'
-      part
-    else
-      "#{part}/"
-    end
-  end
-  path.join
-end
-
 def render_partial(site_config, partial_name)
-  puts site_config
   erb = ERB.new(read_file("layouts/_#{partial_name}.html.erb"))
   obj = Object.new
   obj.instance_variable_set(:@config, site_config)
   "\n{::nomarkdown}\n" + erb.result(obj.instance_eval{binding}) + "{:/}\n"
 end
 
-def transform(site_config, language, html)
+def transform(site_config, locale, html)
   block_pattern = /{{([^}]*)}}/
 
   if block_line = html[block_pattern, 1]
@@ -72,8 +97,9 @@ def transform(site_config, language, html)
       case id_part
       when 'questionnaire-iframe'
         html.sub! block_pattern, render_partial(site_config, 'questionnaire')
-      when 'navigation',
-           'counter',
+      when 'navigation'
+        html.sub! block_pattern, "\n{::nomarkdown}\n<div class=\"#{id_part}\">\n{:/}\n"
+      when 'counter',
            'home__specialised-services',
            'home__traffic-management',
            'home__zero-rating'
@@ -96,16 +122,15 @@ def transform(site_config, language, html)
       when 'questionnaire-iframe'
         html.sub! block_pattern, ''
       when 'navigation'
-        navigation_tail = "
-          <ul class=\"navigation__languages\">
-            <li><a class=\"current-language\" href=\"#\">#{language.upcase}</a></li>
-        "
-        @translations_ready.each do |t|
-          unless t == language
-            navigation_tail << "<li><a href=\"/#{t}\">#{t.upcase}</a></li>"
+        navigation_tail = "\n{::nomarkdown}\n<select name=\"locale\" id=\"locale\" autocomplete=\"off\">"
+        Language.locales.each do |lang|
+          if lang == locale
+            navigation_tail << "<option value=\"#{lang.language}\" selected=\"selected\">#{lang.language_name}</option>"
+          else
+            navigation_tail << "<option value=\"#{lang.language}\">#{lang.language_name}</option>"
           end
         end
-        navigation_tail << "</ul></div>"
+        navigation_tail << "</select></div>\n{:/}\n"
 
         html.sub! block_pattern, navigation_tail
       when 'counter',
@@ -135,30 +160,32 @@ def transform(site_config, language, html)
         html.sub! block_pattern, render_partial(site_config, 'supported-by')
       end
     end
-    transform site_config, language, html
+    transform site_config, locale, html
   else
     (render_partial(site_config, 'head') + html).gsub /^ */, ''
   end
 end
 
-def build_site(language, description)
-  build_path   = render_path "build",   description, language
-  content_path = render_path "content", description, language
-  site_config  = YAML.load read_file("#{content_path}/config.yml")
-  if Dir.exists?("#{content_path}images/")
-    create_dir "#{build_path}images/"
-    FileUtils.copy_entry("#{content_path}images/", "#{build_path}images/")
+def build_site(locale)
+  export_locale = render_path @export_path, locale.language
+  import_locale = render_path @locales_path, locale.language
+  site_config = YAML.load read_file("#{import_locale}/config.yml")
+  puts "[#{locale.language}] Building site #{locale.language_name}"
+  
+  if Dir.exists?("#{import_locale}images/")
+    create_dir "#{export_locale}images/"
+    FileUtils.copy_entry("#{import_locale}images/", "#{export_locale}images/")
   end
 
-  walk(content_path) do |path, content_file_name|
-    relative_path = render_path path.split('/')[3..-1].join('/')
-    target_path   = render_path build_path, relative_path
+  walk(import_locale) do |path, content_file_name|
+    relative_path = render_path path.split('/')[2..-1].join('/')
+    target_path   = render_path export_locale, relative_path
 
     layout_path = File.join(render_path("layouts"), "site.html.erb")
     target_file_name = content_file_name.split('.')[0..-2].push('html').join('.')
 
     # create html from kramdown flavoured markdown
-    content_kramdown = transform site_config, language, File.read(File.join(path, content_file_name))
+    content_kramdown = transform site_config, locale, File.read(File.join(path, content_file_name))
 
     document = Kramdown::Document.new(content_kramdown, template: layout_path, parse_block_html: true, auto_ids: false)
 
@@ -170,17 +197,12 @@ def build_site(language, description)
 end
 
 def build_all
-  Dir.foreach('content') do |site|
-    site_path = File.join('content', site)
-    next if site == '.' or site == '..' or not File.directory?(site_path) or site == 'questionnaire'
-    Dir.foreach(site_path) do |language|
-      language_path = File.join(site_path, language)
-      next if language == '.' or language == '..' or not File.directory?(language_path) or not @translations_ready.include?(language)
-      build_site language, site
-    end
+  Language.locales.each do |locale|
+    build_site locale
   end
 end
 
+locales_init
 build_all
 
 # TODO: trigger build via travis on git master push
