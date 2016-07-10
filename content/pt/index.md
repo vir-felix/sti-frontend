@@ -10,8 +10,7 @@
 # Salva a Internet
 
 {: .title-subtext}
-Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede
-para proteger as nossas liberdades e direitos online.
+Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede para proteger as nossas liberdades e direitos online.
 <br><br>
 Mobiliza-te, actua Já!
 
@@ -133,11 +132,11 @@ Algo de que precisamos sempre é de ajuda nas traduções; portanto, se falas al
 
 ### Política de Privacidade
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
+Armazenamos os teus comentários para a consulta do BEREC na caixa de entrada de um endereço de e-mail alojado na Áustria até os encaminhar-mos para a consulta oficial do BEREC. Podes ler a política de privacidade para as consultas do BEREC [aqui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). A Arbeitskreis Vorratsdaten Österreich e a Bits of Freedom têm acesso aos comentários e endereços de e-mail enviados para o BEREC através deste website, dados que reterão e processarão por razões técnicas. O BEREC publicará todas as respostas que não tenham sido assinaladas como confidenciais. As organizações promotoras desta campanha encontram-se listadas no fundo deste website. Um mês após o encerramento do periodo de consulta oficial eliminaremos todos os comentários.
 
-We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+Recolhemos informação não personalizada neste website através do [Piwik](https://piwik.org/), um software de análise que respeita a privacidade do utilizador.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+Se [subscreveres a newsletter](#subscribe-to-newsletter){: data-scroll="true"} o teu endereço de email ficará registado numa mailing list e base de dados que são administradas e alojadas pela European Digital Rights. São a única organização com autorização para te enviar mensagens se subscreveres a newsletter. Podes cancelar a subscrição dessa newsletter a qualquer altura e não receberás mais mensagens.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
