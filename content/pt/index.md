@@ -50,11 +50,11 @@ Não permitas que o teu fornecedor de Internet decida por ti que tráfego é imp
 
 {{ BEGIN HOME ZERO-RATING }}
 
-### Zero Rating
+### "Zero Rating"
 
 Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel torna-se guardião da tua conexão e dá-lhe uma razão para reduzir o teu limite mensal de dados.
 
-[LER MAIS](faq/#o-que-e-zero-rating)
+[LER MAIS](faq/#o-que-e-o-zero-rating)
 
 {{ END HOME ZERO-RATING }}
 
@@ -66,7 +66,7 @@ Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel 
 
 # Diz aos reguladores nacionais e ao BEREC para protegerem a neutralidade da rede
 
-Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responderes às questões será gerado um email para ti próprio. O email será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
+Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responderes às questões será gerado um e-mail para ti. O e-mail será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
@@ -91,7 +91,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## Em 2015, a União Europeia adoptou uma legislação sobre neutralidade da rede...
+## Em 2015, a União Europeia adoptou legislação sobre neutralidade da rede...
 
 [A Regulamentação Europeia](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120){: target="_blank" } contém bons princípios para assegurar que possas conectar-te a qualquer ponto da rede sem discriminações. Contudo, existe o risco de que algumas partes da regulamentação sejam usadas abusivamente para subverter a neutralidade da rede. Os legisladores decidiram deixar nas mãos dos reguladores de telecomunicações a responsabilidade de clarificar algumas partes onde o texto é pouco preciso.
 {{ END HOME INFO }}
@@ -132,7 +132,7 @@ Algo de que precisamos sempre é de ajuda nas traduções; portanto, se falas al
 
 ### Política de Privacidade
 
-Armazenamos os teus comentários para a consulta do BEREC na caixa de entrada de um endereço de e-mail alojado na Áustria até os encaminhar-mos para a consulta oficial do BEREC. Podes ler a política de privacidade para as consultas do BEREC [aqui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). A Arbeitskreis Vorratsdaten Österreich e a Bits of Freedom têm acesso aos comentários e endereços de e-mail enviados para o BEREC através deste website, dados que reterão e processarão por razões técnicas. O BEREC publicará todas as respostas que não tenham sido assinaladas como confidenciais. As organizações promotoras desta campanha encontram-se listadas no fundo deste website. Um mês após o encerramento do periodo de consulta oficial eliminaremos todos os comentários.
+Armazenamos os teus comentários para a consulta do BEREC na caixa de entrada de um endereço de e-mail alojado na Áustria até os encaminhar-mos para a consulta oficial do BEREC. Podes ler a política de privacidade para as consultas do BEREC [aqui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). A Arbeitskreis Vorratsdaten Österreich e a Bits of Freedom têm acesso aos comentários e endereços de e-mail enviados para o BEREC através deste website, dados que reterão e processarão por razões técnicas. O BEREC publicará todas as respostas que não tenham sido assinaladas como confidenciais. As organizações promotoras desta campanha encontram-se listadas no fundo deste website. Um mês após o encerramento do periodo de consulta oficial eliminaremos todos os comentários e os endereços de e-mail associados a esses comentários.
 
 Recolhemos informação não personalizada neste website através do [Piwik](https://piwik.org/), um software de análise que respeita a privacidade do utilizador.
 
