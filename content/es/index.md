@@ -14,8 +14,6 @@ Los Reguladores Europeos están a punto de decidir si darle a las grandes corpor
 <br>
 <strong>¡Movilízate, actúa ahora!</strong>
 
-Modifica la carta, presentándote y explicando por qué la neutralidad de la red es importante para ti, para que sea más personal y efectiva.
-
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
 
