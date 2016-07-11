@@ -10,34 +10,34 @@
 {{ BEGIN FAQ }}
 # Perguntas frequentes
 
-## [Neutralidade da rede](#net-neutrality){: data-scroll="true"}
+## [Neutralidade da rede](#neutralidade-da-rede){: data-scroll="true"}
 - [O que é a neutralidade da rede?](#o-que-e-a-neutralidade-da-rede){: data-scroll="true"}
 - [Como é que a neutralidade da rede afecta a minha vida diária?](#como-e-que-a-neutralidade-da-rede-afecta-a-minha-vida-diaria){: data-scroll="true"}
 - [Como é que chegamos aqui? O que aconteceu na EU?](#como-e-que-chegamos-aqui){: data-scroll="true"}
 - [Quem na Europa está envolvido no debate?](#quem-na-europa-esta-envolvido-no-debate){: data-scroll="true"}
-- [Quem está por trás de SaveTheInternet.eu?](#quem-esta-por-tras-de-savetheinterneteu){: data-scroll="true"}
+- [Quem está por trás da SaveTheInternet.eu?](#quem-esta-por-tras-da-savetheinterneteu){: data-scroll="true"}
 
-## [Serviços Especializados](#specialised-services){: data-scroll="true"}
+## [Serviços Especializados](#servicos-especializados){: data-scroll="true"}
 - [O que são serviços especializados?](#o-que-sao-servicos-especializados){: data-scroll="true"}
-- [Exemplos de serviços não especializados](#exemplo-de-servicos-nao-especializados){: data-scroll="true"}
+- [Exemplos de serviços não especializados](#exemplos-de-servicos-nao-especializados){: data-scroll="true"}
 - [Que salvaguardas há na legislação europeia referentes a serviços especializados?](#que-salvaguardas-ha-na-legislacao-europeia-referentes-a-servicos-especializados){: data-scroll="true"}
 - [O que é necessário para fortalecer as salvaguardas referentes a serviços especializados e porque é importante?](#o-que-e-necessario-para-fortalecer-as-salvaguardas-referentes-a-servicos-especializados){: data-scroll="true"}
 
-## [Gestão de Tráfego](#traffic-management){: data-scroll="true"}
+## [Gestão de Tráfego](#gestao-de-trafego){: data-scroll="true"}
 - [O que é gestão de tráfego?](#o-que-e-gestao-de-trafego){: data-scroll="true"}
-- [Por que me devo preocupar com a gestão do tráfego?](#por-que-me-devo-preocupar-com-a-gestao-de-trafego){: data-scroll="true"}
+- [Por que me devo preocupar com a gestão de tráfego?](#por-que-me-devo-preocupar-com-a-gestao-de-trafego){: data-scroll="true"}
 - [Não deveriam os fornecedores de Internet poder gerir as suas próprias redes?](#nao-deveriam-os-fornecedores-de-internet-poder-gerir-as-suas-proprias-redes){: data-scroll="true"}
 - [Qual o objectivo da campanha SaveTheInternet.eu em relação à gestão de tráfego?](#qual-o-objectivo-da-campanha-savetheinterneteu-em-relacao-a-gestao-de-trafego){: data-scroll="true"}
 - [Quando pode um fornecedor começar a gerir a sua rede?](#quando-pode-um-fornecedor-comecar-a-gerir-a-sua-rede){: data-scroll="true"}
 
 ## ["Zero Rating"](#zero-rating){: data-scroll="true"}
-- [O que é "zero rating"?](#o-que-e-zero-rating){: data-scroll="true"}
-- [Porque é "zero rating" um problema?](#porque-e-zero-rating-um-problema){: data-scroll="true"}
+- [O que é o "zero rating"?](#o-que-e-o-zero-rating){: data-scroll="true"}
+- [Porque é o "zero rating" um problema?](#porque-e-o-zero-rating-um-problema){: data-scroll="true"}
 - [Recebo realmente algo gratuito quando uso um programa "zero rating"?](#recebo-realmente-algo-gratuito-quando-uso-um-programa-zero-rating){: data-scroll="true"}
 - [Como pode o "zero rating" afectar os fornecedores de serviços online e a diversidade do ecossistema da Internet?](#como-pode-o-zero-rating-afectar-os-fornecedores-de-servicos-online-e-a-diversidade-do-ecossistema-da-internet){: data-scroll="true"}
 - [Qual o objectivo da campanha SaveTheInternet.eu em relação ao "zero rating"?](#qual-o-objectivo-da-campanha-savetheinterneteu-em-relacao-ao-zero-rating){: data-scroll="true"}
 
-## [Transparência](#transparency){: data-scroll="true"}
+## [Transparência](#transparencia){: data-scroll="true"}
 - [Que benefícios se esperam da nova regulamentação da neutralidade da rede?](#que-beneficios-se-esperam-da-nova-regulamentacao-da-neutralidade-da-rede){: data-scroll="true"}
 - [Que transparência se espera com a nova regulamentação da neutralidade da rede?](#que-transparencia-se-espera-com-a-nova-regulamentacao-da-neutralidade-da-rede){: data-scroll="true"}
 
@@ -47,13 +47,13 @@
 
 
 
-# Neutralidade da Rede {#net-neutrality}
+# Neutralidade da Rede {#neutralidade-da-rede}
 
 ## O que é a neutralidade da rede? {#o-que-e-a-neutralidade-da-rede}
 
-A neutralidade da rede é o princípio sob o qual os provedores de acesso à Internet devem transferir dados sem discriminação com base na origem, destino ou o tipo de dados. Isto significa que a neutralidade da rede é o que proíbe que os operadores de telecomunicações bloqueiem ou degradem conteúdos, aplicações ou serviços.
+A neutralidade da rede é o princípio sob o qual os provedores de acesso à Internet devem transferir dados sem discriminação com base na origem, destino ou o tipo de dados. Isto significa que a neutralidade da rede é o que proíbe os operadores de telecomunicações de bloquear ou degradar conteúdos, aplicações ou serviços.
 
-A neutralidade da rede garante a tua liberdade de distribuir e aceder online à informação que pretendes. Este principio fundamental assegura uma Internet aberta, inovadores, competitiva e diversificada.
+A neutralidade da rede garante a tua liberdade de distribuir e aceder online à informação que pretendes. Este principio fundamental assegura uma Internet aberta, inovadora, competitiva e diversificada.
 
 
 ## Como é que a neutralidade da rede afecta a minha vida diária? {#como-e-que-a-neutralidade-da-rede-afecta-a-minha-vida-diaria}
@@ -81,13 +81,13 @@ Muitas das ONGs por trás desta campanha já lutam pela neutralidade da rede des
 
 Na União Europeia o debate progrediu de forma bastante lenta. Tivemos de esperar até 11 de Setembro de 2013 para ter uma proposta de lei sobre a neutralidade da rede. Esta proposta foi elaborada pela Comissão Europeia.
 
-A proposta de 2013 continha algumas lacunas que teriam permitido aos provedores de Internet contornar a neutralidade da rede. Por exemplo, através de disposição sobre "serviços especializados", os provedores de acesso à Internet teriam permissão para oferecer acesso prioritário discriminatório. A proposta também teria permitido o bloqueio discriminatório de websites, aplicações e conteúdos - uma ameaça ao estado de direito e à liberdade de expressão.
+A proposta de 2013 continha algumas lacunas que teriam permitido aos provedores de Internet contornar a neutralidade da rede. Por exemplo, através da disposição sobre "serviços especializados", os provedores de acesso à Internet teriam permissão para oferecer acesso prioritário discriminatório. A proposta também teria permitido o bloqueio discriminatório de websites, aplicações e conteúdos - uma ameaça ao estado de direito e à liberdade de expressão.
 
-Felizmente, o Parlamento Europeu trabalhou afincadamente para fechar estas lacunas e votou a favor de regras claras e vinculativas conducentes à neutralidade da rede a 3 de Abril de 2014. Apesar de algumas coisas parecerem sombrias inicialmente, os vossos esforços com o movimento SaveTheInternet ajudaram o Parlamento a adoptar um texto com garantias sólidas a favor da neutralidade da rede. Esta votação foi aplaudida por milhões de pessoas em todo o mundo.
+Felizmente, o Parlamento Europeu trabalhou afincadamente para fechar estas lacunas e votou, a 3 de Abril de 2014, a favor de regras claras e vinculativas conducentes à neutralidade da rede. Apesar de algumas coisas parecerem sombrias inicialmente, os vossos esforços junto da campanha SaveTheInternet ajudaram o Parlamento a adoptar um texto com garantias sólidas a favor da neutralidade da rede. Esta votação foi aplaudida por milhões de pessoas em todo o mundo.
 
-Após esta vitória, os Estados Membros reuniram-se no Conselho e lentamente, depois de mais de um ano, tomaram uma posição conjunta. Puseram-se de acordo com um texto que reintroduzia algumas lacunas enquanto introduzia outras novas. Se adoptado, o texto do Conselho teria criado vias rápidas pagas; permitido a discriminação por preço na UE, e autorizado o bloqueio ilegal e arbitrário de conteúdo legal.
+Após esta vitória, os Estados Membros reuniram-se no Conselho e lentamente, depois de mais de um ano, tomaram uma posição conjunta. Puseram-se de acordo com um texto que além de reintroduzir algumas lacunas criava ainda outras novas. Se adoptado, o texto do Conselho teria criado vias rápidas pagas; permitido a discriminação por preço na UE, e autorizado o bloqueio ilegal e arbitrário de conteúdo legal.
 
-Para progredir nas negociações e minar a posição do Parlamento, as três instituições iniciaram o processo de negociação "informal" através dos chamados ["triálogos"](https://edri.org/files/NN_process_infographics.pdf). No final de uma longa sessão, perto das duas da manhã, alcançou-se um acordo entre as três instituições políticas. Este texto contém fortes princípios para levar a neutralidade da rede à Europa. Contudo, certas disposições da regulamentação não são suficientemente claras e poderiam ser usadas abusivamente (o texto é melhor que a proposta inicial da Comissão Europeia, mas pior que a posição inicial do Parlamento Europeu). Isto pode levar a lacunas que poderiam permitir a discriminação na Internet. As emendas que apresentamos na segunda votação do Parlamento Europeu tentaram clarificar e corrigir o documento. Contudo, a Regulamentação também continha acordos sobre a eliminação de encargos de "roaming", o que, aliado ao facto de ser necessária maioria absoluta para alterar o documento proposto, nenhuma das emendas foi aceite. Por outras palavras, o Parlamento Europeu optou por passar para os reguladores as decisões relacionadas com as incertezas do texto. 
+Para progredir nas negociações e minar a posição do Parlamento, as três instituições iniciaram um processo de negociação "informal" através dos chamados ["triálogos"](https://edri.org/files/NN_process_infographics.pdf). No final de uma longa sessão, perto das duas da manhã, alcançou-se um acordo entre as três instituições políticas. Este texto contém fortes princípios para garantir a neutralidade da rede na Europa. Contudo, certas disposições da regulamentação não são suficientemente claras e poderiam ser usadas abusivamente (o texto é melhor que a proposta inicial da Comissão Europeia, mas pior que a posição inicial do Parlamento Europeu). Isto pode levar a lacunas que poderiam permitir a discriminação na Internet. As emendas que apresentamos na segunda votação do Parlamento Europeu tentaram clarificar e corrigir o documento. Contudo, a Regulamentação também continha acordos sobre a eliminação de encargos de "roaming", o que, aliado ao facto de ser necessária maioria absoluta para alterar o documento proposto, nenhuma das emendas foi aceite. Por outras palavras, o Parlamento Europeu optou por passar para os reguladores as decisões relacionadas com as incertezas do texto. 
 
 
 ## Quem na Europa está envolvido no debate? {#quem-na-europa-esta-envolvido-no-debate}
@@ -99,14 +99,14 @@ Do lado da neutralidade da rede estão a sociedade civil e as organizações de 
 Mas o factor decisivo na maioria dos debates sobre a neutralidade da rede é o interesse geral, **tu, por outras palavras**. Se houver pessoas suficientes no debate, é possível superar o "lobby" anti-neutralidade da rede, podemos fazer escutar os nossos argumentos e ganhar.
 
 
-## Quem está por trás de SaveTheInternet.eu? {#quem-esta-por-tras-de-savetheinterneteu}
+## Quem está por trás da SaveTheInternet.eu? {#quem-esta-por-tras-da-savetheinterneteu}
 
-SaveTheInternet é uma campanha conjunta de 12 organizações europeias que trabalham para proteger as liberdades civis na Internet. Esta campanha foi construída para ligar as pessoas com os responsáveis políticos na elaboração da Regulamentação Europeia sobre a neutralidade da rede. Esta campanha foi lançada na conferência 30c3 em Dezembro de 2012 e tem sido actualizada permanentemente para seguir de perto o processo legislativo e regulador.
+A SaveTheInternet é uma campanha conjunta de 12 organizações europeias que trabalham para proteger as liberdades civis na Internet. Esta campanha foi construída para ligar as pessoas com os responsáveis políticos na elaboração da Regulamentação Europeia sobre a neutralidade da rede. Esta campanha foi lançada na conferência 30c3 em Dezembro de 2012 e tem sido actualizada permanentemente para seguir de perto o processo legislativo e regulador.
 
 Se fazes parte de uma organização e queres apoiar a campanha ou ajudar-nos na sua difusão, por favor contacta-nos através do email [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
-# Serviços Especializados {#specialised-services}
+# Serviços Especializados {#servicos-especializados}
 
 
 ## O que são serviços especializados? {#o-que-sao-servicos-especializados}
@@ -116,7 +116,7 @@ Um serviço especializado é qualquer serviço fornecido ao qual o provedor de I
 Os serviços especializados reais não têm qualquer relação com a Internet. São serviços que podem até utilizar a mesma tecnologia e por vezes a mesma arquitectura física, mas não fazem parte da Internet global porque requerem um nível de qualidade que não pode ser oferecido pela Internet. 
 
 
-## Exemplos de serviços não especializados {#exemplo-de-servicos-nao-especializados}
+## Exemplos de serviços não especializados {#exemplos-de-servicos-nao-especializados}
 
 Os serviços especializados não podem ser fornecidos através da Internet. O problema que deve ser evitado é que serviços online já existentes sejam reclassificados como especializados. Nesse cenário, uma empresa com dinheiro suficiente poderia comprar a prioridade dos seus serviços, o que lhes daria uma vantagem injusta sobre todos os demais &#8211; reduzindo a competitividade, a inovação e a escolha.
 
@@ -143,7 +143,7 @@ Os reguladores devem confirmar que qualquer novo serviço especializado cumpre e
 A optimização de um serviço especializado deve ser objectivamente necessária à funcionalidade do serviço e não uma mera vantagem competitiva face aos seus competidores. Se um serviço comparável existe na Internet aberta, a classificação como serviço especializado não deve ser concedida.
 
 
-# Gestão de Tráfego {#traffic-management}
+# Gestão de Tráfego {#gestao-de-trafego}
 
 
 ## O que é gestão de tráfego? {#o-que-e-gestao-de-trafego}
@@ -155,14 +155,14 @@ A gestão de tráfego permite aos provedores de Internet gerir o tráfego nas su
 
 A gestão de tráfego afecta a tua experiência diária na Internet. Quando um vídeo da Netflix encalha a carregar, uma chamada telefónica via Internet tem quebras ou é impossível jogar um jogo de vídeo online, a gestão de tráfego do teu provedor de Internet pode ser a causa. 
 
-Se se abusa da Regulamentação Europeia, os serviços online que queres utilizar poderiam ser desacelerados a um nível que se tornam inúteis enquanto outros serviços competidores promovidos pelo teu provedor de Internet poderiam continuar a funcionar perfeitamente. 
+Se se abusa da Regulamentação Europeia, os serviços online que queres utilizar podem ser desacelerados a um nível que se tornam inúteis enquanto outros serviços competidores promovidos pelo teu provedor de Internet podem continuar a funcionar perfeitamente. 
 
 A gestão de tráfego jamais deveria interferir com a tua liberdade enquanto utilizador final ou prestador de serviços online. O papel de um provedor de Internet é o de gerir a rede de um modo mais eficaz para que todos os serviços funcionem o melhor possível, não o de tomar decisões sobre a importância, integridade ou legalidade do conteúdo, serviços ou aplicações a que queres aceder. 
 
 
 ## Não deveriam os fornecedores de Internet poder gerir as suas próprias redes? {#nao-deveriam-os-fornecedores-de-internet-poder-gerir-as-suas-proprias-redes}
 
-Claro, os provedores devem poder administrar as suas redes. Contudo, essa administração não deve ser realizada com base no conteúdo, aplicações ou serviços em utilização por outros utilizadores de Internet. [Isto é possível](https://tools.ietf.org/html/rfc6057) e sustentado por [análise minuciosa](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
+Claro, os provedores devem poder administrar as suas redes. Contudo, essa administração não deve ser realizada com base no conteúdo, aplicações ou serviços em uso pelos utilizadores de Internet. [Isto é possível](https://tools.ietf.org/html/rfc6057) e sustentado por [análise minuciosa](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
 
 A alternativa é o provedor de Internet classificar os pacotes de dados com base em critérios que estabeleça, levando a que algumas aplicações acabem desaceleradas e outras aceleradas. Isto é possível graças a requerimentos técnicos do serviço (sensibilidade temporal, sensibilidade a flutuações) ou à funcionalidade que o serviço oferece ao utilizador (telefonia, streaming de video, streaming de música, "gaming", etc.). Esta segunda abordagem denomina-se gestão com base na classe de tráfego. Como os dados de tráfego encriptado não podem ser classificados, um dos riscos desta abordagem é que este tráfego seja automaticamente colocado na via "lenta" (a menos que venha de um grande provedor, onde se pode supor o tipo de tráfego). Desincentivar a encriptação é claramente negativo para a privacidade, enquanto que desacelerar o tráfego encriptado dos pequenos provedores é anti-competitivo.
 
@@ -179,12 +179,12 @@ Podemos assim concluir que as medidas de gestão com base na classe de tráfego 
 
 A [Regulamentação](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120) estabelece uma clara hierarquia de três níveis de gestão de tráfego que devem ser consagradas por normas claras e vinculativas [ver Artigo 3(3) subparágrafos 1 a 3](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120#d1e445-1-1). O provedor de Internet deve tentar sempre resolver primeiro o problema na sua rede com medidas agnósticas, p. ex. medidas que não dependam das características específicas do conteúdo, aplicação, serviço ou dispositivo. Se se esgotarem as medidas agnósticas sem o problema ter sido resolvido, os provedores de Internet podem recorrer a medidas com base na classe de tráfego.
 
-A gestão de tráfego é necessária para resolver problemas de congestão e assegurar a integridade e segurança da rede. Mas, como a vigilância, a gestão de tráfego deve utilizar unicamente as medidas menos intrusivas disponíveis, apenas para propósitos específicos e por um tempo limitado durante o qual é genuinamente necessário para alcançar um fim legítimo.
+A gestão de tráfego é necessária para resolver problemas de congestionamento e assegurar a integridade e segurança da rede. Mas, como a vigilância, a gestão de tráfego deve utilizar unicamente as medidas menos intrusivas disponíveis, apenas para propósitos específicos e por um tempo limitado durante o qual são genuinamente necessárias para alcançar um fim legítimo.
 
 
 ## Quando pode um fornecedor começar a gerir a sua rede? {#quando-pode-um-fornecedor-comecar-a-gerir-a-sua-rede}
 
-De acordo com a [Regulamentação](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120), os provedores de Internet podem começar a gerir o tráfego em caso de congestão tangível ou em casos que procurem mitigar uma congestão prestes a materializar-se. Esta segunda opção deve ser clarificada pelos reguladores para evitar uma situação falaciosa em que a rede é "gerida" o tempo todo, incluindo quando não há razão para tal.
+De acordo com a [Regulamentação](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120), os provedores de Internet podem começar a gerir o tráfego em caso de congestionamento tangível ou em casos que procurem mitigar um congestionamento prestes a materializar-se. Esta segunda opção deve ser clarificada pelos reguladores para evitar uma situação falaciosa em que a rede é "gerida" o tempo todo, incluindo quando não há razão para tal.
 
 Argumentamos que esta segunda opção apenas deve ser permitida em casos onde haja outros indicadores além do volume de tráfego num dado nó da rede (como o número de subscritores conectados a uma célula da rede). Tem de haver sempre uma necessidade concreta e palpável para a gestão do tráfego. 
 
@@ -192,12 +192,12 @@ Argumentamos que esta segunda opção apenas deve ser permitida em casos onde ha
 # "Zero Rating" {#zero-rating}
 
 
-## O que é "zero rating"? {#o-que-e-zero-rating}
+## O que é o "zero rating"? {#o-que-e-o-zero-rating}
 
 O "zero rating" é uma prática comercial na qual os dados descarregados por certas aplicações não são contabilizados no limite mensal de descarga do subscritor. O "zero rating" trata diferentes tipos de tráfego de maneira diferente para que alguns sejam oferecidos a um preço e outros a um preço diferente. Ainda que seja tecnicamente diferente das violações da neutralidade da rede clássicas, é idêntico na prática, dado que permite aos provedores de acesso à Internet influenciar que aplicações e serviços os utilizadores usam ou não.
 
 
-## Porque é "zero rating" um problema? {#porque-e-zero-rating-um-problema}
+## Porque é o "zero rating" um problema? {#porque-e-o-zero-rating-um-problema}
 
 Com esta prática, o teu provedor de acesso à Internet pode exercer controlo sobre os serviços que usas ou vais usar. Qualquer empresa que queira competir com uma aplicação oferecida como "zero rating" (sobretudo pequenas e médias empresas ou "start-ups") estão em grande desvantagem porque os utilizadores sentem que têm que pagar mais para utilizar a nova aplicação ou serviço sem obstáculos.
 
@@ -211,21 +211,21 @@ O "zero rating" é uma das principais razões para manter os limites de dados ba
 
 ## Como pode o "zero rating" afectar os fornecedores de serviços online e a diversidade do ecossistema da Internet? {#como-pode-o-zero-rating-afectar-os-fornecedores-de-servicos-online-e-a-diversidade-do-ecossistema-da-internet}
 
-Os acordos de "zero rating" na Europa são quase sempre com grandes companhias como a Facebook ou a Spotify. Estes acordos são normalmente mutuamente exclusivos, o que significa que o provedor de conteúdos fica vinculado a um operador no país e vice-versa. 
+Os acordos de "zero rating" na Europa são quase sempre com grandes companhias como a Facebook ou a Spotify. Estes acordos são frequentemente mutuamente exclusivos, o que significa que o provedor de conteúdos fica vinculado a um operador no país e vice-versa. 
 
 O "zero rating" é danoso para a liberdade de escolha do utilizador, uma vez que é devastador para a economia online. Só serve para ajudar as grandes companhias a manter a sua posição no mercado e a aniquilar a concorrência. Já podemos observar isto no mercado de música por streaming, por exemplo, onde a liberdade de escolha dos consumidores foi severamente reduzida por tais ofertas de "zero rating".
 
-Em vez de vender apenas o acesso à Internet, os provedores querem cada vez mais poder vender conteúdo, aplicações ou serviços online, seja proporcionado por eles mesmos ou pelos seus parceiros. Instalando-se como intermediários, os provedores de Internet querem cobrar duplamente. Primeiro, pagas-lhes pela tua conexão à Internet. Segundo, os fornecedores de conteúdo, serviços ou aplicações pagam-lhes pelo acesso à sua carteira de utilizadores, da qual fazes parte. 
+Em vez de vender apenas o acesso à Internet, os provedores querem cada vez mais poder vender conteúdo, aplicações ou serviços online, sejam proporcionados por eles mesmos ou pelos seus parceiros. Instalando-se como intermediários, os provedores de Internet querem cobrar duplamente. Primeiro, pagas-lhes pela tua conexão à Internet. Segundo, os fornecedores de conteúdo, serviços ou aplicações pagam-lhes pelo acesso à sua carteira de utilizadores, da qual fazes parte. 
 
 ## Qual o objectivo da campanha SaveTheInternet.eu em relação ao "zero rating"? {#qual-o-objectivo-da-campanha-savetheinterneteu-em-relacao-ao-zero-rating}
 
-O "zero rating" é uma clara violação das regras de neutralidade da rede e por isso devia ser proibido. É uma prática anti-competitiva e viola a tua liberdade de aceder e usar os conteúdos, aplicações e serviços online que escolhas, assim como a liberdade de os fornecedores de conteúdo e aplicações de se oferecerem em todas as redes sem restrições (como exigido pelo [Artigo 3(1) da Regulamentação Europeia](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120) ). A Regulamentação Europeia também proíbe os fornecedores de Internet e de conteúdos de oferecer serviços que limitem os teus direitos como utilizador final ou como fornecedore de conteúdo [(cf. Artigo 3(2) da Regulamentação)](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+O "zero rating" é uma clara violação das regras de neutralidade da rede e por isso devia ser proibido. É uma prática anti-competitiva e viola a tua liberdade de aceder e usar os conteúdos, aplicações e serviços online que escolhas, assim como a liberdade de os fornecedores de conteúdo e aplicações de se oferecerem em todas as redes sem restrições (como exigido pelo [Artigo 3(1) da Regulamentação Europeia](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120) ). A Regulamentação Europeia também proíbe os fornecedores de Internet e de conteúdos de oferecer serviços que limitem os teus direitos como utilizador final ou como fornecedor de conteúdo [(cf. Artigo 3(2) da Regulamentação)](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
 Se algum conteúdo oferecido como "zero rate" continua acessível quando se ultrapassa o limite de dados e o resto da Internet é bloqueada ou desacelerada, isto é uma clara violação de várias disposições da Regulamentação da neutralidade da rede.
 
 
 
-# Transparência {#transparency}
+# Transparência {#transparencia}
 
 ## Que benefícios se esperam da nova regulamentação da neutralidade da rede? {#que-beneficios-se-esperam-da-nova-regulamentacao-da-neutralidade-da-rede}
 -       
@@ -234,7 +234,7 @@ A [Regulamentação Europeia da neutralidade da rede](http://eur-lex.europa.eu/l
 
 ## Que transparência se espera com a nova regulamentação da neutralidade da rede? {#que-transparencia-se-espera-com-a-nova-regulamentacao-da-neutralidade-da-rede}
 
-O [Regulamento](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120) exige que os provedores de Internet proporcionem informação sobre as suas medidas de gestão de tráfego que afectem o acesso à Internet dos utilizadores. Os reguladores estão agora à procura do significado desta medida em termos práticos.
+A [Regulamentação](http://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2120) exige que os provedores de Internet proporcionem informação sobre as suas medidas de gestão de tráfego que afectem o acesso à Internet dos utilizadores. Os reguladores estão agora à procura do significado desta medida em termos práticos.
 
 
 
