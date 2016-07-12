@@ -126,7 +126,7 @@ Regulators need to equip themselves with the tools to enforce net neutrality. In
 
 These founders and investors have signed on to the [entrepreneur letter for net neutrality](http://www.factory.co/net-neutrality) in Europe, asking BEREC for strong, clear guidelines without loopholes.
 
-<script type="text/javascript" id="fftf_logo_cloud" src="https://www.savenetneutrality.eu/js/logos.js"></script>
+<script type="text/javascript" id="fftf_logo_cloud" integrity="sha384-c5XDgk1De7w/Rb+Ay2D61EGhmJS/HlsD0+pbhOW+8fQ53Q6xnxr/AFezmu6HuoD0" crossorigin="anonymous" src="https://www.savenetneutrality.eu/js/logos.js"></script>
 
 {{ END HOME COALITION }}
 
