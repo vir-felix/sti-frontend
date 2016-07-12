@@ -526,6 +526,18 @@
   }
 }
 
+.home__coalition__outer {
+
+}
+.home__coalition__inner {
+  @include container;
+
+}
+.home__coalition__content {
+  @include span(24);
+  color: $sti-blue-light-new;
+}
+
 .home__contact-us__outer {
 
 }
