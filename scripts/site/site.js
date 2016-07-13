@@ -101,7 +101,7 @@ $(function clickToActivate() {
 
 function registerAndSetupCounter() {
 
-  var deadline = new Date('2016-07-18T13:00Z');
+  var deadline = new Date('2016-07-18T12:00Z');
   
   var count_acs = 1100;
   
