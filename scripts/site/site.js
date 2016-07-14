@@ -22,7 +22,7 @@ var isMobile = {
 function daysUntil(deadline) {
   var today = new Date();
   var millisecondsUntil = deadline.getTime() - today.getTime();
-  return Math.floor(((((millisecondsUntil / 1000) / 60) / 60) / 24));
+  return Math.ceil(((((millisecondsUntil / 1000) / 60) / 60) / 24));
 }
 
 // initialize language selection, redirect to site on select
