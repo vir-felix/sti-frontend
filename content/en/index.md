@@ -121,6 +121,15 @@ Regulators need to equip themselves with the tools to enforce net neutrality. In
 ## BEREC [needs your input](#send-a-message){: data-scroll="true"} before they decide on the future of net neutrality in Europe.
 {{ END HOME BEREC-5 }}
 
+{{ BEGIN HOME COALITION }}
+### Together, we support strong Net Neutrality rules.
+
+These founders and investors have signed on to the [entrepreneur letter for net neutrality](http://www.factory.co/net-neutrality) in Europe, asking BEREC for strong, clear guidelines without loopholes.
+
+<script type="text/javascript" id="fftf_logo_cloud" integrity="sha384-rY9HgqO1qTdzfKDplrb4HEG65jVrF8JT8iG4Gv7wAjynddlhdn64sKxjO71/oqmH" crossorigin="anonymous" src="https://www.savenetneutrality.eu/js/logos.js"></script>
+
+{{ END HOME COALITION }}
+
 {{ BEGIN HOME CONTACT-US }}
 ### Contact Us
 
