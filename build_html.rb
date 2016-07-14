@@ -49,6 +49,7 @@ def locales_init
     locale_raw = YAML.load_file(config_path)
     new_locale = Language.new locale_raw["language"], locale_raw["language_name"], locale_raw["questionnaire_language"], locale_raw["backend"]
   end
+  Language.locales.sort! {|x, y| x.language <=> y.language}
 end
 
 def walk(path, &process_file)
