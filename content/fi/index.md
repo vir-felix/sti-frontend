@@ -77,7 +77,7 @@ __[Laajempi kysely](https://consultation.savetheinternet.eu/advanced/){: target=
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-[Jaa facebookissa](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Hilf%20mit%2C%20das%20Internet%20zu%20retten&p%5Bsummary%5D=Deine%20Freiheiten%20online%20werden%20durch%20eine%20EU-Verordnung%20bedroht.%20Der%20Kampf%20f%C3%BCr%20ein%20offenes%20Internet%20beginnt%20jetzt%20in%20Br%C3%BCssel.)
+[Jaa facebookissa](http://www.facebook.com/sharer.php?u=https://savetheinternet.eu/fi/)
 
 [ Jaa twitterissä](https://twitter.com/intent/tweet?text=Hilf%20mit%2C%20das%20Internet%20zu%20retten.%20Fordere%20deine%20Regulierer%20auf%2C%20Netzneutralit%C3%A4t%20zu%20sch%C3%BCtzen.%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2Fde%20%23SaveTheInternet%20pls%20RT)
 

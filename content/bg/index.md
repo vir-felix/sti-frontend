@@ -76,7 +76,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-[Сподели във Фейсбук](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/&p%5Bimages%5D%5B0%5D=http://www.savetheinternet.eu/img/thumbnail.png&p%5Btitle%5D=Help%20Save%20the%20Internet&p%5Bsummary%5D=Your%20freedom%20online%20is%20threatened%20by%20EU%20proposals.%20The%20fight%20for%20an%20open%20Internet%20is%20happening%20right%20now%20in%20Brussels.)
+[Сподели във Фейсбук](http://www.facebook.com/sharer.php?u=https://savetheinternet.eu/bg/)
 
 [Сподели в Туитър](https://twitter.com/intent/tweet?text=What%0Aif%0Athey%0Amade%0AEurope%27s%0Ainternet%0Aso%0Aslow%2C%0Aevery%0Atweet%0Aloaded%0Aslowly%0Alike%0Athis%3F%0ADon%27t%20let%20them%3A%0Ahttps%3A%2F%2Fwww.savetheinternet.eu%2F)
 

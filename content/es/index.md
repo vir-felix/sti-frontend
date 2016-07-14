@@ -79,7 +79,7 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
-[Comparte en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=http://www.savetheinternet.eu/es/&p%5Bimages%5D%5B0%5D=https://beta.savetheinternet.eu/images/net_neutrality_roadmap.svg&p%5Btitle%5D=Save%20the%20Internet&p%5Bsummary%5D=Ayuda%20a%20salvar%20internet.%20Pídele%20a%20tu%20regulador%20que%20proteja%20la%20neutralidad%20de%20la%20red.%20%23SaveTheInternet%20%23NetNeutrality.)
+[Comparte en Facebook](http://www.facebook.com/sharer.php?u=https://savetheinternet.eu/es/)
 
 [Comparte en Twitter](https://twitter.com/intent/tweet?text=Ayuda%20a%20salvar%20internet.%20Pídele%20a%20tu%20regulador%20que%20proteja%20la%20neutralidad%20de%20la%20red%20http%3A%2F%2Fwww.savetheinternet.eu%2Fes%2F%20%23SaveTheInternet%20%23NetNeutrality)
 
