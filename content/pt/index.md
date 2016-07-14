@@ -121,6 +121,15 @@ Os reguladores devem prover-se das melhores ferramentas para impor a neutralidad
 ## O BEREC [precisa da tua opinião](#send-a-message){: data-scroll="true"} antes de decidir o futuro da neutralidade da rede na Europa.
 {{ END HOME BEREC-5 }}
 
+{{ BEGIN HOME COALITION }}
+### Juntos defendemos regras firmes de Neutralidade da Rede.
+
+Estes criadores e investidores assinaram a [carta dos empreendedores pela neutralidade da rede](http://www.factory.co/net-neutrality) na Europa, pedindo ao BEREC directrizes firmes, claras e sem lacunas.
+
+<script type="text/javascript" id="fftf_logo_cloud" integrity="sha384-rY9HgqO1qTdzfKDplrb4HEG65jVrF8JT8iG4Gv7wAjynddlhdn64sKxjO71/oqmH" crossorigin="anonymous" src="https://www.savenetneutrality.eu/js/logos.js"></script>
+
+{{ END HOME COALITION }}
+
 {{ BEGIN HOME CONTACT-US }}
 ### Contacta-nos
 
