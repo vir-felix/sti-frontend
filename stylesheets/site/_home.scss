@@ -66,6 +66,30 @@
     }
   }
   
+  table:hover {
+    cursor: help;
+  }
+  
+  #count-tooltip {
+    z-index: 10;
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    padding: 0.5rem;
+    bottom: 100%;
+    left: 0;
+    text-align: left;
+    font-size: 0.7rem;
+    background-color: #3CA8C4;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+  }
+  
+  table:hover + #count-tooltip {
+    opacity: 0.9;
+  }
+  
   p:last-of-type {
     @include cf;
     width: 100%;

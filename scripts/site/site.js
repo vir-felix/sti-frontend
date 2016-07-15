@@ -112,6 +112,12 @@ function registerAndSetupCounter() {
   $.get('/counter/count.json', function(counter) {
     $sentMessages.html((counter.count + count_acs).toLocaleString());
     $daysLeft.html(daysUntil(deadline));
+    
+    $('#counter-sti').html(counter.sti);
+    $('#counter-avaaz').html(counter.avaaz);
+    $('#counter-snn').html(counter.snn);
+    $('#counter-access').html(counter.access);
+    
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   }).fail(function() {
     console.log('Error: "/counter/count.json" could not be loaded');

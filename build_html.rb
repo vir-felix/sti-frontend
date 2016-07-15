@@ -123,19 +123,24 @@ def transform(site_config, locale, html)
       when 'questionnaire-iframe'
         html.sub! block_pattern, ''
       when 'navigation'
-        navigation_tail = "\n{::nomarkdown}\n<select name=\"locale\" id=\"locale\" autocomplete=\"off\">"
+        tail = "\n{::nomarkdown}\n<select name=\"locale\" id=\"locale\" autocomplete=\"off\">"
         Language.locales.each do |lang|
           if lang == locale
-            navigation_tail << "<option value=\"#{lang.language}\" selected=\"selected\">#{lang.language_name}</option>"
+            tail << "<option value=\"#{lang.language}\" selected=\"selected\">#{lang.language_name}</option>"
           else
-            navigation_tail << "<option value=\"#{lang.language}\">#{lang.language_name}</option>"
+            tail << "<option value=\"#{lang.language}\">#{lang.language_name}</option>"
           end
         end
-        navigation_tail << "</select></div>\n{:/}\n"
+        tail << "</select></div>\n{:/}\n"
 
-        html.sub! block_pattern, navigation_tail
-      when 'counter',
-           'home__specialised-services',
+        html.sub! block_pattern, tail
+      when 'counter'
+        tail = "\n{::nomarkdown}\n<div id=\"count-tooltip\">"
+        tail << "This number contains the following submissions:<br />SaveTheInternet <span id=\"counter-sti\"></span><br />Avaaz <span id=\"counter-avaaz\"></span><br />SaveNetNeutrality <span id=\"counter-snn\"></span><br />Access Now<span id=\"counter-access\"></span><br />"
+        tail << "</div></div>\n{:/}\n"
+
+        html.sub! block_pattern, tail
+      when 'home__specialised-services',
            'home__traffic-management',
            'home__zero-rating'
         html.sub! block_pattern, '</div>'
