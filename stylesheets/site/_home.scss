@@ -74,7 +74,6 @@
     z-index: 10;
     position: absolute;
     opacity: 0;
-    width: 100%;
     padding: 0.5rem;
     bottom: 100%;
     left: 0;
@@ -84,6 +83,10 @@
     border: 1px solid #FFF;
     border-radius: 4px;
     transition: opacity 0.3s ease;
+  }
+
+  #count-tooltip span {
+    font-weight: bold;
   }
   
   table:hover + #count-tooltip {
