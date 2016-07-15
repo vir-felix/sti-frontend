@@ -103,14 +103,12 @@ function registerAndSetupCounter() {
 
   var deadline = new Date('2016-07-18T12:00Z');
   
-  var count_acs = 1100;
-  
   var $counter      = $('.counter').find('table').first();
   var $sentMessages = $counter.find('tr:nth-child(1)').find('td:nth-child(1)');
   var $daysLeft     = $counter.find('tr:nth-child(1)').find('td:nth-child(3)');
 
   $.get('/counter/count.json', function(counter) {
-    $sentMessages.html((counter.count + count_acs).toLocaleString());
+    $sentMessages.html((counter.count).toLocaleString());
     $daysLeft.html(daysUntil(deadline));
     
     $('#counter-sti').html(counter.sti);
