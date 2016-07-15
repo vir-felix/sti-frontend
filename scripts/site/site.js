@@ -108,13 +108,13 @@ function registerAndSetupCounter() {
   var $daysLeft     = $counter.find('tr:nth-child(1)').find('td:nth-child(3)');
 
   $.get('/counter/count.json', function(counter) {
-    $sentMessages.html((counter.count).toLocaleString());
+    $sentMessages.html(counter.count.toLocaleString());
     $daysLeft.html(daysUntil(deadline));
     
-    $('#counter-sti').html(counter.sti);
-    $('#counter-avaaz').html(counter.avaaz);
-    $('#counter-snn').html(counter.snn);
-    $('#counter-access').html(counter.access);
+    $('#counter-sti').html(counter.sti.toLocaleString());
+    $('#counter-avaaz').html(counter.avaaz.toLocaleString());
+    $('#counter-snn').html(counter.snn.toLocaleString());
+    $('#counter-access').html(counter.access.toLocaleString());
     
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
   }).fail(function() {
