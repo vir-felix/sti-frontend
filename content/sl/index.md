@@ -17,6 +17,8 @@ Pridružite se gibanju, ukrepajmo zdaj!
 
 | X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }

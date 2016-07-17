@@ -18,6 +18,8 @@ Hilf mit, werde jetzt aktiv!
 
 | X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
 
+Kommentare eingereicht über savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }

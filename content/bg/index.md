@@ -17,6 +17,8 @@
 
 | X | БРОЙ ГРАЖДАНИ <br> ИЗПРАТИЛИ СЪОБЩЕНИЕ | Y | ОСТАВАЩИ <br> ДНИ |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ПОДКРЕПЯМ](#send-a-message){: id="take-action-button" data-scroll="true" }

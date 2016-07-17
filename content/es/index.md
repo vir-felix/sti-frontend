@@ -19,6 +19,8 @@ para proteger nuestras libertades y derechos online.
 
 | X | PERSONAS HAN <br> ENVIADO MENSAJES | Y | DÍAS <br> RESTANTES |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ACTÚA](#send-a-message){: id="take-action-button" data-scroll="true" }

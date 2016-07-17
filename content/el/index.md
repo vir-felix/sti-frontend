@@ -18,6 +18,8 @@
 
 | X | ΑΤΟΜΑ ΕΧΟΥΝ <br> ΣΤΕΙΛΕΙ ΜΗΝΥΜΑΤΑ | Y | ΗΜΕΡΕΣ <br> ΑΠΟΜΕΝΟΥΝ |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ΑΠΟΣΤΟΛΗ ΜΗΝΥΜΑΤΟΣ](#send-a-message){: id="take-action-button" data-scroll="true" }

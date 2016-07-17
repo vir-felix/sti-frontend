@@ -17,6 +17,8 @@ Hjælp os — bliv aktiv, og gør noget nu!
 
 | X | E-MAILS <br> SENDT | Y | DAGE <br> TILBAGE |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [VÆR MED](#send-a-message){: id="take-action-button" data-scroll="true" }

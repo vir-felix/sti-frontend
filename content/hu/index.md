@@ -17,6 +17,8 @@ Csatlakozzon a mozgalomhoz, cselekedjen most!
 
 | X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }

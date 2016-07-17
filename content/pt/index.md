@@ -18,6 +18,8 @@ Mobiliza-te, actua Já!
 
 | X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ACTUA](#send-a-message){: id="take-action-button" data-scroll="true" }

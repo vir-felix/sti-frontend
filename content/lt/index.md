@@ -17,6 +17,8 @@ Prisijunk prie mūsų, padėk dabar!
 
 | X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }

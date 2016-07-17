@@ -17,6 +17,8 @@ Přidejte se k nám a jednejte! Okamžitě!
 
 | X | LIDÉ JIŽ ODESLALI <br> ZPRÁV | Y | DNŮ <br> ZBÝVÁ |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }

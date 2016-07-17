@@ -18,6 +18,8 @@ Palīdzi, kļūsti aktīvs!
 
 | X | cilvēki ir <br> ziņu <br> nosūtījuši | Y | dienas tev ir <br> vēl laiks |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [TAGAD IR JĀRĪKOJAS](#send-a-message){: id="take-action-button" data-scroll="true" }

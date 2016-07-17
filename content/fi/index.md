@@ -18,6 +18,8 @@ Osallistu auttamiseen, ole aktiivinen!
 
 | X | ihmistä on <br> lähettänyt <br> viestin | Y | päivää on sinulla <br> vielä aikaa |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [TOIMI NYT](#send-a-message){: id="take-action-button" data-scroll="true" }

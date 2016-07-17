@@ -17,6 +17,8 @@ Doe mee, neem nu actie!
 
 | X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }

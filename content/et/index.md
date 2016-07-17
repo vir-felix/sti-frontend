@@ -18,6 +18,8 @@ Liituge kampaaniaga ja asuge kohe tegutsema!
 
 | X | INIMEST ON <br> SAATNUD SÕNUMI – JÄÄNUD ON | Y | PÄEVA <br> |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [TEGUTSE NÜÜD](#send-a-message){: id="take-action-button" data-scroll="true" }

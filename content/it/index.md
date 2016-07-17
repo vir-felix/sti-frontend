@@ -17,6 +17,8 @@ Unisciti al movimento, agisci subito!
 
 | X | PERSONE HANNO <br> INVIATO MESSAGGI | Y | GIORNI <br> RIMASTI |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [AGIRE](#send-a-message){: id="take-action-button" data-scroll="true" }

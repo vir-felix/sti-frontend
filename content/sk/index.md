@@ -18,6 +18,8 @@ Pripojiť sa k nášmu hnutiu, konajte teraz!
 
 | X | ĽUDÍ <br> POSLALO SPRÁVY | Y | DNÍ <br> ZOSTÁVA |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [Prijať Opatrenia](#send-a-message){: id="take-action-button" data-scroll="true" }

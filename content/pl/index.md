@@ -19,6 +19,8 @@ Przyłącz się do ruchu, działaj już teraz!
 
 | X | LUDZIE <br> WYSŁANE WIADOMOŚCI | Y | DNI <br> POZOSTAŁO |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }

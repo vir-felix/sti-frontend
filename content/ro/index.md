@@ -17,6 +17,8 @@ Vino alături de noi, treci la acțiune!
 
 | X | MESAJE TRIMISE | Y | <br> ZILE RĂMASE |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }

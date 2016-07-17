@@ -18,6 +18,8 @@ Rejoignez notre mouvement et agissez dès maintenant !
 
 | X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES | Y | JOURS <br> RESTANT |
 
+comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+
 {{ END COUNTER }}
 
 [Agissez !](#send-a-message){: id="take-action-button" data-scroll="true" }
