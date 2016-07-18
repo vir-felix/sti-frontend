@@ -121,6 +121,7 @@
   border-radius: 8px;
   max-width: 400px;
   text-decoration: none;
+  transition: .3s ease-in-out;
   @include susy-breakpoint($mobile, $tablet-small) {
     width: span(22 of 24);
   }
