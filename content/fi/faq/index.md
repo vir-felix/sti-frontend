@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [LÄHETÄ VIESTI](../#send-a-message)
 - [INFO](../#info)
 - [UKK](#)
 {{ END NAVIGATION }}

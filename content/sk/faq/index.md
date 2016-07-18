@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ODOSLAŤ SPRÁVU](../#send-a-message)
 - [INFORMÁCIE](../#info)
 - [ČASTO KLADENÉ OTÁZKY](#)
 {{ END NAVIGATION }}

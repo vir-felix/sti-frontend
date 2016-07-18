@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SAADA SÕNUM](../#send-a-message)
 - [TEAVE](../#info)
 - [KKK](#)
 {{ END NAVIGATION }}

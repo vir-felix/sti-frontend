@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ΑΠΟΣΤΟΛΗ ΜΗΝΥΜΑΤΟΣ](../#send-a-message)
 - [ΠΛΗΡΟΦΟΡΙΕΣ](../#info)
 - [FAQ](#)
 {{ END NAVIGATION }}

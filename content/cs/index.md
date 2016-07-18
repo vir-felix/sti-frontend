@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [POSLAT ZPRÁVU](#send-a-message){: data-scroll="true" }
 - [INFORMACE](#info){: data-scroll="true" }
 - [FAQ](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Evropské regulační úřady se chystají rozhodnout, zda dát velkým telekomunikačním korporacím moc ovlivňovat, co můžeme (a nemůžeme) dělat online. Evropa naléhavě potřebuje jasná pravidla síťové neutrality, aby mohla chránit online svobody a práva.
-<br><br>
-Přidejte se k nám a jednejte! Okamžitě!
 
 {{ BEGIN COUNTER }}
 
-| X | LIDÉ JIŽ ODESLALI <br> ZPRÁV | Y | DNŮ <br> ZBÝVÁ |
+| X | LIDÉ JIŽ ODESLALI <br> ZPRÁV |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Může to znít, jako kdybyste dostávali něco zadarmo, ale ve skutečnosti se 
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Žádejte národní regulační úřady a Evropský telekomunikační úřad (BEREC), aby chránily síťovou neutralitu
-
-Sdělte regulačním úřadům svůj názor na nejnovější pravidla vztahující se na síťovou neutralitu tím, že použijete níže uvedený dotazníkový nástroj. Po zadání odpovědí na otázky, kde lze vybírat ze dvou možných odpovědí, a na otevřené otázky, kde můžete zadat libovolný text odpovědi, pro vás bude vygenerována e-mailová zpráva. E-mail předáme Evropskému telekomunikačnímu úřadu (BEREC) při zahájení oficiálních jednání v červnu 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ Na červen 2016 naplánoval Evropský regulační úřad zveřejnění návrhu p
 Regulační úřady se musí vyzbrojit nástroji, které jim umožní prosazovat síťovou neutralitu. Jako aktivisté kampaně Save The Internet se domníváme, že Evropský telekomunikační úřad (BEREC) nebude mít dostatek času na zpracování a řádné zvážení potenciálně desítek tisíc reakcí (americký telekomunikační úřad během veřejného projednání obdržel 3,7 miliónů podnětů!). Rovnováhy můžeme opět dosáhnout tím, že umožníme každému řádně a efektivněji přispět k prováděcím pokynům.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## Evropský telekomunikační úřad (BEREC) [potřebuje vaše podněty](#pošlete zprávu){: data-scroll="true"} ještě předtím, než bude rozhodnuto o budoucnosti síťové neutrality v Evropě.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontaktujte nás

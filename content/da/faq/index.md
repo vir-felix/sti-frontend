@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND EN MAIL](../#send-a-message)
 - [INFORMATION](../#info)
 - [OSS](#)
 {{ END NAVIGATION }}

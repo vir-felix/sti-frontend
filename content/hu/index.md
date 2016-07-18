@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ÜZENETKÜLDÉS](#send-a-message){: data-scroll="true" }
 - [INFORMÁCIÓ](#info){: data-scroll="true" }
 - [GYIK](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Az Európai Szabályozók most döntik el, hatalmat adjanak-e a nagy távközlési vállalatoknak arra, hogy befolyásolják mit tehetünk (és mit nem) online. Európának sürgősen szüksége van a hálózatsemlegességgel kapcsolatos világos iránymutatásokra hogy megvédhessük szabadságjogainkat és jogainkat online.
-<br><br>
-Csatlakozzon a mozgalomhoz, cselekedjen most!
 
 {{ BEGIN COUNTER }}
 
-| X | EMBER <br> KÜLDÖTT ÜZENETET | Y | NAP <br> MARADT |
+| X | EMBER <br> KÜLDÖTT ÜZENETET |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[CSELEKSZIK](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Ne engedje internetszolgáltatójának, hogy ő döntse el, milyen adatforgalom 
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Szólítsa fel a nemzeti szabályozó hatóságot és a BEREC-et a hálózati semlegesség védelmére
-
-Az alább található kérdőív segítségével mondja el véleményét az új hálózatsemlegességi szabályokról a nemzeti szabályozó hatóságnak! Ha a feleletválasztós és a nyitott kérdések közül bármelyiket megválaszolja, a rendszer egy elektronikus üzenetet generál az Ön számára. Az Ön elektronikus üzenetét továbbítjuk az Európai Elektronikus Hírközlési Szabályozó Testülethez (BEREC).
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ A BEREC a tervek szerint 2016 júniusában hozza nyilvánosságra az iránymutat
 A szabályozóknak fel kell vértezniük magukat azokkal az eszközökkel, amelyekkel megvalósítható a hálózatsemlegesség. Mi, a Save The Internet szervezetei azon a véleményen vagyunk, hogy a BEREC-nek nem lesz elég ideje arra, hogy az esetleg több tízezer észrevételt feldolgozza, és megfelelő mértékben figyelembe vegye (az USA hírközlési szabályozó hatóságához 3,7 millió válasz érkezett a nyilvános konzultáció során!) Helyre billenthetjük ezt az egyensúlyt, ha mindenki számára lehetővé tesszük, hogy megfelelően és hatékonyabban járuljon hozzá az iránymutatásokhoz.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## A BEREC-nek [szüksége van az Ön véleményére](#küldjön üzenetet){: data-scroll="true"} mielőtt dönt az európai hálózatsemlegesség jövőjéről.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Lépjen velünk kapcsolatba!

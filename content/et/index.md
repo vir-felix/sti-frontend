@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SAADA SÕNUM](#send-a-message){: data-scroll="true" }
 - [TEAVE](#info){: data-scroll="true" }
 - [KKK](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Euroopa reguleerivad asutused otsustavad, kas anda võim suurtele sideettevõtetele, mis mõjutaks kõike, mida me saame (ja ei saa) veebipõhiselt teha. Euroopa vajab selgeid võrguneutraalsuse eeskirju, et kaitsta meie veebipõhist vabadust ja õigusi.
-<br><br>
-Liituge kampaaniaga ja asuge kohe tegutsema!
 
 {{ BEGIN COUNTER }}
 
-| X | INIMEST ON <br> SAATNUD SÕNUMI – JÄÄNUD ON | Y | PÄEVA <br> |
+| X | INIMEST ON <br> SAATNUD SÕNUMI – JÄÄNUD ON |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[TEGUTSE NÜÜD](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Tundub, nagu saaksite midagi tasuta, kuid tegelikult muutub võrguoperaator kont
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Rääkige oma reguleerivatele asutustele ja BERECile, et võrguneutraalsust tuleb kaitsta
-
-Esitage reguleerivatele asutustele oma arvamus seoses uute võrguneutraalsuse eeskirjadega, kasutades allpool toodud küsimustikku. Vastates kas mõnele või kõigile valikvastustega küsimustele, genereeritakse teile vastatud küsimustest e-kiri. Teie e-kiri esitatakse meie poolt ELi sideametile (BEREC).
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ Juunis 2016 kavatseb BEREC avaldada oma suuniste kavandi ja algatada avaliku aru
 Reguleerivad asutused peavad end varustama vahenditega, et kehtestada võrguneutraalsus. Meie siin Interneti päästmise kampaanias Save The Internet arvame, et BERECil ei ole piisavalt aega, et töödelda ja võtta nõuetekohaselt arvesse kõiki võimalikke kümneid tuhandeid vastuseid (USA sideamet sai oma küsimustikule 3,7 miljonit vastust!). Meie saame olukorda tasakaalustada ja võimaldada kõigil aidata tõhusamalt kaasa suuniste loomisele.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [vajab teie panust](#send-a-message){: data-scroll="true"}, enne kui nad Euroopa võrguneutraalsuse tuleviku kohta oma otsuse teevad.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Võtke meiega ühendust

@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [TRIMITE UN MESAJ](#send-a-message){: data-scroll="true" }
 - [INFORMAȚII](#info){: data-scroll="true" }
 - [ÎNTREBĂRI FRECVENTE](faq)
 {{ END NAVIGATION }}

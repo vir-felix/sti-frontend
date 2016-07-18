@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [TRIMITE UN MESAJ](#send-a-message){: data-scroll="true" }
 - [INFORMAȚII](#info){: data-scroll="true" }
 - [ÎNTREBĂRI FRECVENTE](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Autoritățile europene de reglementare în telecomunicații sunt pe cale de a decide dacă vor acorda marilor corporații de telecomunicații puterea de a influența ce putem (și ce nu putem) face online. Europa are nevoie urgentă de un set clar de principii de implementare a neutralității Internetului pentru a proteja libertățile și drepturile noastre digitale.
-<br><br>
-Vino alături de noi, treci la acțiune!
 
 {{ BEGIN COUNTER }}
 
-| X | MESAJE TRIMISE | Y | <br> ZILE RĂMASE |
+| X | MESAJE TRIMISE |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[ACȚIONEAZĂ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Pare că primești ceva gratis, dar îți transformă operatorul de telefonie mo
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Spune ANCOM și BEREC să apere neutralitatea Internetului
-
-Spune ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comuncații) opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, în Iunie 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Chestionarul Avansat](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 Autoritățile de reglementare trebuie să se înarmeze cu instrumentele necesare pentru aplicarea neutralității Internetului. Considerăm ca BEREC nu va avea suficient timp să proceseze și să ia în considerare în mod atent potențialele zeci de mii de răspunsuri (autoritatea de reglementare din Statele Unite a primit 3.7 milioane de răspunsuri la consultarea lor!). Putem îndrepta balanța facilitând contribuția cât mai eficientă la consultare pentru cât mai multe persoane.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [are nevoie de răspunsurile tale](#send-a-message){: data-scroll="true"} înainte să decidă viitorul neutralității în Europa.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Contactează-ne

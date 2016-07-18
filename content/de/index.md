@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SENDE EINE NACHRICHT](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große Telekomkonzerne wollen darüber entscheiden, was wir online tun können und was nicht. Um __die Freiheit des Internets zu erhalten__ und unsere Rechte zu schützen, müssen wir alle aktiv werden. 
-<br><br>
-Hilf mit, werde jetzt aktiv!
 
 {{ BEGIN COUNTER }}
 
-| X | Menschen haben <br> eine Nachricht <br> gesendet | Y | Tage hast du <br> noch Zeit |
+| X | Menschen haben <br> eine Nachricht <br> gesendet |
 
 Kommentare eingereicht über savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[JETZT HANDELN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Es sieht aus wie ein Gratis-Angebot, aber in Wirklichkeit verlierst du deine Wah
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Das freie Internet ist in Gefahr! 
-
-Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet Dich nur 2 Minuten deiner Zeit, deiner Stimme Gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an das Gremium der Telekom-Regulierungsbehörden in der EU (BEREC).
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation
 Die Regulatoren brauchen die richtigen Werkzeuge, um die Netzneutralität absichern zu können. Die Bürgerrechts- und Verbraucherschutzorganisationen hinter dieser Kampagne glauben, dass BEREC nur mit den Argumenten aus der Bevölkerung zu einer Einhaltung der Netzneutralität zu bewegen sein wird. Deshalb kannst du auf dieser Website einfach und schnell einen wertvollen Beitrag zur Konsultation von BEREC leisten.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## Sag BEREC [deine Meinung](#send-a-message){: data-scroll="true"}!
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakt

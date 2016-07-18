@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [NOSŪTI ZIŅU](../#send-a-message)
 - [INFORMĀCIJA](../#info)
 - [Biežāk uzdotie jautājumi](#)
 {{ END NAVIGATION }}

@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ÜZENETKÜLDÉS](../#send-a-message)
 - [INFORMÁCIÓ](../#info)
 - [GYIK](#)
 {{ END NAVIGATION }}

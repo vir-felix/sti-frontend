@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Да могат ли големите телекомуникационни компании да предопределят каво четем (или не) в интернет? Европейските регулатори на електронни съобщения скоро ще създадат правила за мрежова неутралност. В Европа имаме спешна нужда от ясни и приложими принципи, които да защитят отворения и свободен интернет.
-<br><br>
-Присъединете се към нашето движение!
 
 {{ BEGIN COUNTER }}
 
-| X | БРОЙ ГРАЖДАНИ <br> ИЗПРАТИЛИ СЪОБЩЕНИЕ | Y | ОСТАВАЩИ <br> ДНИ |
+| X | БРОЙ ГРАЖДАНИ <br> ИЗПРАТИЛИ СЪОБЩЕНИЕ |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[ПОДКРЕПЯМ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Кажете на Комисията за регулиране на съобщенията и на европейската служба ОЕРЕС да защитят мрежовата неутралност
-
-Кажете на регулаторите какво мислите за мрежовата неутралност, използвайки въпросника по-долу. След като отговорите на някои или всички въпроси системата ще генерира съобщение за вас. Това съобщение представлява вашите отговори в обществената консултация и ще бъде внесено от нас в Службата на Органа на европейските регулатори в областта на електронните съобщения (ОЕРЕС) в началото на м. юни 2016 г., когато официално започва консултацията.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,11 +98,6 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ END HOME BEREC-4 }}
 
-{{ BEGIN HOME BEREC-5 }}
-## ОЕРЕС [има нужда да чуе твоя глас](#send-a-message){: data-scroll="true"} преди да вземе решение за бъдещето на мрежовата неутралност в Европа.
-{{ END HOME BEREC-5 }}
-
-{{ BEGIN HOME CONTACT-US }}
 ### Свържи се с нас
 
 __Заповядай да се свържеш с нас на адрес [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__

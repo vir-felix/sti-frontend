@@ -219,17 +219,6 @@
   @include fix-net-neutrality-column("specialised-services");
   @include fix-net-neutrality-column("traffic-management");
   @include fix-net-neutrality-column("zero-rating");
-
-  &::after {
-    @include cf;
-    content:'';
-    margin: 0 auto;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 0 80px 20px 80px;
-    border-color: transparent transparent $sti-blue-new transparent;
-  }
 }
 
 #questionnaire-loading-spinner {

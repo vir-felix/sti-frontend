@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SIŲSTI ŽINUTĘ](#send-a-message){: data-scroll="true" }
 - [INFORMACIJA](#info){: data-scroll="true" }
 - [D.U.K.](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Europos reguliavimo institucijos artimiausiu metu nuspręs, ar reikėtų suteikti didžiosioms telekomunikacijų bendrovėms teisę daryti įtaką dėl to, ką mes galime (ir ko negalime) daryti internete. Europai skubiai reikalingos aiškios tinklo neutralumo taisyklės, norint išsaugoti mūsų laisvę ir teises internete.
-<br><br>
-Prisijunk prie mūsų, padėk dabar!
 
 {{ BEGIN COUNTER }}
 
-| X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO | Y | DIENOS <br> |
+| X | ŽMONIŲ <br> IŠSIUNTĖ ŽINUTES. DAR LIKO |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[imtis priemonių](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Tai skamba maždaug taip, tarsi tu kažką gauni dykai, tačiau nulinis reitinga
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Paragink savo nacionalinę reguliavimo instituciją ir BEREC užtikrinti tinklo neutralumą.
-
-Išdėstyk reguliavimo institucijoms savo nuomonę dėl naujų tinklo neutralumo taisyklių. Pasinaudok šio puslapio apačioje pateiktu anketos įrankiu. Jei tu atsakysi į bet kokį skaičių klausimų pirmuose trijuose menių languose, tai įrankis paskutiniame lange generuos tau el. laišką. Šį el. laišką mes įteiksime ES elektroninių ryšių reguliuotojų institucijai (BEREC), kai 2016 m. birželio mėnesį prasidės oficialios konsultacijos.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija prival
 Reguliuotojams būtini tinkami įrankiai, kad jie galėtų skubinti tinklo neutralumą. Mes, atstovaujantys Save The Internet, manome, kad BEREC neturės pakankamai laiko apdoroti galimai dešimtis tūkstančių atsiliepimų ir tinkami į juos atsižvelgti (JAV elektroninių ryšių reguliuotojų institucija konsultuodamasi su visuomene gavo 3,7 milijono atsakymų !). Mes siūlome metodą, kuriuo pasinaudoję visi žmonės nesunkiai galės prasmingai prisidėti prie direktyvų. Taip mes galėsime vėl atkurti pusiausvyrą.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [reikalingi jūsų įrašai](#siųsk laišką){: data-scroll="true"} prieš priimant jiems sprendimą dėl tinklo neutralumo ateities Europoje.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontaktas

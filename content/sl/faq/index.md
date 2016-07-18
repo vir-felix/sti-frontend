@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [Pošlji sporočilo](../#send-a-message)
 - [Informacije](../#info)
 - [Pogosta vprašanja](#)
 {{ END NAVIGATION }}

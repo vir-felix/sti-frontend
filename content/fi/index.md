@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [LÄHETÄ VIESTI](#send-a-message){: data-scroll="true" }
 - [INFO](#info){: data-scroll="true" }
 - [UKK](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Tänä kesänä päätetään Euroopassa internetin tulevaisuudesta. Suuret telealan konsernit haluavat päättää, mitä voimme tehdä verkossa ja mitä emme.
-<br><br>
-Osallistu auttamiseen, ole aktiivinen!
 
 {{ BEGIN COUNTER }}
 
-| X | ihmistä on <br> lähettänyt <br> viestin | Y | päivää on sinulla <br> vielä aikaa |
+| X | ihmistä on <br> lähettänyt <br> viestin |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[TOIMI NYT](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Tämä näyttää ilmaiselta tarjoukselta, mutta todellisuudessa menetät valinn
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Vapaa internet on vaarassa!
-
-Mielipiteesi on tärkeää! Auta säilyttämään internetin vapaus Euroopassa ottamalla tässä osaa verkkoneutraliteetin uusien sääntöjen konsultointiin. Jokainen kommentti on tärkeä ja se ottaa ajastasi vain kaksi minuuttia ja saat äänesi kuuluville. Vastaa näihin muutamiin kysymyksiin ja laadi näin virallinen kommentti Euroopan sähköisen viestinnän sääntelyviranomaisten (BEREC) yhteistyöelimelle EU:ssa.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Laajempi kysely](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](htt
 Sääntelyviranomaiset tarvitsevat oikeat työkalut voidakseen varmistaa verkkoneutraliteetin. Kansalaisoikeus- ja kuluttajasuojajärjestöt kampanjan takana uskovat, että BEREC voidaan saada vain väestön argumenteilla noudattamaan verkkoneutraliteettia. Tästä syystä voit tällä sivulla helposti ja nopeasti antaa arvokkaan panoksen BEREC konsultointiin.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## Sano BEREC [mielipiteesi](#send-a-message){: data-scroll="true"}!
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakti

@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [Pošlji sporočilo](#send-a-message){: data-scroll="true" }
 - [Informacije](#info){: data-scroll="true" }
 - [Pogosta vprašanja](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Evropski regulatorj se odločajo, ali dati velikim telekomunikacijskim družbam moč vpliva na to kar lahko (in ne moremo) opraviti na spletu. Evropa nujno potrebuje jasne smernice nevtralnosti za zaščito naših svoboščin in pravic na spletu.
-<br><br>
-Pridružite se gibanju, ukrepajmo zdaj!
 
 {{ BEGIN COUNTER }}
 
-| X | LJUDJE SO <br> POSLALI SPOROČILA | Y | DNI <br> PREOSTALIH ] |
+| X | LJUDJE SO <br> POSLALI SPOROČILA |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[UKREPAJ ZDAJ](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Sliši se, kot da bi dobili nekaj zastonj, je pa zato vaš mobilni operater post
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Povejte svojim nacionalnim regulatorjem in BEREC naj ščitijo internetno nevtralnost
-
-Povejte svojim regulatorjem svoje mnenje o novih pravilih o nevtralnosti tako, da izpolnite spodnji vprašalnik. Z odgovori na poljubno število vprašanj v testu in odprtih vprašanj po e-mailu, ki bo za vas generiran. Vaš e-mail bo za nas predložen s strani regulatorjev EU za telekomunikacije (BEREC), ko se uradno posvetovanje začne v juniju 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ V juniju 2016, BEREC načrtuje objavo svojih osnutkov smernic in sproža javno p
 Regulatorji se morajo sami opremiti z orodji za uveljavljanje nevtralnosti. V Save The Internet, mislimo, da BEREC ne bo imel dovolj časa za obdelavo in ustrezno upoštevanje potencialno tisoč odgovorov (ameriški telekomunikacijski regulator je prejel 3,7 milijonov odzivov na posvetovanju!). Mi lahko ponovno vzpostavimo ravnotežje, ki omogoča vsem, da se ustrezno prispeva k smernicam na bolj učinkovit način.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [potrebuje vaš prispevek](# pošlji sporočilo){: data-scroll="true"} preden se odloči o prihodnosti nevtralnosti omrežja v Evropi.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakt

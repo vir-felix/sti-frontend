@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND EN MAIL](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [OSS](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 I sommer skal de europæiske tilsynsmyndigheder beslutte om store teleselskaber skal have magt til at påvirke hvad vi kan (og ikke kan) på nettet. Europa har hårdt brug for klare retningslinjer for netneutralitet som beskytter vores rettigheder og frie brug af internettet.
-<br><br>
-Hjælp os — bliv aktiv, og gør noget nu!
 
 {{ BEGIN COUNTER }}
 
-| X | E-MAILS <br> SENDT | Y | DAGE <br> TILBAGE |
+| X | E-MAILS <br> SENDT |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[VÆR MED](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Det lyder som om du får noget gratis, men det gør dit mobilselskab til din dø
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Fortæl de nationale tilsynsmyndigheder i dit land og BEREC at de skal passe på netneutraliteten
-
-Sig din mening om de nye netneutralitetsregler til tilsynsmyndighederne ved hjælp af spørgeskemaet nedenfor. Hvis du besvarer ét eller flere af multiple choice-spørgsmålene eller de åbne spørgsmål, bliver der oprettet en e-mail for dig. Din e-mail bliver sendt til EU's teletilsynsmyndigheder (BEREC) af os.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ BEREC planlægger at offentliggøre sit udkast til retningslinjer og gennemføre
 Tilsynsmyndighederne behøver de rigtige værktøjer for at kunne sikre netneutraliteten. Hos Save The Internet tror vi ikke at BEREC får tid nok til at behandle og tage tilstrækkeligt hensyn til måske titusindvis af høringssvar (de amerikanske teletilsynsmyndigheder modtog 3,7 millioner svar på deres høring!). Vi kan råde bod på dette ved at sørge for at folk kan bidrage ordentligt til retningslinjerne på en mere effektiv måde.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC har [brug for dit bidrag](#send-a-message){: data-scroll="true"} før de afgør netneutralitetens fremtid i Europa.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakt os

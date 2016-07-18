@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [POSLAT ZPRÁVU](../#send-a-message)
 - [INFORMACE](../#info)
 - [FAQ](#)
 {{ END NAVIGATION }}

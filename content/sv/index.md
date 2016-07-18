@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SEND MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 De europeiska regleringsmyndigheterna kommer snart att besluta om stora telekommunikationsföretag ska kunna påverka vad vi kan (och inte) kan göra på nätet. Europa är i brådskande behov av klara riktlinjer för nätneutralitet för att skydda vår frihet och våra rättigheter på nätet.
-<br><br>
-Gå med i vår kampanj och agera nu!
 
 {{ BEGIN COUNTER }}
 
-| X | FOLK HAR <br> SKICKAT MEDDELANDEN | Y | DAGAR <br> KVAR |
+| X | FOLK HAR <br> SKICKAT MEDDELANDEN |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[TAKE ACTION](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Det låter som om du får något gratis, men istället gör det din mobiloperat�
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Säg till regleringsmyndigheterna i ditt land och BEREC att nätneutraliteten måste skyddas
-
-Använd frågeformuläret nedan och tala om för regleringsmyndigheterna vad du anser om de nya bestämmelserna om nätneutralitet. När du har svarat på ett valfritt antal en frågor i multiple choice-delen och i delen med de öppna frågorna genereras ett e-postmeddelande . När det kommer fram till oss skickar vi det vidare till EU:s regleringsmyndighet för telekommunikationer (BEREC) när det offentliga samrådet börjar i juni 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,12 +97,6 @@ I juni 2016 kommer BEREC att publicera sitt förslag till riktlinjer och genomf�
 Regleringsmyndigheterna behöver lämpliga verktyg för att kunna forcera nätneutralitet. Vi som jobbar med kampanjen Save The Internet tror inte att BEREC kommer att ha tillräckligt med tid på sig för att kunna behandla och ta hänsyn till potentiellt tiotusentals svar (de amerikanska regleringsmyndigheterna fick 3,7 miljoner svar efter sitt samråd!). Vi erbjuder ett förfarande där alla människor på ett meningsfullt sätt kan bidra till att riktlinjerna kommer till stånd och balansen återställs.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [behöver dina synpunkter](#skicka ett meddelande){: data-scroll="true"} innan de beslutar om framtiden för nätneutralitet i Europa.
-
-
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakta oss

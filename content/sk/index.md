@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ODOSLAŤ SPRÁVU](#send-a-message){: data-scroll="true" }
 - [INFORMÁCIE](#info){: data-scroll="true" }
 - [ČASTO KLADENÉ OTÁZKY](faq)
 {{ END NAVIGATION }}
@@ -11,18 +10,14 @@
 {: .title-subtext}
 Európske regulačné orgány sa chystajú rozhodnúť, či dajú veľkým telekomunikačným korporáciám moc ovplyvňovať to, čo môžeme (a nemôžeme) robiť online. Európa naliehavo potrebuje jasné pravidlá v súvislosti s neutralitou siete
 na ochranu našich online práv a slobôd.
-<br><br>
-Pripojiť sa k nášmu hnutiu, konajte teraz!
 
 {{ BEGIN COUNTER }}
 
-| X | ĽUDÍ <br> POSLALO SPRÁVY | Y | DNÍ <br> ZOSTÁVA |
+| X | ĽUDÍ <br> POSLALO SPRÁVY |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[Prijať Opatrenia](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Znie to, ako by ste dostali niečo zadarmo, no Váš mobilný operátor sa vďak
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Povedzte Vašim národným regulačným orgánom a BEREC, že chcete chrániť neutralitu siete
-
-Povedzte Vašim národným regulačným orgánom Váš názor na nové pravidlá o neutralite siete prostredníctvom dotazníka nižšie. Po zodpovedaní ľubovoľného počtu otázok s možnosťou výberu a otvorených otázok Vám bude vygenerovaný e-mail. Váš e-mail odošleme telekomunikačným regulačným orgánom EÚ (BEREC).
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ V júni 2016 plánuje BEREC zverejniť svoje návrhy usmernení a spustí verejn
 Regulačné orgány by sa mali vybaviť nástrojmi, ktorými dokážu presadiť neutralitu siete. V Save The Internet si myslíme, že BEREC nebude mať dostatok času na spracovanie a riadne zohľadnenie potenciálnych desiatok tisíc odpovedí (telekomunikačný regulačný orgán US dostal počas svojich konzultácií 3,7 milióna odpovedí!). Môžeme obnoviť rovnováhu tým, že každému umožníme riadne prispieť k usmerneniam efektívnejším spôsobom.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [potrebuje poznať Váš názor](#poslať správu){: data-scroll="true"} skôr, než sa rozhodne o budúcnosti neutrality siete v Európe.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontaktujte nás

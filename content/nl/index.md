@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [BERICHT VERSTUREN](#send-a-message){: data-scroll="true" }
 - [INFORMATIE](#info){: data-scroll="true" }
 - [VEELGESTELDE VRAGEN](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 Europese regelgevende instanties staan op het punt om te beslissen of ze grote telecombedrijven de macht zullen geven om invloed uit te oefenen op wat we online kunnen doen (en niet kunnen doen). Europa heeft dringend duidelijke richtsnoeren voor netneutraliteit nodig om onze vrijheden en rechten online te beschermen.
-<br><br>
-Doe mee, neem nu actie!
 
 {{ BEGIN COUNTER }}
 
-| X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN | Y | DAGEN <br> RESTEREND |
+| X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[ACTIE ONDERNEMEN](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Het lijkt of u iets gratis krijgt, maar uw mobiele operator wordt hierdoor een p
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Vraag uw nationale regelgevende instanties en BEREC om netneutraliteit te beschermen
-
-Vertel uw regelgevende instanties met behulp van de onderstaande vragenlijsttool wat u vindt van de nieuwe regels voor netneutraliteit. Als u een aantal meerkeuze- en open vragen beantwoordt, wordt een e-mail voor u gegenereerd. Uw e-mail wordt door ons naar het Orgaan van de Europese regelgevende instanties voor elektronische communicatie (BEREC) verzonden wanneer de officiële raadpleging in juni 2016 van start gaat.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ BEREC is van plan om in juni 2016 zijn ontwerprichtsnoeren te publiceren en een 
 Regelgevende instanties moeten zorgen dat ze beschikken over de middelen waarmee ze netneutraliteit kunnen afdwingen. De ngo's achter Save The Internet denken dat BEREC niet genoeg tijd zal hebben om potentieel tienduizenden reacties te verwerken en goed in te calculeren (de Amerikaanse telecomregulator ontving 3,7 miljoen reacties op zijn raadpleging!). We kunnen het evenwicht herstellen door te zorgen dat iedereen op een efficiëntere manier een bijdrage aan de richtsnoeren kan leveren.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## BEREC [heeft uw input nodig](#send-a-message){: data-scroll="true"} voordat het een beslissing neemt over de toekomst van netneutraliteit in Europa.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Neem contact met ons op

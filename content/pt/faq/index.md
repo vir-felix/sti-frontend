@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ENVIA UMA MENSAGEM](../#send-a-message)
 - [INFORMAÇÃO](../#info)
 - [PERGUNTAS FREQUENTES](#)
 {{ END NAVIGATION }}

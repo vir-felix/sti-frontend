@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [NOSŪTI ZIŅU](#send-a-message){: data-scroll="true" }
 - [INFORMĀCIJA](#info){: data-scroll="true" }
 - [Biežāk uzdotie jautājumi](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Šovasar Eiropā tiks izšķirta interneta nākotne. Lieli telekomunikāciju koncerni grib izlemt par to, ko mums tiešsaistē darīt un ko nē.
-<br><br>
-Palīdzi, kļūsti aktīvs!
 
 {{ BEGIN COUNTER }}
 
-| X | cilvēki ir <br> ziņu <br> nosūtījuši | Y | dienas tev ir <br> vēl laiks |
+| X | cilvēki ir <br> ziņu <br> nosūtījuši |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[TAGAD IR JĀRĪKOJAS](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Izskatās pēc bezmaksas piedāvājuma, tomēr patiesībā tu zaudē savu izvēl
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Brīvais internets ir apdraudēts!
-
-Tavs viedoklis ir svarīgs! Palīdzi saglabāt interneta brīvību Eiropā, piedaloties šajās sarunās par jaunajiem tīkla neitralitātes noteikumiem. Katrs komentārs ir svarīgs un maksā tev vien 2 minūtes tava laika, lai tiktu sadzirdēta tava balss. Atbildi uz šiem nedaudzajiem jautājumiem un līdz ar to nosūti oficiālu komentāru Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Paplašinātā aptauja](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -119,10 +99,6 @@ Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC līdz 2016. g. augu
 Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tīkla neitralitāti. Pilsoņu tiesību un patērētāju tiesību aizsardzības organizācijas, kas iesaistījušās šajā kampaņā, domā, ka  BEREC apvienība var rosināt ievērot tīkla neitralitātes noteikumus vienīgi ar pilsoņu argumentiem. Tādēļ tu vari dot BEREC apvienībai vērtīgu padomu.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## Saki BEREC apvienībai [savu viedokli](#send-a-message){: data-scroll="true"}!
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakti

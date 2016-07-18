@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [INVIA MESSAGGIO](#send-a-message){: data-scroll="true" }
 - [INFORMAZIONI](#info){: data-scroll="true" }
 - [DOMANDE FREQUENTI](faq)
 {{ END NAVIGATION }}
@@ -10,18 +9,14 @@
 
 {: .title-subtext}
 I regolatori europei stanno per decidere se dare alle grosse imprese di telecomunicazioni il potere di influenzare le nostre scelte online. L’Europa ha urgentemente bisogno di linee-guida chiare sulla neutralità della rete per proteggere le nostre libertà e diritti online.
-<br><br>
-Unisciti al movimento, agisci subito!
 
 {{ BEGIN COUNTER }}
 
-| X | PERSONE HANNO <br> INVIATO MESSAGGI | Y | GIORNI <br> RIMASTI |
+| X | PERSONE HANNO <br> INVIATO MESSAGGI |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[AGIRE](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -60,21 +55,6 @@ Ti dicono che ti stanno dando qualcosa gratis, ma invece si tratta di qualcosa c
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Parla con i tuoi enti normativi nazionali e con il BEREC per tutelare la neutralità della rete
-
-Comunica ai tuoi enti di regolamentazione la tua opinione sulle nuove regole sulla neutralità della rete utilizzando il questionario fornito qui sotto. Rispondendo a quante domande vuoi (tra quelle a scelta multipla e quelle aperte) verrà generata un’email che noi gireremo per te agli enti europei che regolamentano le telecomunicazioni (BEREC) non appena inizierà la consultazione ufficiale nel mese di giugno 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -117,10 +97,6 @@ Nel mese di giugno 2016, il BEREC pubblicherà la bozza delle linee-guida e lanc
 I regolatori hanno bisogno di dotarsi degli strumenti necessari per attuare i principi di neutralità della rete. Noi di “Save The Internet” pensiamo che il BEREC non avrà abbastanza tempo per elaborare e tenere debitamente conto delle potenziali decine di migliaia di risposte (negli USA i regolatori delle telecomunicazioni hanno ricevuto 3,7 milioni di risposte alla consultazione!). Possiamo ritrovare l’equilibrio dando a tutti la possibilità di contribuire adeguatamente alla stesura delle linee-guida in modo più efficiente.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## Il BEREC [ha bisogno del tuo aiuto](#invia-un-messaggio){: data-scroll="true"} prima di decidere il futuro della neutralità della rete in Europa.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Contattaci

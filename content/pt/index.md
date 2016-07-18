@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ENVIA UMA MENSAGEM](#send-a-message){: data-scroll="true" }
 - [INFORMAÇÃO](#info){: data-scroll="true" }
 - [PERGUNTAS FREQUENTES](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de telecomunicações o poder de influenciar o que podes (e não podes) fazer online. A Europa precisa urgentemente de directrizes claras de neutralidade da rede para proteger as nossas liberdades e direitos online.
-<br><br>
-Mobiliza-te, actua Já!
 
 {{ BEGIN COUNTER }}
 
-| X | PESSOAS <br> ENVIARAM MENSAGENS | Y | DIAS <br> RESTANTES |
+| X | PESSOAS <br> ENVIARAM MENSAGENS |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[ACTUA](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Ainda que pareça que te estão a dar algo gratuitamente, o teu operador móvel 
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Diz aos reguladores nacionais e ao BEREC para protegerem a neutralidade da rede
-
-Dá a tua opinião sobre a nova lei de neutralidade da rede aos reguladores usando o questionário em baixo. Ao responderes às questões será gerado um e-mail para ti. O e-mail será submetido por nós à consulta oficial dos Reguladores de Telecomunicações da UE (BEREC) quando esta começar em Junho de 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME }}
-
-__[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará
 Os reguladores devem prover-se das melhores ferramentas para impor a neutralidade da rede. Na "Save The Internet", pensamos que o BEREC não terá tempo suficiente para processar devidamente e ter em consideração as milhares de respostas (os reguladores de telecomunicações dos Estados Unidos receberam 3,7 milhões de respostas à sua consulta!). Podemos reequilibrar a balança permitindo que todos possam contribuir na elaboração das directrizes de forma mais eficiente.
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## O BEREC [precisa da tua opinião](#send-a-message){: data-scroll="true"} antes de decidir o futuro da neutralidade da rede na Europa.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME COALITION }}
 ### Juntos defendemos regras firmes de Neutralidade da Rede.

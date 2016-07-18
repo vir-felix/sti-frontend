@@ -1,7 +1,6 @@
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [ENVOYER UN MESSAGE](#send-a-message){: data-scroll="true" }
 - [INFORMATION](#info){: data-scroll="true" }
 - [FAQ](faq)
 
@@ -11,18 +10,14 @@
 
 {: .title-subtext}
 Les régulateurs européens vont décider prochainement de donner aux grandes entreprises du secteur des télécommunications le pouvoir d'influencer ce que nous pouvons faire ou ne pas faire en ligne. L'Europe a besoin de toute urgence de fixer un cadre clair à la neutralité du Net afin de protéger nos libertés et nos droits sur Internet.
-<br><br>
-Rejoignez notre mouvement et agissez dès maintenant ! 
 
 {{ BEGIN COUNTER }}
 
-| X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES | Y | JOURS <br> RESTANT |
+| X | PERSONNES ONT ENVOYÉ <br> DES MESSAGES |
 
 comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
 
 {{ END COUNTER }}
-
-[Agissez !](#send-a-message){: id="take-action-button" data-scroll="true" }
 
 {{ END HOME INTRO }}
 
@@ -61,21 +56,6 @@ Vous avez peut-être l'impression d'obtenir quelque chose gratuitement, mais vot
 {{ END HOME ZERO-RATING }}
 
 {{ END HOME FIX-NET-NEUTRALITY }}
-
-
-{{ BEGIN HOME QUESTIONNAIRE }}
-{{ ANCHOR SEND-A-MESSAGE }}
-
-# Contactez votre régulateur national et l'ORECE afin qu'ils protègent la neutralité du Net 
-
-Faites connaître votre opinion à vos régulateurs sur les nouvelles règles de la neutralité du net en utilisant l'outil de questionnaire ci-dessous. En répondant aux questions à choix multiples et ouvertes, un e-mail sera généré pour vous. Votre e-mail sera soumis aux organismes de réglementation européenne des télécommunications (ORECE) lors de la consultation officielle qui commencera d'ici juin 2016.
-
-{{ BEGIN QUESTIONNAIRE-IFRAME }}
-{{ END QUESTIONNAIRE-IFRAME}}
-
-__[Questionnaire avancé](https://consultation.savetheinternet.eu/advanced/){: target="_blank"}__
-
-{{ END HOME QUESTIONNAIRE }}
 
 {{ BEGIN HOME SPREAD-THE-WORD }}
 
@@ -118,10 +98,6 @@ En juin 2016, l'ORECE a publié un premier jet des lignes directrices et a lanc�
 Les régulateurs doivent s'équiper d'outils leur permettant d'imposer la neutralité du Net. La campagne Save The Internet considère que l'ORECE n'aura pas assez de temps pour traiter et prendre en compte les milliers de réponses potentielles (l'agence de régulation américaine a reçu 3,7 millions de réponses à sa consultation !). Nous pouvons redresser cette balance en permettant à tout le monde de contribuer aux lignes directrices en cours d'élaboration d'une manière plus efficace. 
 
 {{ END HOME BEREC-4 }}
-
-{{ BEGIN HOME BEREC-5 }}
-## L'ORECE [a besoin de votre avis](#send-a-message){: data-scroll="true"}  avant de se décider sur l'avenir de la neutralité du Net en Europe.
-{{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Contactez-nous

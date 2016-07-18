@@ -1,7 +1,6 @@
 {{ BEGIN FAQ NAVIGATION }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
-- [SIŲSTI ŽINUTĘ](../#send-a-message)
 - [INFORMACIJA](../#info)
 - [D.U.K.](#)
 {{ END NAVIGATION }}
