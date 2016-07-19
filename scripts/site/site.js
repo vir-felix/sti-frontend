@@ -17,6 +17,12 @@ var isMobile = {
   }
 };
 
+// close modal
+
+function closeModal() {
+  $('#modal').removeClass('active');
+}
+
 // counter related globals
 
 function daysUntil(deadline) {
@@ -149,6 +155,9 @@ $(document).ready(function() {
 
   // language selection
   initLanguageSelection();
+  
+  // trigger counter
+  $('#modal').addClass('active');
 
   // video
 
