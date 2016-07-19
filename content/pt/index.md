@@ -15,7 +15,7 @@ Os Reguladores Europeus estão prestes a decidir dar às grandes empresas de tel
 
 | X | PESSOAS <br> ENVIARAM MENSAGENS |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comentários enviados através de savetheinternet.eu, Avaaz, savenetneutrality.eu e Access Now
 
 {{ END COUNTER }}
 
