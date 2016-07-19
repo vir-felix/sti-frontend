@@ -96,7 +96,7 @@ Pero el factor decisivo en la mayoría de los debates sobre la neutralidad de la
 
 ## ¿Quién está detrás de SaveTheInternet.eu? {#quien-esta-detras-de-savetheinterneteu}
 
-SaveTheInternet es una campaña conjunta de 12 organizaciones europeas que trabajan para proteger las libertades civiles en Internet. Esta campaña ha sido construida para conectar a las personas con los responsables políticos de elaborar la Regulación UE sobre neutralidad de la red. Esta campaña se lanzó en la conferencia 30c3 en Diciembre de 2012 y ha sido actualizada permanentemente desde entonces para seguir el proceso legislativo y regulador.
+SaveTheInternet es una campaña conjunta de 23 organizaciones europeas que trabajan para proteger las libertades civiles en Internet. Esta campaña ha sido construida para conectar a las personas con los responsables políticos de elaborar la Regulación UE sobre neutralidad de la red. Esta campaña se lanzó en la conferencia 30c3 en Diciembre de 2012 y ha sido actualizada permanentemente desde entonces para seguir el proceso legislativo y regulador.
 
 Si formas parte de una organización que quiere apoyar la campaña y ayudarnos a dar difusión, por favor contacta con nosotros en [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

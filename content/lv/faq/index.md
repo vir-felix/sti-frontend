@@ -96,7 +96,7 @@ Tomēr izšķirošais faktors lielākajā daļā debašu par tīkla neitralitāt
 
 ## Kas darbojas kampaņā SaveTheInternet ? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ir 12 Eiropas nevalstisko organizāciju kopīga kampaņa, kuras dalībnieki uzņēmušies aizstāvēt brīvību internetā. Kampaņa tika aizsākta ar mērķi ES regulas par tīkla neitralitāti sagatavošanas procesā sasaukt kopā cilvēkus un lēmumu pieņēmējus. Sabiedrība ar šo kampaņu tika iepazīstināta 30c3-Kongresā 2012. g. decembrī. Kampaņas dalībnieki pastāvīgi aktualizē informāciju, lai sekotu likumdevēja un regulatora darbiem.
+SaveTheInternet ir 23 Eiropas nevalstisko organizāciju kopīga kampaņa, kuras dalībnieki uzņēmušies aizstāvēt brīvību internetā. Kampaņa tika aizsākta ar mērķi ES regulas par tīkla neitralitāti sagatavošanas procesā sasaukt kopā cilvēkus un lēmumu pieņēmējus. Sabiedrība ar šo kampaņu tika iepazīstināta 30c3-Kongresā 2012. g. decembrī. Kampaņas dalībnieki pastāvīgi aktualizē informāciju, lai sekotu likumdevēja un regulatora darbiem.
 
 Ja tu darbojies kādā organizācijā, kas vēlētos kļūt par šās kampaņas atbalstītāju, un ja tu vēlies palīdzēt izplatīt kampaņas informāciju, tad aicinām tevi sazināties ar mums: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

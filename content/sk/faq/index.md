@@ -95,7 +95,7 @@ No rozhodujúcim faktorom vo väčšine diskusií o neutralite siete je široká
 
 ## Kto stojí za SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet je spoločná kampaň 12 európskych mimovládnych organizácií, ktoré sa usilujú o ochranu občianskych slobôd na internete. Táto kampaň bola vytvorená s cieľom spojiť ľudí s tvorcami politiky pri príprave Nariadenia EÚ o neutralite siete. Táto kampaň bola spustená počas 30c3 konferencie v decembri 2012 a od tej doby bola aktualizovaná v súlade s legislatívnym a regulačným procesom.
+SaveTheInternet je spoločná kampaň 23 európskych mimovládnych organizácií, ktoré sa usilujú o ochranu občianskych slobôd na internete. Táto kampaň bola vytvorená s cieľom spojiť ľudí s tvorcami politiky pri príprave Nariadenia EÚ o neutralite siete. Táto kampaň bola spustená počas 30c3 konferencie v decembri 2012 a od tej doby bola aktualizovaná v súlade s legislatívnym a regulačným procesom.
 
 Ak ste súčasťou nejakej organizácie a chcete nám pomôcť šíriť naše slová, kontaktujte nás na adrese [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

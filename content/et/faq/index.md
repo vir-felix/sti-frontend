@@ -96,7 +96,7 @@ Otsustavaks teguriks võrguneutraalsuse aruteludes on aga üldsus **ehk teisiti 
 
 ## Kes on liikumise SaveTheInternet.eu taga? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ehk Päästke Internet on 12 Euroopa valitsusvälise organisatsiooni ühiskampaania, et kaitsta kodanikuvabadusi Internetis. Kampaania eesmärk oli ühendada inimesi poliitikakujundajatega ELi võrguneutraalsuse määruse ettevalmistamisel. Kampaania käivitati 30c3 konverentsil 2012. a detsembris ja seda on pidevalt uuendatud, et järgida õiguslikku ja regulatiivset protsessi.
+SaveTheInternet ehk Päästke Internet on 23 Euroopa valitsusvälise organisatsiooni ühiskampaania, et kaitsta kodanikuvabadusi Internetis. Kampaania eesmärk oli ühendada inimesi poliitikakujundajatega ELi võrguneutraalsuse määruse ettevalmistamisel. Kampaania käivitati 30c3 konverentsil 2012. a detsembris ja seda on pidevalt uuendatud, et järgida õiguslikku ja regulatiivset protsessi.
 
 Kui kuulute organisatsiooni ja tahate meid toetada või aidata meie ideel levida, võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

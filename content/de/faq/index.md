@@ -100,7 +100,7 @@ Aber der entscheidende Faktor in den meisten Debatten zur Netzneutralität ist d
 
 ## Wer steht hinter SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ist die gemeinsame Kampagne von 12 europäischen NGOs, die sich den Schutz der Freiheiten im Internet zur Aufgabe gemacht haben. Die Kampagne wurde gestartet, um Menschen mit Entscheidungsträgern in der Vorbereitung der EU-Verordnung zur Netzneutralität miteinander zu verbinden. Der Öffentlichkeit wurde diese Kampagne im Dezember 2012 beim 30c3-Kongress vorgestellt. Sie wurde seitdem laufend aktualisiert, um dem Prozess der Gesetzgebung und Regulierung zu folgen.
+SaveTheInternet ist die gemeinsame Kampagne von 23 europäischen NGOs, die sich den Schutz der Freiheiten im Internet zur Aufgabe gemacht haben. Die Kampagne wurde gestartet, um Menschen mit Entscheidungsträgern in der Vorbereitung der EU-Verordnung zur Netzneutralität miteinander zu verbinden. Der Öffentlichkeit wurde diese Kampagne im Dezember 2012 beim 30c3-Kongress vorgestellt. Sie wurde seitdem laufend aktualisiert, um dem Prozess der Gesetzgebung und Regulierung zu folgen.
 
 Wenn du Teil einer Organisation bist, die Unterstützer dieser Kampagne werden möchte, und wenn du helfen möchtest, die Kampagne zu verbreiten, dann kontaktiere uns bitte: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

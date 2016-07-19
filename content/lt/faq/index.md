@@ -100,7 +100,7 @@ Tačiau svarbiausias daugumos debatų faktorius siekiant tinklo neutralumo yra v
 
 ## Kas remia SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet yra bendra 12 Europos NVO, kurios iškėlė užduotį apginti laisves internete, kampanija. Kampanija buvo pradėta, siekiant suvesti žmones su sprendimus priimančiomis institucijomis rengiant Europos reglamentą dėl tinklo neutralumo. Visuomenei ši kampanija pristatyta 2012 metų gruodžio mėnesį 30c3 konferencijos metu. Nuo tada ji nuolat atnaujinama, siekiant stebėti įstatymų leidybos ir reguliavimo procesą.
+SaveTheInternet yra bendra 23 Europos NVO, kurios iškėlė užduotį apginti laisves internete, kampanija. Kampanija buvo pradėta, siekiant suvesti žmones su sprendimus priimančiomis institucijomis rengiant Europos reglamentą dėl tinklo neutralumo. Visuomenei ši kampanija pristatyta 2012 metų gruodžio mėnesį 30c3 konferencijos metu. Nuo tada ji nuolat atnaujinama, siekiant stebėti įstatymų leidybos ir reguliavimo procesą.
 
 Jei tu esi dalis organizacijos, kuri norėtų tapti šios kampanijos rėmėja, ir jei tu norėtum padėti skleisti šią kampaniją, tada prašytume su mumis susisiekti: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

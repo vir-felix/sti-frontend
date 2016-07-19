@@ -95,7 +95,7 @@ Toda odločilen dejavnik pri večini nevtralnosti razprave je širša javnost, *
 
 ## Kdo stoji za SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet je skupna akcija 12 evropskih nevladnih organizacij, ki delujejo za zaščito državljanskih svoboščin na internetu. Ta kampanja je bila zgrajena za povezovanje ljudi z oblikovalci politike pri pripravi uredbe EU o internetni nevtralnosti. Ta akcija se je začela na konferenci 30c3 decembra 2012 in je bila posodobljena za sledenje zakonodajnega in regulativnega postopka.
+SaveTheInternet je skupna akcija 23 evropskih nevladnih organizacij, ki delujejo za zaščito državljanskih svoboščin na internetu. Ta kampanja je bila zgrajena za povezovanje ljudi z oblikovalci politike pri pripravi uredbe EU o internetni nevtralnosti. Ta akcija se je začela na konferenci 30c3 decembra 2012 in je bila posodobljena za sledenje zakonodajnega in regulativnega postopka.
 
 Če ste del organizacije in želite postati podpornik ali pomagati širiti besedo, nam pišite na [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

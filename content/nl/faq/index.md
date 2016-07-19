@@ -97,7 +97,7 @@ Maar de doorslaggevende factor in de meeste debatten over netneutraliteit is het
 
 ## Wie zit er achter SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet is de gezamenlijke campagne van 12 Europese ngo's die zich inspannen om burgerlijke vrijheden op internet te beschermen. Deze campagne is opgezet om mensen in contact te brengen met beleidsmakers in de aanloop naar de EU-verordening betreffende netneutraliteit. De campagne is gestart tijdens de 30C3-conferentie in december 2012 en is sindsdien steeds geactualiseerd om het wet- en regelgevingsproces te volgen.
+SaveTheInternet is de gezamenlijke campagne van 23 Europese ngo's die zich inspannen om burgerlijke vrijheden op internet te beschermen. Deze campagne is opgezet om mensen in contact te brengen met beleidsmakers in de aanloop naar de EU-verordening betreffende netneutraliteit. De campagne is gestart tijdens de 30C3-conferentie in december 2012 en is sindsdien steeds geactualiseerd om het wet- en regelgevingsproces te volgen.
 
 Als u bij een organisatie werkt en supporter wilt worden of wilt helpen de boodschap te verspreiden, stuur ons dan een e-mail via [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

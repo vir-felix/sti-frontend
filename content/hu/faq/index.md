@@ -94,7 +94,7 @@ A legtöbb hálózatsemlegességről folyó vitában azonban a közvéleménynek
 
 ## Ki áll a SaveTheInternet.eu mögött? {#who-is-behind-savetheinterneteu}
 
-A SaveTheInternet 12 európai civil szervezet közös kampánya, a szervezetek célja a szabadságjogok érvényesítésének védelme az interneten. A kampány azért jött létre, hogy hidat teremtsen az emberek és a döntéshozók között a hálózatsemlegességről szóló EU Rendelet előkészítése során. A kampány a 2012 decemberében megrendezett 30c3 konferencián indult útjára, azóta is tart, és nyomon követi a jogszabályalkotási és szabályozói folyamatot.
+A SaveTheInternet 23 európai civil szervezet közös kampánya, a szervezetek célja a szabadságjogok érvényesítésének védelme az interneten. A kampány azért jött létre, hogy hidat teremtsen az emberek és a döntéshozók között a hálózatsemlegességről szóló EU Rendelet előkészítése során. A kampány a 2012 decemberében megrendezett 30c3 konferencián indult útjára, azóta is tart, és nyomon követi a jogszabályalkotási és szabályozói folyamatot.
 
 Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

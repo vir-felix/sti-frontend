@@ -100,7 +100,7 @@ But the deciding factor in most net neutrality debates is the general public, **
 
 ## Who is behind SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
+SaveTheInternet is the joint campaign of 23 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
 
 If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

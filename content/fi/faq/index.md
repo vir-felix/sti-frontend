@@ -96,7 +96,7 @@ Ratkaiseva tekijä useimmissa keskusteluissa verkkoneutraliteetista on kuitenkin
 
 ## Kuka on SaveTheInternet.eu takana? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet on 12 eurooppalaisen kansalaisjärjestön NGO yhteinen kampanja, joka on ottanut tehtäväkseen vapauden suojelemisen internetissä. Kampanja käynnistettiin yhdistämään toisiinsa päätöksentekijöitä valmisteltaessa verkkoneutraliteetin EU-asetusta. Tämä kampanja esiteltiin julkisuudessa 30c3-kongressissa joulukuussa 2012. Sitä on sittemmin päivitetty jatkuvasti, jotta voitaisiin seurata lainsäädännön prosessia ja järjestelyä.
+SaveTheInternet on 23 eurooppalaisen kansalaisjärjestön NGO yhteinen kampanja, joka on ottanut tehtäväkseen vapauden suojelemisen internetissä. Kampanja käynnistettiin yhdistämään toisiinsa päätöksentekijöitä valmisteltaessa verkkoneutraliteetin EU-asetusta. Tämä kampanja esiteltiin julkisuudessa 30c3-kongressissa joulukuussa 2012. Sitä on sittemmin päivitetty jatkuvasti, jotta voitaisiin seurata lainsäädännön prosessia ja järjestelyä.
 
 Mikäli kuulut johonkin järjestöön, haluaisit tukea tätä kampanjaa ja haluaisit auttaa levittämään sitä, ota yhteys meihin: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

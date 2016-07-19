@@ -96,7 +96,7 @@ Jednak decydującym czynnikiem w większości debat na temat neutralności sieci
 
 ## Kto stoi za SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet to wspólna kampania prowadzona przez 12 europejskich organizacji pozarządowych, których celem jest ochrona swobód obywatelskich w Internecie. Kampania została stworzona z myślą o połączeniu ludzi z decydentami podczas przygotowań do wprowadzenia unijnego rozporządzenia w sprawie neutralności sieci. Kampania wystartowała na konferencji 30c3, która odbyła się w grudniu 2012 roku i jest od tego czasu aktualizowana tak, by śledziła proces legislacyjny i regulacyjny.
+SaveTheInternet to wspólna kampania prowadzona przez 23 europejskich organizacji pozarządowych, których celem jest ochrona swobód obywatelskich w Internecie. Kampania została stworzona z myślą o połączeniu ludzi z decydentami podczas przygotowań do wprowadzenia unijnego rozporządzenia w sprawie neutralności sieci. Kampania wystartowała na konferencji 30c3, która odbyła się w grudniu 2012 roku i jest od tego czasu aktualizowana tak, by śledziła proces legislacyjny i regulacyjny.
 
 Jeśli należysz organizacji i chcesz nas wspierać lub pomóc w rozpowszechnianiu informacji, prosimy o kontakt pod adresem[info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

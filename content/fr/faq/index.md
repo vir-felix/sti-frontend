@@ -100,7 +100,7 @@ Mais le facteur décisif dans la plupart des débats sur la neutralité du Net c
 
 ## Qui est SaveTheInternet.eu ? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet est la campagne de 12 ONG européennes qui travaillent afin de protéger les libertés fondamentales sur Internet. Cette campagne a été créée afin de connecter les personnes individuelles aux législateurs lors de la préparation de la réglementation européenne sur la neutralité du Net. Cette campagne a été lancée lors de la conférence 30c3 en Décembre 2012 et a été mise à jour régulièrement depuis afin de suivre le processus législatif du règlement.
+SaveTheInternet est la campagne de 23 ONG européennes qui travaillent afin de protéger les libertés fondamentales sur Internet. Cette campagne a été créée afin de connecter les personnes individuelles aux législateurs lors de la préparation de la réglementation européenne sur la neutralité du Net. Cette campagne a été lancée lors de la conférence 30c3 en Décembre 2012 et a été mise à jour régulièrement depuis afin de suivre le processus législatif du règlement.
 
 Si vous faites partie d'une organisation et que vous désirez soutenir cette action et aider à diffuser notre message, contactez-nous à l'adresse suivante : [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

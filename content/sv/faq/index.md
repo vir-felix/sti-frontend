@@ -96,7 +96,7 @@ Men den avgörande faktorn i de flesta debatter om nätneutralitet är allmänhe
 
 ## Vem ligger bakom kampanjen SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet är en gemensam kampanj som startats av 12 europeiska icke-statliga organisationer som tillsammans arbetar för att skydda de medborgerliga rättigheter på internet. Kampanjen har kommit till för att sammanföra medborgarna med beslutsfattarna i samband med utarbetandet av EU-förordningen om nätneutralitet. Kampanjen sjösattes vid 30c3-konferensen i december 2012 och har sedan dessa hela tiden aktualiserats för att följa upp lagstiftningsprocessen.
+SaveTheInternet är en gemensam kampanj som startats av 23 europeiska icke-statliga organisationer som tillsammans arbetar för att skydda de medborgerliga rättigheter på internet. Kampanjen har kommit till för att sammanföra medborgarna med beslutsfattarna i samband med utarbetandet av EU-förordningen om nätneutralitet. Kampanjen sjösattes vid 30c3-konferensen i december 2012 och har sedan dessa hela tiden aktualiserats för att följa upp lagstiftningsprocessen.
 
 Om du tillhör en organisation och skulle vilja stödja kampanjen eller hjälpa till att sprida budskapet, är du välkommen att kontakta oss på. [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

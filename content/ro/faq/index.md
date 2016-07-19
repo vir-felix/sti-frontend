@@ -94,7 +94,7 @@ Dar factorul decisiv în dezbaterea privind neutralitatea Internetului va fi pub
 
 ## Cine este în spatele SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet este o campanie comună a 12 ONG-uri Europene care se ocupă cu protecția libertăților civile pe Internet. Această campanie a fost creată pentru a pune în legătură cetățenii cu factorii de decizie în vederea pregătirii Regulamentului UE pentru neutralitatea Internetului. Această campanie a fost lansată la conferința 30c3, în Decembrie 2012 și a fost actualizată în concordanță cu ultimele evenimente pe parcursul întregului proces legislativ și de reglementare.
+SaveTheInternet este o campanie comună a 23 ONG-uri Europene care se ocupă cu protecția libertăților civile pe Internet. Această campanie a fost creată pentru a pune în legătură cetățenii cu factorii de decizie în vederea pregătirii Regulamentului UE pentru neutralitatea Internetului. Această campanie a fost lansată la conferința 30c3, în Decembrie 2012 și a fost actualizată în concordanță cu ultimele evenimente pe parcursul întregului proces legislativ și de reglementare.
 
 Dacă faci parte dintr-o organizație și dorești să susții acestă campanie sau dorești să o promovezi, contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
