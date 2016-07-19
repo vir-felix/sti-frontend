@@ -136,7 +136,11 @@ def transform(site_config, locale, html)
         html.sub! block_pattern, tail
       when 'counter'
         tail = "\n{::nomarkdown}\n<div id=\"count-tooltip\">"
-        tail << "savetheinternet.eu: <span id=\"counter-sti\"></span><br />Avaaz: <span id=\"counter-avaaz\"></span><br />savenetneutrality.eu: <span id=\"counter-snn\"></span><br />Access Now: <span id=\"counter-access\"></span><br />"
+        tail << "savetheinternet.eu: <span id=\"counter-sti\"></span><br />"
+        tail << "Avaaz: <span id=\"counter-avaaz\"></span><br />"
+        tail << "savenetneutrality.eu: <span id=\"counter-snn\"></span><br />"
+        tail << "OpenMedia: <span id=\"counter-om\"></span><br />"
+        tail << "Access Now: <span id=\"counter-access\"></span><br />"
         tail << "</div></div>\n{:/}\n"
 
         html.sub! block_pattern, tail

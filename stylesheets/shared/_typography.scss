@@ -83,10 +83,6 @@ a {
   color: $sti-red-new;
   font-family: $sourcesans;
   text-decoration: none;
-  @include setFontToBaseline(15px, 1, 1.5);
-  @include susy-breakpoint($tablet-small, $desktop-large) {
-    @include setFontToBaseline(20px, 1, 1.5);
-  }
   &:hover {
     color: $sti-red-new !important;
     text-decoration: underline;

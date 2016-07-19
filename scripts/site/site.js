@@ -114,6 +114,7 @@ function registerAndSetupCounter() {
     $('#counter-sti').html(counter.sti.toLocaleString());
     $('#counter-avaaz').html(counter.avaaz.toLocaleString());
     $('#counter-snn').html(counter.snn.toLocaleString());
+    $('#counter-om').html(counter.om.toLocaleString());
     $('#counter-access').html(counter.access.toLocaleString());
     
     $counter.css('visibility', 'visible').hide().fadeIn('slow');
