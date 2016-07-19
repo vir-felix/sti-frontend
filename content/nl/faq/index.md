@@ -59,13 +59,13 @@ Netneutraliteit zorgt ervoor dat u online over de vrijheid beschikt om naar wens
 
 Als er geen netneutraliteit was...
 
-1.        U zou meer betalen voor minder internet, en de internetprovider zou poortwachter worden tussen u en uw favoriete onlinediensten en -toepassingen.
+1. U zou meer betalen voor minder internet, en de internetprovider zou poortwachter worden tussen u en uw favoriete onlinediensten en -toepassingen.
 
-2.        Coole nieuwe websites en uitvindingen zouden niet zo snel en toegankelijk zijn als de grote, bestaande Amerikaanse websites. Ze zouden misschien niet eens lang genoeg overeind blijven om populair te worden.
+2. Coole nieuwe websites en uitvindingen zouden niet zo snel en toegankelijk zijn als de grote, bestaande Amerikaanse websites. Ze zouden misschien niet eens lang genoeg overeind blijven om populair te worden.
 
-3.        De economie en startende bedrijven zouden eronder te lijden hebben. Met netneutraliteit kan iedereen een nieuwe dienst uitvinden zonder om toestemming te vragen en van het begin af aan profiteren van een wereldwijde, neutrale infrastructuur. Als we deze vrijheid kwijtraken, verliezen we een groot deel van het enorme economische succes van de digitale economie, en onze vrijheid om te kiezen als consument en om te communiceren als burger.
+3. De economie en startende bedrijven zouden eronder te lijden hebben. Met netneutraliteit kan iedereen een nieuwe dienst uitvinden zonder om toestemming te vragen en van het begin af aan profiteren van een wereldwijde, neutrale infrastructuur. Als we deze vrijheid kwijtraken, verliezen we een groot deel van het enorme economische succes van de digitale economie, en onze vrijheid om te kiezen als consument en om te communiceren als burger.
 
-4.        Internet zou langzamer zijn. Onderzoek heeft aangetoond dat als internetproviders een concurrentievoordeel aan een paar websites mochten verkopen, ze er baat bij zouden hebben om de rest van internet langzamer te maken voor alle anderen. Zelfs als je iets op het eerste gezicht goedkoop krijgt, heb je in werkelijkheid minder opties en is je downloadlimiet voor gebruik van het echte internet verlaagd.
+4. Internet zou langzamer zijn. Onderzoek heeft aangetoond dat als internetproviders een concurrentievoordeel aan een paar websites mochten verkopen, ze er baat bij zouden hebben om de rest van internet langzamer te maken voor alle anderen. Zelfs als je iets op het eerste gezicht goedkoop krijgt, heb je in werkelijkheid minder opties en is je downloadlimiet voor gebruik van het echte internet verlaagd.
 
 [Hoe datalimieten slecht zijn voor consumenten en innovatie](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -118,15 +118,15 @@ Gespecialiseerde diensten zijn niet diensten die via internet kunnen worden gele
 
 De [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) definieert vijf waarborgen voor het aanbieden van gespecialiseerde diensten:
 
-1.        Gespecialiseerde diensten mogen niet worden gebruikt om bepalingen met betrekking tot verkeersbeheermaatregelen te omzeilen. ISP's mogen gespecialiseerde diensten geen voorrang geven ten opzichte van vergelijkbare inhoud, toepassingen of diensten die beschikbaar zijn via internettoegangsdiensten;
+1. Gespecialiseerde diensten mogen niet worden gebruikt om bepalingen met betrekking tot verkeersbeheermaatregelen te omzeilen. ISP's mogen gespecialiseerde diensten geen voorrang geven ten opzichte van vergelijkbare inhoud, toepassingen of diensten die beschikbaar zijn via internettoegangsdiensten;
 
-2.        Gespecialiseerde diensten moeten geoptimaliseerd zijn om specifieke kwaliteitsvereisten van de dienstverlening voor de inhoud, toepassing of dienst te waarborgen, die nodig zijn voor essentiële functionaliteit van de inhoud, toepassing of dienst in kwestie;
+2. Gespecialiseerde diensten moeten geoptimaliseerd zijn om specifieke kwaliteitsvereisten van de dienstverlening voor de inhoud, toepassing of dienst te waarborgen, die nodig zijn voor essentiële functionaliteit van de inhoud, toepassing of dienst in kwestie;
 
-3.        Gespecialiseerde diensten mogen niet worden gebruikt of aangeboden ter vervanging van internettoegangsdiensten;
+3. Gespecialiseerde diensten mogen niet worden gebruikt of aangeboden ter vervanging van internettoegangsdiensten;
 
-4.        Gespecialiseerde diensten mogen uitsluitend worden aangeboden als er voldoende netwerkcapaciteit beschikbaar is om die diensten ter aanvulling op verleende internettoegangsdiensten aan te bieden;
+4. Gespecialiseerde diensten mogen uitsluitend worden aangeboden als er voldoende netwerkcapaciteit beschikbaar is om die diensten ter aanvulling op verleende internettoegangsdiensten aan te bieden;
 
-5.        De verlening van gespecialiseerde diensten mag geen nadeel toebrengen aan de beschikbaarheid en algemene kwaliteit van internettoegangsdiensten.
+5. De verlening van gespecialiseerde diensten mag geen nadeel toebrengen aan de beschikbaarheid en algemene kwaliteit van internettoegangsdiensten.
 
 ## Hoe kunnen de waarborgen voor gespecialiseerde diensten worden versterkt en waarom is dit belangrijk? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -157,11 +157,11 @@ Het alternatief is dat internetproviders datapakketten classificeren op basis va
 
 Klassegebaseerde verkeersbeheersmaatregelen zijn daarom:
 
--        minder transparant dan maatregelen waarbij niet op toepassingen wordt gelet, omdat de eindgebruiker niet weet hoe deze specifieke inhoud en de diensten die hij gebruikt, worden geclassificeerd;
+- minder transparant dan maatregelen waarbij niet op toepassingen wordt gelet, omdat de eindgebruiker niet weet hoe deze specifieke inhoud en de diensten die hij gebruikt, worden geclassificeerd;
 
--        meer discriminerend dan maatregelen waarbij niet op toepassingen wordt gelet, omdat het risico bestaat dat toepassingen verkeerd worden geclassificeerd, versleuteld verkeer wordt benadeeld en concurrentieverstorend gedrag in de hand wordt gewerkt;
+- meer discriminerend dan maatregelen waarbij niet op toepassingen wordt gelet, omdat het risico bestaat dat toepassingen verkeerd worden geclassificeerd, versleuteld verkeer wordt benadeeld en concurrentieverstorend gedrag in de hand wordt gewerkt;
 
--        minder evenredig dan maatregelen waarbij niet op toepassingen wordt gelet, omdat de laatste altijd minder ingrijpend en beter voor de keuzemogelijkheden van de gebruikers zijn.
+- minder evenredig dan maatregelen waarbij niet op toepassingen wordt gelet, omdat de laatste altijd minder ingrijpend en beter voor de keuzemogelijkheden van de gebruikers zijn.
 
 ## Wat is het doel van SaveTheInternet.eu voor wat betreft verkeersbeheer? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -171,7 +171,7 @@ Verkeersbeheer is nodig om congestie op te lossen en de integriteit en veilighei
 
 ## Wanneer kunnen providers beginnen hun netwerk te beheren? {#when-can-a-provider-start-managing-its-network}
 
-Volgens de [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  kunnen internetproviders beginnen hun netwerk te beheren wanneer daadwerkelijk sprake is van congestie of in gevallen waarin ze proberen dreigende congestie te beperken. Deze tweede optie dient door de regelgevende instanties te worden verhelderd om een dubieuze situatie waarin het netwerk continu wordt 'beheerd', zelfs als het niet echt nodig is, te voorkomen.
+Volgens de [Verordening](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kunnen internetproviders beginnen hun netwerk te beheren wanneer daadwerkelijk sprake is van congestie of in gevallen waarin ze proberen dreigende congestie te beperken. Deze tweede optie dient door de regelgevende instanties te worden verhelderd om een dubieuze situatie waarin het netwerk continu wordt 'beheerd', zelfs als het niet echt nodig is, te voorkomen.
 
 Wij stellen dat deze tweede optie alleen mag worden toegestaan in gevallen waarin er naast de hoeveelheid verkeer die door een bepaalde netwerkhub stroomt, ook andere indicatoren zijn (zoals het aantal abonnees dat met één netwerkcel is verbonden). Er dient altijd een concrete en werkelijke behoefte aan verkeersbeheer te zijn.
 
@@ -227,23 +227,23 @@ Er zijn strikte regels voor netneutraliteit in de V.S., Canada en Chili. Het mee
 Er worden ook SaveTheInternet-campagnes gevoerd in andere landen.
 Bijvoorbeeld:
 
--        [V.S.](http://www.savetheinternet.com/sti-home)
+- [V.S.](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 
 ## Hoe kan ik helpen? {#how-can-i-help-you}
 
 U kan SaveTheInternet.eu op verschillende manieren helpen:
 
-<i class="fa fa-long-arrow-right"></i>        Zeg het voort! Vertel uw vrienden over deze campagne, over netneutraliteit en waarom het belangrijk is om nu actie te ondernemen. Alleen als mensen in groten getale hun stem laten horen, kunnen we onze onlinerechten en -vrijheden beschermen.
+- Zeg het voort! Vertel uw vrienden over deze campagne, over netneutraliteit en waarom het belangrijk is om nu actie te ondernemen. Alleen als mensen in groten getale hun stem laten horen, kunnen we onze onlinerechten en -vrijheden beschermen.
 
-<i class="fa fa-long-arrow-right"></i>        Vertaal de website in uw taal! Dat kunt u doen via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI).
+- Vertaal de website in uw taal! Dat kunt u doen via [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI).
 
-<i class="fa fa-long-arrow-right"></i>        Sluit u bij ons aan! Als u bij een organisatie werkt en u wilt u aansluiten bij SaveTheInternet.eu, stuur dan een e-mail naar [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+- Sluit u bij ons aan! Als u bij een organisatie werkt en u wilt u aansluiten bij SaveTheInternet.eu, stuur dan een e-mail naar [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Meld schendingen van netneutraliteit via [Respect My Net](https://respectmynet.eu/).
+- Meld schendingen van netneutraliteit via [Respect My Net](https://respectmynet.eu/).
 
-Hebt u andere coole en creatieve ideeën? Neem contact met ons op via  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+Hebt u andere coole en creatieve ideeën? Neem contact met ons op via [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 {{ END FAQ }}

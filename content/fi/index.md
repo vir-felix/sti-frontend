@@ -84,7 +84,7 @@ Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelimen (lyhen
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](https://netzpolitik.org/2016/eu-leitlinien-zur-netzneutralitaet-the-good-the-bad-and-the-ugly/){: target="_blank" } ja käynnistänyt julkisen konsultoinnin 18. päivään heinäkuuta saakka.  BEREC sääntelyviranomaisilla on tämän jälkeen 30. päivään elokuuta 2016 aikaa julkaista lopulliset sääntönsä. Joten kansalaisille jää __vain muutama viikko aikaa__ reagoida konsultointiin. BERECillä on nyt __vain vähän yli kuukausi__ aikaa käsitellä kommentit (mahdollisesti tuhansia), muokata luonnoksia ja suorittaa sitten hallinnolliset askeleet mahdollisten muutosten muodolliseen hyväksyntään.
+BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](https://netzpolitik.org/2016/eu-leitlinien-zur-netzneutralitaet-the-good-the-bad-and-the-ugly/){: target="_blank" } ja käynnistänyt julkisen konsultoinnin 18. päivään heinäkuuta saakka. BEREC sääntelyviranomaisilla on tämän jälkeen 30. päivään elokuuta 2016 aikaa julkaista lopulliset sääntönsä. Joten kansalaisille jää __vain muutama viikko aikaa__ reagoida konsultointiin. BERECillä on nyt __vain vähän yli kuukausi__ aikaa käsitellä kommentit (mahdollisesti tuhansia), muokata luonnoksia ja suorittaa sitten hallinnolliset askeleet mahdollisten muutosten muodolliseen hyväksyntään.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -93,7 +93,7 @@ BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](htt
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Nyt on ratkaiseva hetki__: USA:ssa ja Intiassa miljoonat ihmiset ovat kyselyissä esittäneet mielipiteensä. Tästä syystä meidän on jatkettava painostusta ja annettava tukemme verkkoneutraliteetille.  Kun saamme äänemme kuuluville, voimme vakuuttaa sääntelyviranomaiset vapaan ja avoimen internetin merkityksestä.
+### __Nyt on ratkaiseva hetki__: USA:ssa ja Intiassa miljoonat ihmiset ovat kyselyissä esittäneet mielipiteensä. Tästä syystä meidän on jatkettava painostusta ja annettava tukemme verkkoneutraliteetille. Kun saamme äänemme kuuluville, voimme vakuuttaa sääntelyviranomaiset vapaan ja avoimen internetin merkityksestä.
 
 Sääntelyviranomaiset tarvitsevat oikeat työkalut voidakseen varmistaa verkkoneutraliteetin. Kansalaisoikeus- ja kuluttajasuojajärjestöt kampanjan takana uskovat, että BEREC voidaan saada vain väestön argumenteilla noudattamaan verkkoneutraliteettia. Tästä syystä voit tällä sivulla helposti ja nopeasti antaa arvokkaan panoksen BEREC konsultointiin.
 

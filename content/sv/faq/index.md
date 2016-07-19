@@ -27,14 +27,14 @@
 - [Varför ska jag bry mig om trafikhantering?](#why-should-i-care-about-traffic-management){: data-scroll="true"}
 - [Ska internetoperatörer få lov att hantera sina nätverk?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks){: data-scroll="true"}
 - [Vad är syftet med kampanjen SaveTheInternet.eu när det gäller trafikhantering?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management){: data-scroll="true"}
-- [När får en operatör tillämpa  trafikstyrning i sitt nätverk?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
+- [När får en operatör tillämpa trafikstyrning i sitt nätverk?](#when-can-a-provider-start-managing-its-network){: data-scroll="true"}
 
 ## [Med Nollmätning](#zero-rating){: data-scroll="true"}
 - [Vad menas med nollmätning?](#what-is-zero-rating){: data-scroll="true"}
 - [Varför innebär nollmätning ett problem?](#why-is-zero-rating-a-problem){: data-scroll="true"}
 - [Får jag verkligen något gratis när jag använder ett abonnemang med nollmätning?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme){: data-scroll="true"}
 - [Hur kan nollmätning påverka operatörer med webbtjänster och mångfalden på nätet?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem){: data-scroll="true"}
-- [Vad är syftet med kampanjen SaveTheInternet.eu  när det gäller nollmätning?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
+- [Vad är syftet med kampanjen SaveTheInternet.eu när det gäller nollmätning?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating){: data-scroll="true"}
 
 ## [Öppenhet och insyn](#transparency){: data-scroll="true"}
 - [Vilken nytta kan vi förvänta oss av de nya bestämmelserna om nätneutralitet?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules){: data-scroll="true"}
@@ -58,13 +58,13 @@ Nätneutraliteten syftar till att garantera friheten att ta emot och skicka den 
 
 Utan nätneutralitet...
 
-1.        skulle du få du betala mer för färre tjänster på internet samtidigt som din internetoperatör skulle bli en "grindvakt" mellan dig och de webbtjänster och appar du som gillar.
+1. skulle du få du betala mer för färre tjänster på internet samtidigt som din internetoperatör skulle bli en "grindvakt" mellan dig och de webbtjänster och appar du som gillar.
 
-2.        skulle nya intressanta webbplattformar och uppfinningar inte vara lika snabba och lättåtkomliga som de stora befintliga USA-plattformarna. De kanske inte ens skulle överleva så länge att de hann bli populära.
+2. skulle nya intressanta webbplattformar och uppfinningar inte vara lika snabba och lättåtkomliga som de stora befintliga USA-plattformarna. De kanske inte ens skulle överleva så länge att de hann bli populära.
 
-3.        skulle internetekonomin och etableringen av ny företag drabbas. Nätneutraliteten gör det möjligt för alla att utveckla nya tjänster utan att behöva fråga om tillstånd och samtidigt kunna dra nytta av en global, neutral infrastruktur från första början. Om vi förlorar denna frihet kommer vi även att förlora mycket av den enorma ekonomiska framgång som den digitala ekonomin innebär. Vi kommer också att förlora vår valfrihet som konsumenter och friheten att kunna kommunicera som samhällsmedborgare.
+3. skulle internetekonomin och etableringen av ny företag drabbas. Nätneutraliteten gör det möjligt för alla att utveckla nya tjänster utan att behöva fråga om tillstånd och samtidigt kunna dra nytta av en global, neutral infrastruktur från första början. Om vi förlorar denna frihet kommer vi även att förlora mycket av den enorma ekonomiska framgång som den digitala ekonomin innebär. Vi kommer också att förlora vår valfrihet som konsumenter och friheten att kunna kommunicera som samhällsmedborgare.
 
-4.       Trafiken på internet skulle bli långsammare. Studier har visat att om internetoperatörerna hade rätt att sälja konkurrensfördelar till ett fåtal webbplattformar, skulle de ha skäl att se till att övriga nättjänster fungerade långsammare för alla andra. Även om det verkar som att du får något billigt, så har du i verkligheten färre alternativ och begränsade möjligheter att utnyttja internet fullt ut.
+4. Trafiken på internet skulle bli långsammare. Studier har visat att om internetoperatörerna hade rätt att sälja konkurrensfördelar till ett fåtal webbplattformar, skulle de ha skäl att se till att övriga nättjänster fungerade långsammare för alla andra. Även om det verkar som att du får något billigt, så har du i verkligheten färre alternativ och begränsade möjligheter att utnyttja internet fullt ut.
 
 [Så drabbas konsumenter och innovationsklimatet av en begränsad nättrafik](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -74,7 +74,7 @@ Utan nätneutralitet...
 
 ## Hur hamnade vi här? Vad har hänt i EU? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
-Många icke-statliga organisationer bakom den här kampanjen kämpade för nätneutralitet redan så tidigt som 2008. När debatten satte igång såg vi allt mer kränkningar av principen med nätneutralitet på internet. När USA:s  federala regleringsmyndighet för telekommunikationer FCC publicerade sitt första internet-direktiv för att skydda det fasta nätet mot vissa former av nätdiskriminering var detta en stor framgång för nätneutraliteten. Som en följd av detta, [ har andra länder antagit lagstiftning och regleringsbeslut för att trygga nätneutraliteten](https://www.thisisnetneutrality.org/#map). Till dessa länder hör till exempel Chile, Nederländerna, Slovenien, Indien och Kanada.
+Många icke-statliga organisationer bakom den här kampanjen kämpade för nätneutralitet redan så tidigt som 2008. När debatten satte igång såg vi allt mer kränkningar av principen med nätneutralitet på internet. När USA:s federala regleringsmyndighet för telekommunikationer FCC publicerade sitt första internet-direktiv för att skydda det fasta nätet mot vissa former av nätdiskriminering var detta en stor framgång för nätneutraliteten. Som en följd av detta, [ har andra länder antagit lagstiftning och regleringsbeslut för att trygga nätneutraliteten](https://www.thisisnetneutrality.org/#map). Till dessa länder hör till exempel Chile, Nederländerna, Slovenien, Indien och Kanada.
 
 Inom EU utvecklades debatten väldigt långsamt. Vi fick vänta ända till den 11 september 2013 innan vi fick ett förslag om en europeisk lag om nätneutralitet. Förslaget kom från Europeiska kommissionen.
 
@@ -84,7 +84,7 @@ Lyckligtvis arbetade Europaparlamentet hårt för att stänga kryphålen och rö
 
 Efter denna seger samlades EU:s medlemsländer i rådet för att förhandla fram en gemensam ståndpunkt. Det tog över ett år att komma fram till den. Medlemsländerna enades om en ny text som nu innehöll båda gamla och nya kryphål. Om rådets text hade antagits hade detta inneburit betalda gräddfiler med godkänd prisdiskriminering inom EU och olaglig och godtycklig blockering av lagenligt innehåll.
 
-För att forcera förhandlingarna och underminera parlamentets position började de tre institutionerna att förhandla "informellt" i den så kallade [trepartsprocessen](https://edri.org/files/NN_process_infographics.pdf). Under ett sent möte omkring klockan två på natten nåddes en politisk överenskommelse mellan de tre institutioner. Den nya texten innehåller tydliga principer för att säkra nätneutraliteten i Europa. Vissa bestämmelser i förordningen är emellertid inte tillräckligt tydliga och skulle kunna missbrukas (vilken i och för sig  var bättre än kommissionens första förslag men sämre än parlamentets första ståndpunkt). Detta kan leda till kryphål som skulle kunna göra det möjligt för diskriminering på internet. I den andra omröstningen i Europaparlamentet gjordes ändringar som skulle bringa klarhet i det hela. Men förordningen reglerar också avskaffandet av roamingavgifterna, och med tanke på att det krävdes en absolut majoritet i Parlamentet för att man skulle kunna ändra texten man hade enats om, så antogs inga ändringar alls. Med andra ord beslutade Europaparlamentet att regleringsmyndigheterna skulle besluta om oklarheterna i texten.
+För att forcera förhandlingarna och underminera parlamentets position började de tre institutionerna att förhandla "informellt" i den så kallade [trepartsprocessen](https://edri.org/files/NN_process_infographics.pdf). Under ett sent möte omkring klockan två på natten nåddes en politisk överenskommelse mellan de tre institutioner. Den nya texten innehåller tydliga principer för att säkra nätneutraliteten i Europa. Vissa bestämmelser i förordningen är emellertid inte tillräckligt tydliga och skulle kunna missbrukas (vilken i och för sig var bättre än kommissionens första förslag men sämre än parlamentets första ståndpunkt). Detta kan leda till kryphål som skulle kunna göra det möjligt för diskriminering på internet. I den andra omröstningen i Europaparlamentet gjordes ändringar som skulle bringa klarhet i det hela. Men förordningen reglerar också avskaffandet av roamingavgifterna, och med tanke på att det krävdes en absolut majoritet i Parlamentet för att man skulle kunna ändra texten man hade enats om, så antogs inga ändringar alls. Med andra ord beslutade Europaparlamentet att regleringsmyndigheterna skulle besluta om oklarheterna i texten.
 
 ## Vem är inblandad i debatten i Europa? {#who-is-involved-in-the-debate-in-europe}
 
@@ -117,15 +117,15 @@ Tjänster som kan erbjudas på nätet är inga specialiserade tjänster. Man kan
 
 [Förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) slår fast fem skydd för tillhandahållande av specialiserade tjänster:
 
-1.        Specialiserade tjänster kan inte användas för att kringgå bestämmelser som rör trafikhanteringsåtgärder. Internetoperatörer kan inte prioritera specialiserade tjänster framför motsvarande innehåll, applikationer eller tjänster som tillhandahålls via internetaccesstjänster.
+1. Specialiserade tjänster kan inte användas för att kringgå bestämmelser som rör trafikhanteringsåtgärder. Internetoperatörer kan inte prioritera specialiserade tjänster framför motsvarande innehåll, applikationer eller tjänster som tillhandahålls via internetaccesstjänster.
 
-2.        Specialiserade tjänster måste optimeras för att säkerställa specifika krav på servicekvalitet när det gäller innehåll, applikationer eller tjänster som krävs för att innehållet, applikationen eller tjänsten ifråga ska kunna fungera.
+2. Specialiserade tjänster måste optimeras för att säkerställa specifika krav på servicekvalitet när det gäller innehåll, applikationer eller tjänster som krävs för att innehållet, applikationen eller tjänsten ifråga ska kunna fungera.
 
-3.        Specialiserade tjänster ska inte kunna användas eller erbjudas i utbyte mot internetaccesstjänster.
+3. Specialiserade tjänster ska inte kunna användas eller erbjudas i utbyte mot internetaccesstjänster.
 
-4.        Specialiserade tjänster kan endast erbjudas om det finns tillräckligt med nätkapacitet så att de kan erbjudas utöver de internetaccesstjänster som tillhandahålls.
+4. Specialiserade tjänster kan endast erbjudas om det finns tillräckligt med nätkapacitet så att de kan erbjudas utöver de internetaccesstjänster som tillhandahålls.
 
-5.        Specialiserade tjänster får inte tillhandahållas på bekostnad av tillgängligheten på internetaccesstjänsterna eller den allmänna kvaliteten hos dessa tjänster.
+5. Specialiserade tjänster får inte tillhandahållas på bekostnad av tillgängligheten på internetaccesstjänsterna eller den allmänna kvaliteten hos dessa tjänster.
 
 ## Vad krävs för att stärka skyddet när det gäller specialiserade tjänster och varför är detta så viktigt? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -156,11 +156,11 @@ Alternativet är att internetoperatören själv klassificerar datapaketen efter 
 
 Därför kan vi konstatera att trafikhantering baserad på trafikslag
 
--        ger inte lika bra insyn öppenhet som applikationsoberoende åtgärder eftersom slutanvändarna inte får veta hur deras speciella innehåll och de tjänster de utnyttjar klassificeras.
+- ger inte lika bra insyn öppenhet som applikationsoberoende åtgärder eftersom slutanvändarna inte får veta hur deras speciella innehåll och de tjänster de utnyttjar klassificeras.
 
--        är mer diskriminerande än oberoende åtgärder, dels för att de riskerar att felrubricera applikationer, dels  för att de innebär en diskrimering gentemot krypterad trafik och dels för att de möjliggör konkurrensvidrigt beteende.
+- är mer diskriminerande än oberoende åtgärder, dels för att de riskerar att felrubricera applikationer, dels för att de innebär en diskrimering gentemot krypterad trafik och dels för att de möjliggör konkurrensvidrigt beteende.
 
--       är inte lika proportionella som oberoende åtgärder, som inte innebär lika mycket ingrepp och därför är bättre för användarnas valfrihet
+- är inte lika proportionella som oberoende åtgärder, som inte innebär lika mycket ingrepp och därför är bättre för användarnas valfrihet
 
 ## Vad är syftet med kampanjen SaveTheInternet.eu när det gäller trafikhantering? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -168,11 +168,11 @@ Därför kan vi konstatera att trafikhantering baserad på trafikslag
 
 Trafikhantering behövs för att få bukt med överbelastningar och säkerställa integriteten och säkerheten i nätverket. Trafikhantering ska emellertid, liksom övervakning, endast genomföras med de minst inkräktande tillgängliga åtgärderna och endast för ett specifikt ändamål och för en begränsade tid, om det verkligen är nödvändigt för att uppnå ett legitimt mål.
 
-## När får en operatör tillämpa  trafikstyrning i sitt nätverk? {#when-can-a-provider-start-managing-its-network}
+## När får en operatör tillämpa trafikstyrning i sitt nätverk? {#when-can-a-provider-start-managing-its-network}
 
 Enligt [förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kan internetoperatörer tillämpa trafikhantering i sina nätverk antingen för lindra effekterna av en tillfällig överbelastning eller för att förhindra en nära förestående överbelastning av nätet. Det andra alternativet bör tydliggöras av regleringsmyndigheterna för att undvika situationer där trafikhantering ständigt tillämpas i nätverken, även om det inte föreligger något verkligt behov.
 
-Vi föreslår att det andra alternativet endast får användas när det föreligger andra indikatorer utöver den datamängd som flödar genom en viss nod (t.ex. antalet abonnenter som är anslutna till en nätverkscell).  Det måste alltid föreligga ett aktuellt och konkret behov av trafikhantering.
+Vi föreslår att det andra alternativet endast får användas när det föreligger andra indikatorer utöver den datamängd som flödar genom en viss nod (t.ex. antalet abonnenter som är anslutna till en nätverkscell). Det måste alltid föreligga ett aktuellt och konkret behov av trafikhantering.
 
 
 # Med Nollmätning {#zero-rating}
@@ -199,9 +199,9 @@ Nollmätning är dåligt för användarnas valfrihet eftersom det är förödand
 
 Istället för att bara sälja internetåtkomst börjar internetoperatörerna bli mer intresserade av att sälja direkt nätinnehåll, applikationer och tjänster som antingen tillhandahålls av dem själva eller av deras partners. Genom att själva agera mellanhänder försöker dessa internetoperatörer att ta betalt två gånger. Först betalar du dem för din internetanslutning och sedan betalar leverantörerna av innehåll, tjänster och applikationer dem för att få tillgång till deras kundbas, där du finns med.
 
-## Vad är syftet med kampanjen SaveTheInternet.eu  när det gäller nollmätning? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
+## Vad är syftet med kampanjen SaveTheInternet.eu när det gäller nollmätning? {#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating}
 
-Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas.  Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör ([jfr artikel 3(2) i förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)).
+Nollmätning bryter helt klart mot bestämmelserna om nätneutralitet och måste därför förbjudas. Den här metoden är konkurrensvidrig och kränker dig i din frihet att använda och ta emot applikationer, tjänster och innehåll som du vill ha, samtidigt som det kränker applikations- och innehållsleverantörernas frihet att kunna presentera sina erbjudanden i alla nätverk utan begränsningar (såsom krävs i artikel 3(1) i [EU-förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)). EU-förordningen förbjuder också internet- och innehållsleverantörerna att erbjuda tjänster som begränsar dina rättigheter som slutanvändare eller som innehållsleverantör ([jfr artikel 3(2) i förordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)).
 
 Om volymgränserna överstiges och vissa tjänster som omfattas av nollmätning fortfarande erbjuds på grund av att resten av nätet är blockerat eller har saktats ned är detta ett klart brott mot andra bestämmelser i förordningen om säker nätneutralitet.
 
@@ -221,28 +221,28 @@ Det finns många fördelar med [EU-förordningen om nätneutralitet](http://eur-
 
 ## Hur hanteras nätneutraliteten i andra delar av världen? {#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world}
 
-USA, Kanada och Chile  har stränga bestämmelser om nätneutralitet. Ett mycket aktuellt exempel är Indien, som nyligen införde stränga regler om nollmätning. Vill du veta mer kan du besöka sidan [Detta är nätneutralitet] (https://www.thisisnetneutrality.org/#map)
+USA, Kanada och Chile har stränga bestämmelser om nätneutralitet. Ett mycket aktuellt exempel är Indien, som nyligen införde stränga regler om nollmätning. Vill du veta mer kan du besöka sidan [Detta är nätneutralitet] (https://www.thisisnetneutrality.org/#map)
 
 Det finns också SaveTheInternet-kampanjer i andra länder.
 
 Här är några exempel:
 
--        [USA] (http://www.savetheinternet.com/sti-home)
+- [USA] (http://www.savetheinternet.com/sti-home)
 
--        [Indien] (http://www.savetheinternet.in/)
+- [Indien] (http://www.savetheinternet.in/)
 
 
 ## ## Hur kan jag hjälpa till? {#how-can-i-help-you}
 
 Du kan hjälpa SaveTheInternet.eu på manga sätt:
 
-<i class="fa fa-long-arrow-right"></i>        Du kan hjälpa till med att sprida budskapet. Berätta för vänner och bekanta om kampanjen, berätta för dem om nätneutralitet och tala om varför det är så viktigt att agera nu. Bara när många personer gör sin stämma hörd kommer vi att kunna skydda våra interneträttigheter och vår frihet på nätet.
+- Du kan hjälpa till med att sprida budskapet. Berätta för vänner och bekanta om kampanjen, berätta för dem om nätneutralitet och tala om varför det är så viktigt att agera nu. Bara när många personer gör sin stämma hörd kommer vi att kunna skydda våra interneträttigheter och vår frihet på nätet.
 
-<i class="fa fa-long-arrow-right"></i>        Översätt gärna den här sidan till ditt språk. Det kan du göra här [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)
+- Översätt gärna den här sidan till ditt språk. Det kan du göra här [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Anslut dig till oss! Om du tillhör en organisation och skulle vilja vara med i SaveTheInternet.eu, är du välkommen att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Anslut dig till oss! Om du tillhör en organisation och skulle vilja vara med i SaveTheInternet.eu, är du välkommen att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Du kan också hjälpa till genom att rapportera brott mot nätneutralitet till [Respect My Net](https://respectmynet.eu/)
+- Du kan också hjälpa till genom att rapportera brott mot nätneutralitet till [Respect My Net](https://respectmynet.eu/)
 
 Har du fler kreativa idéer? Tala då om det för oss genom att mejla till [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

@@ -58,13 +58,13 @@ Verkkoneutraliteetti takaa vapauden saada tietoa internetistä tai levittää si
 
 Tältä näyttäisi internet ilman neutraliteettia …
 
-1.        Maksaisit enemmän vähemmästä internetistä, palveluntarjoajastasi tulisi porttivahti, joka asettuisi sinun ja haluamiesi online-palvelujen ja sovellusten väliin.
+1. Maksaisit enemmän vähemmästä internetistä, palveluntarjoajastasi tulisi porttivahti, joka asettuisi sinun ja haluamiesi online-palvelujen ja sovellusten väliin.
 
-2.       Uudet, hienot sivustot ja keksinnöt eivät olisi niin nopeasti ja helposti saavutettavissa kuin Yhdysvaltojen suuret, vakiintuneet  sivustot – ehkäpä ne eivät  edes selviytyisi tarpeeksi pitkään tullakseen suosituiksi.
+2. Uudet, hienot sivustot ja keksinnöt eivät olisi niin nopeasti ja helposti saavutettavissa kuin Yhdysvaltojen suuret, vakiintuneet sivustot – ehkäpä ne eivät edes selviytyisi tarpeeksi pitkään tullakseen suosituiksi.
 
-3.        Talous ja erityisesti start up yrittäjät kärsisivät.  Verkkoneutraliteetin ansiosta kaikki ihmiset voivat lupaa kysymättä keksiä uusia palvelumuotoja sekä alusta alkaen käyttää hyväkseen maailmanlaajuista, oikeudenmukaista infrastruktuuria ja hyödyntää sitä. Jos menetämme tämän vapauden, menetämme myös digitaalisen talouden tuoman suunnattoman menestyksen oleelliset osat, valintavapautemme kuluttajana sekä kommunikointivapautemme kansalaisina.
+3. Talous ja erityisesti start up yrittäjät kärsisivät. Verkkoneutraliteetin ansiosta kaikki ihmiset voivat lupaa kysymättä keksiä uusia palvelumuotoja sekä alusta alkaen käyttää hyväkseen maailmanlaajuista, oikeudenmukaista infrastruktuuria ja hyödyntää sitä. Jos menetämme tämän vapauden, menetämme myös digitaalisen talouden tuoman suunnattoman menestyksen oleelliset osat, valintavapautemme kuluttajana sekä kommunikointivapautemme kansalaisina.
 
-4.        Internet olisi hitaampi. Tutkielmat osat osoittaneet: jos internet-palvelujentarjoajat saavat luvan myydä kilpailuetuja muutamalle harvalle sivustolle, niillä on myös kannustin tehdä loput internetistä hitaammaksi kaikille muille. Vaikkakin tästä pitäisi näennäisesti seurata halvempia tariffeja, tulisi tämä todellisuudessa tarkoittamaan vähemmän valintamahdollisuuksia ja hitaampia latausrajoja „todelliselle“ internetille.
+4. Internet olisi hitaampi. Tutkielmat osat osoittaneet: jos internet-palvelujentarjoajat saavat luvan myydä kilpailuetuja muutamalle harvalle sivustolle, niillä on myös kannustin tehdä loput internetistä hitaammaksi kaikille muille. Vaikkakin tästä pitäisi näennäisesti seurata halvempia tariffeja, tulisi tämä todellisuudessa tarkoittamaan vähemmän valintamahdollisuuksia ja hitaampia latausrajoja „todelliselle“ internetille.
 
 [Näin volyymirajat vahingoittavat kuluttajia ja innovaatiota (englanti)](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -76,7 +76,7 @@ Tältä näyttäisi internet ilman neutraliteettia …
 
 Monet kansalaisjärjestöt ovat tässä kampanjassa jo vuodesta 2008 lähtien panostaneet verkkoneutraliteettiin. Keskustelujen aikana olemme havainneet lisääntyvää verkkoneutraliteetti- periaatteen rikkomista. Kun Yhdysvaltain telehallintovirasto FCC julkaisi ensimmäisen internet-direktiivinsä suojatakseen nettiä lankaverkon avulla muutamia verkkosyrjinnän muotoja vastaan, se oli valtava menestys. Tästä seurauksena [useat maat ovat säätäneet lakeja ja säännöksiä verkkoneutraliteetin suojaksi](https://www.thisisnetneutrality.org/#map). Näitä maita ovat esimerkiksi Chile, Alankomaat, Slovenia, Intia ja Kanada.
 
-Keskustelu on kehittynyt Euroopan unionissa erittäin hitaasti. Jouduimme odottamaan syyskuun 11. päivään 2013, kunnes saatiin ehdotus verkkoneutraliteettia koskevasta eurooppalaisesta laista.  Tämän ehdotuksen esitti Euroopan komissio.
+Keskustelu on kehittynyt Euroopan unionissa erittäin hitaasti. Jouduimme odottamaan syyskuun 11. päivään 2013, kunnes saatiin ehdotus verkkoneutraliteettia koskevasta eurooppalaisesta laista. Tämän ehdotuksen esitti Euroopan komissio.
 
 Vuoden 2013 ehdotus sisälsi useita ongelmallisia takaovia, joiden avulla internet-palvelujentarjoajilla olisi mahdollisuus kiertää verkkoneutraliteetti. Näin internet-palvelujentarjoajien olisi sallittu „erikoispalvelu“ -määräysten avulla tarjota syrjivää erikoispääsyä verkkoon. Tämä ehdotus olisi verkkosivun syrjivän eston lisäksi sallinut sovellutuksia ja sisältöjä – uhka sananvapaudelle ja oikeusvaltion periaatteelle.
 
@@ -118,15 +118,15 @@ Erikoispalvelut eivät ole palveluita, joita internet voi tarjota. Estettävä o
 
 [Asetus](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) sisältää viisi säännöstä erikoispalvelujen leviämisen rajoittamiseksi:
 
-1.        Erikoispalveluja ei saa käyttää sääntöjen kiertämiseksi liikenteenhallinnassa. Internet-palvelujentarjoajat eivät saa antaa etusijaa erikoispalveluille verrattuna vastaavanlaisille sisällöille, sovellutuksille tai palveluille, joita on saatavana internet-palvelussa;
+1. Erikoispalveluja ei saa käyttää sääntöjen kiertämiseksi liikenteenhallinnassa. Internet-palvelujentarjoajat eivät saa antaa etusijaa erikoispalveluille verrattuna vastaavanlaisille sisällöille, sovellutuksille tai palveluille, joita on saatavana internet-palvelussa;
 
-2.        Erikoispalvelujen optimoinnin on oltava välttämätön sisältöjen, palvelujen tai sovellutusten vaatimuksille;
+2. Erikoispalvelujen optimoinnin on oltava välttämätön sisältöjen, palvelujen tai sovellutusten vaatimuksille;
 
-3.        Erikoispalveluja ei saa käyttää eikä tarjota korvaamaan pääsyä internet-palveluihin;
+3. Erikoispalveluja ei saa käyttää eikä tarjota korvaamaan pääsyä internet-palveluihin;
 
-4.       Erikoispalveluja saadaan tarjota vain, mikäli verkossa on riittävästi kapasiteettia ja niitä voidaan tarjota käytettävissä olevien internet-palvelujen lisäksi;
+4. Erikoispalveluja saadaan tarjota vain, mikäli verkossa on riittävästi kapasiteettia ja niitä voidaan tarjota käytettävissä olevien internet-palvelujen lisäksi;
 
-5.        Erikoispalvelujen tarjonta ei saa johtaa haittoihin saatavuudessa tai internet-palvelujen yleisessä laadussa.
+5. Erikoispalvelujen tarjonta ei saa johtaa haittoihin saatavuudessa tai internet-palvelujen yleisessä laadussa.
 
 ## Mitä tarvitaan tiukentamaan erikoispalvelujen sääntöjä ja miksi tämä on tärkeää? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -157,11 +157,11 @@ Vaihtoehtona on luokitella internet-palvelujentarjoajien datapaketti itse laadit
 
 Voimme tästä syystä todeta, että luokitukseen pohjautuva liikenteenhallinta
 
--        on vähemmän läpinäkyvä kuin käytetystä sovellutuksesta riippumattomat toimenpiteet, koska käyttäjä ei saa tietää, että sen erikoissisällöt ja käyttämät palvelut luokitellaan;
+- on vähemmän läpinäkyvä kuin käytetystä sovellutuksesta riippumattomat toimenpiteet, koska käyttäjä ei saa tietää, että sen erikoissisällöt ja käyttämät palvelut luokitellaan;
 
--        on voimakkaammin syrjittyä kuin sovellutuksesta riippumattomat toimenpiteet ja on olemassa riski sovellutusten väärästä luokittelusta ja koska koodattua dataliikennettä diskriminoidaan ja  kilpailun vastainen käytäntö mahdollistuu;
+- on voimakkaammin syrjittyä kuin sovellutuksesta riippumattomat toimenpiteet ja on olemassa riski sovellutusten väärästä luokittelusta ja koska koodattua dataliikennettä diskriminoidaan ja kilpailun vastainen käytäntö mahdollistuu;
 
--        on huonompi vaihtoehto kuin sovellutuksesta riippumattomat toimenpiteet , koska nämä aina tarkoittavat vähemmän häiriöitä ja ovat parempi vaihtoehto käyttäjän valintavapaudelle.
+- on huonompi vaihtoehto kuin sovellutuksesta riippumattomat toimenpiteet , koska nämä aina tarkoittavat vähemmän häiriöitä ja ovat parempi vaihtoehto käyttäjän valintavapaudelle.
 
 ## Mikä on SaveTheInternet.eu päämäärä liikenteenhallinnassa? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -227,21 +227,21 @@ Nettineutraliteetista on USA:ssa, Kanadassa ja Chilessä annettu ankaria säänn
 
 „SaveTheInternet“-kampanjoita on myös muissa maissa. Muutama esimerkki:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [Intia](http://www.savetheinternet.in/)
+- [Intia](http://www.savetheinternet.in/)
 
 ## Kuinka voin auttaa? {#how-can-i-help-you}
 
 Sinulla on monta mahdollisuutta auttaa SaveTheInternet.eu toiminnassa:
 
-<i class="fa fa-long-arrow-right"></i>        Levitä viestiä! Kerro ystävillesi tästä kampanjasta, verkkoneutraliteetista ja siitä, miksi on niin tärkeää toimia nyt. Vain jos useita henkilöitä korottaa äänensä, onnistumme suojaamaan online-oikeuksia ja -vapauksia.
+- Levitä viestiä! Kerro ystävillesi tästä kampanjasta, verkkoneutraliteetista ja siitä, miksi on niin tärkeää toimia nyt. Vain jos useita henkilöitä korottaa äänensä, onnistumme suojaamaan online-oikeuksia ja -vapauksia.
 
-<i class="fa fa-long-arrow-right"></i>        Käännä verkkosivu omalle kielellesi! Käännöksesi voit jättää osoitteeseen [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI).
+- Käännä verkkosivu omalle kielellesi! Käännöksesi voit jättää osoitteeseen [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI).
 
-<i class="fa fa-long-arrow-right"></i>        Käy sivuillamme! Mikäli kuulut johonkin järjestöön ja haluaisit olla mukana SaveTheInternet.eu toiminnassa, kirjoita meille. [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+- Käy sivuillamme! Mikäli kuulut johonkin järjestöön ja haluaisit olla mukana SaveTheInternet.eu toiminnassa, kirjoita meille. [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Ilmoita verkkoneutraliteetin loukkauksesta osoitteeseen [Respect My Net](https://respectmynet.eu/).
+- Ilmoita verkkoneutraliteetin loukkauksesta osoitteeseen [Respect My Net](https://respectmynet.eu/).
 
 Onko sinulla vielä muitakin hienoja ja luovia ideoita? Ota yhteys meihin. [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

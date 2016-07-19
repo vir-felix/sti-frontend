@@ -57,13 +57,13 @@ Nevtralnost zagotavlja našo svobodo na spletu za dostop in distribucijo želene
 
 Brez internetne nevtralnosti...
 
-1.        Plačali bi več za manj interneta in ponudnik internetnih storitev bi postal vratar med vami in spletnimi storitvami in aplikacijami, ki so vam všeč.
+1. Plačali bi več za manj interneta in ponudnik internetnih storitev bi postal vratar med vami in spletnimi storitvami in aplikacijami, ki so vam všeč.
 
-2.        Odlične nove spletne strani in izumi ne bi bili tako hitre in dostopne kot so velike, spletne strani, ustanovljene v ZDA. Najverjetneje ne bi niti preživele dovolj dolgo, da postanejo popularne.
+2. Odlične nove spletne strani in izumi ne bi bili tako hitre in dostopne kot so velike, spletne strani, ustanovljene v ZDA. Najverjetneje ne bi niti preživele dovolj dolgo, da postanejo popularne.
 
-3.        Ekonomija in začetna podjetja bi trpela Z nevtralnostjo interneta, lahko vsakdo iznajde nove storitve, ne da bi prosil za dovoljenje in ima lahko korist od globalne, nevtralne infrastrukture, od prvega dne. Če izgubimo to svobodo, bomo izgubili gospodarski uspeh digitalnega gospodarstva in naše svobode izbire kot potrošniki in komuniciranja kot državljani.
+3. Ekonomija in začetna podjetja bi trpela Z nevtralnostjo interneta, lahko vsakdo iznajde nove storitve, ne da bi prosil za dovoljenje in ima lahko korist od globalne, nevtralne infrastrukture, od prvega dne. Če izgubimo to svobodo, bomo izgubili gospodarski uspeh digitalnega gospodarstva in naše svobode izbire kot potrošniki in komuniciranja kot državljani.
 
-4.        Internet bo upočasnjen Študije so pokazale, da če bi ponudniki internetnih storitev dovoljeno prodajali konkurenčno prednost nekaj spletnim stranem, bi imeli spodbudo, da bi bil preostanek interneta za vse ostale počasnejši. Tudi ko izgleda da dobite nekaj izredno poceni imate v resnici zelo majhne opcije in manjši limit nalaganja pri uporabi pravega interneta.
+4. Internet bo upočasnjen Študije so pokazale, da če bi ponudniki internetnih storitev dovoljeno prodajali konkurenčno prednost nekaj spletnim stranem, bi imeli spodbudo, da bi bil preostanek interneta za vse ostale počasnejši. Tudi ko izgleda da dobite nekaj izredno poceni imate v resnici zelo majhne opcije in manjši limit nalaganja pri uporabi pravega interneta.
 
 [Kako pokrivanje podatkov škoduje potrošnikom in inovacijam](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -116,15 +116,15 @@ Specializirane storitve niso storitve, ki bi jih lahko zagotavljal internet. Da 
 
 [Regulacija](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) Uredba določa pet zaščitnih ukrepov za zagotavljanje specializiranih storitev:
 
-1.        Specializirane storitve se ne morejo uporabljati za izogibanje določbe v zvezi z ukrepi za upravljanje prometa. Ponudniki internetnih storitev ne more dati prednost specializiranih storitev več kot primerljive vsebine, aplikacije ali storitve, ki so na voljo preko dostopa internetnih storitev;
+1. Specializirane storitve se ne morejo uporabljati za izogibanje določbe v zvezi z ukrepi za upravljanje prometa. Ponudniki internetnih storitev ne more dati prednost specializiranih storitev več kot primerljive vsebine, aplikacije ali storitve, ki so na voljo preko dostopa internetnih storitev;
 
-2.        Specializirane storitve morajo biti optimizirane za zagotovitev posebnih zahtev glede kakovosti storitev usklajeno z vsebino, aplikacije ali storitve, ki so potrebne za ključne funkcionalnosti vsebine, aplikacije ali službe;
+2. Specializirane storitve morajo biti optimizirane za zagotovitev posebnih zahtev glede kakovosti storitev usklajeno z vsebino, aplikacije ali storitve, ki so potrebne za ključne funkcionalnosti vsebine, aplikacije ali službe;
 
-3.        Specializirane storitve ne smejo biti uporabljane ali ponujane kot nadomestek za dostop internetnetnih storitev;
+3. Specializirane storitve ne smejo biti uporabljane ali ponujane kot nadomestek za dostop internetnetnih storitev;
 
-4.        Specializirane storitve se lahko ponude le, če je na voljo zadostna zmogljivost omrežja, in so ponuejene poleg vseh internetnih storitev za dostop;
+4. Specializirane storitve se lahko ponude le, če je na voljo zadostna zmogljivost omrežja, in so ponuejene poleg vseh internetnih storitev za dostop;
 
-5.        Specializirane storitve ni mogoče zagotoviti v škodo razpoložljivosti ali splošne kakovosti dostopa do internetnih storitev.
+5. Specializirane storitve ni mogoče zagotoviti v škodo razpoložljivosti ali splošne kakovosti dostopa do internetnih storitev.
 
 ## Kaj je potrebno za okrepitev varnostnih ukrepov povezanih s specializiranimi storitvami, ter zakaj je to pomembno? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -155,11 +155,11 @@ Druga možnost je, da ponudnik interneta za razvrstitev podatkovnih paketov na p
 
 Zato lahko rečemo, da so ukrepi za upravljanje prometa, ki temeljijo na razvrščevanju v razred:
 
--        Manj pregledni od aplikacij agnostičnih ukrepov, saj končni uporabnik ne ve, kako bodo vsebine in storitve, ki jih uporablja, razvrščene;
+- Manj pregledni od aplikacij agnostičnih ukrepov, saj končni uporabnik ne ve, kako bodo vsebine in storitve, ki jih uporablja, razvrščene;
 
--        Več diskriminatorna kot uporaba agnostičnih ukrepov, saj obstaja nevarnost, da se vloge uvrstijo v neprimeren razred, ki diskriminirajo šifriran promet in omogočajo protikonkurenčno ravnanje;
+- Več diskriminatorna kot uporaba agnostičnih ukrepov, saj obstaja nevarnost, da se vloge uvrstijo v neprimeren razred, ki diskriminirajo šifriran promet in omogočajo protikonkurenčno ravnanje;
 
--        Manj sorazmerno kot uporaba agnostičnih ukrepov, saj je manj vsiljiva in boljša za izbiro uporabnika.
+- Manj sorazmerno kot uporaba agnostičnih ukrepov, saj je manj vsiljiva in boljša za izbiro uporabnika.
 
 ## Kaj je cilj SaveTheInternet.eu, ko gre za upravljanje prometa? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -225,21 +225,21 @@ Obstajajo stroga pravila o nevtralnosti omrežja v ZDA, Kanadi in Čilom. Najnov
 Druge države so vključene v akcijo SaveTheInternet
 Nekaj primerov:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## Kako vam lahko pomagam? {#how-can-i-help-you}
 
 SaveTheInternet.eu lahko pomagate na veliko načinov.
 
-<i class="fa fa-long-arrow-right"></i>        Širite besedo! Povejte svojim prijateljem o tej kampanji, o internetni nevtralnosti in o tem, zakaj je pomembno, da ukrepamo zdaj. Šele ko številni posamezniki povzdignejo glas, bomo lahko zaščitili naše spletne pravice in svoboščine.
+- Širite besedo! Povejte svojim prijateljem o tej kampanji, o internetni nevtralnosti in o tem, zakaj je pomembno, da ukrepamo zdaj. Šele ko številni posamezniki povzdignejo glas, bomo lahko zaščitili naše spletne pravice in svoboščine.
 
-<i class="fa fa-long-arrow-right"></i>        Prevedi spletno stran v tvoj jezik! To lahko storiš na [Save The Internet na GitHub](https://github.com/netzfreiheit/STI-UI)
+- Prevedi spletno stran v tvoj jezik! To lahko storiš na [Save The Internet na GitHub](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Pridruži se nam! Če si del organizacije, in bi rad/a, da se organizacija pridruži k SaveTheInternet.eu, nam piši na [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Pridruži se nam! Če si del organizacije, in bi rad/a, da se organizacija pridruži k SaveTheInternet.eu, nam piši na [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Poročilo kršitve nevtralnosti skozi [Respect My Net](https://respectmynet.eu/)
+- Poročilo kršitve nevtralnosti skozi [Respect My Net](https://respectmynet.eu/)
 
  Ali imate kakšne druge zanimive in ustvarjalne ideje? Prosim obrnite se na nas skozi [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

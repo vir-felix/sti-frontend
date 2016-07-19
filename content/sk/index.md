@@ -104,7 +104,7 @@ Regulačné orgány by sa mali vybaviť nástrojmi, ktorými dokážu presadiť 
 
 __Neváhajte nás kontaktovať na [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Máte nápad, ako by sme mohli zlepšiť túto webovú stránku? To je skvelé, potrebujeme Vás! Úplný zdrojový kód tejto webovej stránky je k dispozícii na  [GitHub](https://github.com/Netzfreiheit/STI-UI) a môže byť rozvetvený, zlepšený, remixovaný a vrátený späť k nám.
+Máte nápad, ako by sme mohli zlepšiť túto webovú stránku? To je skvelé, potrebujeme Vás! Úplný zdrojový kód tejto webovej stránky je k dispozícii na [GitHub](https://github.com/Netzfreiheit/STI-UI) a môže byť rozvetvený, zlepšený, remixovaný a vrátený späť k nám.
 
 Jedna vec, ktorú vždy potrebujeme je pomoc s prekladmi. Ak hovoríte niektorým jazykom, ktorý sme zatiaľ nepokryli, prosíme Vás, aby nás kontaktovali.
 
@@ -112,7 +112,7 @@ Jedna vec, ktorú vždy potrebujeme je pomoc s prekladmi. Ak hovoríte niektorý
 
 Vaše pripomienky ku konzultácii BEREC budú uložené v doručených správach e-mailovej adresy hostenej v Rakúsku, kým tieto e-maily s Vašimi pripomienkami neodošleme na oficiálnu konzultáciu BEREC. Zásady ochrany osobných údajov BEREC môžete nájsť [tu](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich a Bits of Freedom majú prístup k, spracujú a budú uchovávať pripomienky a e-mailové adresy zaslané BEREC prostredníctvom tejto webovej stránky pre technické účely. BEREC bude zverejňovať všetky odpovede, ktoré nie sú označené ako dôverné. Organizácia za touto kampaňou je uvedená v spodnej časti týchto webových stránok. Jeden mesiac po období oficiálnych konzultácií vymažeme všetky pripomienky a emailové adresy súvisiace s týmito pripomienkami.
 
-Zhromažďujeme neosobné informácie o tejto webovej stránke prostredníctvom [Piwik](https://piwik.org/),  softvéru na analýzu webových stránok zohľadňujúceho zásady ochrany osobných údajov.
+Zhromažďujeme neosobné informácie o tejto webovej stránke prostredníctvom [Piwik](https://piwik.org/), softvéru na analýzu webových stránok zohľadňujúceho zásady ochrany osobných údajov.
 
  Ak sa [prihlásite k odberu noviniek](#subscribe-to-newsletter){: data-scroll="true"} , Vaša e-mailová adresa bude uložená v zozname adresátov a databáze, ktoré spravuje a hostí European Digital Rights. Jediná táto organizácia bude mať právo posielať Vám správy, ak sa zaregistrujete na odber noviniek. Z odoberania noviniek sa môžete kedykoľvek odhlásiť a nebudete viac dostávať žiadne ďalšie správy.
  {{ END HOME CONTACT-US }}

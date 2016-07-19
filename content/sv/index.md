@@ -113,7 +113,7 @@ We store your comments to the BEREC consultation in the inbox of an e-mail addre
 
 We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}

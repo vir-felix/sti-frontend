@@ -58,23 +58,23 @@ La neutralidad de la red garantiza tu libertad de distribuir y acceder a la info
 
 Sin neutralidad de la red...
 
-1.        Pagarías más por menos Internet y tu proveedor de Internet se convertiría en el guardia entre tú y los servicios y aplicaciones online que te gustan.
+1. Pagarías más por menos Internet y tu proveedor de Internet se convertiría en el guardia entre tú y los servicios y aplicaciones online que te gustan.
 
-2.        Los sitios web nuevos y invenciones interesantes no serían tan rápidos y accesibles como los sitios web grandes y asentados de EEUU. Puede que ni siquiera sobrevivieran lo suficiente para hacerse populares.
+2. Los sitios web nuevos y invenciones interesantes no serían tan rápidos y accesibles como los sitios web grandes y asentados de EEUU. Puede que ni siquiera sobrevivieran lo suficiente para hacerse populares.
 
-3.        La economía y las empresas emprendedoras y "start-ups" se verían perjudicadas. Con neutralidad de la red, cualquiera puede inventar un servicio nuevo sin tener que pedir permiso y beneficiándose desde el día uno de una infraestructura neutral global. Si perdemos esta libertad, gran parte del inmenso éxito de la economía digital y nuestra libertad para elegir como consumidores y de comunicarnos como ciudadanos.
+3. La economía y las empresas emprendedoras y "start-ups" se verían perjudicadas. Con neutralidad de la red, cualquiera puede inventar un servicio nuevo sin tener que pedir permiso y beneficiándose desde el día uno de una infraestructura neutral global. Si perdemos esta libertad, gran parte del inmenso éxito de la economía digital y nuestra libertad para elegir como consumidores y de comunicarnos como ciudadanos.
 
-4.        Internet sería más lento. Los estudios muestran que si los proveedores de Internet tuvieran permiso para vender ventajas competitivas a unos pocos sitios web, tendrían un incentivo para hacer que el resto de Internet fuera más lento para todos los demás. A pesar de que parezca una oferta económica, en realidad tienes menos opciones y un límite de descarga más pequeño en el Internet real.
+4. Internet sería más lento. Los estudios muestran que si los proveedores de Internet tuvieran permiso para vender ventajas competitivas a unos pocos sitios web, tendrían un incentivo para hacer que el resto de Internet fuera más lento para todos los demás. A pesar de que parezca una oferta económica, en realidad tienes menos opciones y un límite de descarga más pequeño en el Internet real.
 
 [Como los límites de datos dañan a los consumidores y la innovación](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[Como el "zero rating" en Holanda perjudica a los consumidores](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Como el "zero rating" en Holanda perjudica a los consumidores](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
-["Zero-rating" en Eslovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+["Zero-rating" en Eslovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
 ## ¿Como hemos llegada hasta aquí? ¿Qué ha pasado en la UE? {#como-hemos-llegado-hasta-aqui-que-ha-pasado-en-la-ue}
 
-Muchas de la ONGs detrás de esta campaña llevan luchando por la neutralidad de la red ya desde 2008. Mientras el debate se desarrollaba, cada vez veíamos más y más violaciones del principio de la neutralidad de la red. Cuando el regulador de telecomunicaciones de EEUU emitió por primera vez la orden de proteger las líneas fijas de Internet de algunas formas de discriminación en la red, fue un gran éxito para la neutralidad de la red. A consecuencia, [otros países adoptaron legislaciones y regulaciones para proteger la neutralidad de la red](https://www.thisisnetneutrality.org/#map). Este es el caso, por ejemplo, de Chile, Holanda, Eslovenia, India y Canadá. 
+Muchas de la ONGs detrás de esta campaña llevan luchando por la neutralidad de la red ya desde 2008. Mientras el debate se desarrollaba, cada vez veíamos más y más violaciones del principio de la neutralidad de la red. Cuando el regulador de telecomunicaciones de EEUU emitió por primera vez la orden de proteger las líneas fijas de Internet de algunas formas de discriminación en la red, fue un gran éxito para la neutralidad de la red. A consecuencia, [otros países adoptaron legislaciones y regulaciones para proteger la neutralidad de la red](https://www.thisisnetneutrality.org/#map). Este es el caso, por ejemplo, de Chile, Holanda, Eslovenia, India y Canadá.
 
 En la Unión Europea el debate avanzó muy lentamente. Tuvimos que esperar al 11 de septiembre de 2013 para tener una proposición de ley sobre neutralidad de la red en Europa. La propuesta fue elaborada por la Comisión Europea.
 
@@ -117,15 +117,15 @@ Los servicios especializados son servicios que no pueden ser proporcionados a tr
 
 La [Regulación](http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32015R2120) establece cinco condiciones para la prestación de servicios especializados:
 
-1.        Los servicios especializados no pueden ser utilizados para eludir las disposiciones relativas a las medidas de gestión del tráfico. Los proveedores de Internet no pueden dar prioridad a los servicios especializados sobre contenido, aplicaciones o servicios comparables disponibles a través de Servicios de Acceso a Internet; 
+1. Los servicios especializados no pueden ser utilizados para eludir las disposiciones relativas a las medidas de gestión del tráfico. Los proveedores de Internet no pueden dar prioridad a los servicios especializados sobre contenido, aplicaciones o servicios comparables disponibles a través de Servicios de Acceso a Internet;
 
-2.        Los servicios especializados tienen que estar optimizados para asegurar unos requisitos de calidad del servicio de los contenidos, la aplicación o el servicio, los cuales son necesarios para funcionalidades clave de los contenidos, aplicaciones o el servicio en cuestión;
+2. Los servicios especializados tienen que estar optimizados para asegurar unos requisitos de calidad del servicio de los contenidos, la aplicación o el servicio, los cuales son necesarios para funcionalidades clave de los contenidos, aplicaciones o el servicio en cuestión;
 
-3.        Los servicios especializados no serán utilizables u ofrecidos como reemplazo a los servicios de acceso a Internet;
+3. Los servicios especializados no serán utilizables u ofrecidos como reemplazo a los servicios de acceso a Internet;
 
-4.        Los servicios especializados sólo pueden ofrecerse si hay suficiente capacidad de red disponible para ofrecerlos adicionalmente a cualquier Servicio de Acceso a Internet proporcionado;
+4. Los servicios especializados sólo pueden ofrecerse si hay suficiente capacidad de red disponible para ofrecerlos adicionalmente a cualquier Servicio de Acceso a Internet proporcionado;
 
-5.        Servicios especializados no se pueden proporcionar en detrimento de la disponibilidad o la calidad general de los Servicios de Acceso a Internet.
+5. Servicios especializados no se pueden proporcionar en detrimento de la disponibilidad o la calidad general de los Servicios de Acceso a Internet.
 
 ## ¿Qué hace falta para reforzar las condiciones respecto a los servicios especializados y por qué es importante? {#que-hace-falta-para-reforzar-las-condiciones-respecto-a-los-servicios-especializados}
 
@@ -154,13 +154,13 @@ Por supuesto, los proveedores deben poder manejar sus redes. No obstante, esto d
 
 La alternativa es que el proveedor de Internet clasifique los paquetes de datos en base a criterios que establezca, haciendo que algunas aplicaciones queden ralentizadas y otras aceleradas. Esto es posible en base a requerimientos del servicio (sensibilidad temporal, sensibilidad a las fluctuaciones) o a la funcionalidad que el servicio ofreces al usuario (telefonía, streaming de vídeo, streaming de música, gaming, etc.). A esta segunda aproximación se la llama gestión en base a la clase de tráfico. Dado que los datos de tráfico encriptado no pueden ser clasificados, uno de los riesgos de esta aproximación es que este tráfico sea automáticamente puesto a la cola en una vía "lenta" (a no ser que venga de un gran proveedor, dado que puede ser supuesto). Desincentivar la encriptación es claramente malo para la privacidad a la vez que ralentizar el tráfico encriptado de los pequeños proveedores es anti-competitivo.
 
-Así pues, podemos concluir que las medidas de gestión en base a la clase de tráfico: 
+Así pues, podemos concluir que las medidas de gestión en base a la clase de tráfico:
 
--        Menos transparentes que las medidas agnósticas respecto al tipo de aplicación, dado que el usuario final no conoce la manera en la que los contenidos y servicios particulares que usa son clasificados;
+- Menos transparentes que las medidas agnósticas respecto al tipo de aplicación, dado que el usuario final no conoce la manera en la que los contenidos y servicios particulares que usa son clasificados;
 
--        Más discriminatorios que las medidas agnósticas respecto al tipo de aplicación, dado que corren el riesgo de clasificar erróneamente las aplicaciones, la discriminación del tráfico encriptado y comportamientos anti-competitivos;
+- Más discriminatorios que las medidas agnósticas respecto al tipo de aplicación, dado que corren el riesgo de clasificar erróneamente las aplicaciones, la discriminación del tráfico encriptado y comportamientos anti-competitivos;
 
--        Menos proporcionados que las medidas agnósticas respecto al tipo de aplicación, dado que siempre son menos intrusivas y más respetuosas con la libertad de elección del usuario final;
+- Menos proporcionados que las medidas agnósticas respecto al tipo de aplicación, dado que siempre son menos intrusivas y más respetuosas con la libertad de elección del usuario final;
 
 ## ¿Qué objetivo tiene SaveTheInternet.eu en cuanto la gestión del tráfico? {#que-objetivo-tiene-savetheinterneteu-en-cuanto-a-la-gestion-del-trafico}
 
@@ -226,21 +226,21 @@ Hay fuertes leyes de neutralidad de la red en EEUU, Canada y Chile. El ejemplo m
 Otros países también están llevando a cabo su propia campaña SaveTheInternet para salvar Internet.
 Algunos ejemplos:
 
--        [EEUU](http://www.savetheinternet.com/sti-home)
+- [EEUU](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## ¿Cómo puedo ayudar? {#como-puedo-ayudar}
 
 Puede ayudar a SaveTheInternet.eu de muchas maneras:
 
-<i class="fa fa-long-arrow-right"></i>        ¡Difunde! Cuéntales a tus amigos la campaña, sobre la neutralidad de la red y porque es importante actuar ahora. Cuantas más voces se alcen más fuerza tendremos para proteger nuestras libertades y derechos online.
+- ¡Difunde! Cuéntales a tus amigos la campaña, sobre la neutralidad de la red y porque es importante actuar ahora. Cuantas más voces se alcen más fuerza tendremos para proteger nuestras libertades y derechos online.
 
-<i class="fa fa-long-arrow-right"></i>        ¡Traduce está web a tu propio idioma! Puedes hacerlo vía [Save The Internet en Github](https://github.com/netzfreiheit/STI-UI)
+- ¡Traduce está web a tu propio idioma! Puedes hacerlo vía [Save The Internet en Github](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        ¡Únete a nosotros! Si formas parte de una organización y quieres unirte a SaveTheInternet.eu, por favor contacta con nosotros en [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- ¡Únete a nosotros! Si formas parte de una organización y quieres unirte a SaveTheInternet.eu, por favor contacta con nosotros en [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Denuncia violaciones de la neutralidad de la red a través de [Respect My Net](https://respectmynet.eu/)
+- Denuncia violaciones de la neutralidad de la red a través de [Respect My Net](https://respectmynet.eu/)
 
 ¿Tienes alguna otra idea interesante o creativa? Por favor contacta con nosotros vía [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

@@ -75,7 +75,7 @@ Izskatās pēc bezmaksas piedāvājuma, tomēr patiesībā tu zaudē savu izvēl
 {{ ANCHOR INFO }}
 ## Kas līdz šim ir noticis…
 
-2015\. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti  [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
+2015\. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
 {{ END HOME INFO }}
 
 
@@ -96,7 +96,7 @@ Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC līdz 2016. g. augu
 
 ### __Tagad ir izšķirošs moments__: ASV un Indijā miljoniem cilvēku sarunās ir izteikuši viedokli. Tādēļ mums jāturpina izdarīt spiedienu un jācīnās par tīkla neitralitāti. Ja mūsu viedoklis sasniegs dzirdīgas ausis, tad varēsim pārliecināt regulatorus par brīva un atvērta interneta nozīmi.
 
-Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tīkla neitralitāti. Pilsoņu tiesību un patērētāju tiesību aizsardzības organizācijas, kas iesaistījušās šajā kampaņā, domā, ka  BEREC apvienība var rosināt ievērot tīkla neitralitātes noteikumus vienīgi ar pilsoņu argumentiem. Tādēļ tu vari dot BEREC apvienībai vērtīgu padomu.
+Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tīkla neitralitāti. Pilsoņu tiesību un patērētāju tiesību aizsardzības organizācijas, kas iesaistījušās šajā kampaņā, domā, ka BEREC apvienība var rosināt ievērot tīkla neitralitātes noteikumus vienīgi ar pilsoņu argumentiem. Tādēļ tu vari dot BEREC apvienībai vērtīgu padomu.
 
 {{ END HOME BEREC-4 }}
 

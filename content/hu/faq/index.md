@@ -56,13 +56,13 @@ A hálózatsemlegesség garantálja a tetszőleges információkhoz való online
 
 Hálózatsemlegesség nélkül...
 
-1.        Kevesebb internethasználat többe kerülne, internetszolgáltatója pedig kapuőrként ellenőrízné, hogy az Ön által kedvelt online szolgáltatások és alkalmazások közül melyeket használhatja.
+1. Kevesebb internethasználat többe kerülne, internetszolgáltatója pedig kapuőrként ellenőrízné, hogy az Ön által kedvelt online szolgáltatások és alkalmazások közül melyeket használhatja.
 
-2.        Az új, cool weboldalak és innovációk lassabbak és kevésbé elérhetőek lennének, mint a nagy, domináns amerikai weboldalak. Előfordulhat, hogy olyan rövid életűek lennének, hogy nem is válhatnának népszerűvé.
+2. Az új, cool weboldalak és innovációk lassabbak és kevésbé elérhetőek lennének, mint a nagy, domináns amerikai weboldalak. Előfordulhat, hogy olyan rövid életűek lennének, hogy nem is válhatnának népszerűvé.
 
-3.        A gazdaság és a start-upok szenvednének hátrányt emiatt. A hálózatsemlegesség mindenki számára lehetővé teszi, hogy engedélyek beszerzése nélkül nyújtson új szolgáltatást, és az első naptól kezdve élvezze egy globális, semleges infrastruktúra előnyeit. Ha elveszítjük ezt a szabadságot, sokat veszítünk a digitális gazdaság hatalmas sikeréből, fogyasztóként sokat veszítenénk a választás lehetőségéből, polgárként pedig a kommunikáció szabadságából.
+3. A gazdaság és a start-upok szenvednének hátrányt emiatt. A hálózatsemlegesség mindenki számára lehetővé teszi, hogy engedélyek beszerzése nélkül nyújtson új szolgáltatást, és az első naptól kezdve élvezze egy globális, semleges infrastruktúra előnyeit. Ha elveszítjük ezt a szabadságot, sokat veszítünk a digitális gazdaság hatalmas sikeréből, fogyasztóként sokat veszítenénk a választás lehetőségéből, polgárként pedig a kommunikáció szabadságából.
 
-4.        Az Internet lassabban működne. Tanulmányok arra a következtetésre jutottak, hogy ha az internetszolgáltatók megtehetnék, hogy bizonyos weboldalak számára díjfizetés ellenében versenyelőnyt biztosítanak, ösztönözve éreznék magukat arra, hogy mindenki más számára lassítsák az internetet. Amikor úgy tűnik, hogy valamit olcsón kapunk meg, valójában csökkennek a választási lehetőségek, és szigorúbbak lesznek a letöltési korlátok a valódi internethasználat során.
+4. Az Internet lassabban működne. Tanulmányok arra a következtetésre jutottak, hogy ha az internetszolgáltatók megtehetnék, hogy bizonyos weboldalak számára díjfizetés ellenében versenyelőnyt biztosítanak, ösztönözve éreznék magukat arra, hogy mindenki más számára lassítsák az internetet. Amikor úgy tűnik, hogy valamit olcsón kapunk meg, valójában csökkennek a választási lehetőségek, és szigorúbbak lesznek a letöltési korlátok a valódi internethasználat során.
 
 [Az adatforgalom korlátozásának káros hatása a fogyasztókra és az innovációra](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -72,7 +72,7 @@ Hálózatsemlegesség nélkül...
 
 ## Hogyan jutottunk el idáig? Mi történt az EU-ban? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
-A kampány mögött álló civil szervezetek közül sokan már 2008-ban küzdöttek a hálózatsemlegességért. A vita kibontakozásával párhuzamosan egyre többször láttunk példát az interneten a hálózatsemlegesség elvének megsértésére. A hálózatsemlegesség szempontjából nagy sikernek lehetett elkönyvelni az USA távközlési szabályzója, az FCC által kiadott Internet-rendeletet a vezetékes internetnek a hálózati diszkrimináció bizonyos formáival szembeni védelme érdekében. Ezt követően,[ más országok is elfogadtak a hálózatsemlegességet védő jogszabályokat és szabályozói döntéseket](https://www.thisisnetneutrality.org/#map).  Ez történt például Chilében, Hollandiában, Szlovéniában, Indiában és Kanadában.
+A kampány mögött álló civil szervezetek közül sokan már 2008-ban küzdöttek a hálózatsemlegességért. A vita kibontakozásával párhuzamosan egyre többször láttunk példát az interneten a hálózatsemlegesség elvének megsértésére. A hálózatsemlegesség szempontjából nagy sikernek lehetett elkönyvelni az USA távközlési szabályzója, az FCC által kiadott Internet-rendeletet a vezetékes internetnek a hálózati diszkrimináció bizonyos formáival szembeni védelme érdekében. Ezt követően,[ más országok is elfogadtak a hálózatsemlegességet védő jogszabályokat és szabályozói döntéseket](https://www.thisisnetneutrality.org/#map). Ez történt például Chilében, Hollandiában, Szlovéniában, Indiában és Kanadában.
 
 Az Európai Unióban nagyon lassan haladt előre a vita. A hálózatsemlegességre vonatkozó jogszabályalkotási javaslatra 2013. szeptember 11-ig kellett várnunk. Ezt a javaslatot az Európai Bizottság tette.
 
@@ -96,7 +96,7 @@ A legtöbb hálózatsemlegességről folyó vitában azonban a közvéleménynek
 
 A SaveTheInternet 12 európai civil szervezet közös kampánya, a szervezetek célja a szabadságjogok érvényesítésének védelme az interneten. A kampány azért jött létre, hogy hidat teremtsen az emberek és a döntéshozók között a hálózatsemlegességről szóló EU Rendelet előkészítése során. A kampány a 2012 decemberében megrendezett 30c3 konferencián indult útjára, azóta is tart, és nyomon követi a jogszabályalkotási és szabályozói folyamatot.
 
-Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
 # Specialized Services {#specialised-services}
@@ -115,11 +115,11 @@ A specializált szolgáltatások nem az interneten nyújtható szolgáltatások.
 
 A [Rendelet](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) öt garanciát tartalmaz specializált szolgáltatások nyújtásával kapcsolatban:
 
-1.        Specializált szolgáltatások nem használhatók a forgalomszabályozási intézkedésekkel kapcsolatos intézkedések megkerülésére. Az internet-hozzáférés szolgáltatók nem részesíthetik előnyben a specializált szolgáltatásokat az internet-hozzáférés szolgáltatáson keresztül elérhető hasonló tartalommal, alkalmazásokkal vagy szolgáltatásokkal szemben;
-2.        A specializált szolgáltatásokat optimalizálni szükséges a kérdéses tartalom, alkalmazás vagy szolgáltatás kulcsfontosságú funkciói szempontjából szükséges minőségi követelményeknek való megfelelés céljából;
-3.        A specializált szolgáltatások nem használhatók vagy kínálhatók fel az internet-hozzáférési szolgáltatás helyettesítésére;
-4.        Specializált szolgáltatások csak akkor nyújthatók, ha bármely Internet-hozzáférési szolgáltatás mellett erre elegendő hálózati kapacitás van;
-5.        Specializált szolgáltatások nem nyújthatók internet-hozzáférési szolgáltatáshoz való hozzáférés vagy a hozzáférés általános minőségének romlása terhére.
+1. Specializált szolgáltatások nem használhatók a forgalomszabályozási intézkedésekkel kapcsolatos intézkedések megkerülésére. Az internet-hozzáférés szolgáltatók nem részesíthetik előnyben a specializált szolgáltatásokat az internet-hozzáférés szolgáltatáson keresztül elérhető hasonló tartalommal, alkalmazásokkal vagy szolgáltatásokkal szemben;
+2. A specializált szolgáltatásokat optimalizálni szükséges a kérdéses tartalom, alkalmazás vagy szolgáltatás kulcsfontosságú funkciói szempontjából szükséges minőségi követelményeknek való megfelelés céljából;
+3. A specializált szolgáltatások nem használhatók vagy kínálhatók fel az internet-hozzáférési szolgáltatás helyettesítésére;
+4. Specializált szolgáltatások csak akkor nyújthatók, ha bármely Internet-hozzáférési szolgáltatás mellett erre elegendő hálózati kapacitás van;
+5. Specializált szolgáltatások nem nyújthatók internet-hozzáférési szolgáltatáshoz való hozzáférés vagy a hozzáférés általános minőségének romlása terhére.
 
 ## Mire van szükség a specializált szolgáltatásokkal kapcsolatos garanciák megerősítéséhez és miért fontos ez? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -176,7 +176,7 @@ A zero rating egy kereskedelmi gyakorlat, amelynek lényege, hogy bizonyos appli
 
 Ezzel a gyakorlattal az Ön internetszolgáltatója ellenőrzést gyakorolhat az Ön által használt vagy a jövőben használni kívánt szolgáltatások felett. Egy ingyenes (zero rated) applikáció vagy szolgáltatás minden versenytársát (főleg start-upok és KKV-k) igen nagy hátrány éri, mivel a fogyasztóknak többlet díjat kell fizetniük az alkalmazás vagy szolgáltatás zavartalan használatáért.
 
-A zero rating az egyik fő oka annak, hogy a megengedett maximális le-és feltöltési mennyiség alacsony. Az internet szolgáltatók azt akarják, hogy Ön az ő saját vagy a partnereik online szolgáltatásait használja. Amennyiben a szolgáltatók kivehetik ezeket a kiválasztott szolgáltatásokat az Ön számára engedélyezett adatforgalmi korlátozás alól, indokolt lesz számukra ezeknek a viszonylag alacsony korlátoknak a fenntartása, mivel így megmarad jelentős versenyelőnyük. A zero rating nélkül ezek a vállalatok nagyobb adatforgalmi volument tudnának ajánlani az Ön számára, Ön pedig szabadon dönthetne arról, hogyan használja fel azt.  Jól dokumentált esetekről tudunk [Hollandiában](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) és [Szlovéniában](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) ahol a szigorú, a zero ratinget tiltó hálózatsemlegességre vonatkozó szabályozásnak köszönhetően a mobilszolgáltatók megduplázták az adatforgalomra vonatkozó mennyiségi korlátot.
+A zero rating az egyik fő oka annak, hogy a megengedett maximális le-és feltöltési mennyiség alacsony. Az internet szolgáltatók azt akarják, hogy Ön az ő saját vagy a partnereik online szolgáltatásait használja. Amennyiben a szolgáltatók kivehetik ezeket a kiválasztott szolgáltatásokat az Ön számára engedélyezett adatforgalmi korlátozás alól, indokolt lesz számukra ezeknek a viszonylag alacsony korlátoknak a fenntartása, mivel így megmarad jelentős versenyelőnyük. A zero rating nélkül ezek a vállalatok nagyobb adatforgalmi volument tudnának ajánlani az Ön számára, Ön pedig szabadon dönthetne arról, hogyan használja fel azt. Jól dokumentált esetekről tudunk [Hollandiában](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) és [Szlovéniában](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) ahol a szigorú, a zero ratinget tiltó hálózatsemlegességre vonatkozó szabályozásnak köszönhetően a mobilszolgáltatók megduplázták az adatforgalomra vonatkozó mennyiségi korlátot.
 
 ## Tényleg ingyenesen jutok hozzá valamihez, amikor egy zero rated programot használok? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
@@ -200,7 +200,7 @@ Amennyiben az adatforgalom felső határát túllépik és bizonyos ingyenes szo
 # Átláthatóság {#transparency}
 
 ## Milyen előnyöket várhatunk a hálózatsemlegesség új szabályaitól? {#what-benefits-can-we-expect-with-the-new-net-neutrality-rules}
--       
+-
 Számos előnye van [a hálózatsemlegességről szóló EU Rendeletnek](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). Átláthatóság szempontjából az egyik előny az internetszolgáltatókkal szemben megállapított követelmény, amely alapján a szerződésekben fel kell tüntetniük bármely internethozzáférési kapcsolatra vonatkozó minimális, átlagos és maximális sávszélességet az elméleti maximális helyett. Az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) tisztáznia kell ezen értékek kiszámításának módját, és azt, hogy mi a teendő abban az esetben, ha a kapcsolat több használó között oszlik meg.
 
 ## Milyen típusú átláthatóságot várhatunk az új szabályoktól? {#what-type-of-transparency-can-be-expected-with-the-new-rules}
@@ -217,21 +217,21 @@ Az USA-ban, Kanadában és Chilében szigorú hálózati semlegességi szabályo
 Más országok is csatlakoztak a SaveTheInternet kampányhoz.
 Néhány példa:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## Hogyan segíthetek? {#how-can-i-help-you}
 
 Sokféleképpen segíthet a SaveTheInternet.eu kampányban
 
-<i class="fa fa-long-arrow-right"></i>        Mondja el mindenkinek! Beszéljen barátaival erről a kampányról, a hálózatsemlegességről, és arról, miért fontos, hogy most cselekedjünk. Online jogainkat és szabadságjogainkat csak akkor tudjuk megvédeni, ha minnél többen hallatjuk a hangunkat.
+- Mondja el mindenkinek! Beszéljen barátaival erről a kampányról, a hálózatsemlegességről, és arról, miért fontos, hogy most cselekedjünk. Online jogainkat és szabadságjogainkat csak akkor tudjuk megvédeni, ha minnél többen hallatjuk a hangunkat.
 
-<i class="fa fa-long-arrow-right"></i>        Fordítsa le a weboldalt saját nyelvére! Ezt a [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)-on keresztül teheti meg
+- Fordítsa le a weboldalt saját nyelvére! Ezt a [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI)-on keresztül teheti meg
 
-<i class="fa fa-long-arrow-right"></i>        Csatlakozzon hozzánk! Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken: [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Csatlakozzon hozzánk! Ha Ön egy szervezet tagja, és szeretné támogatni vagy terjeszteni az ügyet, kérjük lépjen velünk kapcsolatba az alábbi elérhetőségeken: [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        A hálózati semlegesség megsértését itt jelentheti be: [Respect My Net](https://respectmynet.eu/)
+- A hálózati semlegesség megsértését itt jelentheti be: [Respect My Net](https://respectmynet.eu/)
 
 Van valami cool és kreatív ötlete? Kérjük, lépjen velünk kapcsolatba az alábbi címen [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

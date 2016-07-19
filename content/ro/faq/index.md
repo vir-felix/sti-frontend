@@ -57,18 +57,18 @@ Neutralitatea Internetului garantează libertatea ta de a accesa și distribui o
 
 Fără neutralitatea Internetului...
 
-1.        Ai plăti mai mult pentru mai puțin Internet, iar furnizorul tău de servicii Internet ar deveni un portar între tine și serviciile și aplicațiile tale online.
+1. Ai plăti mai mult pentru mai puțin Internet, iar furnizorul tău de servicii Internet ar deveni un portar între tine și serviciile și aplicațiile tale online.
 
-2.        Website-uri noi și alte inovații online nu ar fi la fel de rapide și la fel de accesibile ca cele ale jucătorilor mari deja existenți pe piață. S-ar putea ca noii veniți nici măcar să nu supraviețuiască suficient de mult pentru a deveni populari.
+2. Website-uri noi și alte inovații online nu ar fi la fel de rapide și la fel de accesibile ca cele ale jucătorilor mari deja existenți pe piață. S-ar putea ca noii veniți nici măcar să nu supraviețuiască suficient de mult pentru a deveni populari.
 
 
-4.        Internetul ar fi mai lent. Studiile arată că dacă furnizorii de servicii de Internet ar avea voie să vândă avantaje competitive doar unor website-uri, ar avea un stimulent pentru a face restul Internetului mai lent pentru toți ceilalți. Chiar când pare că primești ceva ieftin, în realitate ai mai puține opțiuni și o limită de trafic mai mică pentru folosirea întregului Internetului.
+4. Internetul ar fi mai lent. Studiile arată că dacă furnizorii de servicii de Internet ar avea voie să vândă avantaje competitive doar unor website-uri, ar avea un stimulent pentru a face restul Internetului mai lent pentru toți ceilalți. Chiar când pare că primești ceva ieftin, în realitate ai mai puține opțiuni și o limită de trafic mai mică pentru folosirea întregului Internetului.
 
 [Cum limitele de trafic pentru date afectează în mod negativ consumatorii și inovația](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[Cum zero rating afectează în mod negativ consumatorii olandezi](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Cum zero rating afectează în mod negativ consumatorii olandezi](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
-[Zero-rating în Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+[Zero-rating în Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
 ## Cum s-a ajuns aici? Ce s-a întâmplat în UE? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
@@ -76,13 +76,13 @@ Multe dintre ONG-urile din spatele acestei campanii luptă pentru neutralitatea 
 
 În Uniunea Europeană dezbaterea a progresat foarte lent. A trebuit să așteptăm până pe 11 septembrie 2013 pentru a avea o propunere pentru o lege europeană privind neutralitatea Internetului. Această propunere a fost făcută de Comisia Europeană
 
-Propunerea din 2013 conținea câteva portițe problematice care ar fi permis furnizorilor de servicii Internet să ocolească neutralitatea Internetului. De exemplu, printr-o prevedere privind "serviciile specializate", furnizorii de servicii Internet ar fi avut dreptul să ofere servicii de acces la Internet prioritizate în mod discriminatoriu.  Propunerea ar fi permis și blocarea în mod discriminatoriu a site-urilor web, a aplicațiilor și a conținutului - o amenințare la adresa statului de drept și a libertății de exprimare.
+Propunerea din 2013 conținea câteva portițe problematice care ar fi permis furnizorilor de servicii Internet să ocolească neutralitatea Internetului. De exemplu, printr-o prevedere privind "serviciile specializate", furnizorii de servicii Internet ar fi avut dreptul să ofere servicii de acces la Internet prioritizate în mod discriminatoriu. Propunerea ar fi permis și blocarea în mod discriminatoriu a site-urilor web, a aplicațiilor și a conținutului - o amenințare la adresa statului de drept și a libertății de exprimare.
 
 Din fericire, Parlamentul European a muncit din greu pentru a închide aceste portițe și a votat în favoarea adoptării de reguli clare și puternice în beneficiul neutralității Internetului pe 3 aprilie 2014. Deși situația părea fără speranță, eforturile tale alături de SaveTheInternet au fost de ajutor pentru a convinge Parlamentul să adopte un text cu protecții puternice pentru neutralitatea Internetului. Acest vot a fost apreciat de milioane de oameni de peste tot.
 
 După acestă victorie, Statele Membre ale UE s-au reunit în cadrul Consiliului European și lucrurile au înaintat lent, durând mai mult de un an până s-a ajuns la o poziție comună, Acestea s-au pus de acord asupra unui text nou care a reintrodus portițele din textul original și a creat unele noi. Dacă ar fi fost adoptat, textul Comisiei ar fi creat benzi rapide contra cost; ar fi permis discriminarea în funcție de preț în UE și ar fi autorizat blocarea ilegală și arbitrară a conținutului legal.
 
-Pentru a înainta cu discuțiile și pentru a submina poziția Parlamentului, cele trei instituții au început o serie de negocieri "neoficiale" în cadrul așa-zisului ["trialog"](https://edri.org/files/NN_process_infographics.pdf). Într-o sesiune târzie, pe la ora 2AM, s-a ajuns la o înțelegere politică între cele trei instituții. Acest text conține principii solide pentru neutralitatea Internetului în Europa. Cu toate acestea, anumite prevederi ale Regulamentului nu sunt clare și ar putea fi abuzate (ceea ce este oricum mai bine decât în forma inițială a Comisiei, dar mai rău decât în forma votată inițial de Parlament). Asta poate duce la portițe care pot permite discriminarea în privința accesului la Internet. O serie de amendamente la votul pentru a 2-a citire din Parlament au încercat să aducă mai multă claritate. Cu toate acestea, Regulamentul votat privea și eliminarea taxelor de roaming, ceea ce, împreună cu faptul că era nevoie de o majoritate absolută pentru schimbarea textului, a dus la respingerea tuturor amendamentelor propuse. Cu alte cuvinte, Parlamentul European a decis că autoritățile însărcinate cu reglementarea comunicațiilor trebuie să fie cele care să decidă asupra incertitudinilor textului adoptat. 
+Pentru a înainta cu discuțiile și pentru a submina poziția Parlamentului, cele trei instituții au început o serie de negocieri "neoficiale" în cadrul așa-zisului ["trialog"](https://edri.org/files/NN_process_infographics.pdf). Într-o sesiune târzie, pe la ora 2AM, s-a ajuns la o înțelegere politică între cele trei instituții. Acest text conține principii solide pentru neutralitatea Internetului în Europa. Cu toate acestea, anumite prevederi ale Regulamentului nu sunt clare și ar putea fi abuzate (ceea ce este oricum mai bine decât în forma inițială a Comisiei, dar mai rău decât în forma votată inițial de Parlament). Asta poate duce la portițe care pot permite discriminarea în privința accesului la Internet. O serie de amendamente la votul pentru a 2-a citire din Parlament au încercat să aducă mai multă claritate. Cu toate acestea, Regulamentul votat privea și eliminarea taxelor de roaming, ceea ce, împreună cu faptul că era nevoie de o majoritate absolută pentru schimbarea textului, a dus la respingerea tuturor amendamentelor propuse. Cu alte cuvinte, Parlamentul European a decis că autoritățile însărcinate cu reglementarea comunicațiilor trebuie să fie cele care să decidă asupra incertitudinilor textului adoptat.
 
 ## Cine este implicat în dezbaterea aceasta în Europa? {#who-is-involved-in-the-debate-in-europe}
 
@@ -109,21 +109,21 @@ Servicii specializate adevărate nu ar trebui să aibă nimic de a face cu Inter
 
 ## Ce exemple de servicii specializate sunt? {#what-are-examples-of-services-that-are-not-specialised-services}
 
-Serviciile specializate nu sunt servicii care pot fi furnizate prin Internet. Problema care trebuie evitată este permiterea unor servicii online să fie clasificate ca servicii specializate. Într-un astfel de scenariu, o companie cu suficiente resurse financiare poate cumpăra un tratament preferențial pentru serviciile proprii, obținând astfel un avantaj nedrept asupra tuturor competitorilor, reducând astfel competiția, inovarea și alternativele. 
+Serviciile specializate nu sunt servicii care pot fi furnizate prin Internet. Problema care trebuie evitată este permiterea unor servicii online să fie clasificate ca servicii specializate. Într-un astfel de scenariu, o companie cu suficiente resurse financiare poate cumpăra un tratament preferențial pentru serviciile proprii, obținând astfel un avantaj nedrept asupra tuturor competitorilor, reducând astfel competiția, inovarea și alternativele.
 
 ## Ce măsuri de siguranță există în legislația UE pentru a gestiona serviciile specializate? {#what-safeguards-are-in-eu-law-to-deal-with-specialised-services}
 
 [Regulamentul](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stabilește cinci măsuri de siguranță pentru furnizarea serviciilor specializate:
 
-1.        Serviciile specializate nu pot fi folosite pentru a eluda prevederile referitoare la măsurile de management al traficului. Furnizorii de servicii Internet nu pot prioritiza serviciile speciale în fața unui conținut similar, unor aplicații sau servicii similare care sunt disponibile prin intermediul serviciilor de acces la Internet;
+1. Serviciile specializate nu pot fi folosite pentru a eluda prevederile referitoare la măsurile de management al traficului. Furnizorii de servicii Internet nu pot prioritiza serviciile speciale în fața unui conținut similar, unor aplicații sau servicii similare care sunt disponibile prin intermediul serviciilor de acces la Internet;
 
-2.        Serviciile specializate trebuie să fie optimizate pentru a îndeplini cerințe specifice de calitate a serviciului în cazul conținutului, aplicațiilor sau serviciilor, și care sunt absolut necesare pentru funcționalități cheie ale conținutului, aplicației sau serviciului respectiv;
+2. Serviciile specializate trebuie să fie optimizate pentru a îndeplini cerințe specifice de calitate a serviciului în cazul conținutului, aplicațiilor sau serviciilor, și care sunt absolut necesare pentru funcționalități cheie ale conținutului, aplicației sau serviciului respectiv;
 
-3.        Serviciile specializate nu vor funcționa sau fi oferite ca un înlocuitor pentru serviciile de acces la Internet;
+3. Serviciile specializate nu vor funcționa sau fi oferite ca un înlocuitor pentru serviciile de acces la Internet;
 
-4.        Serviciile specializate pot fi oferite doar dacă există suficientă capacitate în rețea astfel încât acestea să poată fi oferite pe lângă serviciile de acces la Internet;
+4. Serviciile specializate pot fi oferite doar dacă există suficientă capacitate în rețea astfel încât acestea să poată fi oferite pe lângă serviciile de acces la Internet;
 
-5.        Serviciile specializate nu pot fi furnizate în detrimentul disponibilității sau calității serviciilor de acces la Internet.
+5. Serviciile specializate nu pot fi furnizate în detrimentul disponibilității sau calității serviciilor de acces la Internet.
 
 ## De ce e nevoie pentru a întări măsurile de siguranță vis-a-vis de serviciile specializate și de ce este acesta un lucru important? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -152,13 +152,13 @@ Evident că furnizorii de servicii Internet ar trebui să aibă voie să-și adm
 
 Alternativa este ca furnizorul de servicii Internet să clasifice pachetele de date pe baza unor criterii proprii, aceasta ducând la încetinirea unor aplicații și la prioritizarea altora. Asta se poate face pe baza unor cerințe tehnice ale serviciilor (sensibilitatea la diverse tipuri de întârzieri), sau pe baza funcționalității pe care serviciul îl oferă utilizatorilor (telefonie, streaming video, streaming audio, jocuri etc.). Această a doua abordare se cheamă management al traficului bazat pe clase. Cum datele criptate nu pot fi clasificate, unul dintre riscurile acestei abordări este ca astfel de date să fie catalogate și trimise automat pe "banda lentă" (cu excepția cazului când respectivele date vin de la un furnizor mare, unde tipul de date poate fi presupus în mod implicit). Descurajarea criptării este, în mod evident, un lucru rău pentru protecția datelor personale, iar încetinirea traficului de date criptat venind de la furnizori de servicii mici este anti-competitivă.
 
-Așadar, putem spune că măsurile de management al traficului bazat pe clase sunt: 
+Așadar, putem spune că măsurile de management al traficului bazat pe clase sunt:
 
--        Mai puțin transparente decât cele care nu țin de tipul de aplicație pentru că utilizatorul final nu știe cum vor fi clasificate conținutul și serviciile sale;
+- Mai puțin transparente decât cele care nu țin de tipul de aplicație pentru că utilizatorul final nu știe cum vor fi clasificate conținutul și serviciile sale;
 
--        Mai discriminatoare cele care nu țin de tipul de aplicație pentru că există riscul clasificării greșite a aplicațiilor, a discriminării împotriva traficului criptat și permite comportamente anti-competitive;
+- Mai discriminatoare cele care nu țin de tipul de aplicație pentru că există riscul clasificării greșite a aplicațiilor, a discriminării împotriva traficului criptat și permite comportamente anti-competitive;
 
--        Mai puțin proporționale decât cele care nu țin de tipul de aplicație pentru că este întotdeauna mai puțin intruziv și mai benefic pentru bogăția de opțiuni a utilizatorului final.
+- Mai puțin proporționale decât cele care nu țin de tipul de aplicație pentru că este întotdeauna mai puțin intruziv și mai benefic pentru bogăția de opțiuni a utilizatorului final.
 
 ## Care este obiectivul SaveTheInternet.eu când vine vorba de managementul traficului? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -177,7 +177,7 @@ Susținem că această a doua opțiune ar trebui permisă doar în situațiile �
 
 ## Ce este zero rating? {#what-is-zero-rating}
 
-Zero rating  este o practică comercială care permite ca datele descărcate de anumite aplicații sau servicii să nu fie contorizate la limita lunară de trafic a abonatului. Zero rating-ul tratează tipuri diferite de trafic în mod diferit, astfel încât pentru unii să fie oferit la un preț iar pentru alții să fie oferit la alt preț. Deși diferit de formele clasice de încălcare a neutralității Internetului, este tot o încălcare pentru că, din punct de vedere practic, permite furnizorului de acces la Internet să influențeze care aplicații și servicii sunt folosite și care nu.
+Zero rating este o practică comercială care permite ca datele descărcate de anumite aplicații sau servicii să nu fie contorizate la limita lunară de trafic a abonatului. Zero rating-ul tratează tipuri diferite de trafic în mod diferit, astfel încât pentru unii să fie oferit la un preț iar pentru alții să fie oferit la alt preț. Deși diferit de formele clasice de încălcare a neutralității Internetului, este tot o încălcare pentru că, din punct de vedere practic, permite furnizorului de acces la Internet să influențeze care aplicații și servicii sunt folosite și care nu.
 
 ## De ce este zero rating o problemă? {#why-is-zero-rating-a-problem}
 
@@ -224,21 +224,21 @@ Reguli puternice pentru neutralitatea Internetului există în Statele Unite ale
 Alte țări unde se derulează o campanie SaveTheInternet.
 Câteva exemple:
 
--        [Statele Unite ale Americii](http://www.savetheinternet.com/sti-home)
+- [Statele Unite ale Americii](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## Cum pot ajuta? {#how-can-i-help-you}
 
 Poți ajuta SaveTheInternet.eu în multe feluri:
 
-<i class="fa fa-long-arrow-right"></i>        Dă sfoară-n-țară! Spune prietenilor despre această campanie, despre neutralitatea Internetului și despre de ce este important să treci la acțiune acum. Doar când mulți iau atitudine vom putea să ne protejăm drepturile și libertățile online.
+- Dă sfoară-n-țară! Spune prietenilor despre această campanie, despre neutralitatea Internetului și despre de ce este important să treci la acțiune acum. Doar când mulți iau atitudine vom putea să ne protejăm drepturile și libertățile online.
 
-<i class="fa fa-long-arrow-right"></i>        Tradu acest site în limba ta! Poți face asta la [Save The Internet pe Github](https://github.com/netzfreiheit/savetheinternet) 
+- Tradu acest site în limba ta! Poți face asta la [Save The Internet pe Github](https://github.com/netzfreiheit/savetheinternet)
 
-<i class="fa fa-long-arrow-right"></i>        Alătură-te nouă! Dacă faci parte dintr-o organizație și vrei să te alături SaveTheInternet.eu, contacteză-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Alătură-te nouă! Dacă faci parte dintr-o organizație și vrei să te alături SaveTheInternet.eu, contacteză-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Raportează încălcări ale neutralității Internetului la [Respect My Net](https://respectmynet.eu/)
+- Raportează încălcări ale neutralității Internetului la [Respect My Net](https://respectmynet.eu/)
 
 Ai alte idei creative? Contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

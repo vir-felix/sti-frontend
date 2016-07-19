@@ -84,7 +84,7 @@ O Organismo de Reguladores Europeus das Comunicações Eletrónicas (BEREC, Body
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará uma consulta pública. Não obstante, e de acordo com o estabelecido pelos procedimentos do BEREC, o público tem apenas de __6 de Junho a 18 de Julho__ para responder e o BEREC tem de publicar as suas directrizes finais a 30 de Agosto de 2016. Isso significa que os cidadãos têm __poucas semanas__ para responder à consulta e o BEREC tem __pouco mais de um mês__ para processar os (potencialmente) milhares de comentários, actualizar as suas directrizes e depois passar pelo  processo administrativo para aceitar formalmente qualquer alteração ao rascunho inicial.
+Em junho de 2016, o BEREC publicará o rascunho das suas directrizes e lançará uma consulta pública. Não obstante, e de acordo com o estabelecido pelos procedimentos do BEREC, o público tem apenas de __6 de Junho a 18 de Julho__ para responder e o BEREC tem de publicar as suas directrizes finais a 30 de Agosto de 2016. Isso significa que os cidadãos têm __poucas semanas__ para responder à consulta e o BEREC tem __pouco mais de um mês__ para processar os (potencialmente) milhares de comentários, actualizar as suas directrizes e depois passar pelo processo administrativo para aceitar formalmente qualquer alteração ao rascunho inicial.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}

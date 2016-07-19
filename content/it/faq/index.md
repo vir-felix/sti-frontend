@@ -57,13 +57,13 @@ La neutralità della rete garantisce la libertà di tutti online ad accedere e d
 
 Senza la neutralità della rete:
 
-1.        pagheresti di più per navigare meno e il tuo “Internet provider” diventerebbe un guardiano frapposto tra te e i servizi e le applicazioni online che ti piacciono;
+1. pagheresti di più per navigare meno e il tuo “Internet provider” diventerebbe un guardiano frapposto tra te e i servizi e le applicazioni online che ti piacciono;
 
-2.        i nuovi siti web e le invenzioni non sarebbero veloci ed accessibili come i grossi siti dominanti americani (USA) e potrebbero addirittura non sopravvivere abbastanza a lungo da essere conosciuti;
+2. i nuovi siti web e le invenzioni non sarebbero veloci ed accessibili come i grossi siti dominanti americani (USA) e potrebbero addirittura non sopravvivere abbastanza a lungo da essere conosciuti;
 
-3.        l’economia e le start-up ne soffrirebbero: con la neutralità della rete, tutti possono inventare nuovi servizi senza chiedere il permesso e avvalendosi di un’infrastruttura neutrale globale fin dal primo giorno. Perdendo questa libertà, perderemmo gran parte dell’enorme successo economico dell’economia digitale e la nostra libertà di scegliere come consumatori e comunicare come cittadini;
+3. l’economia e le start-up ne soffrirebbero: con la neutralità della rete, tutti possono inventare nuovi servizi senza chiedere il permesso e avvalendosi di un’infrastruttura neutrale globale fin dal primo giorno. Perdendo questa libertà, perderemmo gran parte dell’enorme successo economico dell’economia digitale e la nostra libertà di scegliere come consumatori e comunicare come cittadini;
 
-4.        Internet sarebbe più lenta: vari studi hanno dimostrato che se i fornitori di servizi Internet potessero vendere un vantaggio competitivo a pochi siti web, questi avrebbero convenienza a rendere più lento il resto di Internet per tutti gli altri; in questo modo, anche quando l’utente trovasse un prodotto meno costoso altrove, in realtà avrebbe meno opzioni ed un limite inferiore di download per usare la vera Internet.
+4. Internet sarebbe più lenta: vari studi hanno dimostrato che se i fornitori di servizi Internet potessero vendere un vantaggio competitivo a pochi siti web, questi avrebbero convenienza a rendere più lento il resto di Internet per tutti gli altri; in questo modo, anche quando l’utente trovasse un prodotto meno costoso altrove, in realtà avrebbe meno opzioni ed un limite inferiore di download per usare la vera Internet.
 
 [In che modo i “data caps”, ossia i limiti di traffico, danneggiano i consumatori e l’innovazione](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -116,15 +116,15 @@ I servizi specializzati non sono servizi che potrebbero essere erogati su Intern
 
 Il [Regolamento](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) prevede cinque tutele per l’erogazione dei servizi specializzati:
 
-1.        I servizi specializzati non possono essere usati per aggirare disposizioni relative a misure di gestione del traffico. Gli ISP non possono dare la priorità a servizi specializzati in contrasto con contenuti, applicazioni o servizi comparabili disponibili tramite i servizi di accesso ad Internet;
+1. I servizi specializzati non possono essere usati per aggirare disposizioni relative a misure di gestione del traffico. Gli ISP non possono dare la priorità a servizi specializzati in contrasto con contenuti, applicazioni o servizi comparabili disponibili tramite i servizi di accesso ad Internet;
 
-2.        I servizi specializzati devono essere ottimizzati per garantire una qualità specifica dei requisiti dei contenuti, delle applicazioni o del servizio che sono necessari per le principali funzionalità del contenuto, dell’applicazione o del servizio in questione;
+2. I servizi specializzati devono essere ottimizzati per garantire una qualità specifica dei requisiti dei contenuti, delle applicazioni o del servizio che sono necessari per le principali funzionalità del contenuto, dell’applicazione o del servizio in questione;
 
-3.        I servizi specializzati non possono essere utilizzabili o offerti in sostituzione dei servizi di accesso ad Internet;
+3. I servizi specializzati non possono essere utilizzabili o offerti in sostituzione dei servizi di accesso ad Internet;
 
-4.        I servizi specializzati possono essere offerti solo se è disponibile una capacità di rete sufficiente per offrirli in aggiunta agli altri servizi di accesso ad Internet forniti;
+4. I servizi specializzati possono essere offerti solo se è disponibile una capacità di rete sufficiente per offrirli in aggiunta agli altri servizi di accesso ad Internet forniti;
 
-5.        I servizi specializzati non possono essere forniti a detrimento della disponibilità o della generale qualità dei servizi di accesso ad Internet.
+5. I servizi specializzati non possono essere forniti a detrimento della disponibilità o della generale qualità dei servizi di accesso ad Internet.
 
 ## Che cosa ci vuole per rafforzare le tutele sui servizi specializzati e perché è importante? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -155,11 +155,11 @@ L’alternativa è che l’Internet provider classifichi i pacchetti di dati sul
 
 Possiamo dunque dire che le misure di gestione traffico secondo classi sono:
 
--        meno trasparenti delle misure indipendenti dall’applicazione, perché l’utente finale non sa come verranno classificati i particolari contenuti e i servizi che utilizza;
+- meno trasparenti delle misure indipendenti dall’applicazione, perché l’utente finale non sa come verranno classificati i particolari contenuti e i servizi che utilizza;
 
--        più discriminatori delle misure indipendenti dall’applicazione, perché rischiano di classificare le applicazioni in modo errato discriminando a sfavore del traffico crittografato e permettendo comportamenti anti-concorrenziali;
+- più discriminatori delle misure indipendenti dall’applicazione, perché rischiano di classificare le applicazioni in modo errato discriminando a sfavore del traffico crittografato e permettendo comportamenti anti-concorrenziali;
 
--        meno proporzionate delle misure indipendenti dall’applicazione, perché sono sempre meno invadenti e migliori per la scelta da parte dell’utente.
+- meno proporzionate delle misure indipendenti dall’applicazione, perché sono sempre meno invadenti e migliori per la scelta da parte dell’utente.
 
 ## Che cosa vuole ottenere SaveTheInternet.eu in merito alla gestione del traffico? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -225,21 +225,21 @@ Ci sono regole forti sulla neutralità della rete negli Stati Uniti, in Canada e
 Altri Paesi stanno anche loro facendo una campagna SaveTheInternet.
 Ecco alcuni esempi:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## Come posso contribuire? {#how-can-i-help-you}
 
 Puoi aiutare SaveTheInternet.eu in molti modi::
 
-<i class="fa fa-long-arrow-right"></i>        Passa parola! Parla con i tuoi amici della campagna, della neutralità della rete e di quanto sia importante agire subito. Solo quando si alzano le voci di tante persone si ha la forza di lottare per tutelare diritti e libertà.
+- Passa parola! Parla con i tuoi amici della campagna, della neutralità della rete e di quanto sia importante agire subito. Solo quando si alzano le voci di tante persone si ha la forza di lottare per tutelare diritti e libertà.
 
-<i class="fa fa-long-arrow-right"></i>        Traduci il sito web nella tua lingua! Lo puoi fare tramite [Salva Internet su Github](https://github.com/netzfreiheit/STI-UI)
+- Traduci il sito web nella tua lingua! Lo puoi fare tramite [Salva Internet su Github](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Unisciti a noi! Se fai parte di un organismo e vorresti partecipare alla campagna SaveTheInternet.eu, contattaci all’indirizzo [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Unisciti a noi! Se fai parte di un organismo e vorresti partecipare alla campagna SaveTheInternet.eu, contattaci all’indirizzo [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Denuncia le violazioni della neutralità della rete tramite [Respect my net](https://respectmynet.eu/)
+- Denuncia le violazioni della neutralità della rete tramite [Respect my net](https://respectmynet.eu/)
 
 Hai altre idee nuove e creative? Parlacene usando l’indirizzo [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

@@ -72,14 +72,14 @@ comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_t
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## In 2015, the European Union adopted  legislation on net neutrality ...
+## In 2015, the European Union adopted legislation on net neutrality ...
 
 [Европейската регулация](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120){: target="_blank" } съдържа добри принципи, които да осигурят, че можете да се свържете с произволна точка в интернет без да сте обект на дискриминация. Въпреки това, с някои части от Регулацията може да бъде злоупотребено, за да бъде подкопана мрежовата неутралност. Законодателите решиха да оставят отговорността да изясняването на неяснотите в текста от страна на телекомуникационните регулатори.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-До края на м. август 2016 г. Органът на европейските регулатори в областта на електронните съобщения (ОЕРЕС)  трябва да подготви правилник за приложението, които да тълкуват неяснотите в закона. Този правилник ще определи дали Европа ще се радва на мрежова неутралност, или не.
+До края на м. август 2016 г. Органът на европейските регулатори в областта на електронните съобщения (ОЕРЕС) трябва да подготви правилник за приложението, които да тълкуват неяснотите в закона. Този правилник ще определи дали Европа ще се радва на мрежова неутралност, или не.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
@@ -112,7 +112,7 @@ We store your comments to the BEREC consultation in the inbox of an e-mail addre
 
 We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages. 
+If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
