@@ -51,19 +51,19 @@
 
 Síťová neutralita je zásada, dle které poskytovatelé přístupu k Internetu přenášejí data, aniž by je diskriminovali na základě původu, cíle nebo typu dat. To znamená, že neutralita zakazuje telekomunikačním operátorů blokovat či eliminovat obsah, aplikace nebo služby.
 
-Síťová neutralita zaručuje online svobodu přístupu a distribuce libovolných informací.  Tato základní zásada zajišťuje otevřenost, inovaci, konkurenční povahu a diverzitu Internetu.
+Síťová neutralita zaručuje online svobodu přístupu a distribuce libovolných informací. Tato základní zásada zajišťuje otevřenost, inovaci, konkurenční povahu a diverzitu Internetu.
 
 ## Jaký vliv má neutralita na mne a můj život? {#how-does-net-neutrality-influence-me-and-my-life}
 
 Bez síťové neutrality...
 
-1.        Za omezenější přístup k Internetu byste platili více a váš poskytovatel internetových služeb by dohlížel na to, jaké online služby a aplikace se vám líbí.
+1. Za omezenější přístup k Internetu byste platili více a váš poskytovatel internetových služeb by dohlížel na to, jaké online služby a aplikace se vám líbí.
 
-2.        Nové skvělé weby a vynálezy by nebyly tak rychle přístupné jako velké stávající americké weby. Možná by ani nepřežily tak dlouho, aby si získaly oblibu.
+2. Nové skvělé weby a vynálezy by nebyly tak rychle přístupné jako velké stávající americké weby. Možná by ani nepřežily tak dlouho, aby si získaly oblibu.
 
-3.        Trpěla by ekonomika i startupové projekty. Díky síťové neutralitě může kdokoliv přijít s novou službou, aniž by žádal o povolení, a využívat neutrální infrastruktury již od prvního dne. Pozbudeme-li této svobody, přijdeme o obrovský úspěch digitální ekonomicky a naši svobodu volby v postavení spotřebitele a komunikace v postavení občana.
+3. Trpěla by ekonomika i startupové projekty. Díky síťové neutralitě může kdokoliv přijít s novou službou, aniž by žádal o povolení, a využívat neutrální infrastruktury již od prvního dne. Pozbudeme-li této svobody, přijdeme o obrovský úspěch digitální ekonomicky a naši svobodu volby v postavení spotřebitele a komunikace v postavení občana.
 
-4.        Internet by byl pomalejší. Studie ukazují, že pokud by měli poskytovatelé služeb možnost prodávat konkurenční výhodu jen hrstce webů, bylo by pro ně výhodné zpomalit zbytek Internetu pro všechny ostatní. Přestože se může zdát, že dostáváte něco levnějšího, ve skutečnosti bude vaše volba omezenější a na využívání skutečného Internetu vám zbude menší limit pro stahování.
+4. Internet by byl pomalejší. Studie ukazují, že pokud by měli poskytovatelé služeb možnost prodávat konkurenční výhodu jen hrstce webů, bylo by pro ně výhodné zpomalit zbytek Internetu pro všechny ostatní. Přestože se může zdát, že dostáváte něco levnějšího, ve skutečnosti bude vaše volba omezenější a na využívání skutečného Internetu vám zbude menší limit pro stahování.
 
 [Jak datové limity škodí spotřebitelům a inovacím](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -83,7 +83,7 @@ Naštěstí Evropský parlament usilovně pracoval na odstranění těchto nedos
 
 Po tomto vítězství členské státy EU spojily své síly v Radě a pomalu během více než roku pokračovaly v ladění společného postoje. Odsouhlasily nové znění, které opět obsahovalo předešlé nedostatky a vedlo ke vzniku dalších. Bylo-li by takové znění Rady přijato, vytvořilo by placené rychlé kanály, umožnilo by v EU cenovou diskriminaci a posvětilo nezákonné a svévolné blokování legitimního obsahu.
 
-S cílem pokročit v jednání a oslabit postavení Parlamentu tři instituce zahájily „neformální“ jednání v rámci tzv.  [„trialogu“](https://edri.org/files/NN_process_infographics.pdf). Během nočního jednání konaného kolem druhé hodiny ranní dosáhly tyto tři instituce politické dohody. Dohodnuté znění obsahuje silné zásady, které v Evropě zajistí síťovou neutralitu. Nicméně některá ustanovení Směrnice jsou nejasná a bylo by možné je zneužít (toto znění bylo lepší než prvotní návrh Komise, ale horší než prvotní postoj Parlamentu). To může vést k nedostatkům, které by mohly umožnit na Internetu diskriminaci. O odstranění nejasností se pokusily pozměňovací návrhy uplatněné v Evropském Parlamentu při druhém čtení. Směrnice se však zabývá také odstraněním poplatků za roaming, což společně se skutečností, že ke změně dohodnutého znění bylo zapotřebí absolutní většiny členů Parlamentu, vedlo k tomu, že pozměňovací návrhy přijaty nebyly. Jinými slovy, Evropský parlament rozhodl, že o nejasnostech znění směrnice budou rozhodovat regulační orgány.
+S cílem pokročit v jednání a oslabit postavení Parlamentu tři instituce zahájily „neformální“ jednání v rámci tzv. [„trialogu“](https://edri.org/files/NN_process_infographics.pdf). Během nočního jednání konaného kolem druhé hodiny ranní dosáhly tyto tři instituce politické dohody. Dohodnuté znění obsahuje silné zásady, které v Evropě zajistí síťovou neutralitu. Nicméně některá ustanovení Směrnice jsou nejasná a bylo by možné je zneužít (toto znění bylo lepší než prvotní návrh Komise, ale horší než prvotní postoj Parlamentu). To může vést k nedostatkům, které by mohly umožnit na Internetu diskriminaci. O odstranění nejasností se pokusily pozměňovací návrhy uplatněné v Evropském Parlamentu při druhém čtení. Směrnice se však zabývá také odstraněním poplatků za roaming, což společně se skutečností, že ke změně dohodnutého znění bylo zapotřebí absolutní většiny členů Parlamentu, vedlo k tomu, že pozměňovací návrhy přijaty nebyly. Jinými slovy, Evropský parlament rozhodl, že o nejasnostech znění směrnice budou rozhodovat regulační orgány.
 
 ## Kdo je zapojen do debaty v Evropě? {#who-is-involved-in-the-debate-in-europe}
 
@@ -95,7 +95,7 @@ Ale rozhodujícím faktorem většiny debat o síťové neutralitě je veřejnos
 
 ## Kdo stojí za iniciativou SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet je společná kampaň dvanácti evropských nevládních organizací, které se věnují ochraně občanských svobod na internetu. Tato kampaň byla vytvořena, abychom v rámci přípravy evropské směrnice o síťové neutralitě spojili občany se zákonodárci. Kampaň byla zahájena v prosinci 2012 na konferenci 30c3 a od té doby prochází neustále aktualizací, aby sledovala legislativní a regulační proces.
+SaveTheInternet je společná kampaň 23 evropských nevládních organizací, které se věnují ochraně občanských svobod na internetu. Tato kampaň byla vytvořena, abychom v rámci přípravy evropské směrnice o síťové neutralitě spojili občany se zákonodárci. Kampaň byla zahájena v prosinci 2012 na konferenci 30c3 a od té doby prochází neustále aktualizací, aby sledovala legislativní a regulační proces.
 
 Jste-li součástí jakékoliv organizace a chcete-li se stát stoupencem nebo pomoci tyto informace šířit, obraťte se na nás na adrese [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -116,21 +116,21 @@ Specializované služby nejsou služby, které lze poskytovat prostřednictvím 
 
 [Směrnice](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stanoví pět opatření, co se týče ustanovení o specializovaných službách:
 
-1.        Specializované služby nelze využívat k obcházení ustanovení o opatřeních řízení provozu. Poskytovatelé internetových služeb nesmí upřednostňovat specializované služby před srovnatelným obsahem, aplikacemi nebo službami dostupnými prostřednictvím služeb přístupu k Internetu.
+1. Specializované služby nelze využívat k obcházení ustanovení o opatřeních řízení provozu. Poskytovatelé internetových služeb nesmí upřednostňovat specializované služby před srovnatelným obsahem, aplikacemi nebo službami dostupnými prostřednictvím služeb přístupu k Internetu.
 
-2.        Specializované služby musí být optimalizovány tak, aby zajišťovaly určitou kvalitu požadavků na službu z hlediska obsahu, aplikací nebo služby, které jsou nezbytné pro zásadní fungování dotyčného obsahu, aplikace nebo služby.
+2. Specializované služby musí být optimalizovány tak, aby zajišťovaly určitou kvalitu požadavků na službu z hlediska obsahu, aplikací nebo služby, které jsou nezbytné pro zásadní fungování dotyčného obsahu, aplikace nebo služby.
 
-3.        Specializované služby nesmí být možné využít nebo nabízet jako náhradu služeb přístupu k Internetu.
+3. Specializované služby nesmí být možné využít nebo nabízet jako náhradu služeb přístupu k Internetu.
 
-4.        Specializované služby lze nabízet pouze v případě, že je k dispozici dostatečná síťová kapacita, aby je bylo možné nabízet spolu s poskytovanou službou přístupu k Internetu.
+4. Specializované služby lze nabízet pouze v případě, že je k dispozici dostatečná síťová kapacita, aby je bylo možné nabízet spolu s poskytovanou službou přístupu k Internetu.
 
-5.        Specializované služby nesmí být poskytovány na úkor dostupnosti a obecné kvality služeb přístupu k internetu.
+5. Specializované služby nesmí být poskytovány na úkor dostupnosti a obecné kvality služeb přístupu k internetu.
 
 ## Čeho je zapotřebí za účelem posílení opatření týkajících se specializovaných služeb a proč je to důležité? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
 Před uvedení nové specializované služby na trhu musí být služba prověřena regulačním úřadem z hlediska těchto pěti opatření. Pokud by byly prověřovány až poté, co na ně někdo podá stížnost, může trvat i několik let, než je diskriminační produkt, který byl shledán v rozporu se zákonem, odstraněn. Telekomunikační operátoři, kteří nepřejí konkurenčnímu prostředí, využívají běžnou strategii, jak se zbavit inovativní konkurence. Ta spočívá ve zneužívání vleklosti a nákladů soudních řízení a regulačních úřadů.
 
-Optimalizace specializovaných služeb musí být objektivně nutná pro zajištění fungování takové služby a nesmí představovat pouhé účelové zvýhodnění před konkurencí.  Vyskytuje-li se na otevřeném Internetu srovnatelná služba, pak nesmí být specializovaná služba povolena.
+Optimalizace specializovaných služeb musí být objektivně nutná pro zajištění fungování takové služby a nesmí představovat pouhé účelové zvýhodnění před konkurencí. Vyskytuje-li se na otevřeném Internetu srovnatelná služba, pak nesmí být specializovaná služba povolena.
 
 
 # Řízení provozu {#traffic-management}
@@ -155,21 +155,21 @@ Alternativně může poskytovatel internetových služeb klasifikovat pakety dat
 
 Lze tedy říci, že opatření řízení provozu dle provozní třídy jsou:
 
--        Méně transparentní než opatření bez rozlišení aplikace, protože koncový uživatel neví, jakým způsobem bude konkrétní obsah a služby, které využívá, kategorizovány.
+- Méně transparentní než opatření bez rozlišení aplikace, protože koncový uživatel neví, jakým způsobem bude konkrétní obsah a služby, které využívá, kategorizovány.
 
--        Více diskriminační než opatření bez rozlišení aplikace, protože zde existuje riziko nesprávné kategorizace aplikací, diskriminace šifrovaných přenosů a umožnění chování narušujícího hospodářskou soutěž.
+- Více diskriminační než opatření bez rozlišení aplikace, protože zde existuje riziko nesprávné kategorizace aplikací, diskriminace šifrovaných přenosů a umožnění chování narušujícího hospodářskou soutěž.
 
--        Méně přiměřené než opatření bez rozlišení aplikace, protože jsou vždy méně rušivé a lepší z hlediska volby uživatele.
+- Méně přiměřené než opatření bez rozlišení aplikace, protože jsou vždy méně rušivé a lepší z hlediska volby uživatele.
 
 ## Jaký je cíl kampaně SaveTheInternet.eu, co se týče řízení provozu? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
-[Směrnice](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stanoví  jasnou tříčlennou hierarchii řízení provozu, která bude vyjádřena jasnými a závaznými pravidly [viz Článek 3(3) dílčí odstavce 1 až 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Poskytovatel internetových služeb bude vždy usilovat o řešení problémů na síti pomocí opatření bez rozlišení aplikací, tj. pomocí opatření, která jsou nezávislá na konkrétních vlastnostech obsahu, aplikací, služeb či zařízení. Dojde-li k vyčerpání všech dostupných opatření bez rozlišení aplikace a není-li problém přesto tímto způsobem vyřešen, je poskytovatelům internetových služeb dovoleno přistoupit k opatřením dle provozní třídy.
+[Směrnice](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stanoví jasnou tříčlennou hierarchii řízení provozu, která bude vyjádřena jasnými a závaznými pravidly [viz Článek 3(3) dílčí odstavce 1 až 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Poskytovatel internetových služeb bude vždy usilovat o řešení problémů na síti pomocí opatření bez rozlišení aplikací, tj. pomocí opatření, která jsou nezávislá na konkrétních vlastnostech obsahu, aplikací, služeb či zařízení. Dojde-li k vyčerpání všech dostupných opatření bez rozlišení aplikace a není-li problém přesto tímto způsobem vyřešen, je poskytovatelům internetových služeb dovoleno přistoupit k opatřením dle provozní třídy.
 
 Řízení provozu je nezbytné pro řešení přetížení sítě a zajištění její integrity a bezpečnosti. Ale řízení provozu by mělo stejně jako dozorová opatření využívat nejméně rušivá opatření, pouze pro konkrétní účel a po omezenou dobu, a to v případě, je-li to k dosažení legitimního cíle skutečně nutné.
 
 ## Kdy může poskytovatel začít řídit svoji síť? {#when-can-a-provider-start-managing-its-network}
 
-Dle [Směrnice](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  mohou poskytovatelé internetových služeb začít řídit síť v případě, že k přetížení sítě skutečně dojde, nebo v případech, kdy usilují o minimalizaci bezprostředně hrozícího přetížení. Tato druhá možnost musí být regulačními úřady vyložena tak, aby neumožňovala sklouznutí tohoto ustanovení k situacím, kdy bude síť „řízena“ neustále, a to i v případě, že to není nutné.
+Dle [Směrnice](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) mohou poskytovatelé internetových služeb začít řídit síť v případě, že k přetížení sítě skutečně dojde, nebo v případech, kdy usilují o minimalizaci bezprostředně hrozícího přetížení. Tato druhá možnost musí být regulačními úřady vyložena tak, aby neumožňovala sklouznutí tohoto ustanovení k situacím, kdy bude síť „řízena“ neustále, a to i v případě, že to není nutné.
 
 Navrhujeme, aby byla tato druhá možnost přijatelná pouze v případech, kdy kromě množství provozu procházejícího určitým síťovým centrem existují ještě jiné ukazatele (např. množství předplatitelů připojených k jedné síťové buňce). Pro řízení provozu musí vždy existovat konkrétní a skutečná potřeba.
 
@@ -184,7 +184,7 @@ Tzv. „zero rating“ (nezpoplatnění) je obchodní praktika, kdy data stažen
 
 Tímto způsobem může mít poskytovatel internetových služeb pod kontrolou služby, které využíváte nebo budete využívat. Jakákoliv konkurence (hlavně startupové projekty a malé a střední podniky) ve vztahu k aplikaci či službě, na kterou se zero rating vztahuje, jsou ve velké nevýhodě, protože za možnost mít volný přístup k využívání jejich aplikace či služby musíte platit navíc.
 
-Zero rating je hlavním důvodem nízkých datových limitů (datové limity představují limity pro nahrávání či stahování dat). Poskytovatelé internetových služeb chtějí, abyste využívali jejich vlastní online služby nebo služby jejich partnerů. Mají-li poskytovatelé internetových služeb možnost vyloučit tyto vybrané služby z vašeho datového limitu, pak mají důvod takový limit zachovat na relativně nízké úrovni, aby zachovali také svoji velkou konkurenční výhodu. Bez zero ratingu by vám mohly tyto společnosti nabízet větší objem dat, který byste měli k dispozici, a mohli svobodně rozhodovat, jak jej využijete.  Existují důkladně zdokumentované případy [v Nizozemsku](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) a ve [Slovinsku](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) , kdy díky přísným zákonům na ochranu síťové neutrality zakazujícím zero rating zvýšili mobilní operátoři datové limity uživatelů na dvojnásobek.
+Zero rating je hlavním důvodem nízkých datových limitů (datové limity představují limity pro nahrávání či stahování dat). Poskytovatelé internetových služeb chtějí, abyste využívali jejich vlastní online služby nebo služby jejich partnerů. Mají-li poskytovatelé internetových služeb možnost vyloučit tyto vybrané služby z vašeho datového limitu, pak mají důvod takový limit zachovat na relativně nízké úrovni, aby zachovali také svoji velkou konkurenční výhodu. Bez zero ratingu by vám mohly tyto společnosti nabízet větší objem dat, který byste měli k dispozici, a mohli svobodně rozhodovat, jak jej využijete. Existují důkladně zdokumentované případy [v Nizozemsku](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) a ve [Slovinsku](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) , kdy díky přísným zákonům na ochranu síťové neutrality zakazujícím zero rating zvýšili mobilní operátoři datové limity uživatelů na dvojnásobek.
 
 ## Dostávám opravdu něco zdarma, pokud využívám program zero rating? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
@@ -225,21 +225,21 @@ Ve Spojených státech amerických, Kanadě a Chile jsou zavedena přísná prav
 I ostatní země se zapojily do kampaně SaveTheInternet.
 Zde uvádíme několik příkladů:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [Indie](http://www.savetheinternet.in/)
+- [Indie](http://www.savetheinternet.in/)
 
 ## Jak vám mohu pomoci? {#how-can-i-help-you}
 
 Iniciativu SaveTheInternet.eu můžete podpořit mnoha způsoby:
 
-<i class="fa fa-long-arrow-right"></i>        Pomozte šířit tyto informace! Povězte o této kampani, síťové neutralitě a důvodech, proč je nutné okamžitě jednat, svým přátelům. Naše práva a svobody budeme schopni chránit pouze tehdy, promluvíme-li hlasem velkého množství osob.
+- Pomozte šířit tyto informace! Povězte o této kampani, síťové neutralitě a důvodech, proč je nutné okamžitě jednat, svým přátelům. Naše práva a svobody budeme schopni chránit pouze tehdy, promluvíme-li hlasem velkého množství osob.
 
-<i class="fa fa-long-arrow-right"></i>        Přeložte web do rodného jazyka! Můžete tak učinit prostřednictvím [Save The Internet na platformě GitHub](https://github.com/netzfreiheit/STI-UI)
+- Přeložte web do rodného jazyka! Můžete tak učinit prostřednictvím [Save The Internet na platformě GitHub](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Přidejte se k nám! Jste-li členem organizace a chcete-li se přidat ke kampani SaveTheInternet.eu, obraťte se na nás prosím prostřednictvím adresy [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Přidejte se k nám! Jste-li členem organizace a chcete-li se přidat ke kampani SaveTheInternet.eu, obraťte se na nás prosím prostřednictvím adresy [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Porušování síťové neutrality hlaste prostřednictvím webu [Respect My Net](https://respectmynet.eu/)
+- Porušování síťové neutrality hlaste prostřednictvím webu [Respect My Net](https://respectmynet.eu/)
 
 Maté další skvělé a tvořivé nápady? Pak se na nás obraťte prostřednictvím [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

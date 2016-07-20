@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -15,7 +27,7 @@
 
 | X | cilvēki ir <br> ziņu <br> nosūtījuši |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) and [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 
@@ -75,7 +87,7 @@ Izskatās pēc bezmaksas piedāvājuma, tomēr patiesībā tu zaudē savu izvēl
 {{ ANCHOR INFO }}
 ## Kas līdz šim ir noticis…
 
-2015\. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti  [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
+2015\. g. oktobrī ES [likumu](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } par tīkla neitralitāti [pieņēma](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Diemžēl likums ir neviennozīmīgs un to var interpretēt daudz un dažādos veidos. Vai mēs tādējādi varam garantēt tīkla neitralitātes principu ievērošanu, tas tikai tagad izšķirsies. Diemžēl atsevišķas likuma daļas var nelietīgi izmantot, lai grautu tīkla neitralitāti un veiktu internetā diskriminējošas darbības. Likums nosaka, ka atklātie jautājumi tekstā jāļauj skaidrot telekomunikācijas regulējošajām iestādēm.
 {{ END HOME INFO }}
 
 
@@ -96,7 +108,7 @@ Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC līdz 2016. g. augu
 
 ### __Tagad ir izšķirošs moments__: ASV un Indijā miljoniem cilvēku sarunās ir izteikuši viedokli. Tādēļ mums jāturpina izdarīt spiedienu un jācīnās par tīkla neitralitāti. Ja mūsu viedoklis sasniegs dzirdīgas ausis, tad varēsim pārliecināt regulatorus par brīva un atvērta interneta nozīmi.
 
-Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tīkla neitralitāti. Pilsoņu tiesību un patērētāju tiesību aizsardzības organizācijas, kas iesaistījušās šajā kampaņā, domā, ka  BEREC apvienība var rosināt ievērot tīkla neitralitātes noteikumus vienīgi ar pilsoņu argumentiem. Tādēļ tu vari dot BEREC apvienībai vērtīgu padomu.
+Regulatoriem ir nepieciešami pareizie instrumenti, lai varētu nodrošināt tīkla neitralitāti. Pilsoņu tiesību un patērētāju tiesību aizsardzības organizācijas, kas iesaistījušās šajā kampaņā, domā, ka BEREC apvienība var rosināt ievērot tīkla neitralitātes noteikumus vienīgi ar pilsoņu argumentiem. Tādēļ tu vari dot BEREC apvienībai vērtīgu padomu.
 
 {{ END HOME BEREC-4 }}
 

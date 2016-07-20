@@ -58,13 +58,13 @@ Võrguneutraalsus tagab teile Internetis vabaduse saada juurdepääsu teabele ja
 
 Ilma võrguneutraalsuseta...
 
-1.        peaksite maksma vähema Interneti eest rohkem ja Interneti-teenuse pakkuja täidaks kontrollfunktsiooni teie ja teile meeldivate veebipõhiste teenuste ja rakenduste vahel;
+1. peaksite maksma vähema Interneti eest rohkem ja Interneti-teenuse pakkuja täidaks kontrollfunktsiooni teie ja teile meeldivate veebipõhiste teenuste ja rakenduste vahel;
 
-2.        uued lahedad veebilehed ja leiutised ei oleks nii kiired ja kättesaadavad kui suured ja turgu valitsevad USA veebilehed. Need ei pruugi isegi piisavalt kaua vastu pidada, et jõuaks populaarseks muutuda;
+2. uued lahedad veebilehed ja leiutised ei oleks nii kiired ja kättesaadavad kui suured ja turgu valitsevad USA veebilehed. Need ei pruugi isegi piisavalt kaua vastu pidada, et jõuaks populaarseks muutuda;
 
-3.        kannataks nii majandus kui ka alles alustavad ettevõtted. Tänu võrguneutraalsusele võib igaüks ilma luba küsimata leiutada uue teenuse ja saada kasu globaalsest neutraalsest taristust alates esimesest päevast. Kui me selle vabaduse kaotaks, kaotaks me tohutult digitaalse majanduse majanduslikust edukusest ning oma vabadusest tarbijana valida ja kodanikena suhelda;
+3. kannataks nii majandus kui ka alles alustavad ettevõtted. Tänu võrguneutraalsusele võib igaüks ilma luba küsimata leiutada uue teenuse ja saada kasu globaalsest neutraalsest taristust alates esimesest päevast. Kui me selle vabaduse kaotaks, kaotaks me tohutult digitaalse majanduse majanduslikust edukusest ning oma vabadusest tarbijana valida ja kodanikena suhelda;
 
-4.        Internet oleks aeglasem. Uuringud on näidanud, et kui Interneti-teenuse pakkujatele anda õigus müüa mõnda veebilehte konkurentsieelisega, siis oleks neil stiimul anda kõikidele teistele aeglasem Internet. Isegi kui tundub, et saate midagi odavalt, siis tegelikult on teil vähem võimalusi ja väiksem allalaadimise piir tegeliku Interneti kasutamiseks.
+4. Internet oleks aeglasem. Uuringud on näidanud, et kui Interneti-teenuse pakkujatele anda õigus müüa mõnda veebilehte konkurentsieelisega, siis oleks neil stiimul anda kõikidele teistele aeglasem Internet. Isegi kui tundub, et saate midagi odavalt, siis tegelikult on teil vähem võimalusi ja väiksem allalaadimise piir tegeliku Interneti kasutamiseks.
 
 [Kuidas andmete piiramine tarbijaid ja innovatsiooni kahjustab](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -96,7 +96,7 @@ Otsustavaks teguriks võrguneutraalsuse aruteludes on aga üldsus **ehk teisiti 
 
 ## Kes on liikumise SaveTheInternet.eu taga? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ehk Päästke Internet on 12 Euroopa valitsusvälise organisatsiooni ühiskampaania, et kaitsta kodanikuvabadusi Internetis. Kampaania eesmärk oli ühendada inimesi poliitikakujundajatega ELi võrguneutraalsuse määruse ettevalmistamisel. Kampaania käivitati 30c3 konverentsil 2012. a detsembris ja seda on pidevalt uuendatud, et järgida õiguslikku ja regulatiivset protsessi.
+SaveTheInternet ehk Päästke Internet on 23 Euroopa valitsusvälise organisatsiooni ühiskampaania, et kaitsta kodanikuvabadusi Internetis. Kampaania eesmärk oli ühendada inimesi poliitikakujundajatega ELi võrguneutraalsuse määruse ettevalmistamisel. Kampaania käivitati 30c3 konverentsil 2012. a detsembris ja seda on pidevalt uuendatud, et järgida õiguslikku ja regulatiivset protsessi.
 
 Kui kuulute organisatsiooni ja tahate meid toetada või aidata meie ideel levida, võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -105,7 +105,7 @@ Kui kuulute organisatsiooni ja tahate meid toetada või aidata meie ideel levida
 
 ## Mis on eriteenused? {#what-are-specialised-services}
 
-Eriteenus on iga Interneti-ühenduse osutamise teenus, millele annab Interneti-ühenduse pakkuja lisakvaliteeti.  [Määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kohaselt peab iga selline optimeerimine olema elektroonilisele teenusele juurdepääsemiseks vajalik ja mitte lihtsalt võimaldama eelisjärjekorras teenuse saamist. Juurdepääsu pakkuja peab tagama, et võrgus oleks piisavalt võimsust, nii et Interneti kvaliteet ei halveneks. Seda vajadust peaks kontrollima riigi elektroonilist sidet reguleeriv asutus. Lühidalt, eriteenuseks ei saa olla diskrimineeriv „kiirliin”.
+Eriteenus on iga Interneti-ühenduse osutamise teenus, millele annab Interneti-ühenduse pakkuja lisakvaliteeti. [Määruse](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kohaselt peab iga selline optimeerimine olema elektroonilisele teenusele juurdepääsemiseks vajalik ja mitte lihtsalt võimaldama eelisjärjekorras teenuse saamist. Juurdepääsu pakkuja peab tagama, et võrgus oleks piisavalt võimsust, nii et Interneti kvaliteet ei halveneks. Seda vajadust peaks kontrollima riigi elektroonilist sidet reguleeriv asutus. Lühidalt, eriteenuseks ei saa olla diskrimineeriv „kiirliin”.
 
 Tõelistel eriteenustel ei ole Internetiga mingit pistmist. Need on teenused, mis võivad kasutada sama tehnoloogiat ja olla mõnikord isegi sama füüsilise ülesehitusega, kuid need ei ole osa ülemaailmsest Internetist, kuna nõuavad paremat kvaliteeti, mida Internet ei suuda pakkuda.
 
@@ -117,15 +117,15 @@ Eriteenused ei ole teenused, mida saaks Interneti kaudu pakkuda. Probleemi üks 
 
 [Määrus](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kehtestab eriteenuste vastu viis kaitsemeetodit:
 
-1.        eriteenuseid ei saa kasutada, et minna mööda sätetest, mis reguleerivad liikluskorralduse meetmeid. Interneti-ühenduse pakkujad ei saa eelistada eriteenuseid võrreldes sisu, rakenduste või teenustega, mis on Interneti-ühenduse teenuste kaudu kättesaadavad;
+1. eriteenuseid ei saa kasutada, et minna mööda sätetest, mis reguleerivad liikluskorralduse meetmeid. Interneti-ühenduse pakkujad ei saa eelistada eriteenuseid võrreldes sisu, rakenduste või teenustega, mis on Interneti-ühenduse teenuste kaudu kättesaadavad;
 
-2.        eriteenused tuleb optimeerida, et tagada sisu, rakenduse või teenuse konkreetse teenuse nõuete kvaliteet, mis on vajalik sisu, rakenduse või teenuse peamise funktsiooni jaoks;
+2. eriteenused tuleb optimeerida, et tagada sisu, rakenduse või teenuse konkreetse teenuse nõuete kvaliteet, mis on vajalik sisu, rakenduse või teenuse peamise funktsiooni jaoks;
 
-3.        eriteenuseid ei tohi kasutada ega pakkuda Interneti-ühenduse teenuse asendajana;
+3. eriteenuseid ei tohi kasutada ega pakkuda Interneti-ühenduse teenuse asendajana;
 
-4.        eriteenuseid võib pakkuda ainult piisava võrgu läbilaskevõime korral, et pakkuda neile lisaks mis tahes Interneti-ühenduse teenust;
+4. eriteenuseid võib pakkuda ainult piisava võrgu läbilaskevõime korral, et pakkuda neile lisaks mis tahes Interneti-ühenduse teenust;
 
-5.        eriteenuseid ei saa pakkuda olemasolevat kättesaadavust või üldist Interneti-ühenduse teenust halvendades.
+5. eriteenuseid ei saa pakkuda olemasolevat kättesaadavust või üldist Interneti-ühenduse teenust halvendades.
 
 ## Mida on vaja, et tugevdada kaitsemeetmeid eriteenuste vastu ja miks on see oluline? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -156,11 +156,11 @@ Alternatiivina saab Interneti-teenuse pakkuja liigitada andmepakette enda loodud
 
 Seega võime öelda, et klassipõhised liikluskorralduse meetmed on:
 
--        vähem läbipaistvad kui rakenduse agnostilised meetmed, sest lõppkasutaja ei tea, kuidas tema konkreetset sisu ja kasutatavaid teenuseid liigitatakse;
+- vähem läbipaistvad kui rakenduse agnostilised meetmed, sest lõppkasutaja ei tea, kuidas tema konkreetset sisu ja kasutatavaid teenuseid liigitatakse;
 
--        diskrimineerivamad kui rakenduse agnostilised meetmed, sest need riskivad rakenduste valesti klassifitseerimisega, diskrimineerivad krüpteeritud liiklust ja võimaldavad konkurentsi kahjustavat tegevust;
+- diskrimineerivamad kui rakenduse agnostilised meetmed, sest need riskivad rakenduste valesti klassifitseerimisega, diskrimineerivad krüpteeritud liiklust ja võimaldavad konkurentsi kahjustavat tegevust;
 
--        vähem proportsionaalsed kui rakenduse agnostilised meetmed, sest see on alati vähem sekkuv ja kasutajasäästlikum.
+- vähem proportsionaalsed kui rakenduse agnostilised meetmed, sest see on alati vähem sekkuv ja kasutajasäästlikum.
 
 ## Mis on SaveTheInternet.eu eesmärk seoses liikluskorraldusega? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -185,7 +185,7 @@ Nullmäär on kaubandustava, mille puhul ei arvestata teatud rakenduste või tee
 
 Selle tava korral saab Interneti-teenuse pakkuja kontrollida teenuseid, mida teil on võimalik kasutada või mida te peate kasutama. Iga nullmääraga rakenduse või teenusega konkureerija (peamiselt alustavad või väikesed ja keskmise suurusega ettevõtted) on väga ebasoodsas olukorras, sest sa pead maksma, et rakendust või teenust oleks võimalik takistamatult kasutada.
 
-Nullmäär on andmete mahupiirangute peamine põhjus (andmete mahupiirangud on andmete üles-allalaadimise piirangud). Interneti-teenuse pakkujad tahavad, et kasutaksite kas nende või nende partnerite veebipõhiseid teenuseid. Kui pakkujatele võimaldatakse teatud andmeid andmete mahupiirangu sisse mitte arvestada, siis on neil põhjust hoida andmete mahupiirangud puutumata ja suhteliselt väiksed, et nende konkurentsieelis jääks tugevaks. Ilma nullmäärata saaks need ettevõtted teile rohkem andmeid pakkuda, mida saaksite vabalt ja oma äranägemise järgi kasutada.  On olemas hästi dokumenteeritud juhud [Holland](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) ja [Sloveenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), kus tänu tugevale võrguneutraalsust toetavatele seadustele on nullmäär keelatud ja mobiilsideoperaatorid kahekordistasid oma kasutajate andmete mahupiirangut.
+Nullmäär on andmete mahupiirangute peamine põhjus (andmete mahupiirangud on andmete üles-allalaadimise piirangud). Interneti-teenuse pakkujad tahavad, et kasutaksite kas nende või nende partnerite veebipõhiseid teenuseid. Kui pakkujatele võimaldatakse teatud andmeid andmete mahupiirangu sisse mitte arvestada, siis on neil põhjust hoida andmete mahupiirangud puutumata ja suhteliselt väiksed, et nende konkurentsieelis jääks tugevaks. Ilma nullmäärata saaks need ettevõtted teile rohkem andmeid pakkuda, mida saaksite vabalt ja oma äranägemise järgi kasutada. On olemas hästi dokumenteeritud juhud [Holland](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) ja [Sloveenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html), kus tänu tugevale võrguneutraalsust toetavatele seadustele on nullmäär keelatud ja mobiilsideoperaatorid kahekordistasid oma kasutajate andmete mahupiirangut.
 
 ## Kas ma ikka saan midagi tasuta, kui ma nullmäära programmi kasutan? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
@@ -226,21 +226,21 @@ USAs, Kanadas ja Tšiilis kehtivad tugevad võrguneutraalsuse eeskirjad. Viimane
 Teistes riikides käib Interneti päästmise kampaania SaveTheInternet.
 Need on mõned näited:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [India](http://www.savetheinternet.in/)
+- [India](http://www.savetheinternet.in/)
 
 ## Kuidas ma teid aidata saan? {#how-can-i-help-you}
 
 Saate toetada liikumist SaveTheInternet.eu paljudel viisidel:
 
-<i class="fa fa-long-arrow-right"></i>        Levitage sõnumit! Räägi oma sõpradele sellest kampaaniast, võrguneutraalsusest ja sellest, miks on oluline kohe tegutseda. Alles siis, kui paljud inimesed võtavad sel teemal sõna, saame kaitsta oma veebipõhiseid õigusi ja vabadusi.
+- Levitage sõnumit! Räägi oma sõpradele sellest kampaaniast, võrguneutraalsusest ja sellest, miks on oluline kohe tegutseda. Alles siis, kui paljud inimesed võtavad sel teemal sõna, saame kaitsta oma veebipõhiseid õigusi ja vabadusi.
 
-<i class="fa fa-long-arrow-right"></i>        Tõlgi see veebileht enda keelde! Seda saab teha [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI) kaudu
+- Tõlgi see veebileht enda keelde! Seda saab teha [Save The Internet on Github](https://github.com/netzfreiheit/STI-UI) kaudu
 
-<i class="fa fa-long-arrow-right"></i>        Liitu! Kui kuulute organisatsiooni ja sooviksite liituda Interneti päästmise kampaaniaga SaveTheInternet.eu, siis võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Liitu! Kui kuulute organisatsiooni ja sooviksite liituda Interneti päästmise kampaaniaga SaveTheInternet.eu, siis võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Teavita võrguneutraalsuse rikkumistest [Austa minu võrku](https://respectmynet.eu/) kaudu
+- Teavita võrguneutraalsuse rikkumistest [Austa minu võrku](https://respectmynet.eu/) kaudu
 
 Kas teil on veel ideid? Võtke meiega ühendust e-posti aadressil [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

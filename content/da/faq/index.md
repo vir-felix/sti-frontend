@@ -57,13 +57,13 @@ Netneutralitet sikrer din frihed til at tilgå og udbrede de informationer du vi
 
 Uden netneutralitet ...
 
-1.        ville du betale mere for mindre internet, og din internetudbyder ville stå som en anden dørmand mellem dig og de onlinetjenester og applikationer du gerne vil benytte.
+1. ville du betale mere for mindre internet, og din internetudbyder ville stå som en anden dørmand mellem dig og de onlinetjenester og applikationer du gerne vil benytte.
 
-2.        ville spændende nye websites og opfindelser ikke være lige så hurtige og tilgængelige som de store, veletablerede amerikanske websites. Måske ville de ikke engang overleve længe nok til at blive populære.
+2. ville spændende nye websites og opfindelser ikke være lige så hurtige og tilgængelige som de store, veletablerede amerikanske websites. Måske ville de ikke engang overleve længe nok til at blive populære.
 
-3.        ville økonomien lide skade — i særlig grad de nystartede virksomheder. Med netneutralitet kan enhver opfinde en ny tjeneste uden at skulle spørge om lov og nyde godt af en global, neutral infrastruktur fra dag ét. Hvis vi mister denne frihed, sætter vi langt hen ad vejen også den enorme succes over styr som den digitale økonomi er blevet, samtidig med at vi mister vores valgfrihed som forbrugere og vores kommunikationsfrihed som borgere.
+3. ville økonomien lide skade — i særlig grad de nystartede virksomheder. Med netneutralitet kan enhver opfinde en ny tjeneste uden at skulle spørge om lov og nyde godt af en global, neutral infrastruktur fra dag ét. Hvis vi mister denne frihed, sætter vi langt hen ad vejen også den enorme succes over styr som den digitale økonomi er blevet, samtidig med at vi mister vores valgfrihed som forbrugere og vores kommunikationsfrihed som borgere.
 
-4.        ville internettet være langsommere. Undersøgelser har vist at hvis internetudbydere fik lov at sælge en konkurrencemæssig fordel til nogle få websites, ville de dermed have et incitament til at gøre resten af internettet langsommere for alle andre. Selv om det ser ud som om du får noget billigt, har du i virkeligheden færre valgmuligheder og en lavere forbrugsgrænse på det rigtige internet.
+4. ville internettet være langsommere. Undersøgelser har vist at hvis internetudbydere fik lov at sælge en konkurrencemæssig fordel til nogle få websites, ville de dermed have et incitament til at gøre resten af internettet langsommere for alle andre. Selv om det ser ud som om du får noget billigt, har du i virkeligheden færre valgmuligheder og en lavere forbrugsgrænse på det rigtige internet.
 
 [Hvordan datalofter skader forbrugerne og innovationen (engelsk)](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -95,7 +95,7 @@ Men den afgørende faktor i de fleste debatter om netneutralitet er den brede of
 
 ## Hvem står bag SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet er en fælles kampagne organiseret af 12 europæiske NGO'er som alle arbejder for at beskytte de borgerlige frihedsrettigheder på internettet. Kampagnen er startet for at sætte almindelige mennesker og politiske beslutningstagere i kontakt med hinanden i forbindelse med udarbejdelsen af EU-forordningen om netneutralitet. Kampagnen blev søsat på 30c3-konferencen i december 2012 og er siden blevet løbende opdateret i takt med lovgivningsprocessen.
+SaveTheInternet er en fælles kampagne organiseret af 23 europæiske NGO'er som alle arbejder for at beskytte de borgerlige frihedsrettigheder på internettet. Kampagnen er startet for at sætte almindelige mennesker og politiske beslutningstagere i kontakt med hinanden i forbindelse med udarbejdelsen af EU-forordningen om netneutralitet. Kampagnen blev søsat på 30c3-konferencen i december 2012 og er siden blevet løbende opdateret i takt med lovgivningsprocessen.
 
 Hvis du tilhører en organisation som gerne vil støtte kampagnen og hjælpe med at sprede budskabet, kan du kontakte os på [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -116,15 +116,15 @@ Specialtjenester er ikke tjenester som ville kunne leveres over internettet. Det
 
 [Forordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) indeholder fem regler som skal begrænse brugen af specialtjenester:
 
-1.        Specialtjenester må ikke bruges til at omgå bestemmelserne om trafikstyringsforanstaltninger. Internetudbydere må ikke favorisere specialtjenester i forhold til sammenligneligt indhold eller sammenlignelige applikationer eller tjenester der er tilgængelige via internetadgangstjenesterne.
+1. Specialtjenester må ikke bruges til at omgå bestemmelserne om trafikstyringsforanstaltninger. Internetudbydere må ikke favorisere specialtjenester i forhold til sammenligneligt indhold eller sammenlignelige applikationer eller tjenester der er tilgængelige via internetadgangstjenesterne.
 
-2.        Specialtjenester må kun optimeres i det omfang det er nødvendigt for at sikre et eller flere bestemte og centrale elementer i det pågældende indhold, den pågældende applikation eller den pågældende tjeneste.
+2. Specialtjenester må kun optimeres i det omfang det er nødvendigt for at sikre et eller flere bestemte og centrale elementer i det pågældende indhold, den pågældende applikation eller den pågældende tjeneste.
 
-3.        Specialtjenester må ikke tilbydes eller kunne anvendes som erstatning for internetadgangstjenester.
+3. Specialtjenester må ikke tilbydes eller kunne anvendes som erstatning for internetadgangstjenester.
 
-4.        Der må kun tilbydes specialtjenester hvis der er tilstrækkelig netværkskapacitet til at levere dem i tillæg til de leverede internetadgangstjenester.
+4. Der må kun tilbydes specialtjenester hvis der er tilstrækkelig netværkskapacitet til at levere dem i tillæg til de leverede internetadgangstjenester.
 
-5.        Leveringen af specialtjenester må ikke gå ud over tilgængeligheden og den generelle kvalitet af internetadgangstjenesterne.
+5. Leveringen af specialtjenester må ikke gå ud over tilgængeligheden og den generelle kvalitet af internetadgangstjenesterne.
 
 ## Hvad skal der til for at skærpe reglerne for specialtjenester, og hvorfor er det vigtigt? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -155,11 +155,11 @@ Alternativet er at internetudbyderne klassificerer datapakker ud fra kriterier s
 
 Vi kan derfor konkludere at klassebaserede trafikstyringsforanstaltninger er:
 
--        mindre gennemsigtige end applikationsuafhængige foranstaltninger, fordi slutbrugeren ikke kan vide hvordan netop hans indhold og de tjenester han bruger, vil blive klassificeret;
+- mindre gennemsigtige end applikationsuafhængige foranstaltninger, fordi slutbrugeren ikke kan vide hvordan netop hans indhold og de tjenester han bruger, vil blive klassificeret;
 
--        mere diskriminerende end applikationsuafhængige foranstaltninger, fordi de risikerer at fejlklassificere applikationer, diskriminere krypteret trafik og muliggøre konkurrenceforvridende adfærd;
+- mere diskriminerende end applikationsuafhængige foranstaltninger, fordi de risikerer at fejlklassificere applikationer, diskriminere krypteret trafik og muliggøre konkurrenceforvridende adfærd;
 
--        mindre forholdsmæssige end applikationsuafhængige foranstaltninger, fordi sidstnævnte altid er et mindre indgreb og bedre for brugernes valgfrihed.
+- mindre forholdsmæssige end applikationsuafhængige foranstaltninger, fordi sidstnævnte altid er et mindre indgreb og bedre for brugernes valgfrihed.
 
 ## Hvad er målet for SaveTheInternet.eu med hensyn til trafikstyring? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -169,7 +169,7 @@ Trafikstyring er nødvendigt for at afhjælpe overbelastning og opretholde integ
 
 ## Hvornår må en udbyder gribe styrende ind i trafikken på sit netværk? {#when-can-a-provider-start-managing-its-network}
 
-Ifølge [forordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  kan internetudbydere gribe til trafikstyring dels i en faktisk overbelastningssituation, dels for at afbøde virkningerne i en situation hvor overbelastning er ved at blive en realitet. Denne anden mulighed bør klargøres af tilsynsmyndighederne, så vi undgår at havne på en glidebane hvor netværkstrafikken "styres" hele tiden, selv når der ikke er noget reelt behov for det.
+Ifølge [forordningen](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) kan internetudbydere gribe til trafikstyring dels i en faktisk overbelastningssituation, dels for at afbøde virkningerne i en situation hvor overbelastning er ved at blive en realitet. Denne anden mulighed bør klargøres af tilsynsmyndighederne, så vi undgår at havne på en glidebane hvor netværkstrafikken "styres" hele tiden, selv når der ikke er noget reelt behov for det.
 
 Vi mener at denne anden mulighed kun bør være tilladt når der også er andre indikatorer ud over mængden af trafik som passerer gennem en eller anden bestemt netværkshub (fx antallet af abonnenter der er forbundet til én og samme netværkscelle). Der skal altid være et konkret og reelt behov for trafikstyring.
 
@@ -184,7 +184,7 @@ Nultaksering (zero rating) er en handelspraksis hvor data som downloades fra bes
 
 Med denne forretningsmodel har din internetudbyder kontrol over hvilke tjenester du bruger eller kommer til at bruge. Enhver konkurrent til en nultakseret applikation eller tjeneste (primært nystartede samt små og mellemstore virksomheder) er i en meget ufordelagtig situation fordi du skal betale ekstra for frit at kunne bruge deres applikation eller tjeneste.
 
-Nultaksering er en af de væsentlige årsager til lave datalofter (et dataloft er en grænse for hvor mange data du kan uploade eller downloade). Internetudbyderne vil gerne have dig til at bruge deres egne eller deres partneres onlinetjenester. Hvis udbyderne får lov til at undtage disse udvalgte tjenester fra dit dataforbrug, har de et incitament til at fastholde dataloftet og holde det relativt lavt for at bevare deres store konkurrencefordel. Hvis nultaksering ikke var en mulighed, kunne disse teleselskaber tilbyde dig et større dataforbrug, og du kunne frit bestemme hvad du ville bruge det til.  Der er veldokumenterede eksempler [i Nederlandene](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) og i [Slovenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) på mobilselskaber som har fordoblet deres brugeres datalofter takket være strenge love om netneutralitet som forbyder nultaksering.
+Nultaksering er en af de væsentlige årsager til lave datalofter (et dataloft er en grænse for hvor mange data du kan uploade eller downloade). Internetudbyderne vil gerne have dig til at bruge deres egne eller deres partneres onlinetjenester. Hvis udbyderne får lov til at undtage disse udvalgte tjenester fra dit dataforbrug, har de et incitament til at fastholde dataloftet og holde det relativt lavt for at bevare deres store konkurrencefordel. Hvis nultaksering ikke var en mulighed, kunne disse teleselskaber tilbyde dig et større dataforbrug, og du kunne frit bestemme hvad du ville bruge det til. Der er veldokumenterede eksempler [i Nederlandene](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) og i [Slovenien](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) på mobilselskaber som har fordoblet deres brugeres datalofter takket være strenge love om netneutralitet som forbyder nultaksering.
 
 ## Får jeg virkelig noget gratis når jeg vælger en nultakseringsløsning? {#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
@@ -225,21 +225,21 @@ Der er strenge regler for netneutralitet i fx USA, Canada og Chile. Det seneste 
 Der er også "SaveTheInternet"-kampagner i andre lande.
 Her er nogle eksempler:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [Indien](http://www.savetheinternet.in/)
+- [Indien](http://www.savetheinternet.in/)
 
 ## Hvordan kan jeg hjælpe jer? {#how-can-i-help-you}
 
 Du kan hjælpe SaveTheInternet.eu på mange måder:
 
-<i class="fa fa-long-arrow-right"></i>        Spred budskabet! Fortæl dine venner om denne kampagne, om netneutralitet og om hvorfor det er vigtigt at gøre noget nu. Kun hvis mange enkeltpersoner siger deres mening, vil det lykkes os at sikre vores rettigheder og frie brug af internettet.
+- Spred budskabet! Fortæl dine venner om denne kampagne, om netneutralitet og om hvorfor det er vigtigt at gøre noget nu. Kun hvis mange enkeltpersoner siger deres mening, vil det lykkes os at sikre vores rettigheder og frie brug af internettet.
 
-<i class="fa fa-long-arrow-right"></i>        Oversæt vores website til dit eget sprog! Det kan du gøre via [Save The Internet på Github](https://github.com/netzfreiheit/STI-UI).
+- Oversæt vores website til dit eget sprog! Det kan du gøre via [Save The Internet på Github](https://github.com/netzfreiheit/STI-UI).
 
-<i class="fa fa-long-arrow-right"></i>        Vær med! Hvis du tilhører en organisation som gerne vil være med i SaveTheInternet.eu, kan du kontakte os på [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+- Vær med! Hvis du tilhører en organisation som gerne vil være med i SaveTheInternet.eu, kan du kontakte os på [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Indberet krænkelser af netneutraliteten på [Respect My Net](https://respectmynet.eu/).
+- Indberet krænkelser af netneutraliteten på [Respect My Net](https://respectmynet.eu/).
 
 Har du andre geniale og kreative ideer? Kontakt os på [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

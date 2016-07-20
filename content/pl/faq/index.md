@@ -58,19 +58,19 @@ Neutralność sieci gwarantuje ci swobodny dostęp i możliwość rozpowszechnia
 
 Bez neutralności sieci...
 
-1.        Będziesz płacić więcej za mniej Internetu, a jego dostawca stanie się strażnikiem stojącym między tobą a twoimi ulubionymi usługami i aplikacjami internetowymi.
+1. Będziesz płacić więcej za mniej Internetu, a jego dostawca stanie się strażnikiem stojącym między tobą a twoimi ulubionymi usługami i aplikacjami internetowymi.
 
-2.        Nowe, ciekawe strony internetowe i inwencje nie działałyby tak szybko i nie byłyby tak łatwo dostępne jak wielkie, obecne od dawna na rynku strony amerykańskie. Być może nie przetrwają nawet wystarczająco długo, aby stały się popularne.
+2. Nowe, ciekawe strony internetowe i inwencje nie działałyby tak szybko i nie byłyby tak łatwo dostępne jak wielkie, obecne od dawna na rynku strony amerykańskie. Być może nie przetrwają nawet wystarczająco długo, aby stały się popularne.
 
-3.        Cierpiałaby gospodarka i nowe przedsiębiorstwa. Dzięki neutralności sieci, każdy może wprowadzić nową usługę bez pytania o zgodę i od samego początku czerpać korzyści z globalnej i neutralnej infrastruktury. Bez tej wolności, tracimy jednocześnie dużą część z ogromnego sukcesu gospodarki cyfrowej, jak również naszą wolność wyboru jako konsumenci, a także możliwość komunikacji jako obywatele.
+3. Cierpiałaby gospodarka i nowe przedsiębiorstwa. Dzięki neutralności sieci, każdy może wprowadzić nową usługę bez pytania o zgodę i od samego początku czerpać korzyści z globalnej i neutralnej infrastruktury. Bez tej wolności, tracimy jednocześnie dużą część z ogromnego sukcesu gospodarki cyfrowej, jak również naszą wolność wyboru jako konsumenci, a także możliwość komunikacji jako obywatele.
 
-4.        Internet będzie wolniejszy. Z badań wynika, że gdyby zezwolić dostawcom usług internetowych na sprzedaż przewagi konkurencyjnej paru stronom internetowym, mieliby motywację do spowolnienia reszty Internetu wszystkim innym. Nawet, jeśli wygląda na to, że dostajesz coś taniej, w rzeczywistości masz ograniczone opcje i mniejszy limitu pobierania danych na prawdziwy Internet.
+4. Internet będzie wolniejszy. Z badań wynika, że gdyby zezwolić dostawcom usług internetowych na sprzedaż przewagi konkurencyjnej paru stronom internetowym, mieliby motywację do spowolnienia reszty Internetu wszystkim innym. Nawet, jeśli wygląda na to, że dostajesz coś taniej, w rzeczywistości masz ograniczone opcje i mniejszy limitu pobierania danych na prawdziwy Internet.
 
 [Jak limity pobieranych danych szkodzą konsumentom i innowacji](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[Jak zero-rating, czyli wyłączenie z limitu danych, zaszkodził holenderskim konsumentom](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Jak zero-rating, czyli wyłączenie z limitu danych, zaszkodził holenderskim konsumentom](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf)
 
-[Zero-rating na Słowenii](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+[Zero-rating na Słowenii](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html)
 
 ## Jak do tego doszło? Co się stało w UE? {#how-did-we-end-up-here-what-happened-in-the-eu}
 
@@ -84,7 +84,7 @@ Na szczęście Parlament Europejski ciężko pracował nad zamknięciem tych luk
 
 Po tym zwycięstwie, państwa członkowskie Unii Europejskiej zebrały się w Radzie i sprawy postępowały powoli, aby wreszcie po roku przedstawione zostało wspólne stanowisko. Uzgodnili nowy tekst, który ponownie wprowadzał luki i otwierał nowe. Gdyby został przyjęty, tekst Rady pozwoliłby na tworzenie płatnych „szybkich pasów”; zezwoliłby na dyskryminację cenową w UE i dopuszczał nielegalne oraz arbitralne blokowanie legalnych treści.
 
-W celu uzyskania postępów w rozmowach i podkopania pozycji Parlamentu, trzy instytucje zaczęły „nieformalne” negocjacje w ramach tzw.  [”procesu rozmów trójstronnych”](https://edri.org/files/NN_process_infographics.pdf). Podczas nocnej sesji, około 2 nad ranem, te trzy instytucje osiągnęły polityczne porozumienie. Tekst ten zawiera silne podstawy dla zapewnienia neutralności sieci w Europie. Jednak niektóre przepisy w Rozporządzeniu nie są jasne i mogą podlegać nadużyciom (są lepsze od pierwotnej propozycji Komisji, ale gorsze niż początkowe stanowisko Parlamentu). Mogą w ten sposób pojawić się luki, które umożliwiłyby dyskryminację w Internecie. Zmiany wprowadzone w drugim głosowaniu w Parlamencie Europejskim miały na celu wprowadzić przejrzyste zasady. Jednak Rozporządzenie dotyczy również zniesienia opłat roamingowych, co w połączeniu z faktem, że wprowadzenie zmian wymaga absolutnej większości wszystkich Parlamentarzystów,, zapobiegło wprowadzeniu jakichkolwiek poprawek. Innymi słowy, Parlament Europejski uznał, że to organy regulacyjne powinny rozstrzygać w przypadkach niepewności w tekście.
+W celu uzyskania postępów w rozmowach i podkopania pozycji Parlamentu, trzy instytucje zaczęły „nieformalne” negocjacje w ramach tzw. [”procesu rozmów trójstronnych”](https://edri.org/files/NN_process_infographics.pdf). Podczas nocnej sesji, około 2 nad ranem, te trzy instytucje osiągnęły polityczne porozumienie. Tekst ten zawiera silne podstawy dla zapewnienia neutralności sieci w Europie. Jednak niektóre przepisy w Rozporządzeniu nie są jasne i mogą podlegać nadużyciom (są lepsze od pierwotnej propozycji Komisji, ale gorsze niż początkowe stanowisko Parlamentu). Mogą w ten sposób pojawić się luki, które umożliwiłyby dyskryminację w Internecie. Zmiany wprowadzone w drugim głosowaniu w Parlamencie Europejskim miały na celu wprowadzić przejrzyste zasady. Jednak Rozporządzenie dotyczy również zniesienia opłat roamingowych, co w połączeniu z faktem, że wprowadzenie zmian wymaga absolutnej większości wszystkich Parlamentarzystów,, zapobiegło wprowadzeniu jakichkolwiek poprawek. Innymi słowy, Parlament Europejski uznał, że to organy regulacyjne powinny rozstrzygać w przypadkach niepewności w tekście.
 
 ## Kto uczestniczy w debacie w Europie? {#who-is-involved-in-the-debate-in-europe}
 
@@ -96,7 +96,7 @@ Jednak decydującym czynnikiem w większości debat na temat neutralności sieci
 
 ## Kto stoi za SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet to wspólna kampania prowadzona przez 12 europejskich organizacji pozarządowych, których celem jest ochrona swobód obywatelskich w Internecie. Kampania została stworzona z myślą o połączeniu ludzi z decydentami podczas przygotowań do wprowadzenia unijnego rozporządzenia w sprawie neutralności sieci. Kampania wystartowała na konferencji 30c3, która odbyła się w grudniu 2012 roku i jest od tego czasu aktualizowana tak, by śledziła proces legislacyjny i regulacyjny.
+SaveTheInternet to wspólna kampania prowadzona przez 23 europejskich organizacji pozarządowych, których celem jest ochrona swobód obywatelskich w Internecie. Kampania została stworzona z myślą o połączeniu ludzi z decydentami podczas przygotowań do wprowadzenia unijnego rozporządzenia w sprawie neutralności sieci. Kampania wystartowała na konferencji 30c3, która odbyła się w grudniu 2012 roku i jest od tego czasu aktualizowana tak, by śledziła proces legislacyjny i regulacyjny.
 
 Jeśli należysz organizacji i chcesz nas wspierać lub pomóc w rozpowszechnianiu informacji, prosimy o kontakt pod adresem[info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -117,15 +117,15 @@ Wyspecjalizowane usługi nie mogą być świadczone przez Internet. Problemem, k
 
 [Rozporządzenie](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ustanawia pięć zabezpieczeń w zakresie świadczenia wyspecjalizowanych usług:
 
-1.        Wyspecjalizowane usługi nie mogą być wykorzystywane do obchodzenia zapisów dotyczących środków zarządzania ruchem. Dostawcom Internetu nie zezwala się na nadawanie priorytetu specjalistycznym usługom względem porównywalnych treści, aplikacji lub usług dostępnych za pośrednictwem zwykłego dostępu do Internetu;
+1. Wyspecjalizowane usługi nie mogą być wykorzystywane do obchodzenia zapisów dotyczących środków zarządzania ruchem. Dostawcom Internetu nie zezwala się na nadawanie priorytetu specjalistycznym usługom względem porównywalnych treści, aplikacji lub usług dostępnych za pośrednictwem zwykłego dostępu do Internetu;
 
-2.        Wyspecjalizowane usługi muszą być zoptymalizowane tak, aby spełnić sprecyzowane wymagania jakościowe dla treści, aplikacji lub usług niezbędne dla realizacji kluczowych funkcji tych treści, aplikacji lub usług;
+2. Wyspecjalizowane usługi muszą być zoptymalizowane tak, aby spełnić sprecyzowane wymagania jakościowe dla treści, aplikacji lub usług niezbędne dla realizacji kluczowych funkcji tych treści, aplikacji lub usług;
 
-3.        Wyspecjalizowane usługi nie mogą być użyteczne lub oferowane jako zamiennik dla usług dostępu do Internetu;
+3. Wyspecjalizowane usługi nie mogą być użyteczne lub oferowane jako zamiennik dla usług dostępu do Internetu;
 
-4.        Wyspecjalizowane usługi mogą być oferowane jedynie w przypadku dostępności wystarczającej przepustowości sieci, pozwalającej na ich zaoferowanie dodatkowo względem zapewnianych usług dostępu do Internetu;
+4. Wyspecjalizowane usługi mogą być oferowane jedynie w przypadku dostępności wystarczającej przepustowości sieci, pozwalającej na ich zaoferowanie dodatkowo względem zapewnianych usług dostępu do Internetu;
 
-5.        Wyspecjalizowane usługi nie mogą być świadczone ze szkodą dla dostępności lub ogólnej jakości usług dostępu do Internetu.
+5. Wyspecjalizowane usługi nie mogą być świadczone ze szkodą dla dostępności lub ogólnej jakości usług dostępu do Internetu.
 
 ## Co jest potrzebne, aby wzmocnić zabezpieczenia w zakresie wyspecjalizowanych usług i dlaczego jest to ważne? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -156,11 +156,11 @@ Oczywiście, dostawcy usług internetowych powinni mieć możliwość zarządzan
 
 Powyższe pozwala stwierdzić, że środki zarządzania ruchem oparte na klasie danych są:
 
--        Mniej przejrzyste niż środki niezależne od aplikacji, ponieważ użytkownik końcowy nie wie, jak jego treści i usługi zostaną sklasyfikowane;
+- Mniej przejrzyste niż środki niezależne od aplikacji, ponieważ użytkownik końcowy nie wie, jak jego treści i usługi zostaną sklasyfikowane;
 
--        Bardziej dyskryminujące niż środki niezależne od aplikacji, ponieważ istnieje ryzyko niewłaściwej klasyfikacji aplikacji, dyskryminacji szyfrowanego ruchu i zezwolenia na anty-konkurencyjne zachowania;
+- Bardziej dyskryminujące niż środki niezależne od aplikacji, ponieważ istnieje ryzyko niewłaściwej klasyfikacji aplikacji, dyskryminacji szyfrowanego ruchu i zezwolenia na anty-konkurencyjne zachowania;
 
--        Mniej proporcjonalne niż środki niezależne od aplikacji, ponieważ są mniej inwazyjne i lepsze z punktu widzenia możliwości wyboru użytkownika;
+- Mniej proporcjonalne niż środki niezależne od aplikacji, ponieważ są mniej inwazyjne i lepsze z punktu widzenia możliwości wyboru użytkownika;
 
 ## Jaki jest cel SaveTheInternet.eu w zakresie zarządzania ruchem? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -170,7 +170,7 @@ Zarządzanie ruchem jest konieczne przy rozwiązywaniu zatorów i zapewnianiu sp
 
 ## Kiedy dostawca może rozpocząć zarządzanie swoją siecią? {#when-can-a-provider-start-managing-its-network}
 
-Według [Rozporządzenia](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120)  dostawcy Internetu mogą albo zacząć zarządzać swoją siecią w konkretnym przypadku jej przeciążenia lub w przypadkach, gdy dążą do ograniczenia przeciążeń sieci, których pojawienie przewiduje się wkrótce. Druga opcja powinna zostać uszczegółowiona przez organy regulacyjne, aby uniknąć sytuacji równi pochyłej, w której sieć jest „zarządzana” cały czas, nawet gdy nie ma rzeczywistej potrzeby.
+Według [Rozporządzenia](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) dostawcy Internetu mogą albo zacząć zarządzać swoją siecią w konkretnym przypadku jej przeciążenia lub w przypadkach, gdy dążą do ograniczenia przeciążeń sieci, których pojawienie przewiduje się wkrótce. Druga opcja powinna zostać uszczegółowiona przez organy regulacyjne, aby uniknąć sytuacji równi pochyłej, w której sieć jest „zarządzana” cały czas, nawet gdy nie ma rzeczywistej potrzeby.
 
 Uważamy, że ta druga opcja powinna być dopuszczalna tylko w przypadkach, gdy istnieją inne przesłanki oprócz ruchu przepływającego przez dany koncentrator sieciowy (np. ilość abonentów podłączonych do jednej komórki sieci). Zawsze musi występować konkretna i rzeczywista potrzeba zarządzania ruchem.
 
@@ -185,7 +185,7 @@ Zero rating to nazwa praktyki, w której dane pobierane za pośrednictwem niekt�
 
 Praktyka ta pozwala twojemu dostawcy Internetu sprawować kontrolę nad usługami, z których korzystasz lub będziesz korzystać. Każdy konkurent dla aplikacji lub usługi o ruchu niewliczanym do limitu (głównie firm rozpoczynających działalność oraz MŚP) znajduje się w bardzo niekorzystnej sytuacji, ponieważ musisz dodatkowo zapłacić za bezproblemowe wykorzystanie aplikacji lub usługi.
 
-Zero rating jest jednym z głównych powodów dla niskich limitów danych (na dane wysyłane i pobierane). Dostawcy Internetu chcą, by użytkownicy korzystali z ich własnych usług lub usług partnerów. Jeśli operatorzy mogą wyłączyć te wybrane usługi z limitu danych, mają powód dla utrzymania limitu na niezmienionym poziomie, stosunkowo niskim, aby utrzymać znaczną przewagę konkurencyjną. Bez wyłączenia z limitu, firmy te mogłyby oferować większą ilość danych do wykorzystania w dowolny sposób.  Są dobrze udokumentowane przypadki [w Holandii](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) i [Słowenii](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) , gdzie dzięki silnym prawom ustanawiającym neutralność sieci, zakazującym wyłączenia z limitu przesyłu danych, operatorzy telefonii komórkowej podwoili limity danych dla swoich użytkowników.
+Zero rating jest jednym z głównych powodów dla niskich limitów danych (na dane wysyłane i pobierane). Dostawcy Internetu chcą, by użytkownicy korzystali z ich własnych usług lub usług partnerów. Jeśli operatorzy mogą wyłączyć te wybrane usługi z limitu danych, mają powód dla utrzymania limitu na niezmienionym poziomie, stosunkowo niskim, aby utrzymać znaczną przewagę konkurencyjną. Bez wyłączenia z limitu, firmy te mogłyby oferować większą ilość danych do wykorzystania w dowolny sposób. Są dobrze udokumentowane przypadki [w Holandii](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) i [Słowenii](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) , gdzie dzięki silnym prawom ustanawiającym neutralność sieci, zakazującym wyłączenia z limitu przesyłu danych, operatorzy telefonii komórkowej podwoili limity danych dla swoich użytkowników.
 
 ## Czy naprawdę dostaję coś za darmo, gdy korzystam z programu wyłączenia z limitu danych?{#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme}
 
@@ -227,22 +227,22 @@ W USA, Kanadzie i Chile wdrożone są silne zasady neutralności sieci. Najnowsz
 Inne kraje prowadzą kampanię SaveTheInternet.
 Oto kilka przykładów:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [Indie](http://www.savetheinternet.in/)
+- [Indie](http://www.savetheinternet.in/)
 
 
 ## Jak mogę pomóc? {#how-can-i-help-you}
 
 Możesz pomóc SaveTheInternet.eu na wiele sposobów:
 
-<i class="fa fa-long-arrow-right"></i>        Powiedz innym! Poinformuj znajomych o tej kampanii, o neutralności sieci i dlaczego ważne jest, aby działać już teraz. Tylko wtedy, gdy wiele osób wyrazi swój głos, będziemy w stanie chronić nasze prawa i wolność w Internecie.
+- Powiedz innym! Poinformuj znajomych o tej kampanii, o neutralności sieci i dlaczego ważne jest, aby działać już teraz. Tylko wtedy, gdy wiele osób wyrazi swój głos, będziemy w stanie chronić nasze prawa i wolność w Internecie.
 
-<i class="fa fa-long-arrow-right"></i>        Przetłumacz stronę na swój język! Możesz to zrobić przez [Save The Internet na Github](https://github.com/netzfreiheit/STI-UI)
+- Przetłumacz stronę na swój język! Możesz to zrobić przez [Save The Internet na Github](https://github.com/netzfreiheit/STI-UI)
 
-<i class="fa fa-long-arrow-right"></i>        Dołącz do nas! Jeśli jesteś częścią organizacji i chcesz dołączyć do SaveTheInternet.eu, prosimy o kontakt pod adresem [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+- Dołącz do nas! Jeśli jesteś częścią organizacji i chcesz dołączyć do SaveTheInternet.eu, prosimy o kontakt pod adresem [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Zgłoś naruszenia neutralności sieci przez [Respect My Net](https://respectmynet.eu/)
+- Zgłoś naruszenia neutralności sieci przez [Respect My Net](https://respectmynet.eu/)
 
 Czy masz jakieś inne fajne i twórcze pomysły? Prosimy, skontaktuj się z nami [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 

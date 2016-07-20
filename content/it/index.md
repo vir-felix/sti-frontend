@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -14,7 +26,7 @@ I regolatori europei stanno per decidere se dare alle grosse imprese di telecomu
 
 | X | PERSONE HANNO <br> INVIATO MESSAGGI |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) and [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 
@@ -111,7 +123,7 @@ Una cosa di cui abbiamo sempre bisogno è di traduzioni, quindi se parli una lin
 
 Raccogliamo i tuoi commenti per la consultazione di BEREC all'interno di una cartella di posta in arrivo di un indirizzo email situato in Austria. Rimarranno lì finché tali mail non verranno inoltrate, assieme ai tuoi commenti, alla consultazione ufficiale di BEREC. Puoi trovare la Privacy Policy relativa alle consultazioni di BEREC [qui](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich e Bits of Freedom possono avere accesso, trattare e conservare i commenti e gli indirizzi e-mail inviati a BEREC attraverso il presente sito per finalità tecniche. BEREC pubblicherà ogni risposta che non sia contrassegnata come confidenziale. Gli enti e le organizzazioni che si occupano di questa campagna sono elencati in fondo alla pagina web. Dopo un mese a partire dal termine della consultazione ufficiale procederemo a cancellare ogni commento ed ogni indirizzo email associato ad esso.
 
-In questo sito le informazioni non-personali sono trattate  con [Piwik](https://piwik.org/), un software di analisi 'privacy-friendly'.
+In questo sito le informazioni non-personali sono trattate con [Piwik](https://piwik.org/), un software di analisi 'privacy-friendly'.
 
 Se decidi di [iscriverti alla newsletter](#subscribe-to-newsletter){: data-scroll="true"} il tuo indirizzo email sarà conservato all'interno di una mailing list e di un database amministrati ed ospitati da European Digital Rights (EDRi). Se ti iscrivi alla newsletter, EDRi è l'unica organizzazione che potrà inviarti messaggi. Se desideri non ricevere più messaggi, potrai in ogni momento disiscriverti dalla newsletter.
 {{ END HOME CONTACT-US }}

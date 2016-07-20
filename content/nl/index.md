@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -14,7 +26,7 @@ Europese regelgevende instanties staan op het punt om te beslissen of ze grote t
 
 | X | MENSEN HEBBEN <br> BERICHTEN VERZONDEN |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) and [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 
@@ -110,7 +122,7 @@ Wat we altijd nodig hebben, is hulp met vertalen. Dus als u een taal spreekt die
 ### Privacybeleid
 
 Wij bewaren uw commentaar voor de BEREC-consultatie in de inbox van een in Oostenrijk gehost emailadres totdat wij de emails met uw commentaar naar de officiële BEREC-consultatie sturen.
-[Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) vindt u het privacybeleid van BEREC voor consultaties. Voor technische redenen hebben Arbeitskreis Vorratsdaten Östterreich en Bits of Freedom toegang tot het naar BEREC verstuurde commentaar en de emailadressen via deze website, en zullen zij deze gegevens verwerken en opslaan.  BEREC zal alle commentaren publiceren die niet als vertrouwelijk zijn aangegeven. De organisaties achter deze campagne worden onderaan deze website opgesomd. Eén maand na het einde van de officiële consultatieperiode zullen wij alle commentaren en daaraan verwante emailadressen verwijderen.
+[Hier](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf) vindt u het privacybeleid van BEREC voor consultaties. Voor technische redenen hebben Arbeitskreis Vorratsdaten Östterreich en Bits of Freedom toegang tot het naar BEREC verstuurde commentaar en de emailadressen via deze website, en zullen zij deze gegevens verwerken en opslaan. BEREC zal alle commentaren publiceren die niet als vertrouwelijk zijn aangegeven. De organisaties achter deze campagne worden onderaan deze website opgesomd. Eén maand na het einde van de officiële consultatieperiode zullen wij alle commentaren en daaraan verwante emailadressen verwijderen.
 
 Op deze website verzamelen wij gegevens niet zijnde persoonsgegevens met [Piwik](https://piwik.org/), een privacyvriendelijk web analytics programma.
 

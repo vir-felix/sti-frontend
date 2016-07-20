@@ -58,13 +58,13 @@ Tīkla neitralitāte garantē lietotājam brīvību piekļūt informācijai tīk
 
 Kāds būtu internets bez tīkla neitralitātes …
 
-1.        Tu maksātu vairāk par lēnāku internetu, un tavs operators kļūtu par pieskatītāju, kurš atrodas starp tevi un taviem vēlamajiem tiešsaistes pakalpojumiem un lietotnēm.
+1. Tu maksātu vairāk par lēnāku internetu, un tavs operators kļūtu par pieskatītāju, kurš atrodas starp tevi un taviem vēlamajiem tiešsaistes pakalpojumiem un lietotnēm.
 
-2.        Jaunas un foršas tīmekļa lapas un izgudrojumi nebūtu tik ātri un viegli sasniedzami kā lielās, nostabilizējušās tīmekļa lapas ASV, iespējams tās pat nepastāvētu tik ilgi, lai pašas kļūtu populāras.
+2. Jaunas un foršas tīmekļa lapas un izgudrojumi nebūtu tik ātri un viegli sasniedzami kā lielās, nostabilizējušās tīmekļa lapas ASV, iespējams tās pat nepastāvētu tik ilgi, lai pašas kļūtu populāras.
 
-3.        Tādējādi ciestu ekonomika un, it īpaši, jaunuzņēmumi. Pateicoties tīkla neitralitātei visi cilvēki var piedāvāt jaunus pakalpojumus, neprasot atļauju, un jau no paša sākuma lietot globālu un godīgu infrastruktūru un tādējādi gūt labumu. Zaudējot šo brīvību, mēs zaudējam arī ievērojamu daļu digitālās ekonomikas milzīgo panākumu, mūsu kā patērētāju izvēles brīvību un mūsu kā pilsoņu saziņas brīvību.
+3. Tādējādi ciestu ekonomika un, it īpaši, jaunuzņēmumi. Pateicoties tīkla neitralitātei visi cilvēki var piedāvāt jaunus pakalpojumus, neprasot atļauju, un jau no paša sākuma lietot globālu un godīgu infrastruktūru un tādējādi gūt labumu. Zaudējot šo brīvību, mēs zaudējam arī ievērojamu daļu digitālās ekonomikas milzīgo panākumu, mūsu kā patērētāju izvēles brīvību un mūsu kā pilsoņu saziņas brīvību.
 
-4.        Internets kļūtu lēnāks. Pētījumi rāda, ka, ja interneta operatoriem tiek ļauts pārdot konkurences priekšrocības dažām, nedaudzām tīmekļa lapām, tad tie tiek rosināti atlikušo internetu visiem pārējiem padarīt lēnāku. Pat, ja tādējādi rastos šķietami lētāki tarifi, tas faktiski radītu reducētu izvēli un lēnākus lejupielādes limitus „īstajam“ internetam.
+4. Internets kļūtu lēnāks. Pētījumi rāda, ka, ja interneta operatoriem tiek ļauts pārdot konkurences priekšrocības dažām, nedaudzām tīmekļa lapām, tad tie tiek rosināti atlikušo internetu visiem pārējiem padarīt lēnāku. Pat, ja tādējādi rastos šķietami lētāki tarifi, tas faktiski radītu reducētu izvēli un lēnākus lejupielādes limitus „īstajam“ internetam.
 
 [Šādi apjoma robežas kaitē patērētājam un inovācijām (angliski)](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -78,25 +78,25 @@ Daudzas nevalstiskas organizācijas šajā kampaņā jau kopš 2008. g. iestāja
 
 Eiropas Savienībā attiecīgās debates risinājušās ļoti lēni. Mums bija jāgaida līdz 2013. g. 11. septembrim, līdz bija gatavs Eiropas mēroga likuma projekts par tīkla neitralitāti. Šo projektu iesniedza Eiropas Komisija.
 
-2013\. g. iesniegtajos priekšlikumos ir vairāki bīstami robi, ko interneta operatori varētu izmantot, lai apietu tīkla neitralitātes principus. Tā  interneta operatoriem noteikums „speciālie pakalpojumi“ būtu atļauts tīklā lietotājiem piedāvāt diskriminējošas īpašas pieejas. Turklāt šāds priekšlikums diskriminējošā veidā tīklā ļautu bloķēt tīmekļa lapas, lietotnes un saturu, kas apdraudētu domas brīvību un tiesiskas valsts principu.
+2013\. g. iesniegtajos priekšlikumos ir vairāki bīstami robi, ko interneta operatori varētu izmantot, lai apietu tīkla neitralitātes principus. Tā interneta operatoriem noteikums „speciālie pakalpojumi“ būtu atļauts tīklā lietotājiem piedāvāt diskriminējošas īpašas pieejas. Turklāt šāds priekšlikums diskriminējošā veidā tīklā ļautu bloķēt tīmekļa lapas, lietotnes un saturu, kas apdraudētu domas brīvību un tiesiskas valsts principu.
 
 Par laimi Eiropas Parlamentā tika smagi strādāts, lai šīs nepilnības novērstu. 3. aprīlī Parlaments nobalsoja par tīkla neitralitātes skaidriem un saistošiem noteikumiem. Lai gan sākotnēji bija drūms skats, tomēr pateicoties jūsu un kampaņas SaveTheInternet centieniem Parlaments apstiprināja tekstu, kas satur drošas garantijas tīkla neitralitātei. Par šādu rezultātu priecājās miljoniem cilvēku visā pasaulē.
 
 Pēc uzvaras šajā etapā ES dalībvalstu valdību pārstāvji tikās Eiropas Padomē un ļoti lēni guva sekmes. Pagāja vairāk nekā vesels gads līdz viņi vienojās kopīgā pozīcijā. Viņi nonāca pie jauna teksta, kurā vairs nebija iepriekšējo robu, taču bija radušies jauni. Ja būtu pārņemts Padomes izstrādātais teksts, tas būtu radījis apmaksātas, t. s., apdzīšanas joslas, cenu diskrimināciju ES un ļāvis operatoriem tīmeklī nelegāli un patvaļīgi bloķēt legālu saturu.
 
-Lai rosinātu sarunu vešanu un lai kliedētu ES Parlamenta pozīciju, trīs institūcijas -Komisija, Padome un Parlaments sāka neformālas sarunas jeb, t. s., [„triloga“ procesu](https://edri.org/files/NN_process_infographics.pdf). Kādā nakts sēdē, ap pulksten diviem rītā minētās trīs institūcijas nonāca pie politiska kompromisa.  Tekstā ir stingri pamatnoteikumi par tīkla neitralitātes ieviešanu Eiropā. Tomēr daži noteikumi šajā pieņemtajā regulā, kas ir labāka nekā sākotnējais Komisijas priekšlikums, tomēr sliktāka nekā Parlamenta sākumā apstiprinātā pozīcijai, nav skaidri un tos varētu nelietīgi izmantot. Līdz ar to varētu rasties robi, kas rada iespēju diskriminācijai internetā. Balsojot otrajā lasījumā ES Parlamentā tika mēģināts ar grozījumu priekšlikumiem viest vairāk skaidrības. Tomēr, tā kā tajā pašā regulā ir runa arī par viesabonēšanas maksas atcelšanu mobilajiem sakariem, un apstiprinātajā tekstā varēja veikt izmaiņas vienīgi ar absolūtā vairākuma piekrišanu, neviens grozījumu priekšlikums netika pieņemts. Citiem vārdiem sakot, Eiropas Parlaments nolēma, ka valdības iestāžu uzdevums ir strādāt pie neskaidrībām likuma tekstā.
+Lai rosinātu sarunu vešanu un lai kliedētu ES Parlamenta pozīciju, trīs institūcijas -Komisija, Padome un Parlaments sāka neformālas sarunas jeb, t. s., [„triloga“ procesu](https://edri.org/files/NN_process_infographics.pdf). Kādā nakts sēdē, ap pulksten diviem rītā minētās trīs institūcijas nonāca pie politiska kompromisa. Tekstā ir stingri pamatnoteikumi par tīkla neitralitātes ieviešanu Eiropā. Tomēr daži noteikumi šajā pieņemtajā regulā, kas ir labāka nekā sākotnējais Komisijas priekšlikums, tomēr sliktāka nekā Parlamenta sākumā apstiprinātā pozīcijai, nav skaidri un tos varētu nelietīgi izmantot. Līdz ar to varētu rasties robi, kas rada iespēju diskriminācijai internetā. Balsojot otrajā lasījumā ES Parlamentā tika mēģināts ar grozījumu priekšlikumiem viest vairāk skaidrības. Tomēr, tā kā tajā pašā regulā ir runa arī par viesabonēšanas maksas atcelšanu mobilajiem sakariem, un apstiprinātajā tekstā varēja veikt izmaiņas vienīgi ar absolūtā vairākuma piekrišanu, neviens grozījumu priekšlikums netika pieņemts. Citiem vārdiem sakot, Eiropas Parlaments nolēma, ka valdības iestāžu uzdevums ir strādāt pie neskaidrībām likuma tekstā.
 
 ## Kas Eiropā piedalās šajās debatēs? {#who-is-involved-in-the-debate-in-europe}
 
 Šobrīd regulatori ir būtisks lobiju darba mērķis, respektīvi, tā ir telekomunikāciju industrija, jo šie uzņēmumi saņem savus diskriminējošos uzņēmējdarbības modeļus un vēlas to ietekmi izplatīt, un tie ir arī ierīču ražotāji, kas vēlas pārdot vēl vairāk aparatūru tīkla komponentēm, kas veic šiem uzņēmējdarbības modeļiem nepieciešamo datu apmaiņas uzraudzību.
 
-Tīmekļa lapā par tīkla neitralitāti cīnās galvenokārt organizācijas, kas iestājas par pilsoņu un patērētāju tiesību aizstāvību, kā arī  jaunuzņēmumi, sabiedriskas raidorganizācijas, bibliotēkas un universitātes.
+Tīmekļa lapā par tīkla neitralitāti cīnās galvenokārt organizācijas, kas iestājas par pilsoņu un patērētāju tiesību aizstāvību, kā arī jaunuzņēmumi, sabiedriskas raidorganizācijas, bibliotēkas un universitātes.
 
 Tomēr izšķirošais faktors lielākajā daļā debašu par tīkla neitralitāti ir atklātība – **vai, citiem vārdiem sakot, tu**. Ja gana daudz cilvēku piedalās diskusijā, tad varam sasniegt pretsvaru pret-tīkla neitralitātes-lobijam, un mēs varam panākt, ka labie argumenti sasniedz dzirdīgas ausis un tādējādi varam uzvarēt.
 
 ## Kas darbojas kampaņā SaveTheInternet ? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ir 12 Eiropas nevalstisko organizāciju kopīga kampaņa, kuras dalībnieki uzņēmušies aizstāvēt brīvību internetā. Kampaņa tika aizsākta ar mērķi ES regulas par tīkla neitralitāti sagatavošanas procesā sasaukt kopā cilvēkus un lēmumu pieņēmējus. Sabiedrība ar šo kampaņu tika iepazīstināta 30c3-Kongresā 2012. g. decembrī. Kampaņas dalībnieki pastāvīgi aktualizē informāciju, lai sekotu likumdevēja un regulatora darbiem.
+SaveTheInternet ir 23 Eiropas nevalstisko organizāciju kopīga kampaņa, kuras dalībnieki uzņēmušies aizstāvēt brīvību internetā. Kampaņa tika aizsākta ar mērķi ES regulas par tīkla neitralitāti sagatavošanas procesā sasaukt kopā cilvēkus un lēmumu pieņēmējus. Sabiedrība ar šo kampaņu tika iepazīstināta 30c3-Kongresā 2012. g. decembrī. Kampaņas dalībnieki pastāvīgi aktualizē informāciju, lai sekotu likumdevēja un regulatora darbiem.
 
 Ja tu darbojies kādā organizācijā, kas vēlētos kļūt par šās kampaņas atbalstītāju, un ja tu vēlies palīdzēt izplatīt kampaņas informāciju, tad aicinām tevi sazināties ar mums: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -117,15 +117,15 @@ Speciālie pakalpojumi nav pakalpojumi, kurus var piedāvāt internetā. Pastāv
 
 [Regulā](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) ir pieci noteikumi, kas ierobežo speciālo pakalpojumu izplatīšanu:
 
-1.        speciālos pakalpojumus nedrīkst izmantot, lai apietu komunikācijas menedžmenta noteikumus. Interneta operatori nedrīkst speciālajiem pakalpojumiem piešķirt prioritātes attiecībā pret līdzīgu saturu, lietotnēm vai pakalpojumiem, kas ir pieejami kā interneta pieejas pakalpojumi;
+1. speciālos pakalpojumus nedrīkst izmantot, lai apietu komunikācijas menedžmenta noteikumus. Interneta operatori nedrīkst speciālajiem pakalpojumiem piešķirt prioritātes attiecībā pret līdzīgu saturu, lietotnēm vai pakalpojumiem, kas ir pieejami kā interneta pieejas pakalpojumi;
 
-2.        speciālo pakalpojumu optimizācijai jābūt nepieciešamai saturu, pakalpojumu vai lietotņu prasībām;
+2. speciālo pakalpojumu optimizācijai jābūt nepieciešamai saturu, pakalpojumu vai lietotņu prasībām;
 
-3.        speciālie pakalpojumi nedrīkst būt lietojami kā interneta piekļuves pakalpojumu aizstājējs un tos kā tādus nedrīkst piedāvāt;
+3. speciālie pakalpojumi nedrīkst būt lietojami kā interneta piekļuves pakalpojumu aizstājējs un tos kā tādus nedrīkst piedāvāt;
 
-4.        speciālos pakalpojumus drīkst piedāvāt tikai tad, ja ir pietiekama tīkla kapacitāte, lai tos piedāvātu papildus esošajiem interneta piekļuves pakalpojumiem;
+4. speciālos pakalpojumus drīkst piedāvāt tikai tad, ja ir pietiekama tīkla kapacitāte, lai tos piedāvātu papildus esošajiem interneta piekļuves pakalpojumiem;
 
-5.        speciālo pakalpojumu piedāvāšana nedrīkst negatīvi ietekmēt interneta piekļuves pakalpojumu pieejamību vai vispārējo kvalitāti.
+5. speciālo pakalpojumu piedāvāšana nedrīkst negatīvi ietekmēt interneta piekļuves pakalpojumu pieejamību vai vispārējo kvalitāti.
 
 ## Kas ir nepieciešams, lai padarītu stingrākus noteikumus attiecībā uz speciālajiem pakalpojumiem, un kādēļ tas ir būtiski? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
 
@@ -138,7 +138,7 @@ Optimizēšanai ar speciālā pakalpojuma palīdzību jābūt objektīvi nepieci
 
 ## Kas ir komunikācijas menedžments? {#what-is-traffic-management}
 
-Ar komunikācijas menedžmenta palīdzību interneta operatori var regulēt datu plūsmu savos tīklos.   Tādā veidā var paātrināt vai palēnināt atsevišķas komunikāciju norises. Saskaņā ar jauno regulu šādas darbības ir pieļaujamas tad, ja tās ir  transparentas, samērīgas un nediskriminējošas. Komunikācijas menedžments drīkst būt tikai pārejoša darbība, nevis ilgstošs tīkla konfigurēšanas veids. Turklāt par vispārpieņemtu noteikumu tiek uzskatīts, ka komunikācijas menedžmentam vienlīdzīgi jāattiecas pret visām lietotnēm un ka vien ļoti ierobežotās situācijās datu plūsmu drīkst iedalīt kategorijās un pret tām attiekties atšķirīgi.
+Ar komunikācijas menedžmenta palīdzību interneta operatori var regulēt datu plūsmu savos tīklos. Tādā veidā var paātrināt vai palēnināt atsevišķas komunikāciju norises. Saskaņā ar jauno regulu šādas darbības ir pieļaujamas tad, ja tās ir transparentas, samērīgas un nediskriminējošas. Komunikācijas menedžments drīkst būt tikai pārejoša darbība, nevis ilgstošs tīkla konfigurēšanas veids. Turklāt par vispārpieņemtu noteikumu tiek uzskatīts, ka komunikācijas menedžmentam vienlīdzīgi jāattiecas pret visām lietotnēm un ka vien ļoti ierobežotās situācijās datu plūsmu drīkst iedalīt kategorijās un pret tām attiekties atšķirīgi.
 
 ## Kādēļ man būtu jāinteresējas par komunikācijas menedžmentu? {#why-should-i-care-about-traffic-management}
 
@@ -157,11 +157,11 @@ Alternatīvā variantā interneta operatori pēc pašu izstrādātiem kritēriji
 
 Līdz ar to varam secināt, ka uz klasi bāzēts komunikācijas menedžments
 
--        ir mazāk transparents nekā pasākumi, kas nav atkarīgi no izmantotās lietotnes, jo lietotāji neuzzina, ka to īpašais saturs un viņu izmantotie pakalpojumi tiek klasificēti;
+- ir mazāk transparents nekā pasākumi, kas nav atkarīgi no izmantotās lietotnes, jo lietotāji neuzzina, ka to īpašais saturs un viņu izmantotie pakalpojumi tiek klasificēti;
 
--        tiek būtiskāk diskriminēts nekā no lietojuma atkarīgi pasākumi, jo pastāv risks, ka lietotnes tiek nepareizi klasificētas, jo notiek diskriminācija pret šifrētu datu plūsmu un pastāv iespēja praktizēt negodīgu konkurenci;
+- tiek būtiskāk diskriminēts nekā no lietojuma atkarīgi pasākumi, jo pastāv risks, ka lietotnes tiek nepareizi klasificētas, jo notiek diskriminācija pret šifrētu datu plūsmu un pastāv iespēja praktizēt negodīgu konkurenci;
 
--        ir mazāk proporcionāls nekā  no lietojuma atkarīgi pasākumi, jo ar tiem parasti saistīts mazāk iejaukšanos un tiek vairāk nāk par labu lietotāju izvēles brīvībai.
+- ir mazāk proporcionāls nekā no lietojuma atkarīgi pasākumi, jo ar tiem parasti saistīts mazāk iejaukšanos un tiek vairāk nāk par labu lietotāju izvēles brīvībai.
 
 ## Kāds ir kampaņas SaveTheInternet.eu mērķis attiecībā uz komunikācijas menedžmentu? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
 
@@ -226,21 +226,21 @@ ASV, Kanādā un Čīlē ir stingri tīkla neitralitātes noteikumi. Jaunākais 
 
 Kampaņa „SaveTheInternet“ tiek rīkota arī citās zemēs. Daži piemēri:
 
--        [ASV](http://www.savetheinternet.com/sti-home)
+- [ASV](http://www.savetheinternet.com/sti-home)
 
--        [Indija](http://www.savetheinternet.in/)
+- [Indija](http://www.savetheinternet.in/)
 
 ## Kā es varu palīdzēt? {#how-can-i-help-you}
 
 Tev ir vairākas iespējas, kā palīdzēt kampaņai SaveTheInternet.eu:
 
-<i class="fa fa-long-arrow-right"></i>        Izplati ziņu! Runā ar saviem draugiem par šo kampaņu, par tīkla neitralitāti un par to, kādēļ ir būtiski šobrīd ķerties tai lietai klāt. Tikai tad, ja vairāk cilvēku izteiks savu viedokli, izdosies nosargāt tiešsaistes tiesības un brīvību.
+- Izplati ziņu! Runā ar saviem draugiem par šo kampaņu, par tīkla neitralitāti un par to, kādēļ ir būtiski šobrīd ķerties tai lietai klāt. Tikai tad, ja vairāk cilvēku izteiks savu viedokli, izdosies nosargāt tiešsaistes tiesības un brīvību.
 
-<i class="fa fa-long-arrow-right"></i>        Iztulko tīmekļa lapu savā valodā! Savu tulkojumu vari iesniegt [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI).
+- Iztulko tīmekļa lapu savā valodā! Savu tulkojumu vari iesniegt [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI).
 
-<i class="fa fa-long-arrow-right"></i>        Nāc pie mums! Ja tu darbojies kādā organizācijā un vēlies darboties SaveTheInternet.eu, aicinām tevi mums rakstīt uz  [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+- Nāc pie mums! Ja tu darbojies kādā organizācijā un vēlies darboties SaveTheInternet.eu, aicinām tevi mums rakstīt uz [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Ziņo par tīkla neitralitātes principu pārkāpumu [Respect My Net](https://respectmynet.eu/).
+- Ziņo par tīkla neitralitātes principu pārkāpumu [Respect My Net](https://respectmynet.eu/).
 
 Vai tev ir vēl kādas foršas un radošas idejas? Aicinām tevi sazināties ar mums pa [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

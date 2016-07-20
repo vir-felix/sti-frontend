@@ -57,15 +57,15 @@ Netzneutralität garantiert deine Freiheit, auf Informationen im Netz zuzugreife
 
 ## Wie beeinflusst Netzneutralität mich und mein Leben? {#how-does-net-neutrality-influence-me-and-my-life}
 
-So würde ein Internet ohne Netzneutralität aussehen …
+So würde ein Internet ohne Netzneutralität aussehen …
 
-1.        Du würdest mehr bezahlen für weniger Internet, und dein Provider würde zum Torwächter werden, der sich zwischen dich und die von dir gewünschten Online-Dienste und Anwendungen stellt.
+1. Du würdest mehr bezahlen für weniger Internet, und dein Provider würde zum Torwächter werden, der sich zwischen dich und die von dir gewünschten Online-Dienste und Anwendungen stellt.
 
-2.        Neue, coole Websites und Erfindungen würden nicht so schnell und leicht erreichbar sein wie die großen, etablierten Websites in den USA – vielleicht würden sie gar nicht lange genug überleben, um selbst populär zu werden.
+2. Neue, coole Websites und Erfindungen würden nicht so schnell und leicht erreichbar sein wie die großen, etablierten Websites in den USA – vielleicht würden sie gar nicht lange genug überleben, um selbst populär zu werden.
 
-3.        Die Wirtschaft und insbesondere Startups würden leiden. Mit Netzneutralität können alle Menschen neue Dienstleistungen erfinden, ohne um Erlaubnis zu fragen, und von Beginn an eine globale, faire Infrastruktur nutzen und so profitieren. Wenn wir diese Freiheit verlieren, verlieren wir auch wesentliche Teile des enormen Erfolgs der digitalen Wirtschaft, unsere Wahlfreiheit als Verbraucher und unsere Kommunikationsfreiheit als Bürgerinnen und Bürger.
+3. Die Wirtschaft und insbesondere Startups würden leiden. Mit Netzneutralität können alle Menschen neue Dienstleistungen erfinden, ohne um Erlaubnis zu fragen, und von Beginn an eine globale, faire Infrastruktur nutzen und so profitieren. Wenn wir diese Freiheit verlieren, verlieren wir auch wesentliche Teile des enormen Erfolgs der digitalen Wirtschaft, unsere Wahlfreiheit als Verbraucher und unsere Kommunikationsfreiheit als Bürgerinnen und Bürger.
 
-4.        Das Internet würde langsamer werden. Studien haben gezeigt: wenn Internet-Provider die Erlaubnis bekommen, Wettbewerbsvorteile an einige wenige Websites zu verkaufen, dann haben sie auch einen Anreiz, den Rest des Internets für alle anderen langsamer zu machen. Auch wenn scheinbar billigere Tarife dabei entstehen sollten, würde dies in Wirklichkeit weniger Auswahl und langsamere Download-Limits für das „echte“ Internet bedeuten.
+4. Das Internet würde langsamer werden. Studien haben gezeigt: wenn Internet-Provider die Erlaubnis bekommen, Wettbewerbsvorteile an einige wenige Websites zu verkaufen, dann haben sie auch einen Anreiz, den Rest des Internets für alle anderen langsamer zu machen. Auch wenn scheinbar billigere Tarife dabei entstehen sollten, würde dies in Wirklichkeit weniger Auswahl und langsamere Download-Limits für das „echte“ Internet bedeuten.
 
 [So schädigen Volumengrenzen Verbraucher und Innovation (englisch)](https://www.newamerica.org/oti/artificial-scarcity/)
 
@@ -100,7 +100,7 @@ Aber der entscheidende Faktor in den meisten Debatten zur Netzneutralität ist d
 
 ## Wer steht hinter SaveTheInternet.eu? {#who-is-behind-savetheinterneteu}
 
-SaveTheInternet ist die gemeinsame Kampagne von 12 europäischen NGOs, die sich den Schutz der Freiheiten im Internet zur Aufgabe gemacht haben. Die Kampagne wurde gestartet, um Menschen mit Entscheidungsträgern in der Vorbereitung der EU-Verordnung zur Netzneutralität miteinander zu verbinden. Der Öffentlichkeit wurde diese Kampagne im Dezember 2012 beim 30c3-Kongress vorgestellt. Sie wurde seitdem laufend aktualisiert, um dem Prozess der Gesetzgebung und Regulierung zu folgen.
+SaveTheInternet ist die gemeinsame Kampagne von 23 europäischen NGOs, die sich den Schutz der Freiheiten im Internet zur Aufgabe gemacht haben. Die Kampagne wurde gestartet, um Menschen mit Entscheidungsträgern in der Vorbereitung der EU-Verordnung zur Netzneutralität miteinander zu verbinden. Der Öffentlichkeit wurde diese Kampagne im Dezember 2012 beim 30c3-Kongress vorgestellt. Sie wurde seitdem laufend aktualisiert, um dem Prozess der Gesetzgebung und Regulierung zu folgen.
 
 Wenn du Teil einer Organisation bist, die Unterstützer dieser Kampagne werden möchte, und wenn du helfen möchtest, die Kampagne zu verbreiten, dann kontaktiere uns bitte: [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
@@ -124,15 +124,15 @@ Spezialdienste sind keine Dienste, die über das Internet angeboten werden könn
 
 Die [Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120) enthält fünf Regeln, um die Ausbreitung von Spezialdiensten zu begrenzen:
 
-1.        Spezialdienste dürfen nicht eingesetzt werden, um die Regeln zum Verkehrsmanagement zu umgehen. Internet-Provider dürfen nicht Spezialdiensten Priorität einräumen gegenüber vergleichbaren Inhalten, Anwendungen oder Dienstleistungen, die über Internet-Zugangsdienste erreichbar sind;
+1. Spezialdienste dürfen nicht eingesetzt werden, um die Regeln zum Verkehrsmanagement zu umgehen. Internet-Provider dürfen nicht Spezialdiensten Priorität einräumen gegenüber vergleichbaren Inhalten, Anwendungen oder Dienstleistungen, die über Internet-Zugangsdienste erreichbar sind;
 
-2.        die Optimierung von Spezialdiensten muss für die Anforderungen der Inhalte, Dienste oder Anwendungen notwendig sein;
+2. die Optimierung von Spezialdiensten muss für die Anforderungen der Inhalte, Dienste oder Anwendungen notwendig sein;
 
-3.        Spezialdienste dürfen nicht als Ersatz für Internet-Zugangsdienste nutzbar sein oder angeboten werden;
+3. Spezialdienste dürfen nicht als Ersatz für Internet-Zugangsdienste nutzbar sein oder angeboten werden;
 
-4.        Spezialdienste dürfen nur angeboten werden, wenn es ausreichend Kapazität im Netzwerk gibt, um sie zusätzlich zu dem bereitgestellten Internet-Zugangsdienst anzubieten;
+4. Spezialdienste dürfen nur angeboten werden, wenn es ausreichend Kapazität im Netzwerk gibt, um sie zusätzlich zu dem bereitgestellten Internet-Zugangsdienst anzubieten;
 
-5.        das Angebot von Spezialdiensten darf nicht zu Nachteilen bei der Verfügbarkeit oder der allgemeinen Qualität von Internet-Zugangsdiensten führen.
+5. das Angebot von Spezialdiensten darf nicht zu Nachteilen bei der Verfügbarkeit oder der allgemeinen Qualität von Internet-Zugangsdiensten führen.
 
 
 ## Was ist notwendig, um die Regeln für Spezialdienste zu verschärfen, und warum ist dies wichtig? {#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important}
@@ -167,11 +167,11 @@ Die Alternative ist, dass Internet-Provider Datenpakete nach selbst erstellten K
 
 Wir können deshalb festhalten, dass klassenbasiertes Verkehrsmanagement
 
--        weniger transparent ist als Maßnahmen, die nicht von der benutzten Anwendung abhängen, weil die Nutzer nicht erfahren, dass ihre speziellen Inhalte und die von ihnen benutzten Dienste klassifiziert werden;
+- weniger transparent ist als Maßnahmen, die nicht von der benutzten Anwendung abhängen, weil die Nutzer nicht erfahren, dass ihre speziellen Inhalte und die von ihnen benutzten Dienste klassifiziert werden;
 
--        stärker diskriminiert als anwendungsunabhängige Maßnahmen, weil das Risiko einer falschen Klassifizierung von Anwendungen besteht, weil gegen verschlüsselten Datenverkehr diskriminiert wird und weil die Möglichkeit von wettbewerbswidrigen Praktiken besteht;
+- stärker diskriminiert als anwendungsunabhängige Maßnahmen, weil das Risiko einer falschen Klassifizierung von Anwendungen besteht, weil gegen verschlüsselten Datenverkehr diskriminiert wird und weil die Möglichkeit von wettbewerbswidrigen Praktiken besteht;
 
--        weniger verhältnismäßig ist als anwendungsunabhängige Maßnahmen, weil diese stets weniger Eingriffe bedeuten und besser für die Wahlfreiheit der Benutzer sind.
+- weniger verhältnismäßig ist als anwendungsunabhängige Maßnahmen, weil diese stets weniger Eingriffe bedeuten und besser für die Wahlfreiheit der Benutzer sind.
 
 
 ## Was ist das Ziel von SaveTheInternet.eu bezüglich Verkehrsmanagement? {#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management}
@@ -245,22 +245,22 @@ Es gibt starke Regeln für Netzneutralität in den USA, Kanada und Chile. Das ak
 
 Es gibt auch „SaveTheInternet“-Kampagnen in anderen Ländern. Einige Beispiele:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+- [USA](http://www.savetheinternet.com/sti-home)
 
--        [Indien](http://www.savetheinternet.in/)
+- [Indien](http://www.savetheinternet.in/)
 
 
 ## Wie kann ich helfen? {#how-can-i-help-you}
 
 Du hast mehrere Möglichkeiten, SaveTheInternet.eu zu helfen:
 
-<i class="fa fa-long-arrow-right"></i>        Verbreite die Botschaft! Sprich mit deinen Freunden über diese Kampagne, über Netzneutralität und warum es wichtig ist, jetzt zu handeln. Nur wenn mehrere Einzelne ihre Stimme erheben, wird es gelingen, Online-Rechte und -Freiheiten zu schützen.
+- Verbreite die Botschaft! Sprich mit deinen Freunden über diese Kampagne, über Netzneutralität und warum es wichtig ist, jetzt zu handeln. Nur wenn mehrere Einzelne ihre Stimme erheben, wird es gelingen, Online-Rechte und -Freiheiten zu schützen.
 
-<i class="fa fa-long-arrow-right"></i>        Übersetze die Website in deine Sprache! Deine Bearbeitung kannst du über [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI) einreichen.
+- Übersetze die Website in deine Sprache! Deine Bearbeitung kannst du über [Save The Internet bei Github](https://github.com/netzfreiheit/STI-UI) einreichen.
 
-<i class="fa fa-long-arrow-right"></i>        Komm zu uns! Wenn du Teil einer Organisation bist und bei SaveTheInternet.eu dabei sein möchtest, schreib uns bitte an [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+- Komm zu uns! Wenn du Teil einer Organisation bist und bei SaveTheInternet.eu dabei sein möchtest, schreib uns bitte an [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
-<i class="fa fa-long-arrow-right"></i>        Melde Verletzungen der Netzneutralität bei [Respect My Net](https://respectmynet.eu/).
+- Melde Verletzungen der Netzneutralität bei [Respect My Net](https://respectmynet.eu/).
 
 Hast du noch andere coole und kreative Ideen? Sprich uns bitte an via [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 

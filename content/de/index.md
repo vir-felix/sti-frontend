@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -15,7 +27,7 @@ Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große
 
 | X | Menschen haben <br> eine Nachricht <br> gesendet |
 
-Kommentare eingereicht über savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+Kommentare eingereicht über savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) und [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 

@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -15,7 +27,7 @@ na ochranu našich online práv a slobôd.
 
 | X | ĽUDÍ <br> POSLALO SPRÁVY |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) and [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 
@@ -104,7 +116,7 @@ Regulačné orgány by sa mali vybaviť nástrojmi, ktorými dokážu presadiť 
 
 __Neváhajte nás kontaktovať na [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
-Máte nápad, ako by sme mohli zlepšiť túto webovú stránku? To je skvelé, potrebujeme Vás! Úplný zdrojový kód tejto webovej stránky je k dispozícii na  [GitHub](https://github.com/Netzfreiheit/STI-UI) a môže byť rozvetvený, zlepšený, remixovaný a vrátený späť k nám.
+Máte nápad, ako by sme mohli zlepšiť túto webovú stránku? To je skvelé, potrebujeme Vás! Úplný zdrojový kód tejto webovej stránky je k dispozícii na [GitHub](https://github.com/Netzfreiheit/STI-UI) a môže byť rozvetvený, zlepšený, remixovaný a vrátený späť k nám.
 
 Jedna vec, ktorú vždy potrebujeme je pomoc s prekladmi. Ak hovoríte niektorým jazykom, ktorý sme zatiaľ nepokryli, prosíme Vás, aby nás kontaktovali.
 
@@ -112,7 +124,7 @@ Jedna vec, ktorú vždy potrebujeme je pomoc s prekladmi. Ak hovoríte niektorý
 
 Vaše pripomienky ku konzultácii BEREC budú uložené v doručených správach e-mailovej adresy hostenej v Rakúsku, kým tieto e-maily s Vašimi pripomienkami neodošleme na oficiálnu konzultáciu BEREC. Zásady ochrany osobných údajov BEREC môžete nájsť [tu](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich a Bits of Freedom majú prístup k, spracujú a budú uchovávať pripomienky a e-mailové adresy zaslané BEREC prostredníctvom tejto webovej stránky pre technické účely. BEREC bude zverejňovať všetky odpovede, ktoré nie sú označené ako dôverné. Organizácia za touto kampaňou je uvedená v spodnej časti týchto webových stránok. Jeden mesiac po období oficiálnych konzultácií vymažeme všetky pripomienky a emailové adresy súvisiace s týmito pripomienkami.
 
-Zhromažďujeme neosobné informácie o tejto webovej stránke prostredníctvom [Piwik](https://piwik.org/),  softvéru na analýzu webových stránok zohľadňujúceho zásady ochrany osobných údajov.
+Zhromažďujeme neosobné informácie o tejto webovej stránke prostredníctvom [Piwik](https://piwik.org/), softvéru na analýzu webových stránok zohľadňujúceho zásady ochrany osobných údajov.
 
  Ak sa [prihlásite k odberu noviniek](#subscribe-to-newsletter){: data-scroll="true"} , Vaša e-mailová adresa bude uložená v zozname adresátov a databáze, ktoré spravuje a hostí European Digital Rights. Jediná táto organizácia bude mať právo posielať Vám správy, ak sa zaregistrujete na odber noviniek. Z odoberania noviniek sa môžete kedykoľvek odhlásiť a nebudete viac dostávať žiadne ďalšie správy.
  {{ END HOME CONTACT-US }}

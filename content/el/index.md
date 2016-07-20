@@ -1,3 +1,15 @@
+{{ BEGIN MODAL }}
+### Over 500,000 people sent a strong message: *We want a free and open internet!*
+{{ BEGIN MODAL-SPLIT }}
+Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+ 
+We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+ 
+The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+
+**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+{{ END MODAL }}
+
 {{ BEGIN HOME INTRO }}
 {{ BEGIN NAVIGATION }}
 {: .navigation__sections}
@@ -15,7 +27,7 @@
 
 | X | ΑΤΟΜΑ ΕΧΟΥΝ <br> ΣΤΕΙΛΕΙ ΜΗΝΥΜΑΤΑ |
 
-comments sent via savetheinternet.eu, Avaaz, savenetneutrality.eu and Access Now
+comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_the_internet_eu_loc_2016/), [savenetneutrality.eu](https://actionnetwork.org/petitions/save-eu-net-neutrality), [OpenMedia](https://act.openmedia.org/TollBooth/) and [Access Now](https://act.accessnow.org/ea-action/action?ea.client.id=1921&ea.campaign.id=51950)
 
 {{ END COUNTER }}
 
@@ -112,7 +124,7 @@ __Μη διστάσετε να επικοινωνήσετε μαζί μας στ
 
 Αποθηκεύουμε τα σχόλιά σας για τη διαβούλευση του BEREC στα Εισερχόμενα μιας διεύθυνσης ηλεκτρονικού ταχυδρομείου που φιλοξενείται στην Αυστρία, μέχρι να προωθήσουμε αυτά τα μηνύματα ηλεκτρονικού ταχυδρομείου με τα σχόλιά σας στην επίσημη διαβούλευση του BEREC. Μπορείτε να βρείτε την πολιτική προστασίας απορρήτου του BEREC για τις διαβουλεύσεις [εδώ](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Οι φορείς Arbeitskreis Vorratsdaten Österreich και Bits of Freedom έχουν πρόσβαση, επεξεργάζονται και θα διατηρήσουν τα σχόλια και τις διευθύνσεις ηλεκτρονικού ταχυδρομείου που αποστέλλονται στον BEREC μέσω αυτού του ιστοτόπου για τεχνικούς σκοπούς. Ο BEREC θα δημοσιεύσει όλες τις απαντήσεις που δεν είναι επισημασμένες ως εμπιστευτικές. Οι οργανισμοί που στηρίζουν αυτήν την εκστρατεία αναφέρονται στο κάτω μέρος της σελίδας σε αυτόν τον ιστότοπο. Έναν μήνα μετά το τέλος της επίσημης περιόδου διαβούλευσης, θα διαγράψουμε όλα τα σχόλια και τις ηλεκτρονικές διευθύνσεις που συσχετίζονται με αυτά.
 
-Σε αυτόν τον ιστότοπο  συλλέγουμε μη προσωπικά στοιχεία με το [Piwik](https://piwik.org/), ένα φιλικό προς το ιδιωτικό απόρρητο λογισμικό ανάλυσης δεδομένων Ιστού.
+Σε αυτόν τον ιστότοπο συλλέγουμε μη προσωπικά στοιχεία με το [Piwik](https://piwik.org/), ένα φιλικό προς το ιδιωτικό απόρρητο λογισμικό ανάλυσης δεδομένων Ιστού.
 
 Αν [εγγραφείτε συνδρομητές στο newsletter](#subscribe-to-newsletter){: data-scroll="true"} η διεύθυνση ηλεκτρονικού σας ταχυδρομείου θα αποθηκευτεί σε έναν κατάλογο παραληπτών και μια βάση δεδομένων, της οποίας η διαχείριση και η φιλοξενία γίνονται από τον φορέα European Digital Rights. Είναι ο μόνος οργανισμός που έχει το δικαίωμα να σας στέλνει μηνύματα αν εγγραφείτε για το newsletter. Μπορείτε να καταργήσετε τη συνδρομή σας στο newsletter οποιαδήποτε στιγμή και δεν θα λάβετε άλλα μηνύματα.
  {{ END HOME CONTACT-US }}

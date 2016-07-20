@@ -105,6 +105,21 @@ def transform(site_config, locale, html)
            'home__traffic-management',
            'home__zero-rating'
         html.sub! block_pattern, "<div class=\"#{id_part}\">"
+      when 'modal'
+        tail = "\n{::nomarkdown}\n"
+        tail << "<section class=\"modal--fade\" id=\"modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"modal-label\" aria-hidden=\"true\">"
+        tail << "<div class=\"modal-inner\">"
+        tail << "<header id=\"modal-label\">"
+        tail << "\n{:/}\n"
+
+        html.sub! block_pattern, tail
+      when 'modal-split'
+        tail = "\n{::nomarkdown}\n"
+        tail << "</header>"
+        tail << "<div class=\"modal-content\">"
+        tail << "\n{:/}\n"
+
+        html.sub! block_pattern, tail
       when 'home__video', 'home__newsletter'
         html.sub! block_pattern, "
           <div class=\"#{id_part}__outer\">
@@ -136,8 +151,21 @@ def transform(site_config, locale, html)
         html.sub! block_pattern, tail
       when 'counter'
         tail = "\n{::nomarkdown}\n<div id=\"count-tooltip\">"
-        tail << "savetheinternet.eu: <span id=\"counter-sti\"></span><br />Avaaz: <span id=\"counter-avaaz\"></span><br />savenetneutrality.eu: <span id=\"counter-snn\"></span><br />Access Now: <span id=\"counter-access\"></span><br />"
+        tail << "savetheinternet.eu: <span id=\"counter-sti\"></span><br />"
+        tail << "Avaaz: <span id=\"counter-avaaz\"></span><br />"
+        tail << "savenetneutrality.eu: <span id=\"counter-snn\"></span><br />"
+        tail << "OpenMedia: <span id=\"counter-om\"></span><br />"
+        tail << "Access Now: <span id=\"counter-access\"></span><br />"
         tail << "</div></div>\n{:/}\n"
+
+        html.sub! block_pattern, tail
+      when 'modal'
+        tail = "\n{::nomarkdown}\n"
+        tail << "</div>"
+        tail << "</div>"
+        tail << "<a href=\"javascript:closeModal()\" class=\"modal-close\" data-close=\"Close\" data-dismiss=\"modal\">?</a>"
+        tail << "</section>"
+        tail << "\n{:/}\n"
 
         html.sub! block_pattern, tail
       when 'home__specialised-services',
