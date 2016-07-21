@@ -1,13 +1,13 @@
 {{ BEGIN MODAL }}
-### Over 500,000 people sent a strong message: *We want a free and open internet!*
+### Mais de 500,000 pessoas enviaram um mensagem forte: *Queremos uma Internet livre e aberta!*
 {{ BEGIN MODAL-SPLIT }}
-Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
+Manter a Internet livre e aberta é, sem dúvida, importante: no final da consulta pública sobre as directrizes para a implementação das [regras europeias de neutralidade da rede](https://edri.org/time-to-save-the-internet/), foram enviadas mais de meio milhão de mensagens seguindo a nossa campanha!
  
-We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
+Enviamos os vossos comentários para o Organismo de Reguladores Europeus das Comunicações Electrónicas (BEREC).O BEREC vai agora [finalizar as directrizes](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) e publicará a sua versão final a 30 de Agosto de 2016.
  
-The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+O apoio à defesa de uma Internet livre e aberta é tão grande que o BEREC não o pode ignorar. A mensagem é clara: Esperamos que corrija as deficiências nas disposições relacionadas com o [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [serviços especializados](https://edri.org/specialised-services-make-break-issue-open-internet/) , e [gestão de tráfego](https://edri.org/traffic-management-where-risks-online-discrimination/) nas directrizes finais.vJuntos, mostramos aos reguladores que o público europeu não vai deixar o futuro do seu espaço público digital nas mãos de lobistas corporativos, mas quer decidir por si mesmo. 
 
-**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+**A SaveTheInternet.eu quer agradecer a todos quantos participaram neste esforço notável para proteger a Internet livre e aberta! Mostrar aos reguladores que queremos ser nós a decidir - e não deixar que sejam as empresas a fazê-lo - como será o futuro do nosso espaço público digital! Obrigado!**
 {{ END MODAL }}
 
 {{ BEGIN HOME INTRO }}
