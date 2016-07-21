@@ -1,6 +1,8 @@
 {{ BEGIN MODAL }}
 ### Mais de 500,000 pessoas enviaram um mensagem forte: *Queremos uma Internet livre e aberta!*
 {{ BEGIN MODAL-SPLIT }}
+![Final number](/images/final-number.png)
+
 Manter a Internet livre e aberta é, sem dúvida, importante: no final da consulta pública sobre as directrizes para a implementação das [regras europeias de neutralidade da rede](https://edri.org/time-to-save-the-internet/), foram enviadas mais de meio milhão de mensagens seguindo a nossa campanha!
  
 Enviamos os vossos comentários para o Organismo de Reguladores Europeus das Comunicações Electrónicas (BEREC).O BEREC vai agora [finalizar as directrizes](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) e publicará a sua versão final a 30 de Agosto de 2016.

@@ -1,6 +1,8 @@
 {{ BEGIN MODAL }}
 ### Over 500,000 people sent a strong message: *We want a free and open internet!*
 {{ BEGIN MODAL-SPLIT }}
+![Final number](/images/final-number.png)
+
 Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
  
 We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.

@@ -181,11 +181,6 @@ def transform(site_config, locale, html)
       end
     when 'ANCHOR'
       html.sub! block_pattern, "\n{::nomarkdown}\n<span id=\"#{id_part}\"></span>\n{:/}\n"
-    when 'IMG'
-      case id_part
-      when 'roadmap'
-        html.sub! block_pattern, "\n{::nomarkdown}\n<img src=\"./images/net_neutrality_roadmap.svg\" alt=\"Roadmap\">\n{:/}\n"
-      end
     when 'LOGOS'
       case id_part
       when 'made-by'
