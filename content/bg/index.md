@@ -1,13 +1,14 @@
 {{ BEGIN MODAL }}
-### Over 500,000 people sent a strong message: *We want a free and open internet!*
+### Над 500,000 човека изпратиха ясно съобщение: *Ние искаме свободен и отворен интернет!*
 {{ BEGIN MODAL-SPLIT }}
-Keeping the internet free and open undoubtedly matters: by the end of the public consultation on the guidelines for the implementation of the [European net neutrality rules](https://edri.org/time-to-save-the-internet/), over half a million comments were sent following our campaign!
- 
-We sent your comments to the Body of European Regulators of Electronic Communications (BEREC). BEREC will now [finalise the guidelines](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) and publish their final version on 30 August 2016.
- 
-The support for a free and open internet is so huge that BEREC cannot ignore it. The message is clear: This will hopefully fix the weaknesses in the provisions on [zero rating](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [specialised services](https://edri.org/specialised-services-make-break-issue-open-internet/) , and [traffic management](https://edri.org/traffic-management-where-risks-online-discrimination/) in the final guidelines. Together, we've shown the regulators that the European public will not leave the future of its digital public space to corporate lobbyists, but wants to decide for itself. 
+Запазването на интернет свободен и отворен определено е от значение. Към края на публичните дискусии относно принципа, по който ще се приложат [Европейските правила за мрежова неутралност](https://edri.org/time-to-save-the-internet/), повече от половин милион коментара бяха изпратени в следствие на кампанията!
 
-**SaveTheInternet.eu wants to thank everyone who participated in this outstanding effort to protect the free, open internet!  show the regulators that we want to decide ourselves – and not let companies do it – how our digital public space will look like in the future! Thank you!**
+Ние изпратихме вашите коментари до Органът на Европейските Регулатори в областта на Електронните Съобщения (ОЕРЕС). ОЕРЕС ще [оформи правилата](https://edri.org/net-neutrality-european-parliament-decided-not-to-decide/) и ще публикува окончателната им версия на 30 Август 2016.
+
+Подкрепата за свободен и открит интернет беше толкова силна, че ОЕРЕС не би могъл да я игнорира. Съобщението е ясно и се надяваме това да отстрани слабостите в текстовете за [нулева тарифа](https://edri.org/zero-rating-why-dangerous-for-our-rights-freedoms), [специализирани услуги](https://edri.org/specialised-services-make-break-issue-open-internet/) и [управление на трафика](https://edri.org/traffic-management-where-risks-online-discrimination/) в окончателната им версия. Обединени, ние показахме на законодателите, че европейското общество няма да остави бъдещето на публичното дигиталното пространство в ръцете на корпоративни лобисти, напротив ще реши само за себе си.
+
+**SaveTheInternet.eu желае да благодари на всички, които взеха участие в това изключително начинание за защита на свободният и отворен интернет! Ние показахме на законодателите, че бъдещето на публичното дигиталното пространство трябва да бъде определено от нас а не от компаниите! Благодарим ви!**
+
 {{ END MODAL }}
 
 {{ BEGIN HOME INTRO }}
@@ -131,11 +132,11 @@ __Заповядай да се свържеш с нас на адрес [info@sa
 
 ### Политика по защита на личните данни
 
-We store your comments to the BEREC consultation in the inbox of an e-mail address hosted in Austria until we forward these e-mails with your comments to the official BEREC consultation. You can find the Privacy Policy of BEREC for consultations [here](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten Österreich and Bits of Freedom have access to, process and will retain the comments and e-mail addresses sent to BEREC through this website for technical purposes. BEREC will publish all responses that are not marked as confidential. The organisations behind this campaign are listed on the bottom of this website. One month after the official consultation period has ended we will delete all comments and email addresses associated with those comments.
+Ние пазим вашите коментари свързани с ОЕРЕС дискусията в електронна поща намираща се на сървър в Австрия, до момента в които вашите коментари не бъдат препратени до представителите на ОЕРЕС. Повече информация за Защита на личните данни от страна на ОЕРЕС можете да намерите [тук](http://berec.europa.eu/eng/document_register/subject_matter/berec_office/download/0/4615-privacy-statement-berec-office-policy-do_0.pdf). Arbeitskreis Vorratsdaten, Австрия и Bits of Freedom имат достъп и ще задържат по технически причини коментарите и email адресите изпратени до ОЕРЕС през този уебсайт. ОЕРЕС ще публикува всички отговори, които не са обозначени като поверителни. Организациите зад тази кампания са изброени на дъното на сайта. Месец след края на официалният период за дискусия, всички коментари и email адреси свързани с тях ще бъдат изтрити.
 
-We collect non-personal information on this website with [Piwik](https://piwik.org/), a privacy friendly web analytics software.
+На този сайт се събира информация която не е лична посредствум [Piwik](https://piwik.org/), софтуер за уеб статистика незасягащ личните данни на потребителите.
 
-If you [subscribe to the newsletter](#subscribe-to-newsletter){: data-scroll="true"} your email address will be stored in a mailing list and database which is administrated and hosted by European Digital Rights. They are the only organisation which has the right to send you messages if you sign up to the newsletter. You can unsubscribe from that newsletter at any time and will receive no further messages.
+Ако се [запишете за нашите информационни бюлетини](#subscribe-to-newsletter){: data-scroll="true"}, вашият email адрес ще се съхранява в списък с други email адреси в база данни администрирана и поддържана от European Digital Rights. Те са единствената организация имаща право да се свърже с вас ако сте избрали да получавате бюлетини. Може да се отпишете по всяко време от тази услуга и няма да получавате съобщение за вбъдеще.
 {{ END HOME CONTACT-US }}
 
 {{ BEGIN HOME SUPPORTED-BY }}
