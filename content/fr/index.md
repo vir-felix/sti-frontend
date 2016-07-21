@@ -101,7 +101,7 @@ En juin 2016, l'ORECE a publié un premier jet des lignes directrices et a lanc�
 
 {{ BEGIN HOME BEREC-3 }}
 ## Planning de la consultation européenne sur la neutralité du Net
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

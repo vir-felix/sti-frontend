@@ -101,7 +101,7 @@ comments sent via savetheinternet.eu, [Avaaz](https://secure.avaaz.org/en/save_t
 
 {{ BEGIN HOME BEREC-3 }}
 ## Χάρτης ουδετερότητας των δικτύων της ΕΕ
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

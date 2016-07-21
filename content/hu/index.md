@@ -101,7 +101,7 @@ A BEREC a tervek szerint 2016 júniusában hozza nyilvánosságra az iránymutat
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU Hálózatsemlegességi Útiterv
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

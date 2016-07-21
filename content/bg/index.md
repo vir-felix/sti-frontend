@@ -101,7 +101,7 @@
 
 {{ BEGIN HOME BEREC-3 }}
 ## Пътна карта на мрежовата неутралност в ЕС
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

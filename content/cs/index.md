@@ -100,7 +100,7 @@ Na červen 2016 naplánoval Evropský regulační úřad zveřejnění návrhu p
 
 {{ BEGIN HOME BEREC-3 }}
 ## Plán pro síťovou neutralitu EU
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

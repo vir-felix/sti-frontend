@@ -102,7 +102,7 @@ BEREC planuje opublikować wstępną wersję swoich wytycznych i rozpocząć kon
 
 {{ BEGIN HOME BEREC-3 }}
 ## Harmonogram postępowania w sprawie neutralności sieci w UE
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

@@ -100,7 +100,7 @@ Europos elektroninių ryšių reguliuotojų institucijos (BEREC) komisija prival
 
 {{ BEGIN HOME BEREC-3 }}
 ## ES tinklo neutralumo tvarkaraštis
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

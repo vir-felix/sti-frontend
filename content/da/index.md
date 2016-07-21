@@ -100,7 +100,7 @@ BEREC planlægger at offentliggøre sit udkast til retningslinjer og gennemføre
 
 {{ BEGIN HOME BEREC-3 }}
 ## Køreplanen for netneutralitet i EU
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

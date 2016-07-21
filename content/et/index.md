@@ -101,7 +101,7 @@ Juunis 2016 kavatseb BEREC avaldada oma suuniste kavandi ja algatada avaliku aru
 
 {{ BEGIN HOME BEREC-3 }}
 ## ELi võrguneutraalsuse tegevuskava
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

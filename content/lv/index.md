@@ -101,7 +101,7 @@ Eiropas Elektronisko sakaru regulatoru apvienībai jeb BEREC līdz 2016. g. augu
 
 {{ BEGIN HOME BEREC-3 }}
 ## ES tīkla neitralitātes realizēšanas plāns
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

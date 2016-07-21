@@ -101,7 +101,7 @@ BEREC on [6. kesäkuuta 2016 esittänyt luonnoksensa uudesta direktiivistä](htt
 
 {{ BEGIN HOME BEREC-3 }}
 ## EU-verkkoneutraliteetin aikataulu
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

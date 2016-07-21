@@ -100,7 +100,7 @@ Comitetul autorităților de reglementare a comunicațiilor electronice din Euro
 
 {{ BEGIN HOME BEREC-3 }}
 ## Harta Neutralității Internetului în UE
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

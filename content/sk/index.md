@@ -101,7 +101,7 @@ V júni 2016 plánuje BEREC zverejniť svoje návrhy usmernení a spustí verejn
 
 {{ BEGIN HOME BEREC-3 }}
 ## Plán neutrality siete EÚ
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

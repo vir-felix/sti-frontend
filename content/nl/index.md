@@ -100,7 +100,7 @@ BEREC is van plan om in juni 2016 zijn ontwerprichtsnoeren te publiceren en een 
 
 {{ BEGIN HOME BEREC-3 }}
 ## Routekaart voor netneutraliteit in de EU
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}

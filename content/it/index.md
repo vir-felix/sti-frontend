@@ -100,7 +100,7 @@ Nel mese di giugno 2016, il BEREC pubblicherà la bozza delle linee-guida e lanc
 
 {{ BEGIN HOME BEREC-3 }}
 ## Roadmap europea sulla neutralità della rete
-{{ IMG ROADMAP }}
+![Roadmap](./images/net_neutrality_roadmap.svg)
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
